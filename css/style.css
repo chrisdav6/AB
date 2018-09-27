@@ -1,7 +1,31 @@
 html, body {
   min-height: 100vh;
+  box-sizing: border-box;
+}
+
+footer {
+  background: #222222;
 }
 
 footer ul li {
-  padding: .25em 0;
+  padding: .75em 0;
+  border-bottom: 1px solid #111;
+}
+
+footer ul li:last-child {
+  border-bottom: none;
+}
+
+footer ul li a {
+  color: #ccc;
+  padding: .75em 1em .75em 0;
+}
+
+footer ul li a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+#copyright {
+  background: #111111;
 }
