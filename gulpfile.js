@@ -14,6 +14,7 @@ gulp.task("sass", function () {
 gulp.task("js", function () {
   return gulp.src([
     "node_modules/bootstrap/dist/js/bootstrap.bundle.min.js",
+    "node_modules/bootstrap/js/dist/util.js",
     "node_modules/jquery/dist/jquery.min.js"])
     .pipe(gulp.dest("public/js"))
     .pipe(browserSync.stream());
