@@ -2,3 +2,17 @@ html, body {
   min-height: 100vh;
   box-sizing: border-box;
 }
+
+a.social-head {
+  color: $dark-gray;
+  transition: .3s;
+}
+
+a.social {
+  color: $light-gray;
+  transition: .3s;
+}
+
+a.facebook:hover {
+  color: #3b5998;
+}
