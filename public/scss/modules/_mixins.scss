@@ -10,6 +10,12 @@
   }
 }
 
+@mixin mq900($width: 991.98px) {
+  @media(max-width: $width) {
+    @content;
+  }
+}
+
 @mixin mq1200($width: 1200px) {
   @media(max-width: $width) {
     @content;
