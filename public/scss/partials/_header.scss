@@ -1,9 +1,13 @@
 .navbar {
   background-color: $orange;
-  font-weight: 400;
+  font-family: "Lato";
 }
 
-.navbar-light .navbar-nav .nav-link {
+.navbar-light .navbar-nav .nav-link, .navbar-brand {
+  color: #343A40;
+  font-weight: 900;
+  transition: .3s;
+
   &:hover {
     color: $logo-blue;
   }
@@ -19,14 +23,15 @@
 }
 
 .dropdown-item:first-child {
-    border-top: 4px solid $logo-blue; /*add blue border to the top of first dropdown item*/
+  border-top: 4px solid $logo-blue; /*add blue border to the top of first dropdown item*/
 }
 
 .dropdown-item {
   font-size: 1.1rem;
-  font-weight: 400;
+  font-weight: 600;
   padding-top: 1em;
   padding-bottom: 1em;
+  transition: .3s;
   
   &:hover {
     background: lighten($logo-blue, 20%);
