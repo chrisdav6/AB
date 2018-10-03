@@ -2,18 +2,38 @@
   font-family: "Lato";
   background: #e8eaed;
 
+  a {
+    text-decoration: none; 
+  }
+
   .card {
     -webkit-box-shadow: 9px 9px 24px -12px rgba(0,0,0,0.75);
     -moz-box-shadow: 9px 9px 24px -12px rgba(0,0,0,0.75);
-    box-shadow: 9px 9px 24px -12px rgba(0,0,0,0.75); 
+    box-shadow: 9px 9px 24px -12px rgba(0,0,0,0.75);
+    position: relative;
+    top: 0;
+    transition: .3s;
+
+    &:hover {
+      top: -10px;
+      background: lighten($color: $logo-blue, $amount: 40%);
+    }
   }
 
   h3 {
     padding: .5em 1em;
-    margin: .5em 0 1em 0;
+    margin: .5em 0;
     background: $logo-blue;
     color: #e8eaed;
     font-weight: 900;
+
+    @include mq1200 {
+      font-size: 1.25rem;
+    }
+  }
+
+  h4 {
+    font-size: 1.35rem;
   }
 
   p {
