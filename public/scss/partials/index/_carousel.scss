@@ -9,21 +9,37 @@
   width: 37%;
   font-family: "Lato";
 
+  @include mq600 {
+      padding: 10px 0;
+  }
+
   h2 {
     font-size: 3rem;
     color: $logo-blue;
     font-weight: 900;
     line-height: 1;
+
+    @include mq600 {
+      font-size: 1.5rem;
+    }
   }
 
   hr {
     margin: .5em 0;
+
+    @include mq600 {
+      margin: .25em 0;
+    }
   }
 
   h3 {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
     font-weight: 700;
     line-height: 1;
+
+    @include mq600 {
+      font-size: .7rem;
+    }
   }
 
   p {
@@ -33,7 +49,13 @@
     margin-top: 1em;
 
     @include mq900 {
-      font-size: .8rem;
+      font-size: .75rem;
+    }
+  }
+
+  .btn {
+    @include mq600 {
+      font-size: .6rem;
     }
   }
 }
