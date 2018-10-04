@@ -1,0 +1,15 @@
+#applicationHeading {
+  h1 {
+    padding: .5em 1em;
+    background: $orange;
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
+#applicationContent {
+  ul {
+    font-size: 1.25rem;
+    font-weight: 300;
+  }
+}
