@@ -1,0 +1,8 @@
+#productCarousel {
+  .shopBtn {
+    @include mq600 {
+      display: block;
+      width: 100%;
+    }
+  }
+}

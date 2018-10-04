@@ -1,82 +1,84 @@
-.carousel-inner {
-  max-height: 400px;
-}
+#carousel {
 
-.carousel-caption {
-  left: 58%;
-  top: 1%;
-  text-align: left;
-  width: 37%;
-  font-family: "Lato";
-
-  @include mq600 {
-      padding: 10px 0;
+  .carousel-inner {
+    max-height: 400px;
   }
 
-  h2 {
-    font-size: 3rem;
-    color: $logo-blue;
-    font-weight: 900;
-    line-height: 1;
+  .carousel-caption {
+    left: 58%;
+    top: 1%;
+    text-align: left;
+    width: 37%;
 
     @include mq600 {
-      font-size: 1.5rem;
+        padding: 10px 0;
+    }
+
+    h2 {
+      font-size: 3rem;
+      color: $logo-blue;
+      font-weight: 900;
+      line-height: 1;
+
+      @include mq600 {
+        font-size: 1.5rem;
+      }
+    }
+
+    hr {
+      margin: .5em 0;
+
+      @include mq600 {
+        margin: .25em 0;
+      }
+    }
+
+    h3 {
+      font-size: 1.2rem;
+      font-weight: 700;
+      line-height: 1;
+
+      @include mq600 {
+        font-size: .7rem;
+      }
+    }
+
+    p {
+      font-size: 1.1rem;
+      font-weight: 300;
+      line-height: 1.3;
+      margin-top: 1em;
+
+      @include mq900 {
+        font-size: .75rem;
+      }
+    }
+
+    .btn {
+      @include mq600 {
+        font-size: .6rem;
+      }
     }
   }
 
-  hr {
-    margin: .5em 0;
-
-    @include mq600 {
-      margin: .25em 0;
-    }
+  .carousel-indicators li {
+    background-color: #999;
+    background-color: rgba(70,70,70,.25);
   }
 
-  h3 {
-    font-size: 1.2rem;
-    font-weight: 700;
-    line-height: 1;
-
-    @include mq600 {
-      font-size: .7rem;
-    }
+  .carousel-indicators .active {
+    background-color: #444;
   }
 
-  p {
-    font-size: 1.1rem;
-    font-weight: 300;
-    line-height: 1.3;
-    margin-top: 1em;
-
-    @include mq900 {
-      font-size: .75rem;
-    }
+  .carousel-control-prev, .carousel-control-next {
+    width: 5%;
   }
 
-  .btn {
-    @include mq600 {
-      font-size: .6rem;
-    }
+  .carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
   }
-}
 
-.carousel-indicators li {
-  background-color: #999;
-  background-color: rgba(70,70,70,.25);
-}
-
-.carousel-indicators .active {
-  background-color: #444;
-}
-
-.carousel-control-prev, .carousel-control-next {
-  width: 5%;
-}
-
-.carousel-control-prev-icon {
- background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
-}
-
-.carousel-control-next-icon {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+  .carousel-control-next-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+  }
 }

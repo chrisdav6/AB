@@ -1,8 +1,13 @@
 $(() => {
 
   //Carousel settings
-  $('.carousel').carousel({
-    interval: 10000
+  $('#carousel .carousel').carousel({
+    interval: 20000
+  });
+
+  //Product Carousel Settings
+  $('#productCarousel .carousel').carousel({
+    interval: 20000
   });
 
 });
