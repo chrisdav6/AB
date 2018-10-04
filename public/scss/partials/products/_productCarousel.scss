@@ -3,6 +3,9 @@
     @include mq600 {
       display: block;
       width: 100%;
+      padding: 1em 0;
+      font-size: 1.25rem;
+      margin-top: 2em;
     }
   }
 }
