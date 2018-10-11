@@ -7,6 +7,18 @@
   h5 {
     font-size: 1.5rem;
   }
+
+  .nav-link {
+    padding: .75em 1.75em;
+    font-size: 1.25rem;
+    font-weight: 400;
+  }
+
+  @include mq600 {
+    .nav-link {
+      padding: .4em .6em;
+    }
+  }
 }
 
 .youtubeEmbed { /* continer (responsive) */
