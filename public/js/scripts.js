@@ -19,6 +19,23 @@ $(() => {
     speed: 1000,
   });
 
+  //Scroll to top button animation
+  var offsetTop = $(window).height();
+
+  $(window).scroll(function () {
+    if ($("html").scrollTop() > offsetTop && $(document).width() > 700) {
+      $("#scrollBtn").fadeIn();
+    } else {
+      $("#scrollBtn").fadeOut();
+    }
+  });
+
+  $("#scrollBtn").on("click", function () {
+    $('html').animate({
+      scrollTop: 0
+    }, 500);
+  });
+
   //Load Youtube Videos on Click
   $(".youtubeEmbed").each(function () {
     // Set the BG image from the youtube ID
