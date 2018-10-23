@@ -1,9 +1,10 @@
 $(() => {
 
   //Carousel settings
-  $('#carousel .carousel').carousel({
-    interval: 20000
-  });
+  // $('#carousel .carousel').carousel({
+  //   interval: 3000
+  // });
+  $('#carousel .carousel').carousel("pause");
 
   //Product Carousel Settings
   $('#productCarousel .carousel').carousel({
