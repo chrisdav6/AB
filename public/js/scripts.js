@@ -14,6 +14,11 @@ $(() => {
   //Enable Bootstrap tooltips
   $('[data-toggle="tooltip"]').tooltip();
 
+  //Enable Smooth Scroll
+  const scroll = new SmoothScroll('a[href*="#"]', {
+    speed: 1000,
+  });
+
   //Load Youtube Videos on Click
   $(".youtubeEmbed").each(function () {
     // Set the BG image from the youtube ID
