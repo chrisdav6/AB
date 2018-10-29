@@ -26,24 +26,8 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
   <body class="d-flex flex-column">
 
-    <?php include_once "includes/navbar.php"?>
-
-    <section id="logo" class="py-5 mt-4 mt-md-0 border-bottom">
-      <div class="container">
-        <div class="row d-flex align-items-center">
-          <div class="col-lg-3 col-md-4 text-center text-md-left">
-            <a href="index.html">
-              <img src="public/img/abLogo.png" class="img-fluid" alt="Applied Biophysics Logo">
-            </a>
-          </div>
-          <div class="col-lg-9 col-md-8 text-right d-none d-md-block">
-            <h3>LET'S TALK APPLICATIONS</h3>
-            <h4><a href="tel:866-301-3247"><i class="fas fa-phone-square fa-flip-horizontal"></i> 866-301-ECIS (3247)</a></h4>
-            <p class="mb-0">Hours 8am-5pm EST</p>
-          </div>
-        </div>
-      </div>
-    </section> <!-- /logo -->
+    <?php include_once "includes/navbar.php"; ?>
+    <?php include_once "includes/logo.php"; ?>
 
     <section id="applicationHeading" class="pt-5 text-center text-md-left">
       <div class="container">
@@ -135,7 +119,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div>
     </section><!-- /applicationContent -->
 
-    <?php include_once "includes/footer.php"?>
+    <?php include_once "includes/footer.php"; ?>
 
     <!-- Scroll to top -->
     <button class="btn btn-outline-dark" id="scrollBtn"><i class="fas fa-angle-up fa-2x"></i></button>
