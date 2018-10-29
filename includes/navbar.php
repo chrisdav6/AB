@@ -13,25 +13,27 @@
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">About Us</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Management and Team</a>
-              <a class="dropdown-item" href="#">Distributors</a>
-              <a class="dropdown-item" href="#">Testimonials</a>
+              <a class="dropdown-item" href="#">Mission</a>
+              <a class="dropdown-item" href="#">Who We Are</a>
+              <a class="dropdown-item" href="#">Advisory Board</a>
             </div>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Applications</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Automated Cell Migration</a>
-              <a class="dropdown-item" href="#">Barrier Function</a>
+              <a class="dropdown-item" href="#">Cell Migration</a>
+              <a class="dropdown-item" href="#">TEER/Barrier Function</a>
+              <a class="dropdown-item" href="#">Cell Proliferation</a>
               <a class="dropdown-item" href="#">Signal Transduction</a>
+              <a class="dropdown-item" href="#">Cell Differentiation</a>
+              <a class="dropdown-item" href="#">Cell Invasion</a>
             </div>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">What is ECIS?</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Applications</a>
-              <a class="dropdown-item" href="#">Cells Measured with ECIS</a>
+              <a class="dropdown-item" href="#">Intro to ECIS</a>
               <a class="dropdown-item" href="#">ECIS School</a>
               <a class="dropdown-item" href="#">Publications</a>
               <a class="dropdown-item" href="#">Community</a>
@@ -45,18 +47,18 @@
               <a class="dropdown-item" href="#">Cultureware</a>
               <a class="dropdown-item" href="#">Cell Arrays</a>
               <a class="dropdown-item" href="#">Accessories</a>
+              <a class="dropdown-item" href="#">Application Comparison</a>
+              <a class="dropdown-item" href="#">International Distributors</a>
             </div>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">Support</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">News</a>
+              <a class="dropdown-item" href="#">Manuals</a>
+              <a class="dropdown-item" href="#">Software</a>
               <a class="dropdown-item" href="#">Webinars</a>
-              <a class="dropdown-item" href="#">Press Releases</a>
               <a class="dropdown-item" href="#">Tradeshows</a>
-              <a class="dropdown-item" href="#">Grants</a>
-              <a class="dropdown-item" href="#">Meetings</a>
             </div>
           </li>
           <li class="nav-item">
