@@ -53,14 +53,6 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <hr class="mt-0 mb-3">
           </div>
       </div>
-      <div class="row">
-        <div class="col d-flex justify-content-center justify-content-md-end">
-          <div>
-            <a href="#" class="btn btn-outline-dark mt-2 mt-md-0" role="button">ECIS Intro Webinar</a>
-            <a href="#" class="btn btn-outline-dark mt-2 mt-md-0" role="button">ECIS Theory Webinar</a>
-          </div>
-        </div>
-      </div>
     </section><!-- /applicationsHeading -->
 
     <section id="applicationContent" class="py-5 text-center text-md-left">
