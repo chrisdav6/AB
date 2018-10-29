@@ -92,7 +92,7 @@
       </div>
     </section> <!-- /carousel -->
 
-    <section id="events" class="py-5">
+    <section id="events" class="py-5 border-top">
       <div class="container">
         <div class="row">
 
