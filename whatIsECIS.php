@@ -34,12 +34,12 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         <div class="row">
           <div class="col">
             <h1 class="display-5 mb-0">The ECIS Method</h1>
-            <hr class="mt-0 mb-3">
+            <hr class="mt-0">
           </div>
       </div>
     </section><!-- /applicationsHeading -->
 
-    <section id="applicationContent" class="py-5 text-center text-md-left">
+    <section id="applicationContent" class="py-4 text-center text-md-left">
       <div class="container">
 
         <div class="row">
