@@ -29,7 +29,28 @@
     <?php include_once "includes/navbar.php"; ?>
     <?php include_once "includes/logo.php"; ?>
 
-    <section id="carousel" class="py-5">
+    <section id="hero" class="d-flex">
+      <div class="container my-auto">
+        <div class="row">
+          <div class="col pt-5">
+            <h3 class="text-light text-center text-md-left">
+              Quantifying cell behavior ECIS<sup>®</sup> characterizes the life cycle of the cell: attachment and spreading of cells, growth into a confluent monolayer, the dynamics of the monolayer, reactions to stimuli, and finally cell death.
+            </h3>
+          </div>
+        </div>
+        <div class="row pt-4 pb-5">
+          <div class="col d-flex flex-wrap justify-content-between">
+            <a class="application-link mb-2" href="#">Cell Migration</a>
+            <a class="application-link mb-2" href="teerBarrierFunction.php">TEER/Barrier Function</a>
+            <a class="application-link mb-2" href="#">Cell Proliferation</a>
+            <a class="application-link mb-2" href="#">Signal Transduction</a>
+            <a class="application-link mb-2" href="#">Cell Differentiation</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- <section id="carousel" class="py-5">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 mx-auto">
@@ -77,20 +98,13 @@
                 </div>
 
               </div>
-              <!-- <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
-              </a>
-              <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-                <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
-              </a> -->
             </div>
 
           </div>
         </div>
       </div>
-    </section> <!-- /carousel -->
+    </section>  -->
+    <!-- /carousel -->
 
     <section id="events" class="py-5 border-top">
       <div class="container">

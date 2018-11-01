@@ -1,0 +1,33 @@
+#hero {
+  height: auto;
+  min-height: 50vh;
+  background: url(../img/hero_bg.jpg) no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+
+  h3 {
+    font-weight: 300;
+    padding: 1em;
+    background: rgba(0,0,0, .85);
+  }
+
+  .application-link {
+    color: white;
+    background: rgba(0,0,0, .85);
+    padding: 1em;
+    font-size: 1.3rem;
+    font-weight: 300;
+    transition: .3s;
+
+    &:hover {
+      text-decoration: none;
+      background: rgba(0,0,0, .95);
+    }
+
+    @include mq600 {
+      display: block;
+      width: 100%;
+    }
+  }
+}
