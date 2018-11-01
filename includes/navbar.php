@@ -22,7 +22,7 @@
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Applications</a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="#">Cell Migration</a>
-              <a class="dropdown-item" href="#">TEER/Barrier Function</a>
+              <a class="dropdown-item" href="teerBarrierFunction.php">TEER/Barrier Function</a>
               <a class="dropdown-item" href="#">Cell Proliferation</a>
               <a class="dropdown-item" href="#">Signal Transduction</a>
               <a class="dropdown-item" href="#">Cell Differentiation</a>
@@ -33,7 +33,7 @@
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">What is ECIS?</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Intro to ECIS</a>
+              <a class="dropdown-item" href="whatIsECIS.php">Intro to ECIS</a>
               <a class="dropdown-item" href="#">ECIS School</a>
               <a class="dropdown-item" href="#">Publications</a>
               <a class="dropdown-item" href="#">Community</a>

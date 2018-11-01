@@ -1,0 +1,16 @@
+#applicationContent {
+  .secondary-title {
+    padding: .5em;
+    background: $logo-blue;
+    display: inline-block;
+    color: white;
+  }
+
+  .indent {
+    border-left: 1px solid #d8d8d8;
+
+    @include mq600 {
+      border-left: none;
+    }
+  }
+}
