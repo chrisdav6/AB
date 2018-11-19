@@ -11,58 +11,64 @@
         <ul class="navbar-nav">
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">About Us</a>
+              aria-haspopup="true" aria-expanded="false">Products</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Mission</a>
-              <a class="dropdown-item" href="#">Who We Are</a>
-              <a class="dropdown-item" href="#">Advisory Board</a>
+              <a class="dropdown-item" href="#">Instruments</a>
+              <a class="dropdown-item" href="#">Cultureware</a>
+              <a class="dropdown-item" href="#">Options</a>
             </div>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Applications</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Cell Migration</a>
               <a class="dropdown-item" href="teerBarrierFunction.php">TEER/Barrier Function</a>
               <a class="dropdown-item" href="#">Cell Proliferation</a>
+              <a class="dropdown-item" href="#">Cell Migration</a>
               <a class="dropdown-item" href="#">Signal Transduction</a>
-              <a class="dropdown-item" href="#">Cell Differentiation</a>
-              <a class="dropdown-item" href="#">Cell Invasion</a>
-            </div>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">What is ECIS?</a>
-            <div class="dropdown-menu">
-              <a class="dropdown-item" href="whatIsECIS.php">Intro to ECIS</a>
-              <a class="dropdown-item" href="#">ECIS School</a>
               <a class="dropdown-item" href="#">Publications</a>
-              <a class="dropdown-item" href="#">Community</a>
             </div>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
-              aria-haspopup="true" aria-expanded="false">Products</a>
+              aria-haspopup="true" aria-expanded="false">Technology</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Instruments</a>
-              <a class="dropdown-item" href="#">Cultureware</a>
-              <a class="dropdown-item" href="#">Cell Arrays</a>
-              <a class="dropdown-item" href="#">Accessories</a>
-              <a class="dropdown-item" href="#">Application Comparison</a>
-              <a class="dropdown-item" href="#">International Distributors</a>
+              <a class="dropdown-item" href="whatIsECIS.php">What is ECIS</a>
+              <a class="dropdown-item" href="#">Cells Measured with ECIS</a>
+              <a class="dropdown-item" href="#">FAQ's</a>
+              <a class="dropdown-item" href="#">Glossary</a>
             </div>
           </li>
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">Support</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="#">Manuals</a>
-              <a class="dropdown-item" href="#">Software</a>
               <a class="dropdown-item" href="#">Webinars</a>
-              <a class="dropdown-item" href="#">Tradeshows</a>
+              <a class="dropdown-item" href="#">ECIS School</a>
+              <a class="dropdown-item" href="#">Trade Shows</a>
+              <a class="dropdown-item" href="#">Tech Support - Docs/Videos</a>
+              <a class="dropdown-item" href="#">Software</a>
+              <a class="dropdown-item" href="#">IBCA Meeting</a>
             </div>
           </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">Company</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#">About ABP</a>
+              <a class="dropdown-item" href="#">ECIS Users</a>
+              <a class="dropdown-item" href="#">ECIS Referral Program</a>
+              <a class="dropdown-item" href="#">Early Career Grants</a>
+              <a class="dropdown-item" href="#">Partners Companies</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
+              aria-haspopup="true" aria-expanded="false">Contact</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="#">Company Address Form</a>
+              <a class="dropdown-item" href="#">Request A Demo System</a>
+              <a class="dropdown-item" href="#">International Distributors</a>
+            </div>
           </li>
         </ul>
         <ul class="navbar-nav ml-auto">
