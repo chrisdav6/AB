@@ -33,18 +33,17 @@
       <div class="container my-auto">
         <div class="row">
           <div class="col pt-5">
-            <h3 class="text-light text-center text-md-left">
-              Quantifying cell behavior ECIS<sup>®</sup> characterizes the life cycle of the cell: attachment and spreading of cells, growth into a confluent monolayer, the dynamics of the monolayer, reactions to stimuli, and finally cell death.
+            <h3 class="text-light text-center hero-text">
+              ECIS, the label free, non-invasive method to electronically monitor cells grown in tissue culture.
             </h3>
           </div>
         </div>
         <div class="row pt-4 pb-5">
-          <div class="col d-flex flex-wrap justify-content-between">
-            <a class="application-link mb-2" href="#">Cell Migration</a>
-            <a class="application-link mb-2" href="teerBarrierFunction.php">TEER/Barrier Function</a>
-            <a class="application-link mb-2" href="#">Cell Proliferation</a>
-            <a class="application-link mb-2" href="#">Signal Transduction</a>
-            <a class="application-link mb-2" href="#">Cell Differentiation</a>
+          <div class="col d-flex flex-wrap text-center">
+            <a class="application-link mb-2 flex-fill" href="teerBarrierFunction.php">TEER/Barrier Function</a>
+            <a class="application-link mb-2 flex-fill" href="#">Cell Proliferation</a>
+            <a class="application-link mb-2 flex-fill" href="#">Cell Migration</a>
+            <a class="application-link mb-2 flex-fill" href="#">Signal Transduction</a>
           </div>
         </div>
       </div>

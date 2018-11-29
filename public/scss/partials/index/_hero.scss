@@ -6,23 +6,31 @@
   background-attachment: fixed;
   position: relative;
 
-  h3 {
-    font-weight: 300;
+  .hero-text {
+    font-size: 2.5rem;
+    font-weight: 400;
     padding: 1em;
-    background: rgba(0,0,0, .85);
+    background: rgba(0,0,0, .75);
+
+    @include mq600 {
+      font-size: 1.75rem;
+    }
   }
 
   .application-link {
     color: white;
-    background: rgba(0,0,0, .85);
+    background: rgba(0,0,0, .75);
     padding: 1em;
     font-size: 1.3rem;
-    font-weight: 300;
+    font-weight: 400;
     transition: .3s;
+    margin-right: 5px;
+    margin-left: 5px;
 
     &:hover {
       text-decoration: none;
-      background: rgba(0,0,0, .95);
+      background: $orange;
+      color: black;
     }
 
     @include mq600 {
