@@ -26,11 +26,17 @@
     transition: .3s;
     margin-right: 5px;
     margin-left: 5px;
+    position: relative;
+    top: 0;
 
     &:hover {
       text-decoration: none;
       background: $orange;
       color: black;
+      top: -3px;
+      -webkit-box-shadow: 9px 15px 24px -12px rgba(0,0,0,0.75);
+      -moz-box-shadow: 9px 15px 24px -12px rgba(0,0,0,0.75);
+      box-shadow: 9px 15px 24px -12px rgba(0,0,0,0.75);
     }
 
     @include mq600 {
