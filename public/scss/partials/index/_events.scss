@@ -14,7 +14,7 @@
     transition: .3s;
 
     &:hover {
-      top: -10px;
+      top: -3px;
       background: lighten($color: $logo-blue, $amount: 40%);
     }
   }
