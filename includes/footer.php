@@ -5,8 +5,8 @@
       <div class="col-md-3">
         <ul class="list-unstyled">
           <li><a href="/">Home</a></li>
-          <li><a href="#">About Us</a></li>
-          <li><a href="#">FAQ's</a></li>
+          <li><a href="aboutABP.php">About Us</a></li>
+          <li><a href="faqs.php">FAQ's</a></li>
           <li><a href="#">How to Order</a></li>
         </ul>
       </div>
@@ -16,22 +16,22 @@
           <li><a href="#">ZTheta</a></li>
           <li><a href="teer24.php">TEER24</a></li>
           <li><a href="#">Assays</a></li>
-          <li><a href="#">Cultureware</a></li>
+          <li><a href="cultureware.php">Cultureware</a></li>
         </ul>
       </div>
 
       <div class="col-md-3">
         <ul class="list-unstyled">
           <li><a href="whatIsECIS.php">What is ECIS?</a></li>
-          <li><a href="#">ECIS School</a></li>
+          <li><a href="ecisSchool.php">ECIS School</a></li>
           <li><a href="#">Applications</a></li>
-          <li><a href="#">Publications</a></li>
+          <li><a href="publications.php">Publications</a></li>
         </ul>
       </div>
 
       <div class="col-md-3">
         <ul class="list-unstyled">
-          <li><a href="#">Contact Us</a></li>
+          <li><a href="contactABP.php">Contact Us</a></li>
           <li><a href="#">Schedule a Demo</a></li>
           <li><a href="#">Ask a Scientist</a></li>
           <li><a href="#">Support</a></li>
