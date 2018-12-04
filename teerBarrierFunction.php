@@ -51,7 +51,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               Example Publication: <a href="#" class="text-muted"> Kim et al., (2015) "Critical Role of Sphingosine-1-Phosphate Receptor-2 in the Disruption of Cerebrovascular Integrity in Experimental Stroke." Nature Communications 6:7893 doi:10.1038/ncomms8893</a> 
             </p>
           </div>
-        </div>
+        </div><!-- /row -->
 
         <div class="row mt-5">
           <div class="col">
@@ -90,10 +90,26 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <p class="lead">
               As a result of this difference, high frequency impedance can be used to monitor the establishment of a confluent layer, and low frequency impedance can be used to monitor the solution paths about the cells and hence the layer's barrier function.
             </p>
-          </div>
-        </div>
 
-      </div>
+            <h4 class="mt-4 mb-3 secondary-title">Data Taken at Different AC Frequencies with Tight Epithelial Cell Monolayers</h4>
+            <p class="lead">
+              The data below report the changes of impedance in two duplicate wells following inoculation of MDCK II cells (canine kidney epithelium). The micrographs show that the cell layer is in place and confluent about 3 hours after inoculation, and this is conveyed by the plateau in the impedance at 40,000 Hz. Measuring the same wells at 400 Hz we see the formation of the barrier function is not completed until about 10 hours after inoculation. This is also confirmed microscopically using stains for the junctional proteins E-cadherin and ZO-1 (zona occludens protein. (Data courtesy of Professor Joachim Wegener, Univ. of Regensburg) For tight epithelial cells, the impedance at low AC frequencies provides a very effective measure of the layer's barrier function.
+            </p>
+            <img class="img-fluid py-5 d-block mx-auto" src="public/img/cell-coverage.png" alt="Cell Coverage">
+
+            <h4 class="mt-4 mb-3 secondary-title">Data from Endothelial Cell Measurements</h4>
+            <p class="lead">
+              With endothelial cells, the barrier function is relatively low compared with epithelial cells with tight junctions, and the resistive portion of the ECIS impedance measured at 4000 Hz is commonly used to evaluate barrier function changes. This assay for endothelium was introduced in 1992 (Tiruppathi et.al.) and relied on the use of complex impedance measurements of endothelial cells grown upon ECIS electrodes to report just the resistive portion of the impedance. In this first study, the response of bovine pulmonary microvascular endothelial cells exposed to thrombin was evaluated (see figure below).
+            </p>
+            <img class="img-fluid py-5 d-block mx-auto" src="public/img/thrombin.jpg" alt="Thrombin">
+            <p class="lead">
+              Since this first study, the resistive portion of the impedance at 4000 Hz has been used to monitor real-time changes in endothelial permeability in several laboratories, and the assay appears in many peer-reviewed publications. ECIS used in this manner has increasingly become an attractive alternative to Ussing chambers and other membrane filter measurements. In addition to its convenience in gathering barrier function data with a minimum of labor, the measurement also requires no tagged compounds and associated sampling/measuring techniques.
+            </p>
+
+          </div><!-- /col -->
+        </div><!-- /row -->
+
+      </div><!-- /container -->
     </section><!-- /applicationContent -->
 
     <?php include_once "includes/footer.php";?>
