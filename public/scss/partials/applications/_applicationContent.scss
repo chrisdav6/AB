@@ -6,13 +6,23 @@
     color: white;
   }
 
+  .third-title {
+    font-size: 1.35rem;
+  }
+
   p {
     font-weight: 300;
     font-size: 1.25rem;
   }
 
+  hr {
+    border: none;
+    background: #d3d3d3;
+    height: 1px;
+  }
+
   .indent {
-    border-left: 1px solid #d8d8d8;
+    border-left: 1px solid #d3d3d3;
 
     @include mq600 {
       border-left: none;
