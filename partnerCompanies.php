@@ -33,7 +33,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       <div class="container">
         <div class="row">
           <div class="col">
-            <h1 class="display-5 mb-0">Partner Companies</h1>
+            <h1 class="mb-0">Partner Companies</h1>
             <hr class="mt-0">
           </div>
       </div>
