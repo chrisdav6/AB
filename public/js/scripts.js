@@ -14,8 +14,9 @@ $(() => {
   //Enable Bootstrap tooltips
   $('[data-toggle="tooltip"]').tooltip();
 
-  //Enable Smooth Scroll
+  //Enable Smooth Scroll - Ignore Bootstrap Tabs
   const scroll = new SmoothScroll('a[href*="#"]', {
+    ignore: '[data-scroll-ignore]',
     speed: 1000,
   });
 

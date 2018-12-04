@@ -14,6 +14,10 @@
     font-weight: 400;
   }
 
+  .list-unstyled {
+    font-weight: 400;
+  }
+
   @include mq600 {
     .nav-link {
       padding: .4em .6em;

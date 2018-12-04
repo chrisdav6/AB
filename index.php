@@ -49,62 +49,6 @@
       </div>
     </section>
 
-    <!-- <section id="carousel" class="py-5">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-12 mx-auto">
-
-            <div id="carouselExampleIndicators" class="carousel slide border" data-interval="false">
-              <div class="carousel-inner">
-
-                <div class="carousel-item active">
-                  <img class="d-block w-100" src="public/img/slide1_image.jpg" alt="TEER 24 Barrier Function Measurement System">
-                  <div class="carousel-caption text-dark">
-                    <h2 class="mb-0 mb-md-2">TEER 24</h5>
-                    <hr>
-                    <h3>Barrier Function Measurement System</h3>
-                    <p class="py-0 py-lg-2 d-none d-md-block">This system provides repeatable, label free automated TEER measurements to electrically monitor the barrier function of epithelial and endothelial cells as they are grown in normal CO<sup>2</sup> high humidity incubators.</p>
-                    <div class="mt-3">
-                      <a href="teer24.php" class="btn btn-dark btn-sm" role="button">Read More</a> <a href="#" class="btn btn-success btn-sm" role="button">Order Info</a>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="public/img/slide2_image.jpg" alt="ECIS Cultureware">
-                  <div class="carousel-caption text-dark">
-                    <h2 class="mb-0 mb-md-2">ECIS</h5>
-                    <hr>
-                    <h3>Cultureware</h3>
-                    <p class="py-0 py-lg-2 d-none d-md-block">Sterile disposable electrode arrays containing gold film electrodes delineated with an insulating film. Well top assembly is made of polystyrene. The gold layer is thin enough to allow microscopic observation of the cells using a standard inverted tissue culture microscope.</p>
-                    <div class="mt-3">
-                      <a href="#" class="btn btn-dark btn-sm" role="button">Read More</a> <a href="#" class="btn btn-success btn-sm" role="button">Order Info</a>
-                    </div>
-                  </div>
-                </div>
-
-                <div class="carousel-item">
-                  <img class="d-block w-100" src="public/img/slide3_image.jpg" alt="ECIS 8W TransFilter Adapter">
-                  <div class="carousel-caption text-dark">
-                    <h2 class="mb-0 mb-md-2">ECIS</h5>
-                    <hr>
-                    <h3>8W TransFilter Adapter</h3>
-                    <p class="py-0 py-lg-2 d-none d-md-block">The 8W TransFilter is designed to measure the TEER of cell layers grown on 24 well membrane filter inserts available from a broad range of manufacturers. The 8W TransFilter accepts up to eight 6.5mm dia. cell culture inserts.</p>
-                    <div class="mt-3">
-                      <a href="#" class="btn btn-dark btn-sm" role="button">Read More</a> <a href="#" class="btn btn-success btn-sm" role="button">Order Info</a>
-                    </div>
-                  </div>
-                </div>
-
-              </div>
-            </div>
-
-          </div>
-        </div>
-      </div>
-    </section>  -->
-    <!-- /carousel -->
-
     <section id="events" class="py-5 border-top">
       <div class="container">
         <div class="row">

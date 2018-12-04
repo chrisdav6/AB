@@ -4,8 +4,18 @@ html, body {
   font-family: "Lato";
 }
 
+p {
+  font-size: 1.25rem;
+}
+
+hr {
+  border: none;
+  background: #d3d3d3;
+  height: 1px;
+}
+
 .link {
-  font-weight: 400;
+  font-weight: 600;
 }
 
 a.social-head {
