@@ -48,7 +48,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               Epithelial cells and endothelial cells regulate the passage of molecules across cell layers. Diseases, especially vascular disease, occur when this function is impaired. ECIS<sup>®</sup> provides a highly sensitive real-time continous TEER measurement ideal for these types of studies.
             </p>
             <p class="mb-0">
-              Example Publication: <a href="#" class="text-dark link"> Kim et al., (2015) "Critical Role of Sphingosine-1-Phosphate Receptor-2 in the Disruption of Cerebrovascular Integrity in Experimental Stroke." Nature Communications 6:7893 doi:10.1038/ncomms8893</a> 
+              Example Publication: <a href="https://www.nature.com/articles/ncomms8893" class="text-dark link" target="_blank"> Kim et al., (2015) "Critical Role of Sphingosine-1-Phosphate Receptor-2 in the Disruption of Cerebrovascular Integrity in Experimental Stroke." Nature Communications 6:7893 doi:10.1038/ncomms8893</a> 
             </p>
           </div>
         </div><!-- /row -->
@@ -205,7 +205,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         </div>
 
         <div class="row">
-          <div class="col mb-5">
+          <div class="col mb-4">
             <h4 class="mt-4 mb-0">Related ECIS Publications</h4>
             <hr class="mt-0 mb-4">
 
