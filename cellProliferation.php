@@ -101,7 +101,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
         <div class="row">
           <div class="col mb-4">
-            <h4 class="mt-4 mb-0">Related ECIS Publications</h4>
+            <h4 class="mt-4 mb-0">Related Cell Proliferation ECIS Publications</h4>
             <hr class="mt-0 mb-4">
 
             <p>Zudaire, E., Cuesta, N., Murty, V., Woodson, K., Gonzalez, N., Martinez, A, Narayan, G., Kirsch, I., Hirsch, F., Birrer, M., Cuttitta, F., <strong>"The aryl hydrocarbon receptor repressor is a putative tumor gene in multiple human cancers."</strong> J. of Clinical Investigation, 118 (2):640-650 (2008).</p>

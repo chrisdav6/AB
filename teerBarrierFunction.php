@@ -206,7 +206,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
         <div class="row">
           <div class="col mb-4">
-            <h4 class="mt-4 mb-0">Related ECIS Publications</h4>
+            <h4 class="mt-4 mb-0">Related Barrier Function of Cell Layers ECIS Publications</h4>
             <hr class="mt-0 mb-4">
 
             <p><strong>Septin-2 Mediates Airway Epithelial Barrier Function in  Physiologic and Pathologic Conditions. </strong>VK Sidhaye, E Chau, P Breysse, and  LS King. <em>Am J Respir Cell  Mol Biol.</em> 2010.</p>
