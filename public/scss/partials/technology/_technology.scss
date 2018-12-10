@@ -11,13 +11,25 @@
 }
 
 #technologyContent {
-
   .item {
     margin-bottom: 2.5em;
   }
 
   h4 {
     font-size: 1.35rem;
+    font-weight: 600;
+  }
+
+  .cells {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    @include mq {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .cells p {
     font-weight: 600;
   }
 }
