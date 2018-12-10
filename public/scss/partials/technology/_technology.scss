@@ -1,0 +1,26 @@
+#technologyHeading {
+  margin-top: 3em;
+
+  h1 {
+    font-size: 2rem;
+    padding: .5em 1em;
+    background: $orange;
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
+#technologyContent {
+
+  .item {
+    margin-bottom: 2.5em;
+  }
+
+  h4 {
+    font-size: 1.35rem;
+    padding: .35em;
+    background: $logo-blue;
+    display: inline-block;
+    color: white;
+  }
+}

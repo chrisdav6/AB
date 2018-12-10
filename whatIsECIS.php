@@ -29,7 +29,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <?php include_once "includes/navbar.php"; ?>
     <?php include_once "includes/logo.php"; ?>
 
-    <section id="applicationHeading" class="text-center text-md-left">
+    <section id="technologyHeading" class="text-center text-md-left">
       <div class="container">
         <div class="row">
           <div class="col">
@@ -37,9 +37,9 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <hr class="mt-0">
           </div>
       </div>
-    </section><!-- /applicationsHeading -->
+    </section><!-- /technologyHeading -->
 
-    <section id="applicationContent" class="py-4 text-center text-md-left">
+    <section id="technologyContent" class="py-4 text-center text-md-left">
       <div class="container">
 
         <div class="row">
@@ -117,7 +117,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         </div>
 
       </div>
-    </section><!-- /applicationContent -->
+    </section><!-- /technologyContent -->
 
     <?php include_once "includes/footer.php"; ?>
 
