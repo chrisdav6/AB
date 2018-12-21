@@ -1,6 +1,8 @@
 .navbar {
   background-color: $orange;
   font-family: "Lato";
+  position: relative; //make nav bar on top logo
+  z-index: 1002; //make nav bar on top of logo
 }
 
 .navbar-light .navbar-nav .nav-link, .navbar-brand {
