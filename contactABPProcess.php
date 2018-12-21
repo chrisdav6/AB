@@ -4,7 +4,7 @@
     $subject = "Applied Biophysics Contact Form";
     
     $name = trim(filter_input(INPUT_POST, "name", FILTER_SANITIZE_STRING));
-    $institution = trim(filter_input(INPUT_POST, "institutuion", FILTER_SANITIZE_STRING));
+    $institution = trim(filter_input(INPUT_POST, "institution", FILTER_SANITIZE_STRING));
     $address = trim(filter_input(INPUT_POST, "address", FILTER_SANITIZE_STRING));
     $city = trim(filter_input(INPUT_POST, "city", FILTER_SANITIZE_STRING));
     $state = trim(filter_input(INPUT_POST, "state", FILTER_SANITIZE_STRING));
@@ -35,8 +35,8 @@
     $body .= "\nMessage:\n $message";
 
     if ($fax != "") {
-        echo "Invalid";
-        exit;
+      echo "Invalid";
+      exit;
     } else {
       mail($to, $subject, $body, $headers);
       echo "Success";
