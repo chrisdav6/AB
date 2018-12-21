@@ -125,7 +125,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <div class="col">
               <div class="form-group">
                 <label for="reach">How did you hear about us?</label>
-                <select id="reach" class="form-control form-control-lg">
+                <select id="reach" name="reach" class="form-control form-control-lg">
                   <option selected value="Scientific Journal">Scientific Journal</option>
                   <option value="Trade Show">Trade Show</option>
                   <option value="Colleague">Colleague</option>
@@ -142,7 +142,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <label>I would like pricing information</label>
               <div class="form-group">
                 <div class="form-check form-check-inline">
-                  <input class="form-check-input" type="radio" name="pricingInfo" class="pricingInfo" value="Yes">
+                  <input class="form-check-input" type="radio" name="pricingInfo" class="pricingInfo" value="Yes" checked>
                   <label class="form-check-label">Yes</label>
                 </div>
                 <div class="form-check form-check-inline">
@@ -155,7 +155,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <label>I would like to schedule a product Demo</label>
               <div class="form-group">
                 <div class="form-check form-check-inline">
-                  <input class="form-check-input" type="radio" name="productDemo" class="productDemo" value="Yes">
+                  <input class="form-check-input" type="radio" name="productDemo" class="productDemo" value="Yes" checked>
                   <label class="form-check-label">Yes</label>
                 </div>
                 <div class="form-check form-check-inline">

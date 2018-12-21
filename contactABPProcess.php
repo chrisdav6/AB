@@ -39,6 +39,7 @@
         exit;
     } else {
       mail($to, $subject, $body, $headers);
+      echo "Success";
     }
 
 ?>
