@@ -24,6 +24,13 @@ $("#corporateAPBForm").on("submit", function (event) {
     return false;
   }
 
+  //Send data to php file
+  $.ajax({
+    type: 'POST',
+    url: '../../contactABPProcess.php',
+    data: $('form').serialize()
+  });
+
   //Hide the submit button
   $corpContactBtn.hide();
   //Show the spinner gif
@@ -46,16 +53,11 @@ $("#corporateAPBForm").on("submit", function (event) {
       $zip.val("");
       $email.val("");
       $phone.val("");
-      $technicalQuestions.val("");
+      $techQuestions.val("");
       $message.val("");
     });
   }, 2000);
 
-  //Send data to php file
-  $.ajax({
-    type: 'POST',
-    url: '../../contactABPProcess.php',
-    data: $('form').serialize()
-  });
+  
 
 });
