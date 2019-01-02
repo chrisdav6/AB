@@ -66,8 +66,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <p><i class="fas fa-fax"></i> 518-880-6865</p>
           </div>
         </div>
-
-                      
+       
         <form action="contactABPProcess.php" method="post" id="corporateAPBForm">
 
           <div class="row">

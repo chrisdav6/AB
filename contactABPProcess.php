@@ -17,22 +17,26 @@
     $techQuestions = trim(filter_input(INPUT_POST, "techQuestions", FILTER_SANITIZE_STRING));
     $message = trim(filter_input(INPUT_POST, "message", FILTER_SANITIZE_STRING));
     $fax = $_POST['fax']; //HoneyPot
-    $headers = "From: $email";
+    $headers = 'MIME-Version: 1.0' . "\r\n";
+    $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
+    $headers .= "From: $email";
 
-    $body = "";
-    $body .= "From: $name\n";
-    $body .= "Institution: $institution\n";
-    $body .= "Address: $address\n";
-    $body .= "City: $city\n";
-    $body .= "State: $state\n";
-    $body .= "Zip Code: $zip\n";
-    $body .= "Email: $email\n";
-    $body .= "Phone: $phone\n";
-    $body .= "How did you hear about us?: $reach\n";
-    $body .= "Would you like pricing info?: $pricingInfo\n";
-    $body .= "Would you like a product demo?: $productDemo\n";
-    $body .= "Customer has technical questions on: $techQuestions\n";
-    $body .= "\nMessage:\n $message";
+    $body = "<html><body>";
+    $body .= "<h1>Applied Biophysics Contact Form</h1>";
+    $body .= "<p>From: " . $name . "<br/>";
+    $body .= "Institution: " . $institution . "<br/>";
+    $body .= "Address: " . $address . "<br/>";
+    $body .= "City: " . $city . "<br/>";
+    $body .= "State: " . $state . "<br/>";
+    $body .= "Zip Code: " . $zip . "<br/>";
+    $body .= "Email: " . $email . "<br/>";
+    $body .= "Phone: " . $phone . "<br/>";
+    $body .= "How did you hear about us? " . $reach . "<br/>";
+    $body .= "Would you like pricing info? " . $pricingInfo . "<br/>";
+    $body .= "Would you like a product demo? " . $productDemo . "<br/>";
+    $body .= "Customer has technical questions on: " . $techQuestions . "<br/></p>";
+    $body .= "<p>Message:<br/>" . $message . "</p>";
+    $body .= "</body></html>";
 
     if ($fax != "") {
       echo "Invalid";
