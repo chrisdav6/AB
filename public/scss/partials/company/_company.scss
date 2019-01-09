@@ -1,0 +1,55 @@
+#companyHeading {
+  margin-top: 3em;
+
+  h1 {
+    font-size: 2rem;
+    padding: .5em 1em;
+    background: $orange;
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
+#companyContent {
+  h4 {
+    font-size: 1.75rem;
+    font-weight: 600;
+  }
+
+  h3 {
+    font-size: 1.35rem;
+    font-weight: 600;
+  }
+
+  .list-group-item:hover {
+    background: lighten($logo-blue, 35%);
+  }
+
+  section {
+    margin-top: 5em;
+  }
+
+  ul {
+    font-size: 1.15rem;
+  }
+
+  .indent {
+    border-left: 1px solid #d3d3d3;
+
+    @include mq600 {
+      border-left: none;
+    }
+  }
+
+  .environment {
+    padding: 1em;
+    border: 1px solid #28A745;
+    display: inline-block;
+    font-weight: 600;
+  }
+
+  .memberPhoto {
+    width: 100%;
+    max-width: 300px;
+  }
+}
