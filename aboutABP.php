@@ -47,7 +47,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <div class="list-group mb-5">
               <a href="#whoWeAre" class="list-group-item list-group-item-action">Who We Are</a>
               <a href="#mission" class="list-group-item list-group-item-action">Mission</a>
-              <a href="#" class="list-group-item list-group-item-action">Advisory Board</a>
+              <a href="#advisory" class="list-group-item list-group-item-action">Advisory Board</a>
               <a href="#" class="list-group-item list-group-item-action">Press Releases</a>
               <a href="#" class="list-group-item list-group-item-action">Newsletter Archive</a>
               <a href="#" class="list-group-item list-group-item-action">Past Events</a>
@@ -136,7 +136,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           <div class="row">
             <div class="col">
               <h4>Mission Statement</h4>
-              <hr class="mb-5">
+              <hr class="mb-4">
 
               <div class="row">
                 <div class="col">
@@ -187,6 +187,48 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                   </ul>
 
                   <p class="environment text-success mt-3"><i class="fas fa-leaf fa-flip-horizontal mr-2"></i>Please consider the environment before printing.</p>
+                </div>
+              </div>
+
+            </div>
+          </div>
+        </section>
+
+
+        <section id="advisory">
+          <div class="row">
+            <div class="col">
+              <h4>Advisory Board</h4>
+              <hr class="mb-5">
+
+              <div class="row mb-5">
+                <div class="col-md-3 col-lg-2 mb-4 mb-md-0">
+                  <img class="img-fluid memberPhoto" src="public/img/litwiller.jpg" alt="Dave Litwiller Photo">
+                </div>
+                <div class="col-md-9 col-lg-10">
+                  <h3 class="mb-3">Dave Litwiller</h3>
+                  <p>
+                    Dave Litwiller is a senior executive of <a class="text-dark link" href="http://www.teledynedalsa.com/en/home" target="_blank">DALSA Corporation</a>, headquartered in Waterloo, Ontario, Canada. He oversees strategy and market development for DALSA's business units in semiconductor fabrication, image sensor integrated circuit development, MEMS, digital cinema and life sciences instrumentation. In previous roles with DALSA, Mr. Litwiller was the head of marketing, and before that, the head of engineering. Prior to joining DALSA, Mr. Litwiller was a design engineer at several high technology start-ups in the wireless, fiber optic telecom, and broadcast industries.
+                  </p>
+                  <p>
+                    Mr. Litwiller is a graduate of the University of Waterloo, and holds a Bachelor of Applied Science degree. He serves as an advisor for various private corporations in matters of strategy, technology, and business development. Mr. Litwiller is a frequent speaker at technology start-up forums and executive industry association conferences on business strategy.
+                  </p>
+                </div>
+              </div>
+
+              <div class="row mb-5">
+                <div class="col-md-3 col-lg-2 mb-4 mb-md-0">
+                  <img class="img-fluid memberPhoto" src="public/img/joachim.jpg" alt="Joachim Wegener Photo">
+                </div>
+                <div class="col-md-9 col-lg-10">
+                  <h3 class="mb-1">Joachim Wegener</h3>
+                  <h5 class="mb-3">Institute for Analytical Chemistry, Chemo & Biosensors - University of Regensburg</h5>
+                  <p>
+                    <a class="text-dark link" href="http://www-analytik.chemie.uni-regensburg.de/wegener/wegener.htm" target="_blank">Joachim Wegener</a> is a professor for Biosensors & Bioanalytics at the University of Regensburg in Germany where he moved in 2008 from his previous appointment at the University of Muenster (Germany). He holds a diploma in chemistry and received his PhD from the University of Muenster in 1998. His research interests are focussed on the development of non-invasive whole-cell biosensors that can be applied to follow the behaviour of mammalian cells in vitro. As the analysis of living systems is a complex task, Wegener’s research aims to bring together several sensoric principles in one device (multi-parametric sensing) so that more than one parameter can be recorded from a given cell population simultaneously. He has authored numerous research papers, book chapters and review articles on this subject. Wegener teaches courses in biochemistry, cell biology, biosensors & bioanalytics at the undergraduate and graduate level.
+                  </p>
+                  <p>
+                    Joachim Wegener started to work with ECIS and related techniques in 1993 inspired by the publications of Ivar Giaever and Charles Keese, the founders of Applied BioPhysics Inc. After having received his PhD, he joined the Giaever lab for two years working as a postdoc with Giaever & Keese on cell adhesion, electroporation and cell wounding - all based on the ECIS technology. Since this time he has strong interest in modeling and simulating the electrical properties of living animal cells on conducting surfaces and developing new applications for the ECIS technology.
+                  </p>
                 </div>
               </div>
 
