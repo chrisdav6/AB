@@ -48,8 +48,8 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <a href="#whoWeAre" class="list-group-item list-group-item-action">Who We Are</a>
               <a href="#mission" class="list-group-item list-group-item-action">Mission</a>
               <a href="#advisory" class="list-group-item list-group-item-action">Advisory Board</a>
-              <a href="#" class="list-group-item list-group-item-action">Press Releases</a>
-              <a href="#" class="list-group-item list-group-item-action">Newsletter Archive</a>
+              <a href="#press" class="list-group-item list-group-item-action">Press Releases</a>
+              <a href="http://archive.constantcontact.com/fs021/1102585480643/archive/1102608169871.html" class="list-group-item list-group-item-action" target="_blank">Newsletter Archive</a>
               <a href="#" class="list-group-item list-group-item-action">Past Events</a>
               <a href="#" class="list-group-item list-group-item-action">Cartoons</a>
             </div>
@@ -129,7 +129,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
             </div>
           </div>
-        </section>
+        </section><!-- /whoWeAre section -->
 
 
         <section id="mission">
@@ -192,7 +192,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
             </div>
           </div>
-        </section>
+        </section><!-- /mission section -->
 
 
         <section id="advisory">
@@ -216,7 +216,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 </div>
               </div>
 
-              <div class="row mb-5">
+              <div class="row">
                 <div class="col-md-3 col-lg-2 mb-4 mb-md-0">
                   <img class="img-fluid memberPhoto" src="public/img/joachim.jpg" alt="Joachim Wegener Photo">
                 </div>
@@ -234,14 +234,82 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
             </div>
           </div>
-        </section>
-        
+        </section><!-- /advisory section -->
 
+
+        <section id="press">
+          <h4>Press Releases</h4>
+          <hr class="mb-5">
+
+            <div class="row">
+              
+              <div class="col-md-6 mb-4">
+                <h3 class="pressTitle">June 2014</h3>
+                <hr class="mt-0">
+                <p><a class="text-dark link" href="public/pdf/TEERMeasurement2014.pdf" target="_blank">TEER measurement under Dynamic Flow Conditions</a></p>
+              </div>
+
+              <div class="col-md-6 mb-4">
+                <h3 class="pressTitle">October 2013</h3>
+                <hr class="mt-0">
+                <p><a class="text-dark link" href="public/pdf/transFilterArray.pdf" target="_blank">Continuous measurement of cell monolayer barrier function (TEER) using membrane inserts in multiple wells</a></p>
+              </div>
+
+              <div class="col-md-6 mb-4">
+                <h3 class="pressTitle">March 2013</h3>
+                <hr class="mt-0">
+                <p><a class="text-dark link" href="public/pdf/WenJiangBookPressRelease.pdf" target="_blank">Electric Cell-Substrate Impedance Sensing and Cancer Metastasis Book</a></p>
+              </div>
+
+              <div class="col-md-6 mb-4">
+                <h3 class="pressTitle">November 2011</h3>
+                <hr class="mt-0">
+                <p><a class="text-dark link" href="public/pdf/Stemnion.pdf" target="_blank">Stemnion uses ECIS to Measure Placental Stem Cells</a></p>
+              </div>
+
+              <div class="col-md-6 mb-4">
+                <h3 class="pressTitle">June 2011</h3>
+                <hr class="mt-0">
+                <p><a class="text-dark link" href="public/pdf/RegensburgMtg.pdf" target="_blank">1st Conference on Impedance-Based Cellular Assays</a></p>
+              </div>
+
+              <div class="col-md-6 mb-4">
+                <h3 class="pressTitle">June 2011</h3>
+                <hr class="mt-0">
+                <p><a class="text-dark link" href="public/pdf/NoblePrize.pdf" target="_blank">How to Win a Nobel Prize</a></p>
+              </div>
+
+              <div class="col-md-6 mb-4">
+                <h3 class="pressTitle">June 2011</h3>
+                <hr class="mt-0">
+                <p><a class="text-dark link" href="public/pdf/StageArrayHolder.pdf" target="_blank">Microscope Stage Holder for ECIS Biosensor Arrays</a></p>
+              </div>
+
+              <div class="col-md-6 mb-4">
+                <h3 class="pressTitle">February 2011</h3>
+                <hr class="mt-0">
+                <p><a class="text-dark link" href="public/pdf/CellProliferationRelease.pdf" target="_blank">Automated Cell Proliferation Impedance-Based Assay</a></p>
+              </div>
+
+              <div class="col-md-6 mb-4">
+                <h3 class="pressTitle">September 2010</h3>
+                <hr class="mt-0">
+                <p><a class="text-dark link" href="public/pdf/ElectricFencePress.pdf" target="_blank">Electric Fence Array - Method and Apparatus for Facilitating Evaluating Migration of Cells in Vitro</a></p>
+              </div>
+
+              <div class="col-md-6 mb-4">
+                <h3 class="pressTitle">April 2010</h3>
+                <hr class="mt-0">
+                <p><a class="text-dark link" href="public/pdf/LineWoundingPress.pdf" target="_blank">Line Wounding Array - Automated Line Electrode Cell Migration Assay</a></p>
+              </div>
+
+            </div>
+        </section><!-- /press section -->
+        
       </div>
     </section>
 
     
-
     <?php include_once "includes/footer.php";?>
 
     <!-- Scroll to top -->
