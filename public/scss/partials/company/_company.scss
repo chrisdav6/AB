@@ -29,6 +29,10 @@
     background: lighten($logo-blue, 35%);
   }
 
+  .list-group-item.active {
+    background: $logo-blue;
+  }
+
   section {
     margin-top: 6em;
   }
