@@ -53,7 +53,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <a class="list-group-item list-group-item-action" data-toggle="list" href="#press" role="tab" data-scroll-ignore>Press Releases</a>
               <a href="http://archive.constantcontact.com/fs021/1102585480643/archive/1102608169871.html" class="list-group-item list-group-item-action" target="_blank">Newsletter Archive</a>
               <a class="list-group-item list-group-item-action" data-toggle="list" href="#pastEvents" role="tab" data-scroll-ignore>Past Events</a>
-              <a class="list-group-item list-group-item-action" data-toggle="list" href="#cartoons" role="tab" data-scroll-ignore>Cartoons</a>
+              <a class="list-group-item list-group-item-action" data-toggle="list" href="#comics" role="tab" data-scroll-ignore>ECIS Comics</a>
             </div>
           </div>
 
@@ -368,10 +368,30 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 <hr class="mt-2 mb-4">
               </div><!-- /events -->
 
-              <div class="tab-pane" id="cartoons" role="tabpanel">
-                <h2>Cartoons</h2>
+              <div class="tab-pane" id="comics" role="tabpanel">
+                <h2>ECIS Comics!</h2>
                 <hr class="mt-2 mb-4">
-              </div><!-- /cartoons -->
+
+                <div class="row">
+                  <div class="col-lg-10 mx-auto">
+                    <img class="img-fluid comic" src="public/img/ECIS-Halloween-2017-Comic.jpg" alt="ECIS Comic October 2017">
+                    <img class="img-fluid comic" src="public/img/ECIS-Comic-March-2017-Final.jpg" alt="ECIS Comic March 2017">
+                    <img class="img-fluid comic" src="public/img/ECIS-Comic-Oct-2016-Final.jpg" alt="ECIS Comic October 2016">
+                    <img class="img-fluid comic" src="public/img/Comic-Feb-2016-Final.jpg" alt="ECIS Comic February 2016">
+                    <img class="img-fluid comic" src="public/img/ECIS-Comic-Feb-2015.jpg" alt="ECIS Comic February 2015">
+                    <img class="img-fluid comic" src="public/img/ECIS-Comic-Oct-2014.jpg" alt="ECIS Comic October 2014">
+                    <img class="img-fluid comic" src="public/img/Comic-Feb-2014.jpg" alt="ECIS Comic February 2014">
+                    <img class="img-fluid comic" src="public/img/Comic-March-2013.jpg" alt="ECIS Comic March 2013">
+                    <img class="img-fluid comic" src="public/img/Comic-November-2012.jpg" alt="ECIS Comic November 2012">
+                    <img class="img-fluid comic" src="public/img/ComicMay2012.png" alt="ECIS Comic May 2012">
+                    <img class="img-fluid comic" src="public/img/ComicJuly2011.jpg" alt="ECIS Comic July 2011">
+                    <img class="img-fluid comic" src="public/img/ComicApril2011.jpg" alt="ECIS Comic April 2011">
+                    <img class="img-fluid comic" src="public/img/ComicDec2010.jpg" alt="ECIS Comic December 2010">
+                    <img class="img-fluid comic" src="public/img/moleculeZoo.jpg" alt="ECIS Comic April 2010">
+                    <img class="img-fluid comic" src="public/img/ComicMoreEcisTalks.jpg" alt="ECIS Comic January 2010">
+                </div>
+              </div><!-- /comics -->
+              
               
             </div><!-- /nav-tabContent -->
           </div><!-- /col-md-9 -->
