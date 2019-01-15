@@ -59,6 +59,19 @@
     a {
       cursor: pointer;
     }
+
+    .card {
+      position: relative;
+    }
+
+    .date {
+      position: absolute;
+      top: 0;
+      left: 0;
+      padding: .25em .35em;
+      background: $orange;
+      color: $dark-gray;
+    }
     
     .card-img-top {
       width: 100%;

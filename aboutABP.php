@@ -51,7 +51,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <a class="list-group-item list-group-item-action" data-toggle="list" href="#mission" role="tab" data-scroll-ignore>Mission</a>
               <a class="list-group-item list-group-item-action" data-toggle="list" href="#advisory" role="tab" data-scroll-ignore>Advisory Board</a>
               <a class="list-group-item list-group-item-action" data-toggle="list" href="#press" role="tab" data-scroll-ignore>Press Releases</a>
-              <a href="http://archive.constantcontact.com/fs021/1102585480643/archive/1102608169871.html" class="list-group-item list-group-item-action" target="_blank">Newsletter Archive</a>
+              <a href="https://app.robly.com/public/archives?a=1afc70f23a9e4539" class="list-group-item list-group-item-action" target="_blank">Newsletter Archive</a>
               <a class="list-group-item list-group-item-action" data-toggle="list" href="#pastEvents" role="tab" data-scroll-ignore>Past Events</a>
               <a class="list-group-item list-group-item-action" data-toggle="list" href="#comics" role="tab" data-scroll-ignore>ECIS Comics</a>
             </div>
@@ -372,6 +372,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                   <div class="col-lg-4 mb-4">
                     <a class="text-dark link" data-toggle="modal" data-target="#lifeScienceModal">
                       <div class="card">
+                        <p class="date">2017</p>
                         <img class="card-img-top" src="public/img/lifeScienceExhibits.jpg" alt="Life Science Logo">
                         <div class="card-body">
                           <p class="card-text">Life Science Exhibits Research Supplier Product Show</p>
@@ -383,6 +384,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                   <div class="col-lg-4 mb-4">
                     <a class="text-dark link" data-toggle="modal" data-target="#customerTrainingModal">
                       <div class="card">
+                        <p class="date">2016</p>
                         <img class="card-img-top" src="public/img/Prof-Chu-Ming-Lo-011216sm.jpg" alt="Prof Chu Ming Lo">
                         <div class="card-body">
                           <p class="card-text">Customer Training Course at Shanghai Technical University</p>
@@ -394,9 +396,46 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                   <div class="col-lg-4 mb-4">
                     <a class="text-dark link" data-toggle="modal" data-target="#ml2sModal">
                       <div class="card">
+                        <p class="date">2015</p>
                         <img class="card-img-top" src="public/img/ml2s.jpg" alt="ML2S Logo">
                         <div class="card-body">
                           <p class="card-text">Modeling Life in the Lab Symposium</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+
+                  <div class="col-lg-4 mb-4">
+                    <a class="text-dark link" data-toggle="modal" data-target="#ivarModal">
+                      <div class="card">
+                        <p class="date">2015</p>
+                        <img class="card-img-top" src="public/img/ivar_86th_bdaySm.jpg" alt="Ivar Birthday">
+                        <div class="card-body">
+                          <p class="card-text">Celebrating the 86th Birthday of Dr. Ivar Giaever</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+
+                  <div class="col-lg-4 mb-4">
+                    <a class="text-dark link" data-toggle="modal" data-target="#morphologicalModal">
+                      <div class="card">
+                        <p class="date">2015</p>
+                        <img class="card-img-top" src="public/img/uOfHawaii.jpg" alt="University of Hawaii Logo">
+                        <div class="card-body">
+                          <p class="card-text">A Morphological Biosensor for Cell Research</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+
+                  <div class="col-lg-4 mb-4">
+                    <a class="text-dark link" data-toggle="modal" data-target="#koreaModal">
+                      <div class="card">
+                        <p class="date">2014</p>
+                        <img class="card-img-top" src="public/img/ibca_2014_2sm.jpg" alt="Korea Group Photo">
+                        <div class="card-body">
+                          <p class="card-text">Korea Federation of Women's Science and Technology Conference</p>
                         </div>
                       </div>
                     </a>
@@ -446,7 +485,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
         <div class="modal-content">
           <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLongTitle">Life Science Exhibits Research Supplier Product Show</h5>
+            <h5 class="modal-title">Life Science Exhibits Research Supplier Product Show</h5>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
@@ -465,7 +504,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
         <div class="modal-content">
           <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLongTitle">Customer Training Course at Shanghai Technical University</h5>
+            <h5 class="modal-title">Customer Training Course at Shanghai Technical University</h5>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
@@ -475,12 +514,12 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               Professor Chu Ming Lo of Yang Ming University of Taiwan leading a session on ECIS Theory during a customer training
               course at Shanghai Technical University
             </p>
+            <img class="img-fluid pb-3" src="public/img/Prof-Chu-Ming-Lo-011216.jpg" alt="Prof Chu Ming Lo">
             <p>
               The ECIS training course was given in cooperation between Dakewe and Sunpoint and allowed for ECIS training in Chinese.
               ECIS training courses have taken place in Troy, NY, Munich, Germany, Taipei, Taiwan and most recently Shanghai, China.
               For inquiries as to the next ECIS training course please contact Applied BioPhysics or the distributor nearest you.
             </p>
-            <img class="img-fluid py-3" src="public/img/Prof-Chu-Ming-Lo-011216.jpg" alt="Prof Chu Ming Lo">
           </div>
         </div>
       </div>
@@ -491,13 +530,73 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
         <div class="modal-content">
           <div class="modal-header">
-            <h5 class="modal-title" id="exampleModalLongTitle">Modeling Life in the Lab Symposium</h5>
+            <h5 class="modal-title">Modeling Life in the Lab Symposium</h5>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
           </div>
           <div class="modal-body text-center">
             <img class="img-fluid" src="public/img/modelingLife2015.jpg" alt="Modeling Life">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Ivar Modal -->
+    <div class="modal fade" id="ivarModal" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Applied BioPhysics Celebrated the 86th Birthday of Dr. Ivar Giaever</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body text-center">
+            <img class="img-fluid pb-3" src="public/img/ivar_86th_bday.jpg" alt="Ivar Birthday">
+            <img class="img-fluid" src="public/img/ivar_86th_bday_cake.jpg" alt="Ivar Birthday Cake">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Morphological Modal -->
+    <div class="modal fade" id="morphologicalModal" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">A Morphological Biosensor for Cell Research</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body text-center">
+            <img class="img-fluid" src="public/img/CRK-Flyer-Visit-UHCC.jpg" alt="Morphological Biosensor">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Korea Modal -->
+    <div class="modal fade" id="koreaModal" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title">Korea Federation of Women's Science and Technology Annual Conference</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body text-center">
+            <p>
+              The annual conference of Korea Federation of Women's Science and Technology Association (KOFWST) was held on November 14, 2014 in Seoul, 
+              Korea with the theme "Women Scientist and Engineers Lead the World".
+            </p>
+            <img class="img-fluid pb-3" src="public/img/ibca_2014_1.jpg" alt="Korea Federation of Women's Science and Technology">
+            <p>
+              Dr. Ivar Giaever, Chief Technology Officer of Applied BioPhysics, Inc. who won the Nobel Prize in Physics in 1973 was guest speaker.
+            </p>
+            <img class="img-fluid" src="public/img/ibca_2014_2.jpg" alt="Korea Federation of Women's Science and Technology">
           </div>
         </div>
       </div>
