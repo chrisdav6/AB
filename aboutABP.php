@@ -366,6 +366,43 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <div class="tab-pane" id="pastEvents" role="tabpanel">
                 <h2>Past Events</h2>
                 <hr class="mt-2 mb-4">
+
+                <div class="row text-center">
+
+                  <div class="col-lg-4 mb-4">
+                    <a class="text-dark link" data-toggle="modal" data-target="#lifeScienceModal">
+                      <div class="card">
+                        <img class="card-img-top" src="public/img/lifeScienceExhibits.jpg" alt="Life Science Logo">
+                        <div class="card-body">
+                          <p class="card-text">Life Science Exhibits Research Supplier Product Show</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+
+                  <div class="col-lg-4 mb-4">
+                    <a class="text-dark link" data-toggle="modal" data-target="#customerTrainingModal">
+                      <div class="card">
+                        <img class="card-img-top" src="public/img/Prof-Chu-Ming-Lo-011216sm.jpg" alt="Prof Chu Ming Lo">
+                        <div class="card-body">
+                          <p class="card-text">Customer Training Course at Shanghai Technical University</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+
+                  <div class="col-lg-4 mb-4">
+                    <a class="text-dark link" data-toggle="modal" data-target="#ml2sModal">
+                      <div class="card">
+                        <img class="card-img-top" src="public/img/ml2s.jpg" alt="ML2S Logo">
+                        <div class="card-body">
+                          <p class="card-text">Modeling Life in the Lab Symposium</p>
+                        </div>
+                      </div>
+                    </a>
+                  </div>
+
+                </div><!-- /row -->
               </div><!-- /events -->
 
               <div class="tab-pane" id="comics" role="tabpanel">
@@ -400,6 +437,71 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
       </div><!-- /container -->
     </section>
+
+
+    <!-- Modals -->
+
+    <!-- Life Science Modal -->
+    <div class="modal fade" id="lifeScienceModal" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Life Science Exhibits Research Supplier Product Show</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body text-center">
+            <a href="http://www.lifescienceexhibits.com/showinfo" target=_blank">
+              <img class="img-fluid" src="public/img/productShow-Nov1-2017.jpg" alt="Life Science Product Show">
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Customer Training Modal -->
+    <div class="modal fade" id="customerTrainingModal" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Customer Training Course at Shanghai Technical University</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body text-center">
+            <p>
+              Professor Chu Ming Lo of Yang Ming University of Taiwan leading a session on ECIS Theory during a customer training
+              course at Shanghai Technical University
+            </p>
+            <p>
+              The ECIS training course was given in cooperation between Dakewe and Sunpoint and allowed for ECIS training in Chinese.
+              ECIS training courses have taken place in Troy, NY, Munich, Germany, Taipei, Taiwan and most recently Shanghai, China.
+              For inquiries as to the next ECIS training course please contact Applied BioPhysics or the distributor nearest you.
+            </p>
+            <img class="img-fluid py-3" src="public/img/Prof-Chu-Ming-Lo-011216.jpg" alt="Prof Chu Ming Lo">
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ML2S Modal -->
+    <div class="modal fade" id="ml2sModal" tabindex="-1" role="dialog" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">Modeling Life in the Lab Symposium</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body text-center">
+            <img class="img-fluid" src="public/img/modelingLife2015.jpg" alt="Modeling Life">
+          </div>
+        </div>
+      </div>
+    </div>
 
     
     <?php include_once "includes/footer.php";?>
