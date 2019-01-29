@@ -1,4 +1,4 @@
-<section id="logo" class="py-4 mt-4 mt-md-0 border-bottom">
+<section id="logo" class="py-4 mt-md-0 border-bottom">
   <div class="container">
     <div class="row d-flex align-items-center">
       <div class="col-lg-3 col-md-4 text-center text-md-left">
