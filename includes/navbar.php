@@ -71,10 +71,14 @@
             </div>
           </li>
         </ul>
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
+        <ul class="navbar-nav ml-auto flex-row">
+          <li class="nav-item mr-1">
             <a class="social-head facebook" href="https://www.facebook.com/Applied-BioPhysics-165532397615/" target="_blank"><i
                 class="fab fa-facebook-square fa-2x"></i></a>
+          </li>
+          <li class="nav-item">
+            <a class="social-head twitter" href="https://twitter.com/AppliedBioPhys" target="_blank"><i
+                class="fab fa-twitter-square fa-2x"></i></a>
           </li>
         </ul>
       </div>

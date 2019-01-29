@@ -50,7 +50,10 @@
         <p class="address mb-0 text-secondary">&copy; 2018 Applied BioPhysics, Inc.<br>185 Jordan Road Troy, NY 12180 / <a href="tel:518-880-6860" class="text-secondary">Phone: 518-880-6860</a> / <a href="tel:866-301-3247" class="text-secondary">Toll Free: 866-301-ECIS (3247)</a> / Fax: 518-880-6865</p>
       </div>
       <div class="col-md-3 text-center text-md-right mt-4 mt-md-0">
-        <p class="mb-0"><a class="social facebook" href="https://www.facebook.com/Applied-BioPhysics-165532397615/" target="_blank"><i class="fab fa-facebook-square fa-3x"></i></a></p>
+        <p class="mb-0">
+          <a class="social facebook" href="https://www.facebook.com/Applied-BioPhysics-165532397615/" target="_blank"><i class="fab fa-facebook-square fa-3x mr-1"></i></a>
+          <a class="social twitter" href="https://twitter.com/AppliedBioPhys" target="_blank"><i class="fab fa-twitter-square fa-3x"></i></a>
+        </p>
       </div>
     </div>
   </div>
