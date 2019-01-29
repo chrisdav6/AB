@@ -26,3 +26,32 @@
     color: $logo-blue;
   }
 }
+
+#logo-sm {
+  position: relative; //make logo bar on top of shadow
+  z-index: 1001; //make top bar on top of shadow
+  box-shadow: 0px 3px 10px -3px rgba(0,0,0,0.75);
+
+  h3 {
+    font-size: 1rem;
+    font-weight: 300;
+    color: #333;
+    margin-bottom: 0;
+  }
+
+  h4 {
+    margin-bottom: -5px;
+  }
+
+  a {
+    font-size: 1.5rem;
+    color: $logo-blue;
+    font-weight: bold;
+    text-decoration: none;
+  }
+
+  p {
+    font-weight: 300;
+    color: $logo-blue;
+  }
+}
