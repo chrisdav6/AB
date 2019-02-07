@@ -54,7 +54,7 @@
         <div class="row">
 
           <div class="col-md-4 mb-4 mb-md-0">
-            <a href="#" class="text-dark">
+            <a href="webinars.php" class="text-dark">
               <div class="card text-center">
                 <div class="card-body">
                   <h3 class="card-title">Webinars</h3>
@@ -67,7 +67,7 @@
           </div>
 
           <div class="col-md-4 mb-4 mb-md-0">
-            <a href="#" class="text-dark">
+            <a href="tradeshows.php" class="text-dark">
               <div class="card text-center">
                 <div class="card-body">
                   <h3 class="card-title">Tradeshows</h3>
@@ -80,7 +80,7 @@
           </div>
 
           <div class="col-md-4">
-            <a href="#" class="text-dark">
+            <a href="ecisSchool.php" class="text-dark">
               <div class="card text-center">
                 <div class="card-body">
                   <h3 class="card-title">ECIS School</h3>
