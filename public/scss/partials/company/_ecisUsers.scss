@@ -1,0 +1,35 @@
+#ecisUsersHeading {
+  margin-top: 3em;
+
+  h1 {
+    font-size: 2rem;
+    padding: .5em 1em;
+    background: $orange;
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
+#ecisUsersContent {
+  .userLinksContainer {
+    margin: 3em 0 1em 0;
+  }
+
+  .userLink {
+    font-size: 1.25rem;
+    padding: .5em 1em;
+    margin: .25em;
+    background: $logo-blue;
+    color: white;
+    transition: .3s;
+
+    &:hover {
+      text-decoration: none;
+      background: darken($logo-blue, 10%);
+    }
+  }
+
+  .userCountries {
+    margin-bottom: 3em;
+  }
+}
