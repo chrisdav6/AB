@@ -548,6 +548,564 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             </div>
           </section>
 
+          <section id="norway" class="pt-5">
+            <h3>Norway</h3>
+            <hr class="mb-4">
+            <div class="row">
+              <div class="col-md-6">
+                <p>University of Bergen</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Oslo</p>
+              </div>
+            </div>
+          </section>
+
+          <section id="qatar" class="pt-5">
+            <h3>Qatar</h3>
+            <hr class="mb-4">
+            <div class="row">
+              <div class="col-md-6">
+                <p>Qatar University</p>
+              </div>
+            </div>
+          </section>
+
+          <section id="russia" class="pt-5">
+            <h3>Russia</h3>
+            <hr class="mb-4">
+            <div class="row">
+              <div class="col-md-6">
+                <p>Russian Cardiology Research Center</p>
+              </div>
+            </div>
+          </section>
+
+          <section id="spain" class="pt-5">
+            <h3>Spain</h3>
+            <hr class="mb-4">
+            <div class="row">
+              <div class="col-md-6">
+                <p>Universitat Autonoma de Madrid</p>
+              </div>
+            </div>
+          </section>
+
+          <section id="sweden" class="pt-5">
+            <h3>Sweden</h3>
+            <hr class="mb-4">
+            <div class="row">
+              <div class="col-md-6">
+                <p>AstraZeneca</p>
+              </div>
+              <div class="col-md-6">
+                <p>Karolinska University Hospital, Solna</p>
+              </div>
+              <div class="col-md-6">
+                <p>Umeå University</p>
+              </div>
+            </div>
+          </section>
+
+          <section id="switzerland" class="pt-5">
+            <h3>Switzerland</h3>
+            <hr class="mb-4">
+            <div class="row">
+              <div class="col-md-6">
+                <p>Merck Serono</p>
+              </div>
+              <div class="col-md-6">
+                <p>Novartis Pharma AG</p>
+              </div>
+              <div class="col-md-6">
+                <p>University Hospital Zurich</p>
+              </div>
+            </div>
+          </section>
+
+          <section id="taiwan" class="pt-5">
+            <h3>Taiwan</h3>
+            <hr class="mb-4">
+            <div class="row">
+              <div class="col-md-6">
+                <p>Academia Sinica Institution</p>
+              </div>
+              <div class="col-md-6">
+                <p>Chang Gung University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Chi Mei Hospital</p>
+              </div>
+              <div class="col-md-6">
+                <p>Food Industry R and D Institute</p>
+              </div>
+              <div class="col-md-6">
+                <p>Fu Jen Catholic University</p>
+              </div>
+              <div class="col-md-6">
+                <p>National Cheng Kung University</p>
+              </div>
+              <div class="col-md-6">
+                <p>National Defense Medical Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>National Chiao Tung University</p>
+              </div>
+              <div class="col-md-6">
+                <p>National Taiwan University</p>
+              </div>
+              <div class="col-md-6">
+                <p>National Taiwan University Hospital</p>
+              </div>
+              <div class="col-md-6">
+                <p>National Yang-Ming University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Tzu Chi College of Technology</p>
+              </div>
+            </div>
+          </section>
+
+          <section id="unitedKingdom" class="pt-5">
+            <h3>United Kingdom</h3>
+            <hr class="mb-4">
+            <div class="row">
+              <div class="col-md-6">
+                <p>AstraZeneca</p>
+              </div>
+              <div class="col-md-6">
+                <p>Cardiff University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Novartis Institute for BioMedical Research</p>
+              </div>
+              <div class="col-md-6">
+                <p>Queen's University</p>
+              </div>
+              <div class="col-md-6">
+                <p>University College London</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Bristol</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Manchester</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Portsmouth</p>
+              </div>
+            </div>
+          </section>
+
+          <section id="unitedStates" class="pt-5">
+            <h3>United States</h3>
+            <hr class="mb-4">
+            <div class="row">
+              <div class="col-md-6">
+                <p>Abbott Laboratories</p>
+              </div>
+              <div class="col-md-6">
+                <p>Al Dupont Hospital for Children</p>
+              </div>
+              <div class="col-md-6">
+                <p>Albany Medical College</p>
+              </div>
+              <div class="col-md-6">
+                <p>Albert Einstein College of Medicine</p>
+              </div>
+              <div class="col-md-6">
+                <p>Alcon Laboratories</p>
+              </div>
+              <div class="col-md-6">
+                <p>Allergan</p>
+              </div>
+              <div class="col-md-6">
+                <p>Amgen Inc.</p>
+              </div>
+              <div class="col-md-6">
+                <p>Armed Forces Radiobiology Research Institute (AFRRI)</p>
+              </div>
+              <div class="col-md-6">
+                <p>Bausch & Lomb</p>
+              </div>
+              <div class="col-md-6">
+                <p>Baylor College of Medicine</p>
+              </div>
+              <div class="col-md-6">
+                <p>Beth Israel Deaconess Medical Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>Blood Center of Wisconsin</p>
+              </div>
+              <div class="col-md-6">
+                <p>Blood Systems Research Institute</p>
+              </div>
+              <div class="col-md-6">
+                <p>Boston Children's Hospital</p>
+              </div>
+              <div class="col-md-6">
+                <p>Brigham and Women's Hospital</p>
+              </div>
+              <div class="col-md-6">
+                <p>Bristol-Myers Squibb</p>
+              </div>
+              <div class="col-md-6">
+                <p>Buffalo State</p>
+              </div>
+              <div class="col-md-6">
+                <p>Capstone Therapeutics Corp.</p>
+              </div>
+              <div class="col-md-6">
+                <p>Case Western Reserve University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Celgene Corporation</p>
+              </div>
+              <div class="col-md-6">
+                <p>Cellular Dynamics International Inc.</p>
+              </div>
+              <div class="col-md-6">
+                <p>Centers for Disease Control and Prevention</p>
+              </div>
+              <div class="col-md-6">
+                <p>Charlie Norwood VA Medical Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>City College of New York</p>
+              </div>
+              <div class="col-md-6">
+                <p>Cleveland Clinic Foundation</p>
+              </div>
+              <div class="col-md-6">
+                <p>Columbia University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Department of Veterans Affairs Medical Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>Eli Lilly and Company</p>
+              </div>
+              <div class="col-md-6">
+                <p>Emory University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Florida International University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Georgetown University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Georgia Regents University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Georgia State University</p>
+              </div>
+              <div class="col-md-6">
+                <p>HemoShear LLC</p>
+              </div>
+              <div class="col-md-6">
+                <p>Henry Ford Hospital</p>
+              </div>
+              <div class="col-md-6">
+                <p>Howard Hughes Medical Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>Indiana University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Indiana University - Purdue University Indianapolis</p>
+              </div>
+              <div class="col-md-6">
+                <p>Johns Hopkins University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Johnson & Johnson</p>
+              </div>
+              <div class="col-md-6">
+                <p>Kean University</p>
+              </div>
+              <div class="col-md-6">
+                <p>La Sierra University</p>
+              </div>
+              <div class="col-md-6">
+                <p>LSU School of Medicine</p>
+              </div>
+              <div class="col-md-6">
+                <p>Mary Kay Inc.</p>
+              </div>
+              <div class="col-md-6">
+                <p>Mayo Clinic Jacksonville</p>
+              </div>
+              <div class="col-md-6">
+                <p>Mayo Clinic Rochester</p>
+              </div>
+              <div class="col-md-6">
+                <p>MD Anderson Cancer Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>Medical University of South Carolina</p>
+              </div>
+              <div class="col-md-6">
+                <p>MedImmune Inc.</p>
+              </div>
+              <div class="col-md-6">
+                <p>Merck & Co.</p>
+              </div>
+              <div class="col-md-6">
+                <p>Minnesota State University Moorhead</p>
+              </div>
+              <div class="col-md-6">
+                <p>Morehouse School of Medicine</p>
+              </div>
+              <div class="col-md-6">
+                <p>National Cancer Institute</p>
+              </div>
+              <div class="col-md-6">
+                <p>National Institute of Environmental Health Science (NIEHS)</p>
+              </div>
+              <div class="col-md-6">
+                <p>National Institutes of Health (NIH)</p>
+              </div>
+              <div class="col-md-6">
+                <p>National Institute for Occupational Safety and Health (NIOSH)</p>
+              </div>
+              <div class="col-md-6">
+                <p>North Carolina Agricultural & Technical State University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Northwestern University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Novo Nordisk</p>
+              </div>
+              <div class="col-md-6">
+                <p>NYU Langone Medical Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>Ohio State University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Omaha VA Medical Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>Oregon Health & Science University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Oregon Med Laser Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>Procter & Gamble Co.</p>
+              </div>
+              <div class="col-md-6">
+                <p>Providence VA Medical Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>Rensselaer Polytechnic Institute</p>
+              </div>
+              <div class="col-md-6">
+                <p>Rhode Island Hospital</p>
+              </div>
+              <div class="col-md-6">
+                <p>Roswell Park Cancer Institute</p>
+              </div>
+              <div class="col-md-6">
+                <p>Rush University Medical Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>Seattle Children's Hospital</p>
+              </div>
+              <div class="col-md-6">
+                <p>Spelman College</p>
+              </div>
+              <div class="col-md-6">
+                <p>St. Louis University</p>
+              </div>
+              <div class="col-md-6">
+                <p>St. Michael's Hospital</p>
+              </div>
+              <div class="col-md-6">
+                <p>Stanford University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Stemnion, Inc.</p>
+              </div>
+              <div class="col-md-6">
+                <p>SUNY Cortland</p>
+              </div>
+              <div class="col-md-6">
+                <p>Temple University School of Medicine</p>
+              </div>
+              <div class="col-md-6">
+                <p>Texas A&M University</p>
+              </div>
+              <div class="col-md-6">
+                <p>The Children's Mercy Hospital</p>
+              </div>
+              <div class="col-md-6">
+                <p>The Commonwealth Medical College</p>
+              </div>
+              <div class="col-md-6">
+                <p>Trauma Research LLC</p>
+              </div>
+              <div class="col-md-6">
+                <p>Trinity Biosystems</p>
+              </div>
+              <div class="col-md-6">
+                <p>U.S. Food and Drug Administration</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Alabama</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of California Davis</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of California Irvine</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of California Los Angeles</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of California San Francisco</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Chicago</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Cincinnati</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Connecticut</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Delaware</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Florida Gainesville</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Hawaii at Manoa</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Illinois at Chicago</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Kentucky</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Louisville</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Michigan</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Minnesota</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Mississippi Medical Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of New Mexico</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Oklahoma Health Sciences Center</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Pennsylvania</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Pittsburgh</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Rhode Island</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Richmond</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of South Alabama College of Medicine</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of South Carolina</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of South Florida Tampa</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Tennessee Knoxville</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Texas</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Texas Health Science Center at San Antonio</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Texas Medical Branch</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Texas Southwestern Medical Branch</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Utah</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Vermont</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Virginia</p>
+              </div>
+              <div class="col-md-6">
+                <p>University of Wisconsin</p>
+              </div>
+              <div class="col-md-6">
+                <p>US Army Center for Environmental Health Research</p>
+              </div>
+              <div class="col-md-6">
+                <p>US Army Dental & Trauma Research Detachment</p>
+              </div>
+              <div class="col-md-6">
+                <p>US Army Institute of Surgical Research</p>
+              </div>
+              <div class="col-md-6">
+                <p>US Army Medical Research Institute of Infectious Disease</p>
+              </div>
+              <div class="col-md-6">
+                <p>VA Greater Los Angeles Healthcare System</p>
+              </div>
+              <div class="col-md-6">
+                <p>VA Medical Center, Dallas</p>
+              </div>
+              <div class="col-md-6">
+                <p>Van Andel Research Institute</p>
+              </div>
+              <div class="col-md-6">
+                <p>Vanderbilt University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Virginia Commonwealth University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Walter Reed Army Institute of Research</p>
+              </div>
+              <div class="col-md-6">
+                <p>Wayne State University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Weill Cornell Medical College</p>
+              </div>
+              <div class="col-md-6">
+                <p>West Virginia University</p>
+              </div>
+              <div class="col-md-6">
+                <p>Womens & Infants Hospital</p>
+              </div>
+              <div class="col-md-6">
+                <p>Yale University</p>
+              </div>
+            </div>
+          </section>
+
         </div><!-- /userCountries -->
     
       </div>
