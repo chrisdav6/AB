@@ -6,12 +6,33 @@
     color: white;
   }
 
+  .orange-title {
+    padding: .5em;
+    background: $orange;
+    display: inline-block;
+    color: #212529;
+  }
+
   .third-title {
     font-size: 1.35rem;
   }
 
   .list-unstyled {
     font-weight: 400;
+  }
+
+  .scratchTable {
+    margin: 4em 0;
+    font-size: 1.15rem;
+
+    .thead-color {
+      background: $orange;
+      color: #212529;
+    }
+
+    th {
+      vertical-align: middle;
+    }
   }
 
   ul {
