@@ -29,6 +29,10 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <?php include_once "includes/navbar.php";?>
     <?php include_once "includes/logo-sm.php";?>
 
+    <!-- map section -->
+    <section id="ecisUsersMap" class="d-none d-md-block"></section>
+    <!-- /map section -->
+
     <section id="ecisUsersHeading" class="text-center text-md-left">
       <div class="container">
         <div class="row">
@@ -48,7 +52,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           research. Does your corner of the world reap what ECIS can sow?
         </p>
 
-        <div class="userLinksContainer d-flex justify-content-center justify-content-md-start flex-wrap">
+        <div class="userLinksContainer d-flex justify-content-center justify-content-md-start flex-wrap d-md-none">
           <a href="#austrailia" class="userLink">Austrailia</a>
           <a href="#austria" class="userLink">Austria</a>
           <a href="#belgium" class="userLink">Belgium</a>
@@ -1121,6 +1125,8 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <script src="public/js/bootstrap.bundle.min.js"></script>
     <script src="public/js/util.js"></script>
     <script src="public/js/smooth-scroll.min.js"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmC0EVoDzAObEIYbWS0tUdioI6dLHhdSQ&callback=initMap" async defer></script>
+    <script src="public/js/ecisUsersMap.js"></script>
     <script src="public/js/scripts.js"></script>
   </body>
 
