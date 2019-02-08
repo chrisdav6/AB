@@ -1115,9 +1115,6 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div>
     </section>
 
-    
-    <?php include_once "includes/footer.php";?>
-
     <!-- Scroll to top -->
     <button class="btn btn-outline-dark" id="scrollBtn"><i class="fas fa-angle-up fa-2x"></i></button>
 
@@ -1125,7 +1122,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <script src="public/js/bootstrap.bundle.min.js"></script>
     <script src="public/js/util.js"></script>
     <script src="public/js/smooth-scroll.min.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBmC0EVoDzAObEIYbWS0tUdioI6dLHhdSQ&callback=initMap" async defer></script>
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByPLn0duvJmhlyjlZeB3nBVVTTL78u4ps&callback=initMap" async defer></script>
     <script src="public/js/ecisUsersMap.js"></script>
     <script src="public/js/scripts.js"></script>
   </body>
