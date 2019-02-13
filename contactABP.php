@@ -36,7 +36,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     </section>
     <!-- /map section -->
 
-    <section id="applicationHeading" class="text-center text-md-left">
+    <section id="contactHeading" class="text-center text-md-left">
       <div class="container">
         <div class="row">
           <div class="col">
@@ -44,7 +44,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <hr class="mt-0">
           </div>
       </div>
-    </section><!-- /applicationsHeading -->
+    </section><!-- /contactHeading -->
 
     <!-- contact Section -->
     <section id="contact" class="py-4">

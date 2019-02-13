@@ -1,7 +1,53 @@
+#contactHeading {
+  margin-top: 3em;
+
+  h1 {
+    font-size: 2rem;
+    padding: .5em 1em;
+    background: $orange;
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
 #map {
   height: 50vh;
   box-shadow: 0px 3px 10px -3px rgba(0,0,0,0.75);
   border-bottom: 1px solid $gray;
+}
+
+#distributorsMap {
+  height: 50vh;
+  box-shadow: 0px 3px 10px -3px rgba(0,0,0,0.75);
+  border-bottom: 1px solid $gray;
+}
+
+.map-text {
+  font-size: .85rem;
+  
+  span {
+    font-weight: 600;
+  }
+  
+  hr {
+    margin: .5em 0;
+  }
+  
+  p {
+    margin-top: .5em;
+    margin-bottom: 0;
+  }
+    
+  .map-link {
+    color: $dark-gray;
+    font-weight: 600;
+    font-size: .85rem;
+
+    &:hover,
+    &:active {
+      text-decoration: none;
+    }
+  }
 }
 
 #contact {
