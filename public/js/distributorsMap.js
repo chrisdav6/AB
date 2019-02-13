@@ -1,7 +1,7 @@
 // Initialize and add the map
 function initMap() {
 
-  var centerMap = { lat: 27.979513, lng: 9.831410 };
+  var centerMap = { lat: 25.979513, lng: 9.831410 };
 
   // Center Map
   var map = new google.maps.Map(document.getElementById('distributorsMap'), { zoom: 3, center: centerMap, scrollwheel: false });
@@ -9,12 +9,22 @@ function initMap() {
   var markers = [
     ['Austrailia, SDR Clinical Technology', -21.517270, 133.668094],
     ['Brazil, BIOProphecy', -9.931470, -50.785254],
-    ['China, BIOProphecy', 35.682732, 103.662959],
+    ['China, Dakewe Biotech Co', 35.682732, 103.662959],
     ['Czech Republic, I.T.A-Intertact s.r.o', 49.802342, 15.038014],
     ['Germany, ibidi GmbH', 51.475423, 10.377814],
     ['India, Labmate', 23.647772, 79.508199],
+    ['Israel, Almog Diagnostic', 31.261726, 34.953094],
+    ['Italy, Origlia Srl - SisLab Line', 43.560405, 12.229838],
+    ['Japan, Nepa Gene Company, Ltd.', 36.987055, 138.438764],
+    ['Korea, LeeBaeg Science Co., Ltd.', 36.858338, 127.988415],
+    ['Malaysia, Precision Technologies', 4.187779, 102.043109],
+    ['Puerto Rico, Audio & Video Pro Caribe', 18.229927, -66.459357],
+    ['Singapore, Precision Technologies', 1.363426, 103.867258],
+    ['Slovakia, I.T.A-Intertact s.r.o', 48.942438, 19.254374],
+    ['Taiwan, Sunpoint Scientific Instrument Co., Ltd.', 23.818453, 121.142053],
+    ['Turkey, aka Biyoteknoloji', 39.523393, 35.371999],
+    ['United Kingdom, ibidi GmbH', 53.791790, -2.178177]
   ];
-
 
   // Info Window Content
   var infoWindowContent = [
@@ -88,8 +98,131 @@ function initMap() {
       '</div>'
     ],
 
+    //Israel
+    [
+      '<div class="map-text">' +
+      '<span>Almog Diagnostic</span><br>' +
+      '<hr>' +
+      'Tel: 972 3 967 3390<br>' +
+      'Attn: Nitsan Levi<br>' +
+      '<p><a class="map-link" href="mailto:nitsan@almog.co.il?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+      '<p class="mt-0"><a class="map-link" href="http://www.almog.co.il" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+      '</div>'
+    ],
 
+    //Italy
+    [
+      '<div class="map-text">' +
+      '<span>Origlia Srl - SisLab Line</span><br>' +
+      '<hr>' +
+      'Tel: 39 02 808 86458<br>' +
+      'Attn: Riccardo Sacco<br>' +
+      '<p><a class="map-link" href="mailto:info@sislab.it?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+      '<p class="mt-0"><a class="map-link" href="http://www.sislab.info" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+      '</div>'
+    ],
 
+    //Japan
+    [
+      '<div class="map-text">' +
+      '<span>Nepa Gene Company, Ltd.</span><br>' +
+      '<hr>' +
+      'Tel: 81 47 306 7222<br>' +
+      'Attn: Suzuki<br>' +
+      '<p class="mt-0"><a class="map-link" href="http://www.nepagene.jp" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+      '</div>'
+    ],
+
+    //Korea
+    [
+      '<div class="map-text">' +
+      '<span>LeeBaeg Science Co., Ltd.</span><br>' +
+      '<hr>' +
+      '<p><a class="map-link" href="mailto:info@lbscience.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+      '<p class="mt-0"><a class="map-link" href="http://www.lbscience.com" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+      '</div>'
+    ],
+
+    //Malaysia
+    [
+      '<div class="map-text">' +
+      '<span>Precision Technologies</span><br>' +
+      '<hr>' +
+      'Tel: (65) 6273-4573<br>' +
+      'Attn: Lim Kian Heng<br>' +
+      '<p class="mt-0"><a class="map-link" href="http://www.pretech.com.sg" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+      '</div>'
+    ],
+
+    //Puerto Rico
+    [
+      '<div class="map-text">' +
+      '<span>Audio & Video Pro Caribe</span><br>' +
+      '<hr>' +
+      'Tel: 787-892-0047<br>' +
+      'Attn: Julio C. Gonzalez<br>' +
+      '<p><a class="map-link" href="mailto:jcgonzalez@avpcaribe.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+      '<p class="mt-0"><a class="map-link" href="http://www.avpcaribe.com" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+      '</div>'
+    ],
+
+    //Singapore
+    [
+      '<div class="map-text">' +
+      '<span>Precision Technologies</span><br>' +
+      '<hr>' +
+      'Tel: (65) 6273-4573<br>' +
+      'Attn: Lim Kian Heng<br>' +
+      '<p class="mt-0"><a class="map-link" href="http://www.pretech.com.sg" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+      '</div>'
+    ],
+
+    // Slovakia
+    [
+      '<div class="map-text">' +
+      '<span>I.T.A-Intertact s.r.o</span><br>' +
+      '<hr>' +
+      'Tel: +420 234 760 838<br>' +
+      'Attn: Lenka Kasalova<br>' +
+      '<p class="mt-0"><a class="map-link" href="http://www.ita-intertact.com" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+      '</div>'
+    ],
+
+    //Taiwan
+    [
+      '<div class="map-text">' +
+      '<span>Sunpoint Scientific Instrument Co., Ltd.</span><br>' +
+      '<hr>' +
+      'Tel: 886 3 3273889<br>' +
+      'Attn: Sunny Tsai<br>' +
+      '<p><a class="map-link" href="mailto:sunny@sunpointworld.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+      '<p class="mt-0"><a class="map-link" href="http://www.sunpointworld.com" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+      '</div>'
+    ],
+
+    //Turkey
+    [
+      '<div class="map-text">' +
+      '<span>aka Biyoteknoloji</span><br>' +
+      '<hr>' +
+      'Tel: +90(0)212 346 2019<br>' +
+      'Attn: Alp Kibaroglu<br>' +
+      '<p><a class="map-link" href="mailto:alpkibaroglu@akabiotech.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+      '<p class="mt-0"><a class="map-link" href="http://www.akabiotech.com" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+      '</div>'
+    ],
+
+    //United Kingdom
+    [
+      '<div class="map-text">' +
+      '<span>ibidi GmbH</span><br>' +
+      '<hr>' +
+      'Tel: 49 89 5204 617391<br>' +
+      'Attn: Dr. Ulf Radler<br>' +
+      '<p><a class="map-link" href="mailto:uraedler@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+      '<p class="mt-0"><a class="map-link" href="http://www.ibidi.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+      '</div>'
+    ],
 
   ];
 

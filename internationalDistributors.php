@@ -134,13 +134,170 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 </address>
               </div>
 
+              <div class="col-md-6 my-4">
+                <h3>Israel</h3>
+                <hr class="mb-4">
+                <h5><a class="text-dark link" href="http://www.almog.co.il" target="_blank">Almog Diagnostic</a></h5>
+                <address>
+                  PO Box 634<br>
+                  Rishon Le Zion<br>
+                  Israel 75103<br>
+                  Tel: 972 3 967 3390<br>
+                  Fax: 972 3 967 3391<br>
+                  Attn: Nitsan Levi<br>
+                  <a class="text-dark link" href="mailto:nitsan@almog.co.il?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                    nitsan@almog.co.il</a>
+                </address>
+              </div>
+
+              <div class="col-md-6 my-4">
+                <h3>Italy</h3>
+                <hr class="mb-4">
+                <h5><a class="text-dark link" href="http://www.sislab.info" target="_blank">Origlia Srl - SisLab Line</a></h5>
+                <address>
+                  Via Cascina Duomo 38<br>
+                  20010 Cornaredo (MI) – Italy<br>
+                  Tel: 39 02 808 86458<br>
+                  Fax: 39 02 928 76689<br>
+                  Attn: Riccardo Sacco<br>
+                  <a class="text-dark link" href="mailto:info@sislab.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                    info@sislab.it</a>
+                </address>
+              </div>
+
+              <div class="col-md-6 my-4">
+                <h3>Japan</h3>
+                <hr class="mb-4">
+                <h5><a class="text-dark link" href="http://www.nepagene.jp" target="_blank">Nepa Gene Company, Ltd.</a></h5>
+                <address>
+                  3-1-6 Shioyaki<br>
+                  Ichikawa, Chiba 272-0114 Japan<br>
+                  Tel: 81 47 306 7222<br>
+                  Fax: 81 47 306 7333<br>
+                  Attn: Suzuki
+                </address>
+              </div>
+
+              <div class="col-md-6 my-4">
+                <h3>Korea</h3>
+                <hr class="mb-4">
+                <h5><a class="text-dark link" href="http://www.lbscience.com" target="_blank">LeeBaeg Science Co., Ltd.</a></h5>
+                <address>
+                  Second Floor<br>
+                  626-1Guam-Dong<br>
+                  YuSung-Gu, Daejeon-City 305-801<br>
+                  <a class="text-dark link" href="mailto:info@lbscience.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                    info@lbscience.com</a>
+                </address>
+              </div>
+
+              <div class="col-md-6 my-4">
+                <h3>Malaysia</h3>
+                <hr class="mb-4">
+                <h5><a class="text-dark link" href="http://www.pretech.com.sg" target="_blank">Precision Technologies</a></h5>
+                <address>
+                  211 Henderson Road #13 - 02<br>
+                  Henderson Industrial Park<br>
+                  Singapore 159552<br>
+                  Tel: (65) 6273-4573<br>
+                  Fax: (65) 6273-8898<br>
+                  Attn: Lim Kian Heng
+                </address>
+              </div>
+
+              <div class="col-md-6 my-4">
+                <h3>Puerto Rico</h3>
+                <hr class="mb-4">
+                <h5><a class="text-dark link" href="http://www.avpcaribe.com" target="_blank">Audio & Video Pro Caribe</a></h5>
+                <address>
+                  J.C. Gonzalez, Inc.<br>
+                  HC 01 Box 8389<br>
+                  San German, P.R. 00683-9714<br>
+                  Tel: 787-892-0047<br>
+                  Fax: 787-264-3816<br>
+                  Attn: Julio C. Gonzalez<br>
+                  <a class="text-dark link" href="mailto:jcgonzalez@avpcaribe.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                    jcgonzalez@avpcaribe.com</a>
+                </address>
+              </div>
+
+              <div class="col-md-6 my-4">
+                <h3>Singapore</h3>
+                <hr class="mb-4">
+                <h5><a class="text-dark link" href="http://www.pretech.com.sg" target="_blank">Precision Technologies</a></h5>
+                <address>
+                  211 Henderson Road #13 - 02<br>
+                  Henderson Industrial Park<br>
+                  Singapore 159552<br>
+                  Tel: (65) 6273-4573<br>
+                  Fax: (65) 6273-8898<br>
+                  Attn: Lim Kian Heng
+                </address>
+              </div>
+
+              <div class="col-md-6 my-4">
+                <h3>Slovakia</h3>
+                <hr class="mb-4">
+                <h5><a class="text-dark link" href="http://www.ita-intertact.com" target="_blank">I.T.A-Intertact s.r.o</a></h5>
+                <address>
+                  Černokostelecká 616/143, 108 00<br>
+                  Praha 10<br>
+                  Czech Republic<br>
+                  Tel: +420 234 760 838<br>
+                  GSM: +420 601 321 094<br>
+                  Attn: Lenka Kasalova
+                </address>
+              </div>
+
+              <div class="col-md-6 my-4">
+                <h3>Taiwan</h3>
+                <hr class="mb-4">
+                <h5><a class="text-dark link" href="http://www.sunpointworld.com" target="_blank">Sunpoint Scientific Instrument Co., Ltd.</a></h5>
+                <address>
+                  6F-2, No. 146, Wen Shing Road<br>
+                  Kwei Shan Hsiang<br>
+                  Taoyuan City 33377 , Taiwan<br>
+                  Tel: 886 3 3273889<br>
+                  Attn: Sunny Tsai<br>
+                  <a class="text-dark link" href="mailto:sunny@sunpointworld.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                    sunny@sunpointworld.com</a>
+                </address>
+              </div>
+
+              <div class="col-md-6 my-4">
+                <h3>Turkey</h3>
+                <hr class="mb-4">
+                <h5><a class="text-dark link" href="http://www.akabiotech.com" target="_blank">aka Biyoteknoloji</a></h5>
+                <address>
+                  Nazmi Akbaci Ticaret Merkezi<br>
+                  No.246 Maslak 34398 ISTANBUL<br>
+                  Tel: +90(0)212 346 2019<br>
+                  Attn: Alp Kibaroglu<br>
+                  <a class="text-dark link" href="mailto:alpkibaroglu@akabiotech.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                    alpkibaroglu@akabiotech.com</a>
+                </address>
+              </div>
+
+              <div class="col-md-6 my-4">
+                <h3>United Kingdom</h3>
+                <hr class="mb-4">
+                <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+                <address>
+                  Am Klopferspitz 19<br>
+                  D-82152 Martinsreid (Munchen)<br>
+                  Tel: 49 89 5204 617391<br>
+                  Fax: 49 89 5204 61759<br>
+                  Attn: Dr. Ulf Radler<br>
+                  <a class="text-dark link" href="mailto:uraedler@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                    uraedler@ibidi.de</a>
+                </address>
+              </div>
+
             </div>
         </div><!-- /distributorsList-->
 
       </div>
     </section><!-- /distributorsContent -->
-
-    
 
     <?php include_once "includes/footer.php";?>
 
