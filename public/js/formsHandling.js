@@ -62,3 +62,65 @@ $("#corporateAPBForm").on("submit", function (event) {
   });
 
 });
+
+
+
+
+
+
+//Referral Form Submit
+$("#referralForm").on("submit", function (event) {
+
+  event.preventDefault();
+
+  let $name = $("#name");
+  let $institution = $("#institution");
+  let $email = $("#email");
+  let $model = $("#model");
+  let $refName = $("#refName");
+  let $refInst = $("#refInst");
+  let $refemail = $("#refemail");
+  let $contactRef = $(".contactRef:checked").val();
+  let $fax = $("#fax"); //Honeypot field
+  let $refContactBtn = $("#refContactBtn");
+
+  if ($fax.val() !== "") {
+    alert("Nice try bot!");
+    return false;
+  }
+
+  //Hide the submit button
+  $refContactBtn.hide();
+  //Show the spinner gif
+  $(".fa-spinner").show();
+
+  //Wait 2 seconds
+  setTimeout(function () {
+    //Hide the spinner gif
+    $(".fa-spinner").hide();
+    //Flash the success message
+    $(".submitMessage").fadeIn("slow").delay(2000).fadeOut("fast", function () {
+      //Show the submit button
+      $refContactBtn.show();
+      //Clear form fields
+      $name.val("");
+      $institution.val("");
+      $email.val("");
+      $model.val("");
+      $refName.val("");
+      $refInst.val("");
+      $refemail.val("");
+    });
+  }, 2000);
+
+  //Send data to php file
+  $.ajax({
+    type: 'POST',
+    url: 'referralProcess.php',
+    data: $('form').serialize(),
+    success: setTimeout(function () {
+      window.location.href = "ecisReferralProgram.php"
+    }, 4000)
+  });
+
+});

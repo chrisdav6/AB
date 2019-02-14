@@ -29,7 +29,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <?php include_once "includes/navbar.php";?>
     <?php include_once "includes/logo-sm.php";?>
 
-    <section id="applicationHeading" class="text-center text-md-left">
+    <section id="companyHeading" class="text-center text-md-left">
       <div class="container">
         <div class="row">
           <div class="col">
@@ -37,7 +37,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <hr class="mt-0">
           </div>
       </div>
-    </section><!-- /applicationsHeading -->
+    </section><!-- /companyHeading -->
 
     
 

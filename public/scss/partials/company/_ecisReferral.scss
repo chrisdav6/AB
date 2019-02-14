@@ -1,0 +1,73 @@
+#ecisReferralHeading {
+  margin-top: 3em;
+
+  h1 {
+    font-size: 2rem;
+    padding: .5em 1em;
+    background: $orange;
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
+#ecisReferralContent {
+  .referralIntro {
+    font-size: 1.35rem;
+    font-weight: 600;
+  }
+
+  .secondary-title {
+    padding: .5em;
+    background: $logo-blue;
+    display: inline-block;
+    color: white;
+  }
+
+  .programDetails {
+    font-size: 1.15rem;
+    padding-left: 20px;
+
+    .indent {
+      margin-bottom: .35em;
+      border-left: 1px solid #d3d3d3;
+
+      @include mq600 {
+        border-left: none;
+      }
+
+      span {
+        display: none;
+
+        @include mq600 {
+          display: inline;
+          font-weight: 600;
+        }
+      }
+    }
+  }
+
+  .programFAQs {
+    font-size: 1.15rem;
+    padding-left: 20px;
+
+    .indent {
+      margin-bottom: .35em;
+      border-left: 1px solid #d3d3d3;
+
+      @include mq600 {
+        border-left: none;
+      }
+
+      span {
+        display: block;
+      }
+    }
+  }
+
+  #refContactBtn {
+    @include mq {
+      width: 100%;
+      display: block;
+    }
+  }
+}
