@@ -29,7 +29,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <?php include_once "includes/navbar.php";?>
     <?php include_once "includes/logo-sm.php";?>
 
-    <section id="applicationHeading" class="text-center text-md-left">
+    <section id="companyHeading" class="text-center text-md-left">
       <div class="container">
         <div class="row">
           <div class="col">
@@ -37,9 +37,78 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <hr class="mt-0">
           </div>
       </div>
-    </section><!-- /applicationsHeading -->
+    </section><!-- /companyHeading -->
 
-   
+    <section id="partnerContent" class="py-4 mb-4">
+      <div class="container text-center text-md-left">
+
+        <div class="company mt-4">
+          <div class="row mb-3">
+            <div class="col-lg-4 col-md-6">
+              <img class="img-fluid" src="public/img/vecTechnologiesLogo.png" alt="VEC Technologies Logo">
+            </div>
+            <div class="col-lg-8 col-md-6 mt-4 mt-md-0">
+              <h3><a href="http://www.vectechnologies.com" class="link text-dark" target="_blank">VEC Technologies Inc.</a></h3>
+              <p>
+                One University Place<br>
+                Rensselaer, NY 12144-3456<br>
+                Tel: 518-257-2010<br>
+                Fax: 518-257-2012
+              </p>
+              <p>
+                VEC Technologies, Inc. is a manufacturer of normal endothelial cells and endothelial cell support products. Their state-of-the-art laboratory
+                facilities are located at the University of Albany's East Campus Biotechnology Incubator Facility in Rensselaer, New York
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="company mt-5">
+          <div class="row mb-3">
+            <div class="col-lg-4 col-md-6">
+              <img class="img-fluid" src="public/img/atccLogo.png" alt="ATCC Logo">
+            </div>
+            <div class="col-lg-8 col-md-6 mt-4 mt-md-0">
+              <h3><a href="https://www.atcc.org" class="link text-dark" target="_blank">ATCC The Global Bioresource Center</a></h3>
+              <p>
+                10801 University Boulevard<br>
+                Manassas, Virginia 20110-2209<br>
+                Tel: 703-365-2723<br>
+                Fax: 703-365-2750
+              </p>
+              <p>
+                ATCC is a private, nonprofit biological resource center (BRC) and research organization whose mission focuses on the acquisition, authentication,
+                production, preservation, development and distribution of standard reference microorganisms, cell lines and other materials for research in the life sciences.
+              </p>
+            </div>
+          </div>
+        </div>
+
+        <div class="company mt-5">
+          <div class="row mb-3">
+            <div class="col-lg-4 col-md-6">
+              <img class="img-fluid" src="public/img/ibidiLogo.png" alt="ibidi Logo">
+            </div>
+            <div class="col-lg-8 col-md-6 mt-4 mt-md-0">
+              <h3><a href="https://ibidi.com" class="link text-dark" target="_blank">Integrated BioDiagnostics</a></h3>
+              <p>
+                Am Klopferspitz 19<br>
+                D-82152 Martinsreid<br>
+                Germany<br>
+                Tel: 49 (0)89 / 2180 64 19<br>
+                Fax: 49 (0)89 / 2180 135 39
+              </p>
+              <p>
+                In partnership with Integrated Biodiagnostics, Applied BioPhysics now offers ibidi µ-Slide. ibidi is a leading supplier for functional cell-based
+                assays and advanced products for cellular microscopy. ibidi is located in Martinsried, Germany, close to Munich and the US headquarters, ibidi USA
+                Inc., is located in Madison, Wisconsin.
+              </p>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
 
     <?php include_once "includes/footer.php";?>
 
