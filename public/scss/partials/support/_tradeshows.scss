@@ -21,6 +21,11 @@
     background: $logo-blue;
     display: inline-block;
     color: white;
+    margin: 0 0 1em 0;
+  }
+
+  .tradeshow-text {
+    margin-bottom: 4em;
   }
 
   .tradeshow-link {
@@ -29,4 +34,5 @@
     font-weight: 600;
     color: #111;
   }
+
 }

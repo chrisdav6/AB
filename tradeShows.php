@@ -40,30 +40,89 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         </div>
     </section><!-- /tradeshowsHeading -->
 
-    <section id="tradeshowsContent" class="py-4 mb-4">
+    <section id="tradeshowsContent" class="py-4 mb-5">
       <div class="container text-center text-md-left">
 
-        <p class="tradeshowIntro mb-1">
-          What better way to learn more about the power of ECIS than joining us at scientific events around the world!
-        </p>
+        <div class="tradeshow-text">
+          <p class="tradeshowIntro mb-1">
+            What better way to learn more about the power of ECIS than joining us at scientific events around the world!
+          </p>
 
-        <p>Below are a list of upcoming shows that Applied BioPhysics will be attending in 2019:</p>
-
-        <h4 class="my-4 secondary-title">March 10-14, 2019</h4>
+          <p>Below are a list of upcoming shows that Applied BioPhysics will be attending in 2019:</p>
+        </div>
 
         <div class="tradeshow">
-          <div class="row align-items-center">
-              <div class="col-lg-4">
-                <img class="img-fluid" src="public/img/SOTMeeting.png" alt="SOT Banner">
-              </div>
-          
-            <div class="col-lg-8">
-              <a href="https://www.toxicology.org/events/am/AM2019" class="tradeshow-link" target="_blank">58th Annual SOT Annual
-                  Meeting - Baltimore, MD</a>
-              <p>More than 80 Scientific Sessions and 2,100 Abstract Presentations</p>
+          <h4 class="secondary-title">March 10-14, 2019</h4>
+          <div class="row">
+            <div class="col-lg-4">
+              <img class="img-fluid mb-3 mb-lg-0" src="public/img/SOTMeeting.png" alt="SOT Banner">
             </div>
-          
-          
+            <div class="col-lg-8">
+              <a href="https://www.toxicology.org/events/am/AM2019" class="tradeshow-link" target="_blank">58th Annual
+                SOT Annual Meeting - Baltimore, MD</a>
+              <p class="mb-0 mt-2">More than 80 Scientific Sessions and 2,100 Abstract Presentations. Continuing
+                Education
+                Courses, Postdoc and Student Activities and Training, and More.</p>
+            </div>
+          </div>
+        </div>
+
+        <hr class="my-5">
+
+        <div class="tradeshow mb-5">
+          <h4 class="secondary-title">March 29 - April 3, 2019</h4>
+          <div class="row">
+            <div class="col-lg-4">
+              <img class="img-fluid mb-3 mb-lg-0" src="public/img/aacrMeeting.png" alt="AACR Banner">
+            </div>
+            <div class="col-lg-8">
+              <a href="https://www.aacr.org/Meetings/Pages/MeetingDetail.aspx?EventItemID=174" class="tradeshow-link"
+                target="_blank">AACR Annual Meeting 2019 - Atlanta, GA</a>
+              <p class="mb-0 mt-2">The AACR Annual Meeting program covers the latest discoveries across the spectrum of
+                cancer research—from population science and prevention; to cancer biology, translational, and clinical
+                studies; to survivorship and advocacy—and highlights the work of the best minds in research and medicine
+                from institutions all over the world.</p>
+            </div>
+          </div>
+        </div>
+
+        <hr class="my-5">
+
+        <div class="tradeshow">
+          <h4 class="secondary-title">April 6-9, 2019</h4>
+          <div class="row">
+            <div class="col-lg-4">
+              <img class="img-fluid mb-3 mb-lg-0" src="public/img/EBMeeting.png" alt="Experimental Biology Banner">
+            </div>
+            <div class="col-lg-8">
+              <a href="https://experimentalbiology.org/2019/home.aspx" class="tradeshow-link"
+                target="_blank">Experimental Biology 2019 - Orlando, FL</a>
+              <p class="mb-0 mt-2">EB is the place to explore the latest cutting edge science in anatomy, biochemistry
+                and
+                molecular biology, investigative pathology, pharmacology, and physiology. Attendees represent scientists
+                from
+                academic institutions, government agencies, non-profit organizations and industry.</p>
+            </div>
+          </div>
+        </div>
+
+        <hr class="my-5">
+
+        <div class="tradeshow">
+          <h4 class="secondary-title">September 8-11, 2019</h4>
+          <div class="row">
+            <div class="col-lg-4">
+              <img class="img-fluid mb-3 mb-lg-0" src="public/img/eurotoxMeeting.png" alt="Eurotox Banner">
+            </div>
+            <div class="col-lg-8">
+              <a href="http://eurotox-congress.com/2019" class="tradeshow-link" target="_blank">EUROTOX 2019 - Helsinki,
+                Finland</a>
+              <p class="mb-0 mt-2">EUROTOX is a Federation of more than 40 European societies of toxicology representing
+                7,500 European toxicologists. The annual congresses rotate from one European country to another
+                providing diversity to the venues and contents of the congress. The number of participants is
+                approximately 1,500.</p>
+            </div>
+          </div>
         </div>
 
       </div>
