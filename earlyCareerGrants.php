@@ -40,7 +40,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         </div>
     </section><!-- /companyHeading -->
 
-    <section id="earlyCareerContent" class="py-4 mb-4">
+    <section id="earlyCareerContent" class="py-4 mb-5">
       <div class="container text-center text-md-left">
 
         <p class="careerIntro mb-4">
