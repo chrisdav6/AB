@@ -16,8 +16,8 @@
                 <a href="#" data-toggle="dropdown" class="submenu-link dropdown-toggle">Instruments</a>
                 <ul class="dropdown-menu">
                   <a class="dropdown-item" href="teer24.php">TEER24 - Barrier Function Measurement System</a>
-                  <a class="dropdown-item" href="#">CP96 - Cell Proliferation Measurement System</a>
-                  <a class="dropdown-item" href="#">ZTheta - 16 or 96 Well Array Station</a>
+                  <a class="dropdown-item" href="cp96.php">CP96 - Cell Proliferation Measurement System</a>
+                  <a class="dropdown-item" href="ztheta.php">ZTheta - 16 or 96 Well Array Station</a>
                 </ul>
               </li>
               <a class="dropdown-item" href="cultureware.php">Cultureware</a>
