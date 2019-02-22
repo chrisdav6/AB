@@ -10,6 +10,21 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav">
           <li class="nav-item dropdown">
+            <a href="#" id="menu" data-toggle="dropdown" class="nav-link dropdown-toggle">Products</a>
+            <ul class="dropdown-menu secondary-dropdown">
+              <li class="dropdown-item dropdown-submenu">
+                <a href="#" data-toggle="dropdown" class="submenu-link dropdown-toggle">Instruments</a>
+                <ul class="dropdown-menu">
+                  <a class="dropdown-item" href="teer24.php">TEER24 - Barrier Function Measurement System</a>
+                  <a class="dropdown-item" href="#">CP96 - Cell Proliferation Measurement System</a>
+                  <a class="dropdown-item" href="#">ZTheta - 16 or 96 Well Array Station</a>
+                </ul>
+              </li>
+              <a class="dropdown-item" href="cultureware.php">Cultureware</a>
+              <a class="dropdown-item" href="options.php">Options</a>
+            </ul>
+          </li>
+          <!-- <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown"
               aria-haspopup="true" aria-expanded="false">Products</a>
             <div class="dropdown-menu">
@@ -17,7 +32,7 @@
               <a class="dropdown-item" href="cultureware.php">Cultureware</a>
               <a class="dropdown-item" href="options.php">Options</a>
             </div>
-          </li>
+          </li> -->
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Applications</a>
             <div class="dropdown-menu">

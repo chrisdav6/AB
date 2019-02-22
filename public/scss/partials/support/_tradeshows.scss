@@ -1,0 +1,32 @@
+#tradeshowsHeading {
+  margin-top: 3em;
+
+  h1 {
+    font-size: 2rem;
+    padding: .5em 1em;
+    background: $orange;
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
+#tradeshowsContent {
+  .tradeshowIntro {
+    font-size: 1.35rem;
+    font-weight: 600;
+  }
+
+  .secondary-title {
+    padding: .5em;
+    background: $logo-blue;
+    display: inline-block;
+    color: white;
+  }
+
+  .tradeshow-link {
+    font-size: 1.35rem;
+    text-decoration: none;
+    font-weight: 600;
+    color: #111;
+  }
+}
