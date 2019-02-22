@@ -1115,6 +1115,8 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div>
     </section>
 
+    <?php include_once "includes/footer.php"; ?>
+
     <!-- Scroll to top -->
     <button class="btn btn-outline-dark" id="scrollBtn"><i class="fas fa-angle-up fa-2x"></i></button>
 
