@@ -124,3 +124,58 @@ $("#referralForm").on("submit", function (event) {
   });
 
 });
+
+
+
+
+
+
+//Request Demo Form Submit
+$("#demoForm").on("submit", function (event) {
+
+  event.preventDefault();
+
+  let $name = $("#name");
+  let $phone = $("#phone");
+  let $email = $("#email");
+  let $message = $("#message");
+  let $fax = $("#fax"); //Honeypot field
+  let $reqDemoBtn = $("#reqDemoBtn");
+
+  if ($fax.val() !== "") {
+    alert("Nice try bot!");
+    return false;
+  }
+
+  //Hide the submit button
+  $reqDemoBtn.hide();
+  //Show the spinner gif
+  $(".fa-spinner").show();
+
+  //Wait 2 seconds
+  setTimeout(function () {
+    //Hide the spinner gif
+    $(".fa-spinner").hide();
+    //Flash the success message
+    $(".submitMessage").fadeIn("slow").delay(2000).fadeOut("fast", function () {
+      //Show the submit button
+      $reqDemoBtn.show();
+      //Clear form fields
+      $name.val("");
+      $phone.val("");
+      $email.val("");
+      $message.val("");
+    });
+  }, 2000);
+
+  //Send data to php file
+  $.ajax({
+    type: 'POST',
+    url: 'demoProcess.php',
+    data: $('form').serialize(),
+    success: setTimeout(function () {
+      window.location.href = "requestDemo.php"
+    }, 4000)
+  });
+
+});
