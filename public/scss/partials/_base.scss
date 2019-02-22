@@ -40,6 +40,17 @@ a.twitter:hover {
   color: #38A1F3;
 }
 
+.ecisBtn {
+  border: 1px solid $orange;
+  color: #fff;
+  background: $orange;
+
+  &:hover {
+    background: #fff;
+    color: $orange;
+  }
+}
+
 #scrollBtn {
   display: none;
   position: fixed;

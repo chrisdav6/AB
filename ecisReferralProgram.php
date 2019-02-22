@@ -184,7 +184,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 <input type="text" class="form-control form-control-lg" name="fax" id="fax">
               </div>
 
-              <button id="refContactBtn" class="btn btn-outline-success btn-lg submit-btn mt-3 ml-auto">Submit</button>
+              <button id="refContactBtn" class="btn ecisBtn btn-lg submit-btn mt-3 ml-auto">Submit</button>
               <i class="fas fa-spinner fa-2x fa-spin mt-4 ml-auto"></i>
               <!--Initially hidden in the css-->
               <span class="submitMessage text-center mt-4 mb-3 ml-auto">Thank you, your referral has been sent</span>
