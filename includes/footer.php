@@ -6,6 +6,7 @@
         <ul class="list-unstyled">
           <li><a href="/">Home</a></li>
           <li><a href="aboutABP.php">About Us</a></li>
+          <li><a href="whatIsECIS.php">What is ECIS?</a></li>
           <li><a href="faqs.php">FAQ's</a></li>
         </ul>
       </div>
@@ -21,8 +22,8 @@
 
       <div class="col-md-3">
         <ul class="list-unstyled">
-          <li><a href="whatIsECIS.php">What is ECIS?</a></li>
           <li><a href="ecisSchool.php">ECIS School</a></li>
+          <li><a href="tradeshows.php">Tradeshows</a></li>
           <li><a href="cellsMeasuredwithECIS.php">Cells Measuresd with ECIS</a></li>
           <li><a href="publications.php">Publications</a></li>
         </ul>
