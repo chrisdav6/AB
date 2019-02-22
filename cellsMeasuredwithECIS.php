@@ -39,7 +39,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div>
     </section><!-- /technologyHeading -->
 
-    <section id="technologyContent" class="py-4 text-center text-md-left">
+    <section id="technologyContent" class="py-4 text-center text-md-left mb-5">
       <div class="container">
 
       <p>A Partial List of Cell Lines Measured with ECIS.  If you have additional cell lines that are not listed and have been used with ECIS, we invite you to submit the information to us for the partial list of cell lines.</p>
