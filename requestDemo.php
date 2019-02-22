@@ -43,9 +43,10 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <section id="requestDemoContent" class="py-4 mb-4">
       <div class="container text-center text-md-left">
         
+        <h2 class="mb-4">Thank you for your interest in ECIS. </h2>
+        
         <p class="requestIntro mb-4">
-          Thank you for your interest in ECIS. Below are a few conditions along with requirements for a successful
-          demonstration.
+          Below are a few conditions along with requirements for a successful demonstration.
         </p>
 
         <p>Applied Biophysics (ABP) agrees to make available an ECIS instrument (Z or Z&theta;) for a 4-week period.</p>
