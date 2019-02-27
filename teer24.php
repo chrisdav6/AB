@@ -94,7 +94,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div>
     </section> <!-- /productCarousel -->
 
-    <section id="productInfo" class="py-5 text-center text-md-left">
+    <section id="productInfo" class="py-5 mb-5 text-center text-md-left">
       <div class="container">
 
         <div class="row">
@@ -179,9 +179,14 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
             <hr class="mt-1">
             <div class="row mt-4">
-              <div class="col-md-3 mr-auto">
-                <a href="public/pdf/ABP_TEER_24_Sheet_PROOF_for_Website.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Data Sheet">
+              <div class="col-md-3 pb-4 pb-md-0">
+                <a href="public/pdf/TEER24DataSheetR4.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Data Sheet">
                   <img class="img-fluid" src="public/img/teer24DataSheet.jpg" alt="Download TEER24 Data Sheet">
+                </a>
+              </div>
+              <div class="col-md-3">
+                <a href="public/pdf/TEER24ManualR3.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Manual">
+                  <img class="img-fluid" src="public/img/teer24Manual.jpg" alt="Download TEER24 Manual">
                 </a>
               </div>
             </div>
