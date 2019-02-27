@@ -25,7 +25,7 @@
           <li><a href="ecisSchool.php">ECIS School</a></li>
           <li><a href="tradeshows.php">Tradeshows</a></li>
           <li><a href="cellsMeasuredwithECIS.php">Cells Measuresd with ECIS</a></li>
-          <li><a href="publications.php">Publications</a></li>
+          <li><a href="publicationsNew.php">Publications</a></li>
         </ul>
       </div>
 

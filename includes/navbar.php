@@ -40,7 +40,7 @@
               <a class="dropdown-item" href="cellProliferation.php">Cell Proliferation</a>
               <a class="dropdown-item" href="cellMigration.php">Cell Migration</a>
               <a class="dropdown-item" href="signalTransduction.php">Signal Transduction</a>
-              <a class="dropdown-item" href="publications.php">Publications</a>
+              <a class="dropdown-item" href="publicationsNew.php">Publications</a>
             </div>
           </li>
           <li class="nav-item dropdown">
