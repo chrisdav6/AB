@@ -125,7 +125,8 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <div class="form-group">
                 <label for="reach">How did you hear about us?</label>
                 <select id="reach" name="reach" class="form-control form-control-lg">
-                  <option selected value="Scientific Journal">Scientific Journal</option>
+                  <option selected value="None">None</option>
+                  <option value="Scientific Journal">Scientific Journal</option>
                   <option value="Trade Show">Trade Show</option>
                   <option value="Colleague">Colleague</option>
                   <option value="Scientific Publication">Scientific Publication</option>
