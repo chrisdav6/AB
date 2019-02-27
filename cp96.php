@@ -26,8 +26,8 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
   <body class="d-flex flex-column">
 
-    <?php include_once "includes/navbar.php"; ?>
-    <?php include_once "includes/logo-sm.php"; ?>
+    <?php include_once "includes/navbar.php";?>
+    <?php include_once "includes/logo-sm.php";?>
 
     <section id="productHeading" class="pb-4 text-center text-md-left">
       <div class="container">
@@ -84,7 +84,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Description</h2>
             <hr class="mt-1">
             <p>
-              The ECIS TEER24 is designed to carry out traditional trans-epithelial/endothelial electrical resistance measurements to monitor the barrier function of cell layers grown on membrane insert filters. Data are collected continuously from up to 24 independent wells and reported as real-time changes in the carrier function of cell layers in ohm-cm.
+              The complete turn-key CP 96 system provides a means to carry out reproducible, label-free, automated cell proliferation measurements. Cell-proliferation is monitored as cells are grown in a normal CO2 issue culture incubator, and data are reported as real-time changes in percent cell coverage.
             </p>
             <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data Sheet</a>
             <a href="#" class="btn btn-success productBtn" role="button">Order Info</a>
@@ -94,7 +94,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div>
     </section> <!-- /productCarousel -->
 
-    <section id="productInfo" class="py-5 text-center text-md-left">
+    <section id="productInfo" class="py-5 mb-5 text-center text-md-left">
       <div class="container">
 
         <div class="row">
@@ -102,34 +102,29 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Overview</h2>
             <hr class="mt-1">
             <p>
-              This system provides repeatable, automated TEER measurements to electrically monitor the barrier function of epithelial and endothelial cells as they are grown on membrane insert filters in 24 independent wells. Data are collectedcontinuously and it reports real-time changes in barrier function of cell layers in ohm-cm<sup>2</sup>.
+              The system is based upon the ECIS (Electric Cell-substrate Impedance Sensing) technology where cells are grown upon electrodes carrying very weak AC signals. In the CP96 instrument, the impedance data is automatically analyzed to directly report percent of cell-substrate coverage.
             </p>
-            <h5 class="mt-4">Biological Benefits</h5>
+            <h5 class="mt-4">System includes:</h5>
             <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-              <li>- Continuous long-term measurement of TEER from under 10 to 10,000 ohm cm2 in up to 24 wells</li>
-              <li>- Uses standard commercially available membrane inserts</li>
-              <li>- Fast barrier function dynamics can be monitored</li>
-              <li>- Accurately measures Endothelial barrier function</li>
-              <li>- Located in incubator for long term experiments</li>
-              <li>- Real time visualization of TEER, control of sampling rate</li>
-              <li>- Multiple samples</li>
-              <li>- Easy sample tracking</li>
-              <li>- Easily sterilizable, disposable array and autoclavable stainless dipping pins</li>
-              <li>- Quantitative data easy to export to third party programs</li>
-              <li>- Create figures and plots of data</li>
+              <li>- 96 channel station located in CO<sup>2</sup> incubator</li>
+              <li>- External control module</li>
+              <li>- Laptop PC</li>
+              <li>- ECIS control, acquisition, and display software</li>
+              <li>- Validation test array</li>
+              <li>- Six 96W20idf consumable electrode arrays</li>
             </ul>
             <p class="mt-4">
-              Non-invasive measurements may be made continuously for days and even weeks. The fixed position of electrodes throughout the measurements eliminates operator variability allowing precise and repeatable measurements of endothelial layers with weak barrier function (&lt;10 ohm-cm<sup>2</sup>). No need to take the station out of the incubator eliminating temperature variations.
+              These non-invasive measurements can be made for days and even weeks with no need to remove the station from the incubator, eliminating unwanted temperature and pH variations.
             </p>
             <p class="mt-4">
-              The TEER24 accepts standard 24 well membrane inserts from any commercial supplier. These are placed in a disposable sterile base plate with addressable electrodes on the well bottom. Once medium and cell suspension are added, an autoclavable array of gold dipping electrodes is inserted and measurements begun. Even with the dipping electrodes in place, the media both in and out of the inner well can be easily reached with standard micropipettes.
+              Compounds affecting cell growth can be introduced before or after the cells have attached to distinguish changes in growth from the ability of the cells to attach to the substrate.
             </p>
           </div>
         </div>
 
         <div class="row mt-5">
           <div class="col">
-            
+
             <ul class="nav nav-tabs" id="myTab" role="tablist">
               <li class="nav-item">
                 <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
@@ -142,23 +137,16 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                   aria-selected="false">Options</a>
               </li>
             </ul>
-            
+
             <div class="tab-content" id="myTabContent">
               <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
                 <p class="mt-4">
                   <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                    <li>- 10 sec/well read rate</li>
-                    <li>- 24 well microplates use standard 6mm filters</li>
-                    <li>- Gold electrodes</li>
-                    <li>- Connects to laptop via USB</li>
-                    <li>- Power: powered from USB output</li>
-                    <li>- 24 well plates are barcoded with unique serial number for tracking</li>
-                    <li>- 24 well dipping assembly is medical grade stainless, can be autoclaved</li>
-                    <li>- Station dimensions 10 x 3 x 15cm</li>
-                    <li>- Power and mode indicator light located on front panel</li>
-                    <li>- Rear panel: USB</li>
-                    <li>- Power: 3 watts</li>
-                    <li>- Windows 10 OS</li>
+                    <li>- Measures reactance at 48Khz</li>
+                    <li>- Power: &lt;1 watt, 12 V dc</li>
+                    <li>- Station: 25.5 x 18 x 4.5 cm, 2.3kg</li>
+                    <li>- Controller: 21.5 x 18 x 4.5 cm, 2kg</li>
+                    <li>- Windows 10</li>
                   </ul>
                 </p>
               </div>
@@ -179,7 +167,12 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
             <hr class="mt-1">
             <div class="row mt-4">
-              <div class="col-md-3 mr-auto">
+              <div class="col-md-3 pb-4 pb-md-0">
+                <a href="public/pdf/ABP_TEER_24_Sheet_PROOF_for_Website.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Data Sheet">
+                  <img class="img-fluid" src="public/img/teer24DataSheet.jpg" alt="Download TEER24 Data Sheet">
+                </a>
+              </div>
+              <div class="col-md-3">
                 <a href="public/pdf/ABP_TEER_24_Sheet_PROOF_for_Website.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Data Sheet">
                   <img class="img-fluid" src="public/img/teer24DataSheet.jpg" alt="Download TEER24 Data Sheet">
                 </a>
@@ -191,7 +184,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div>
     </section>
 
-    <?php include_once "includes/footer.php"; ?>
+    <?php include_once "includes/footer.php";?>
 
     <!-- Scroll to top -->
     <button class="btn btn-outline-dark" id="scrollBtn"><i class="fas fa-angle-up fa-2x"></i></button>
