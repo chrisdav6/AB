@@ -4,7 +4,7 @@ $page_name = 'video';
 include('includes/header.php');
 
 include('dynamic_publications.php');
-include('sidebars/dynamic_publications.php');
+include('includes/sidebars/dynamic_publications.php');
 ?>
 
 
