@@ -56,15 +56,15 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 </ol>
 
                 <div class="carousel-item active">
-                  <img class="d-block w-100" src="public/img/teer24Large.jpg" alt="TEER 24 Barrier Function Measurement System">
+                  <img class="d-block w-100" src="public/img/teer24Large.jpg" alt="TEER24 Barrier Function Measurement System">
                 </div>
 
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="public/img/teer24top.jpg" alt="TEER 24 Barrier Function Measurement System Top View">
+                  <img class="d-block w-100" src="public/img/teer24top.jpg" alt="TEER24 Barrier Function Measurement System Top View">
                 </div>
 
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="public/img/teer24Data.jpg" alt="TEER 24 Barrier Function Measurement System Data">
+                  <img class="d-block w-100" src="public/img/teer24Data.jpg" alt="TEER24 Barrier Function Measurement System Data">
                 </div>
 
               </div>

@@ -56,15 +56,15 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 </ol>
 
                 <div class="carousel-item active">
-                  <img class="d-block w-100" src="public/img/teer24Large.jpg" alt="TEER 24 Barrier Function Measurement System">
+                  <img class="d-block w-100" src="public/img/cp96Large.jpg" alt="CP96 Cell Proliferation Measurement System">
                 </div>
 
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="public/img/teer24top.jpg" alt="TEER 24 Barrier Function Measurement System Top View">
+                  <img class="d-block w-100" src="public/img/cp96Front.jpg" alt="CP96 Cell Proliferation Measurement System Front View">
                 </div>
 
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="public/img/teer24Data.jpg" alt="TEER 24 Barrier Function Measurement System Data">
+                  <img class="d-block w-100" src="public/img/cp96Computer.jpg" alt="CP96 Cell Proliferation Measurement System Computer">
                 </div>
 
               </div>
@@ -168,13 +168,13 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <hr class="mt-1">
             <div class="row mt-4">
               <div class="col-md-3 pb-4 pb-md-0">
-                <a href="public/pdf/ABP_TEER_24_Sheet_PROOF_for_Website.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Data Sheet">
-                  <img class="img-fluid" src="public/img/teer24DataSheet.jpg" alt="Download TEER24 Data Sheet">
+                <a href="public/pdf/CP96DataSheetR2.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download CP96 Data Sheet">
+                  <img class="img-fluid" src="public/img/cp96DataSheet.jpg" alt="Download CP96 Data Sheet">
                 </a>
               </div>
               <div class="col-md-3">
-                <a href="public/pdf/ABP_TEER_24_Sheet_PROOF_for_Website.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Data Sheet">
-                  <img class="img-fluid" src="public/img/teer24DataSheet.jpg" alt="Download TEER24 Data Sheet">
+                <a href="public/pdf/CP96ManualR4.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download CP96 Manual">
+                  <img class="img-fluid" src="public/img/cp96Manual.jpg" alt="Download CP96 Manual">
                 </a>
               </div>
             </div>
