@@ -67,7 +67,7 @@
           </div>
 
           <div class="col-md-4 mb-4 mb-md-0">
-            <a href="tradeshows.php" class="text-dark">
+            <a href="tradeShows.php" class="text-dark">
               <div class="card text-center">
                 <div class="card-body">
                   <h3 class="card-title">Tradeshows</h3>
