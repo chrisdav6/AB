@@ -16,12 +16,9 @@
     font-weight: 600;
   }
 
-  .secondary-title {
-    padding: .5em;
-    background: $logo-blue;
-    display: inline-block;
-    color: white;
-    margin: 0 0 1em 0;
+  .date {
+    text-decoration: underline;
+    margin-bottom: 1em;
   }
 
   .tradeshow-text {

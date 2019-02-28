@@ -52,7 +52,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         </div>
 
         <div class="tradeshow">
-          <h4 class="secondary-title">March 10-14, 2019</h4>
+          <h4 class="date">March 10-14, 2019</h4>
           <div class="row">
             <div class="col-lg-4">
               <img class="img-fluid mb-3 mb-lg-0" src="public/img/SOTMeeting.png" alt="SOT Banner">
@@ -70,7 +70,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         <hr class="my-5">
 
         <div class="tradeshow mb-5">
-          <h4 class="secondary-title">March 29 - April 3, 2019</h4>
+          <h4 class="date">March 29 - April 3, 2019</h4>
           <div class="row">
             <div class="col-lg-4">
               <img class="img-fluid mb-3 mb-lg-0" src="public/img/aacrMeeting.png" alt="AACR Banner">
@@ -89,7 +89,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         <hr class="my-5">
 
         <div class="tradeshow">
-          <h4 class="secondary-title">April 6-9, 2019</h4>
+          <h4 class="date">April 6-9, 2019</h4>
           <div class="row">
             <div class="col-lg-4">
               <img class="img-fluid mb-3 mb-lg-0" src="public/img/EBMeeting.png" alt="Experimental Biology Banner">
@@ -109,7 +109,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         <hr class="my-5">
 
         <div class="tradeshow">
-          <h4 class="secondary-title">September 8-11, 2019</h4>
+          <h4 class="date">September 8-11, 2019</h4>
           <div class="row">
             <div class="col-lg-4">
               <img class="img-fluid mb-3 mb-lg-0" src="public/img/eurotoxMeeting.png" alt="Eurotox Banner">
