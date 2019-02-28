@@ -1,0 +1,39 @@
+#schoolHeading {
+  margin-top: 3em;
+
+  h1 {
+    font-size: 2rem;
+    padding: .5em 1em;
+    background: $orange;
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
+#schoolContent {
+  .schoolIntro {
+    font-size: 1.35rem;
+    font-weight: 600;
+  }
+
+  .nextClass {
+    font-size: 1.25rem;
+    padding: .5em 1em;
+    background: $orange;
+    font-weight: 600;
+    display: inline-block;
+  }
+
+  .schoolList {
+    font-size: 1.15rem;
+  }
+
+  .break {
+    margin: .75em 0;
+    padding: .5em 0;
+  }
+
+  .fees {
+    font-size: .95rem;
+  }
+}
