@@ -56,15 +56,15 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 </ol>
 
                 <div class="carousel-item active">
-                  <img class="d-block w-100" src="public/img/teer24Large.jpg" alt="TEER 24 Barrier Function Measurement System">
+                  <img class="d-block w-100" src="public/img/zThetaLarge1.jpg" alt="ZTheta with 16 Well Array Station">
                 </div>
 
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="public/img/teer24top.jpg" alt="TEER 24 Barrier Function Measurement System Top View">
+                  <img class="d-block w-100" src="public/img/zThetaLarge2.jpg" alt="ZTheta with 96 Well Array Station">
                 </div>
 
                 <div class="carousel-item">
-                  <img class="d-block w-100" src="public/img/teer24Data.jpg" alt="TEER 24 Barrier Function Measurement System Data">
+                  <img class="d-block w-100" src="public/img/zThetaData.jpg" alt="ZTheta System Data">
                 </div>
 
               </div>
@@ -84,7 +84,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Description</h2>
             <hr class="mt-1">
             <p>
-              The ECIS TEER24 is designed to carry out traditional trans-epithelial/endothelial electrical resistance measurements to monitor the barrier function of cell layers grown on membrane insert filters. Data are collected continuously from up to 24 independent wells and reported as real-time changes in the carrier function of cell layers in ohm-cm.
+              The ECIS<sup>®</sup> ZƟ (Z Theta) is our most advanced instrument capable of noninvasively monitoring cell behavior in real-time. The turn-key package consists of a ZƟ System Controller, 16 and/or 96 well Array Station, and computer with integrated software running on Windows or Mac OS. The system also includes our exclusive elevated field mode (EFM) to carry out automated cell migration and electroporation studies.
             </p>
             <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data Sheet</a>
             <a href="#" class="btn btn-success productBtn" role="button">Order Info</a>
@@ -102,27 +102,17 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Overview</h2>
             <hr class="mt-1">
             <p>
-              This system provides repeatable, automated TEER measurements to electrically monitor the barrier function of epithelial and endothelial cells as they are grown on membrane insert filters in 24 independent wells. Data are collectedcontinuously and it reports real-time changes in barrier function of cell layers in ohm-cm<sup>2</sup>.
+              The ECIS<sup>®</sup> ZƟ interprets complex impedance as series resistance and capacitance and reports these values at any AC frequency. Data gathered from confluent cell monolayers at multiple AC frequencies can also be mathematically modeled to present time course changes in three parameters related to actual cell morphology. These parameters include changes in the barrier function (permeability) of the confluent layer, averaged apical and basal membrane capacitance and the close contacts between the basal cell membrane and the cell substrate.
             </p>
-            <h5 class="mt-4">Biological Benefits</h5>
+            <h5 class="mt-4">System includes:</h5>
             <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-              <li>- Continuous long-term measurement of TEER from under 10 to 10,000 ohm cm2 in up to 24 wells</li>
-              <li>- Uses standard commercially available membrane inserts</li>
-              <li>- Fast barrier function dynamics can be monitored</li>
-              <li>- Accurately measures Endothelial barrier function</li>
-              <li>- Located in incubator for long term experiments</li>
-              <li>- Real time visualization of TEER, control of sampling rate</li>
-              <li>- Multiple samples</li>
-              <li>- Easy sample tracking</li>
-              <li>- Easily sterilizable, disposable array and autoclavable stainless dipping pins</li>
-              <li>- Quantitative data easy to export to third party programs</li>
-              <li>- Create figures and plots of data</li>
+              <li>- Include Items</li>
             </ul>
             <p class="mt-4">
-              Non-invasive measurements may be made continuously for days and even weeks. The fixed position of electrodes throughout the measurements eliminates operator variability allowing precise and repeatable measurements of endothelial layers with weak barrier function (&lt;10 ohm-cm<sup>2</sup>). No need to take the station out of the incubator eliminating temperature variations.
+              These non-invasive measurements can be made for days and even weeks with no need to remove the station from the incubator, eliminating unwanted temperature and pH variations.
             </p>
             <p class="mt-4">
-              The TEER24 accepts standard 24 well membrane inserts from any commercial supplier. These are placed in a disposable sterile base plate with addressable electrodes on the well bottom. Once medium and cell suspension are added, an autoclavable array of gold dipping electrodes is inserted and measurements begun. Even with the dipping electrodes in place, the media both in and out of the inner well can be easily reached with standard micropipettes.
+              Compounds affecting cell growth can be introduced before or after the cells have attached to distinguish changes in growth from the ability of the cells to attach to the substrate.
             </p>
           </div>
         </div>
@@ -147,18 +137,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
                 <p class="mt-4">
                   <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                    <li>- 10 sec/well read rate</li>
-                    <li>- 24 well microplates use standard 6mm filters</li>
-                    <li>- Gold electrodes</li>
-                    <li>- Connects to laptop via USB</li>
-                    <li>- Power: powered from USB output</li>
-                    <li>- 24 well plates are barcoded with unique serial number for tracking</li>
-                    <li>- 24 well dipping assembly is medical grade stainless, can be autoclaved</li>
-                    <li>- Station dimensions 10 x 3 x 15cm</li>
-                    <li>- Power and mode indicator light located on front panel</li>
-                    <li>- Rear panel: USB</li>
-                    <li>- Power: 3 watts</li>
-                    <li>- Windows 10 OS</li>
+                    <li>- Specs</li>
                   </ul>
                 </p>
               </div>
@@ -179,9 +158,14 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
             <hr class="mt-1">
             <div class="row mt-4">
-              <div class="col-md-3 mr-auto">
-                <a href="public/pdf/ABP_TEER_24_Sheet_PROOF_for_Website.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Data Sheet">
-                  <img class="img-fluid" src="public/img/teer24DataSheet.jpg" alt="Download TEER24 Data Sheet">
+              <div class="col-md-3 pb-4 pb-md-0">
+                <a href="public/pdf/CP96DataSheetR2.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ZTheta Data Sheet">
+                  <img class="img-fluid" src="public/img/cp96DataSheet.jpg" alt="Download CP96 Data Sheet">
+                </a>
+              </div>
+              <div class="col-md-3">
+                <a href="public/pdf/CP96ManualR4.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ZTheta Manual">
+                  <img class="img-fluid" src="public/img/cp96Manual.jpg" alt="Download CP96 Manual">
                 </a>
               </div>
             </div>
