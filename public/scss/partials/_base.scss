@@ -51,6 +51,13 @@ a.twitter:hover {
   }
 }
 
+.secondary-title {
+  padding: .5em;
+  background: $logo-blue;
+  display: inline-block;
+  color: white;
+}
+
 #scrollBtn {
   display: none;
   position: fixed;
