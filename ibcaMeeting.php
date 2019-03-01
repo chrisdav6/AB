@@ -29,7 +29,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <?php include_once "includes/navbar.php";?>
     <?php include_once "includes/logo-sm.php";?>
 
-    <section id="applicationHeading" class="text-center text-md-left">
+    <section id="ibcaHeading" class="text-center text-md-left">
       <div class="container">
         <div class="row">
           <div class="col">
@@ -37,9 +37,62 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <hr class="mt-0">
           </div>
       </div>
-    </section><!-- /applicationsHeading -->
+    </section><!-- /ibcaHeading -->
 
-    
+    <section id="ibcaContent" class="py-4 mb-5">
+      <div class="container text-center text-md-left">
+
+        <p class="mb-5">
+          A new tradition began in 2011 with the first "Impedance Based Cellular Assays Meeting" held in Regensburg, Germany. The
+          purpose of these meetings is to share ideas and research discoveries of all people using impedance-based methods to
+          develop cellular assays.
+        </p>
+
+        <div class="row text-center">
+          <div class="col-lg-4 col-md-6 mb-4">
+            <a href="http://www.ibca2018.net" class="text-dark ibcaLink" target="_blank">
+              <div class="card">
+                <img src="public/img/ibca2018.jpg" class="card-img-top" alt="IBCA Meeting 2018">
+                <div class="card-body">
+                  <h5 class="card-title mb-0">2018</h5>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <a href="http://www.ibca2016.net" class="text-dark ibcaLink" target="_blank">
+              <div class="card">
+                <img src="public/img/ibca2016.jpg" class="card-img-top" alt="IBCA Meeting 2016">
+                <div class="card-body">
+                  <h5 class="card-title mb-0">2016</h5>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <a href="http://www.ibca2013.net" class="text-dark ibcaLink" target="_blank">
+              <div class="card">
+                <img src="public/img/ibca2013.jpg" class="card-img-top" alt="IBCA Meeting 2013">
+                <div class="card-body">
+                  <h5 class="card-title mb-0">2013</h5>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div class="col-lg-4 col-md-6 mb-4">
+            <a href="http://www.ibca2011.net" class="text-dark ibcaLink" target="_blank">
+              <div class="card">
+                <img src="public/img/ibca2011.jpg" class="card-img-top" alt="IBCA Meeting 2011">
+                <div class="card-body">
+                  <h5 class="card-title mb-0">2011</h5>
+                </div>
+              </div>
+            </a>
+          </div>
+        </div>
+
+      </div>
+    </section><!-- /ibcaContent -->
 
     <?php include_once "includes/footer.php";?>
 

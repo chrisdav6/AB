@@ -1,0 +1,28 @@
+#ibcaHeading {
+  margin-top: 3em;
+
+  h1 {
+    font-size: 2rem;
+    padding: .5em 1em;
+    background: $orange;
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
+#ibcaContent {
+  .ibcaLink {
+    text-decoration: none;
+  }
+
+  .card {
+    border: 1px solid $orange;
+    font-weight: 700;
+    transition: .3s;
+
+    &:hover {
+      background: $orange;
+      color: #fff;
+    }
+  }
+}
