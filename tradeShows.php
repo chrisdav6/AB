@@ -51,7 +51,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           <p>Below are a list of upcoming shows that Applied BioPhysics will be attending in 2019:</p>
         </div>
 
-        <div class="tradeshow">
+        <div class="tradeshow mb-5">
           <h4 class="date">March 10-14, 2019</h4>
           <div class="row">
             <div class="col-lg-4">
@@ -88,7 +88,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
         <hr class="my-5">
 
-        <div class="tradeshow">
+        <div class="tradeshow mb-5">
           <h4 class="date">April 6-9, 2019</h4>
           <div class="row">
             <div class="col-lg-4">
@@ -108,7 +108,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
         <hr class="my-5">
 
-        <div class="tradeshow">
+        <div class="tradeshow mb-5">
           <h4 class="date">September 8-11, 2019</h4>
           <div class="row">
             <div class="col-lg-4">

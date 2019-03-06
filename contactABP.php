@@ -47,7 +47,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     </section><!-- /contactHeading -->
 
     <!-- contact Section -->
-    <section id="contact" class="py-4">
+    <section id="contact" class="py-4 mb-5">
       <div class="container">
         
         <div class="row mb-4 text-center text-md-left">
@@ -166,7 +166,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             </div>
           </div>
 
-          <div class="row my-5">
+          <div class="row mt-5">
             <div class="col d-flex flex-column">
               <div class="form-group">
                 <label for="techQuestions" class="text-left">I have technical questions on...</label>

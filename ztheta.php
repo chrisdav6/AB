@@ -94,7 +94,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div>
     </section> <!-- /productCarousel -->
 
-    <section id="productInfo" class="py-5 text-center text-md-left">
+    <section id="productInfo" class="py-5 mb-5 text-center text-md-left">
       <div class="container">
 
         <div class="row">

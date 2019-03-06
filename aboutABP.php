@@ -39,10 +39,10 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div>
     </section><!-- /companyHeading -->
 
-    <section id="companyContent" class="py-4">
+    <section id="companyContent" class="py-4 mb-5">
       <div class="container text-center text-md-left">
 
-        <div class="row mb-5">
+        <div class="row">
 
           <div class="col-md-3">
             <div class="list-group mb-5" id="list-tab" role="tablist">

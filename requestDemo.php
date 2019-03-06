@@ -40,7 +40,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         </div>
     </section><!-- /contactHeading -->
 
-    <section id="requestDemoContent" class="py-4 mb-4">
+    <section id="requestDemoContent" class="py-4 mb-5">
       <div class="container text-center text-md-left">
         
         <h2 class="mb-4">Thank you for your interest in ECIS. </h2>
@@ -75,7 +75,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
         <h4 class="mt-5 mb-4 secondary-title">Request Demo Form</h4>
 
-        <form action="demoProcess.php" method="post" id="demoForm" class="mb-5">
+        <form action="demoProcess.php" method="post" id="demoForm">
         
           <div class="row">
             <div class="col-md-4">

@@ -42,7 +42,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         </div>
     </section><!-- /ecisReferralHeading -->
 
-    <section id="ecisReferralContent" class="py-4">
+    <section id="ecisReferralContent" class="py-4 mb-5">
       <div class="container text-center text-md-left">
 
         <p class="referralIntro mb-4">
@@ -113,7 +113,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
         <h4 class="mt-5 mb-4 secondary-title">Referral Form</h4>
 
-        <form action="referralProcess.php" method="post" id="referralForm" class="mb-5">
+        <form action="referralProcess.php" method="post" id="referralForm">
 
           <div class="row">
             <div class="col-md-6">
