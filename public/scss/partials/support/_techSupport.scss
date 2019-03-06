@@ -11,5 +11,29 @@
 }
 
 #techSupportContent {
-  
+
+  .supportDocs {
+    a {
+      position: relative;
+      left: 0;
+      transition: left .3s;
+
+      &:hover {
+        left: 5px;
+      }
+    }
+
+    i {
+      font-size: 1.5rem;
+    }
+
+    .fa-file-pdf {
+      color: red;
+    }
+
+    .fa-video {
+      color: $orange;
+    }
+  }
+
 }
