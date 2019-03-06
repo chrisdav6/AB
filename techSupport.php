@@ -29,17 +29,38 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <?php include_once "includes/navbar.php";?>
     <?php include_once "includes/logo-sm.php";?>
 
-    <section id="applicationHeading" class="text-center text-md-left">
+    <section id="techSupportHeading" class="text-center text-md-left">
       <div class="container">
         <div class="row">
           <div class="col">
-            <h1 class="mb-0">Tech Support</h1>
+            <h1 class="mb-0">Technical Support</h1>
             <hr class="mt-0">
           </div>
       </div>
-    </section><!-- /applicationsHeading -->
+    </section><!-- /techSupportHeading -->
 
-    
+    <section id="techSupportContent" class="py-4 mb-5">
+      <div class="container text-center text-md-left">
+
+        <div class="row">
+          <div class="col-md-6">
+            <p>
+              At Applied BioPhysics we understand that the journey of scientific research can be a very bumpy endeavor. That’s why we
+              want to make sure that using the ECIS technology is a smooth, hassle-free process from beginning to end by providing
+              manuals, journal articles, videos, and even user notes to aid in your travels on the road to discovery.
+            </p>
+          </div>
+          <div class="col-md-6">
+            <img class="img-fluid" src="public/img/techSupportArray.jpg" alt="Applied BioPhysics Array">
+          </div>
+        </div>
+
+        <h4 class="mt-5 mb-4 secondary-title">Manuals</h4>
+
+        <p><a href="public/pdf/ECIS_Operation_Manual_v1_2_123.pdf" class="link text-dark" target="_blank">ECIS Operation Manual</a></p>
+        
+      </div>
+    </section><!-- /techSupportContent -->
 
     <?php include_once "includes/footer.php";?>
 
