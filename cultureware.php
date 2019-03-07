@@ -296,7 +296,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           All arrays can be ordered without upper chambers (NC). Gold films are transparent and the upper chambers can be removed following ECIS measurements to facilitate staining including fluorescence measurements.
         </p>
 
-        <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
+        <div class="mt-5 array-title d-flex flex-column flex-md-row align-items-center">
           <h4 class="mb-0 secondary-title">96 Well Array Specifications</h4><a class="arrayTitleLink" href="public/pdf/96WellArrays.pdf" target="_blank">96 Well Array List</a>
         </div>
 
@@ -326,7 +326,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
 
-        <hr class="mb-5">
+        <hr>
 
         <!-- 96W10idf -->
         <div id="96W10idf" class="array">
@@ -351,7 +351,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
 
-        <hr class="mb-5">
+        <hr>
 
         <!-- 96W20idf -->
         <div id="96W20idf" class="array">
@@ -374,7 +374,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
 
-        <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
+        <div class="array-title d-flex flex-column flex-md-row align-items-center">
           <h4 class="mb-0 secondary-title">Standard 8 Well Array Specifications</h4><a class="arrayTitleLink" href="public/pdf/8WellArrays.pdf" target="_blank">Standard 8 Well Array List</a>
         </div>
 
@@ -400,7 +400,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
 
-        <hr class="mb-5">
+        <hr>
 
         <!-- 8W10E PET or PC -->
         <div id="8W10E" class="array">
@@ -425,7 +425,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
         
-        <hr class="mb-5">
+        <hr>
 
         <!-- 8W10E+ PET or PC -->
         <div id="8W10EPlus" class="array">
@@ -454,7 +454,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
         
-        <hr class="mb-5">
+        <hr>
 
         <!-- 8W20idf PET -->
         <div id="8W20idf" class="array">
@@ -478,7 +478,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
 
-        <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
+        <div class="array-title d-flex flex-column flex-md-row align-items-center">
           <h4 class="mb-0 secondary-title">Specialty Array Specifications</h4><!--<a class="arrayTitleLink" href="public/pdf/8WellArrays.pdf" target="_blank">Specialty Array List</a>-->
         </div>
 
@@ -507,7 +507,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
 
-        <hr class="mb-5">
+        <hr>
 
         <!-- 8W1CXE PET or PC -->
         <div id="8W1CXE" class="array">
@@ -532,7 +532,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
         
-        <hr class="mb-5">
+        <hr>
 
         <!-- 8W2LE PET or PC -->
         <div id="8W2LE" class="array">
@@ -552,7 +552,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
         
-        <hr class="mb-5">
+        <hr>
 
         <!-- 8Wµ1E+ PET or PC -->
         <div id="8WU1EPlus" class="array">
@@ -576,7 +576,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
         
-        <hr class="mb-5">
+        <hr>
 
         <!-- 2W4x10E PC -->
         <div id="2W4x10E" class="array">
@@ -602,7 +602,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
         
-        <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
+        <div class="array-title d-flex flex-column flex-md-row align-items-center">
           <h4 class="mb-0 secondary-title">Flow Array Specifications</h4><!--<a class="arrayTitleLink" href="public/pdf/8WellArrays.pdf" target="_blank">Specialty Array List</a>-->
         </div>
 
@@ -633,7 +633,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
 
-        <hr class="mb-5">
+        <hr>
 
         <!-- 1F8x10E PC -->
         <div id="1F8x10E" class="array">
@@ -662,7 +662,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
         
-        <hr class="mb-5">
+        <hr>
 
         <!-- 6F1E PC -->
         <div id="6F1E" class="array">
@@ -691,7 +691,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
         
-        <hr class="mb-5">
+        <hr>
 
         <!-- 6F10E PC -->
         <div id="6F10E" class="array">
@@ -720,7 +720,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
         
-        <hr class="mb-5">
+        <hr>
 
         <!-- 1F2Y8x10E PC -->
         <div id="1F2Y8x10E" class="array">
