@@ -113,28 +113,28 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             </thead>
             <tbody>
               <tr class="odd">
-                <th scope="row">8W1E PET or PC</th>
+                <th scope="row"><a class="arrayLink" href="#8W1E">8W1E PET or PC</a></th>
                 <td>1</td>
                 <td>0.049</td>
                 <td>50-100</td>
                 <td>600</td>
               </tr>
               <tr class="even">
-                <th scope="row">8W10E PET or PC</th>
+                <th scope="row"><a class="arrayLink" href="#8W10E">8W10E PET or PC</a></th>
                 <td>10</td>
                 <td>0.49</td>
                 <td>500-1000</td>
                 <td>600</td>
               </tr>
               <tr class="odd">
-                <th scope="row">8W10E+ PET or PC</th>
+                <th scope="row"><a class="arrayLink" href="#8W10EPlus">8W10E+ PET or PC</a></th>
                 <td>40</td>
                 <td>1.96</td>
                 <td>2000-4000</td>
                 <td>600</td>
               </tr>
               <tr class="even">
-                <th scope="row">8W20idf PET</th>
+                <th scope="row"><a class="arrayLink" href="#8W20idf">8W20idf PET</a></th>
                 <td>idf</td>
                 <td>3.985</td>
                 <td>4000-8000</td>
@@ -371,6 +371,110 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <li>- Detection of invasion of endothelial cell layers by metastatic cells</li>
             <li>- Barrier Function</li>
             <li>- Cell Proliferation</li>
+          </ul>
+        </div><!-- /array -->
+
+        <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
+          <h4 class="mb-0 secondary-title">Standard 8 Well Array Specifications</h4><a class="arrayTitleLink" href="public/pdf/8WellArrays.pdf" target="_blank">Standard 8 Well Array List</a>
+        </div>
+
+        <!-- 8W1E PET or PC -->
+        <div id="8W1E" class="array">
+          <h4>8W1E PET or PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/8W1E.jpg" alt="ECIS 8W1E PET or PC Array">
+            </div>
+          </div>
+          <p>
+            Each of the 8 wells contains a single circular 250μm diameter active electrode. Each well has a substrate area of 0.8 cm<sup>2</sup> and a maximum volume of 600μL. On average, with a confluent cell layer, approximately 50 to 100 cells will be measured by the electrode, but even a single cell can be observed.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Barrier Function</li>
+            <li>- Signal Transduction Assays</li>
+            <li>- Cell Invasion</li>
+            <li>- In situ Cell Electroporation and Monitoring</li>
+            <li>- Cell Migration / Wound Healing</li>
+            <li>- Correlated Microscopy and ECIS Experiments</li>
+          </ul>
+        </div><!-- /array -->
+
+        <hr class="mb-5">
+
+        <!-- 8W10E PET or PC -->
+        <div id="8W10E" class="array">
+          <h4>8W10E PET or PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/8W10E.jpg" alt="ECIS 8W10E PET or PC Array">
+            </div>
+          </div>
+          <p>
+            Each of the 8 wells contains ten circular 250 μm diameter active electrodes connected in parallel on a common gold pad. Each well has a substrate area of 0.8 cm<sup>2</sup> and a maximum volume of 600 μL. On average, with a confluent cell layer, approximately 500 to 1000 cells will be measured by the electrodes.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Cell Attachment and Spreading</li>
+            <li>- Cell Proliferation</li>
+            <li>- Cell Differentiation</li>
+            <li>- Barrier Function</li>
+            <li>- Signal Transduction Assays</li>
+            <li>- Cell Invasion</li>
+            <li>- Cytotoxicity</li>
+          </ul>
+        </div><!-- /array -->
+        
+        <hr class="mb-5">
+
+        <!-- 8W10E+ PET or PC -->
+        <div id="8W10EPlus" class="array">
+          <h4>8W10E+ PET or PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/8W10E+.jpg" alt="ECIS 8W10E+ PET or PC Array">
+            </div>
+          </div>
+          <p>
+            Each of the 8 wells has two sets of 20 circular 250 μm diameter active electrodes located on inter-digitated fingers to provide measurements of cells upon a total of 40 electrodes. Each well has a substrate area of 0.8 cm<sup>2</sup> and a maximum volume of 600 μL. On average, with a confluent layer, approximately 2000 to 4000 cells will be measured by the electrodes.
+          </p>
+          <p>
+            The 10E+ arrays are designed to monitor larger numbers of cells, sampling over the entire bottom of the well. Because of the relatively high number of cells, impedance fluctuations due to micromotion are smoothed out and do not obscure subtle changes in impedance due to the experimental conditions.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Cell Attachment and Spreading</li>
+            <li>- Cell Proliferation</li>
+            <li>- Cell Differentiation</li>
+            <li>- Cell-ECM Protein Interactions</li>
+            <li>- Barrier Function</li>
+            <li>- Signal Transduction Assays</li>
+            <li>- Cell Invasion</li>
+            <li>- Cytotoxicity</li>
+          </ul>
+        </div><!-- /array -->
+        
+        <hr class="mb-5">
+
+        <!-- 8W20idf PET -->
+        <div id="8W20idf" class="array">
+          <h4>8W20idf PET</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/8WCP.jpg" alt="ECIS 8W20idf PET Array">
+            </div>
+          </div>
+          <p>
+            Each of the 8 wells has a total electrode area of 3.985mm<sup>2</sup> located on inter-digitated fingers to provide measurements of cells. Each well has a substrate area of 0.8cm<sup>2</sup> and a maximum volume of 600 μL. On average, with a confluent layer, approximately 4000 to 8000 cells will be measured by the electrodes.
+          </p>
+          <p>
+            The 8W20idf PET arrays are designed to monitor larger numbers of cells, sampling over the entire bottom of the well. Because of the relatively high number of cells, impedance fluctuations due to micromotion are smoothed out and do not obscure subtle changes in impedance due to the experimental conditions.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Cell Attachment and Spreading</li>
+            <li>- Cell Proliferation</li>
+            <li>- Cytotoxicity</li>
           </ul>
         </div><!-- /array -->
         
