@@ -53,7 +53,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         <div class="culturewareTables my-5">
 
           <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
-            <h4 class="mb-0 secondary-title">96 Well Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/96-well-arrays" target="_blank">Shop for 96 Well Arrays</a>
+            <h4 class="mb-0 secondary-title">96 Well Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/96-well-arrays" target="_blank"><i class="fas fa-shopping-cart mr-1"></i> Shop for 96 Well Arrays</a>
           </div>
 
           <table class="table table-bordered table-responsive-sm">
@@ -92,7 +92,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </table>
 
           <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
-            <h4 class="mb-0 secondary-title">Standard 8 Well Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/8-well-arrays" target="_blank">Shop for 8 Well Arrays</a>
+            <h4 class="mb-0 secondary-title">Standard 8 Well Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/8-well-arrays" target="_blank"><i class="fas fa-shopping-cart mr-1"></i> Shop for 8 Well Arrays</a>
           </div>
 
           <table class="table table-bordered table-responsive-sm">
@@ -144,7 +144,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </table>
 
           <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
-            <h4 class="mb-0 secondary-title">Specialty Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/specialty-arrays" target="_blank">Shop for Specialty Arrays</a>
+            <h4 class="mb-0 secondary-title">Specialty Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/specialty-arrays" target="_blank"><i class="fas fa-shopping-cart mr-1"></i> Shop for Specialty Arrays</a>
           </div>
 
           <table class="table table-bordered table-responsive-sm">
@@ -199,7 +199,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </table>
 
           <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
-            <h4 class="mb-0 secondary-title">Flow Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/flow-arrays" target="_blank">Shop for Flow Arrays</a>
+            <h4 class="mb-0 secondary-title">Flow Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/flow-arrays" target="_blank"><i class="fas fa-shopping-cart mr-1"></i> Shop for Flow Arrays</a>
           </div>
           
           <table class="table table-bordered table-responsive-sm">
@@ -217,7 +217,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             </thead>
             <tbody>
               <tr class="odd">
-                <th scope="row">1F8x1E PC</th>
+                <th scope="row"><a class="arrayLink" href="#1F8x1E">1F8x1E PC</a></th>
                 <td>8x1 (1 channel)</td>
                 <td>0.049</td>
                 <td>50-100</td>
@@ -225,7 +225,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 <td>0.36 x 5</td>
               </tr>
               <tr class="even">
-                <th scope="row">1F8x10E PC</th>
+                <th scope="row"><a class="arrayLink" href="#1F8x10E">1F8x10E PC</a></th>
                 <td>8x10 (1 channel)</td>
                 <td>0.49</td>
                 <td>500-1000</td>
@@ -233,7 +233,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 <td>0.36 x 5</td>
               </tr>
               <tr class="odd">
-                <th scope="row">6F1E PC</th>
+                <th scope="row"><a class="arrayLink" href="#6F1E">6F1E PC</a></th>
                 <td>1 (6 channels)</td>
                 <td>0.049</td>
                 <td>50-100</td>
@@ -241,7 +241,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 <td>0.66 x 5</td>
               </tr>
               <tr class="even">
-                <th scope="row">6F10E PC</th>
+                <th scope="row"><a class="arrayLink" href="#6F10E">6F10E PC</a></th>
                 <td>10 (6 channels)</td>
                 <td>0.49</td>
                 <td>500-1000</td>
@@ -249,7 +249,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 <td>0.66 x 5</td>
               </tr>
               <tr class="odd">
-                <th scope="row">1F2Y8x10E PC</th>
+                <th scope="row"><a class="arrayLink" href="#1F2Y8x10E">1F2Y8x10E PC</a></th>
                 <td>8x4x2 (30&45 degree sides**)</td>
                 <td>0.49</td>
                 <td>500-1000</td>
@@ -602,8 +602,148 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </ul>
         </div><!-- /array -->
         
-        
+        <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
+          <h4 class="mb-0 secondary-title">Flow Array Specifications</h4><!--<a class="arrayTitleLink" href="public/pdf/8WellArrays.pdf" target="_blank">Specialty Array List</a>-->
+        </div>
 
+        <!-- 1F8x1E PC -->
+        <div id="1F8x1E" class="array">
+          <h4>1F8x1E PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/1E-flow-array.jpg" alt="ECIS 1F8x1E PC Array">
+            </div>
+          </div>
+          <p>
+            This is a specialized Flow array having 8 active 250 μm diameter electrodes (each measuring from 50-100 cells) located in the central region at the base of a flow channel measuring 50mm in length 5mm in width and available in 0.36mm in height with a total channel volume of 90 μL.
+          </p>
+          <p>
+            Our flow arrays are designed for ECIS measurements of cells under perfused conditions or to mimic the shear stress endothelial cells experience in vivo or under flow mimicking the shear stress endothelial cells experience in vivo.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Barrier Function</li>
+            <li>- Signal Transduction Assays</li>
+            <li>- Cell Invasion</li>
+            <li>- In situ Cell Electroporation and Monitoring</li>
+            <li>- Cell Migration / Wound Healing</li>
+            <li>- Cell Proliferation</li>
+            <li>- Cell Differentiation</li>
+            <li>- Cytotoxicity</li>
+          </ul>
+        </div><!-- /array -->
+
+        <hr class="mb-5">
+
+        <!-- 1F8x10E PC -->
+        <div id="1F8x10E" class="array">
+          <h4>1F8x10E PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/10E-flow-array.jpg" alt="ECIS 1F8x10E PC Array">
+            </div>
+          </div>
+          <p>
+            This is a specialized Flow array having 8 sets of 10 active 250 μm diameter electrodes (each measuring from 500-1000 cells) located in the central region at the base of a flow channel measuring 50mm in length 5mm in width and available in 0.36 mm in height with a total channel volume of 90 μL.
+          </p>
+          <p>
+            Our flow arrays are designed for ECIS measurements of cells under perfused conditions or to mimic the shear stress endothelial cells experience in vivo or under flow mimicking the shear stress endothelial cells experience in vivo.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Barrier Function</li>
+            <li>- Signal Transduction Assays</li>
+            <li>- Cell Invasion</li>
+            <li>- In situ Cell Electroporation and Monitoring</li>
+            <li>- Cell Migration / Wound Healing</li>
+            <li>- Cell Proliferation</li>
+            <li>- Cell Differentiation</li>
+            <li>- Cytotoxicity</li>
+          </ul>
+        </div><!-- /array -->
+        
+        <hr class="mb-5">
+
+        <!-- 6F1E PC -->
+        <div id="6F1E" class="array">
+          <h4>6F1E PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/6F1E-flow-array.jpg" alt="ECIS 6F1E PC Array">
+            </div>
+          </div>
+          <p>
+            This flow array allows 6 independent flow assays to be run simultaneously. The channels are 0.66mm in height and 5mm wide with 1 active 250 μm diameter electrode (measuring from 50-100 cells) per channel.
+          </p>
+          <p>
+            Each channel has a 45 μL volume with 60 μL reservoirs.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Barrier Function</li>
+            <li>- Signal Transduction Assays</li>
+            <li>- Cell Invasion</li>
+            <li>- In situ Cell Electroporation and Monitoring</li>
+            <li>- Cell Migration / Wound Healing</li>
+            <li>- Cell Proliferation</li>
+            <li>- Cell Differentiation</li>
+            <li>- Cytotoxicity</li>
+          </ul>
+        </div><!-- /array -->
+        
+        <hr class="mb-5">
+
+        <!-- 6F10E PC -->
+        <div id="6F10E" class="array">
+          <h4>6F10E PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/6F10E-flow-array.jpg" alt="ECIS 6F10E PC Array">
+            </div>
+          </div>
+          <p>
+            This flow array allows 6 independent flow assays to be run simultaneously. The channels are 0.66mm in height and 5mm wide with 10 active 250 μm diameter electrodes (each measuring from 500-1000 cells) per channel.
+          </p>
+          <p>
+            Each channel has a 45 μL volume with 60 μL reservoirs.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Barrier Function</li>
+            <li>- Signal Transduction Assays</li>
+            <li>- Cell Invasion</li>
+            <li>- In situ Cell Electroporation and Monitoring</li>
+            <li>- Cell Migration / Wound Healing</li>
+            <li>- Cell Proliferation</li>
+            <li>- Cell Differentiation</li>
+            <li>- Cytotoxicity</li>
+          </ul>
+        </div><!-- /array -->
+        
+        <hr class="mb-5">
+
+        <!-- 1F2Y8x10E PC -->
+        <div id="1F2Y8x10E" class="array">
+          <h4>1F2Y8x10E PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/1F2Y8x10E-yflow.jpg" alt="ECIS 1F2Y8x10E PC Array">
+            </div>
+          </div>
+          <p>
+            This flow array is intended for bifurcation studies and blood vessel simulation. It splits into 30 degree Y channels in one direction and 45 degree Y channel in the other direction.
+          </p>
+          <p>
+            This array is double ended with 8 measurement channels available at each end. Eight measurement points, each with 4 circular active electrodes (with an area of 0.49mm<sup>2</sup> measuring from 500-1000 cells, the area is the same as a 10E electrode), are located along the channel and through the Y portion of the channel. One end of the array is used to monitor the 30 degree Y channel and the other end is used to monitor the 45 degree Y channel. The electrodes are located close in the corners of the flow direction transition points. Each channel has a 165 μL volume with 60 μL reservoirs. The flow is always laminar, i.e., turbulent flows are not possible. For simulation of turbulence flow we recommend oscillating the flow. Defined shear stress and shear rate levels.
+          </p>
+          <p class="applicationTitle">Recommended for the following applications under shear stress conditions:</p>
+          <ul class="list-unstyled">
+            <li>- Simulation of the bifurcation of blood vessels for arteriosclerosis research</li>
+            <li>- Rolling and adhesion of leukocytes on endothelial cells cultured under flow</li>
+            <li>- Cell-cell interaction studies and cell-drug interaction screenings under flow conditions</li>
+          </ul>
+        </div><!-- /array -->
+        
       </div>
     </section><!-- /culturewareContent -->
 
