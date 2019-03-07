@@ -29,7 +29,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <?php include_once "includes/navbar.php";?>
     <?php include_once "includes/logo-sm.php";?>
 
-    <section id="culturewareHeading" class="pb-4 text-center text-md-left">
+    <section id="culturewareHeading" class="mb-2 text-center text-md-left">
       <div class="container">
         <div class="row">
           <div class="col">
@@ -51,7 +51,10 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         <p>For help in chossing an ECIS array we offer a technical note for download - <a class="text-dark link" href="public/pdf/TN01ArrayChoices.pdf" target="_blank"><i class="far fa-file-pdf mx-2"></i>TN01 Array Choices</a></p>
 
         <div class="culturewareTables my-5">
-          <h4 class="mb-4 secondary-title">96 Well Arrays</h4>
+
+          <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
+            <h4 class="mb-0 secondary-title">96 Well Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/96-well-arrays" target="_blank">Shop for 96 Well Arrays</a>
+          </div>
 
           <table class="table table-bordered table-responsive-sm">
             <thead>
@@ -79,7 +82,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 <td>300</td>
               </tr>
               <tr class="odd">
-                <th scope="row">96W20idf PET</th>
+                <th scope="row"><a class="arrayLink" href="#96W20idf">96W20idf PET</a></th>
                 <td>idf</td>
                 <td>3.985</td>
                 <td>4000-8000</td>
@@ -88,7 +91,9 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             </tbody>
           </table>
 
-          <h4 class="mb-4 mt-5 secondary-title">Standard 8 Well Arrays</h4>
+          <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
+            <h4 class="mb-0 secondary-title">Standard 8 Well Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/8-well-arrays" target="_blank">Shop for 8 Well Arrays</a>
+          </div>
 
           <table class="table table-bordered table-responsive-sm">
             <caption class="ml-3 ml-sm-0 mb-0">
@@ -138,7 +143,9 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             </tbody>
           </table>
 
-          <h4 class="mb-4 mt-4 secondary-title">Specialty Arrays</h4>
+          <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
+            <h4 class="mb-0 secondary-title">Specialty Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/specialty-arrays" target="_blank">Shop for Specialty Arrays</a>
+          </div>
 
           <table class="table table-bordered table-responsive-sm">
             <caption class="ml-3 ml-sm-0 mb-0">*Specialty arrays may require 2-4 weeks lead time</caption>
@@ -191,7 +198,9 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             </tbody>
           </table>
 
-          <h4 class="mb-4 mt-4 secondary-title">Flow Arrays</h4>
+          <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
+            <h4 class="mb-0 secondary-title">Flow Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/flow-arrays" target="_blank">Shop for Flow Arrays</a>
+          </div>
           
           <table class="table table-bordered table-responsive-sm">
             <caption class="ml-3 ml-sm-0 mb-0">**Four electrodes are equal in size to 8W10E</caption>
@@ -288,26 +297,23 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         </p>
 
         <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
-          <h4 class="mb-0 secondary-title">96 Well Array Specifications</h4><a class="downloadArrayList" href="public/pdf/96WellArrays.pdf" target="_blank">96 Well Array List</a>
+          <h4 class="mb-0 secondary-title">96 Well Array Specifications</h4><a class="arrayTitleLink" href="public/pdf/96WellArrays.pdf" target="_blank">96 Well Array List</a>
         </div>
 
+        <!-- 96W1E -->
         <div id="96W1E" class="array">
           <h4>96W1E+ PET</h4>
-
           <div class="row">
             <div class="col-md-8 mr-auto">
               <img class="img-fluid mb-5" src="public/img/96W1E+.jpg" alt="ECIS 96W1E+ PET Array">
             </div>
           </div>
-
           <p>
             Each of the 96 wells in a standard plate configuration contains two circular 350 μm diameter active electrodes on a transparent PET substrate (measuring from 100-200 cells). As with other 1E arrays, a major use of this array is for the ECIS wound-healing assays where the small electrodes assures the high current pulse will result in complete cell killing.
           </p>
-
           <p>
             Only a small population of cells is monitored on the small electrodes resulting in a fluctuating impedance signal due to the random like movement of the cells (micromotion).
           </p>
-
           <p class="applicationTitle">Applications Include:</p>
           <ul class="list-unstyled">
             <li>- Cell Migration</li>
@@ -322,20 +328,18 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
         <hr class="mb-5">
 
+        <!-- 96W10idf -->
         <div id="96W10idf" class="array">
           <h4>96W10idf PET</h4>
-        
           <div class="row">
             <div class="col-md-8 mr-auto">
               <img class="img-fluid mb-5" src="public/img/96W10idf.jpg" alt="ECIS 96W10idf PET Array">
             </div>
           </div>
-        
           <p>
             Each of the 96 wells has an Inter-digitated finger configuration. The total electrode area is 2.09mm<sup>2</sup> which measures a
             maximum of 2000-4000 cells.
           </p>
-        
           <p class="applicationTitle">Applications Include:</p>
           <ul class="list-unstyled">
             <li>- Cell-ECM Protein Interactions</li>
@@ -348,6 +352,27 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         </div><!-- /array -->
 
         <hr class="mb-5">
+
+        <!-- 96W20idf -->
+        <div id="96W20idf" class="array">
+          <h4>96W20idf PET</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mb-5" src="public/img/96W20idf.jpg" alt="ECIS 96W20idf PET Array">
+            </div>
+          </div>
+          <p>
+            Each of the 96 wells has an Inter-digitated finger configuration. The total electrode area is 3.985mm2 which measures a maximum of 4000-8000 cells.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Cell-ECM Protein Interactions</li>
+            <li>- Signal Transduction Assays</li>
+            <li>- Detection of invasion of endothelial cell layers by metastatic cells</li>
+            <li>- Barrier Function</li>
+            <li>- Cell Proliferation</li>
+          </ul>
+        </div><!-- /array -->
         
 
       </div>
