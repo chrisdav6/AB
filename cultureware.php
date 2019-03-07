@@ -161,35 +161,35 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             </thead>
             <tbody>
               <tr class="odd">
-                <th scope="row">8W2x1E PET or PC</th>
+                <th scope="row"><a class="arrayLink" href="#8W2x1E">8W2x1E PET or PC</a></th>
                 <td>2x1</td>
                 <td>2 x 0.049</td>
                 <td>50-100</td>
                 <td>600</td>
               </tr>
               <tr class="even">
-                <th scope="row">8W1CXE PET or PC</th>
+                <th scope="row"><a class="arrayLink" href="#8W1CXE">8W1CXE PET or PC</a></th>
                 <td>1</td>
                 <td>0.049</td>
                 <td>50-100</td>
                 <td>600</td>
               </tr>
               <tr class="odd">
-                <th scope="row">8W2LE PET or PC</th>
+                <th scope="row"><a class="arrayLink" href="#8W2LE">8W2LE PET or PC</a></th>
                 <td>2</td>
                 <td>0.20</td>
                 <td>200-400</td>
                 <td>600</td>
               </tr>
               <tr class="even">
-                <th scope="row">8Wµ1E+ PET or PC</th>
+                <th scope="row"><a class="arrayLink" href="#8WU1EPlus">8Wµ1E+ PET or PC</a></th>
                 <td>4</td>
                 <td>0.196</td>
                 <td>200-400</td>
                 <td>600</td>
               </tr>
               <tr class="odd">
-                <th scope="row">2W4x10E PC</th>
+                <th scope="row"><a class="arrayLink" href="#2W4x10E">2W4x10E PC</a></th>
                 <td>4x10</td>
                 <td>4 x 0.49</td>
                 <td>2000-4000</td>
@@ -477,6 +477,131 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <li>- Cytotoxicity</li>
           </ul>
         </div><!-- /array -->
+
+        <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
+          <h4 class="mb-0 secondary-title">Specialty Array Specifications</h4><!--<a class="arrayTitleLink" href="public/pdf/8WellArrays.pdf" target="_blank">Specialty Array List</a>-->
+        </div>
+
+        <!-- 8W2x1E PET or PC -->
+        <div id="8W2x1E" class="array">
+          <h4>8W2x1E PET or PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/8W2x1E-medusa-array.jpg" alt="ECIS 8W2x1E PET or PC Array">
+            </div>
+          </div>
+          <p>
+            This array is also called the Medusa array. Each well in this array has two independent single 250 Âµm diameter active electrodes. The Medusa array is useful for duplicating readings in the same well or to wound/electroporate one electrode while leaving the other as a control within the same well.
+          </p>
+          <p>
+            When connected to the array holder only the upper four wells are measured. To use the other four wells, the array is turned around and the contact pads at the other end are connected.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Barrier Function</li>
+            <li>- Signal Transduction Assays</li>
+            <li>- Cell Invasion</li>
+            <li>- In situ Cell Electroporation and Monitoring</li>
+            <li>- Cell Migration / Wound Healing</li>
+            <li>- Correlated Microscopy and ECIS Experiments</li>
+          </ul>
+        </div><!-- /array -->
+
+        <hr class="mb-5">
+
+        <!-- 8W1CXE PET or PC -->
+        <div id="8W1CXE" class="array">
+          <h4>8W1CXE PET or PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/8W1CXE-taxis-array.jpg" alt="ECIS 8W1CXE PET or PC Array">
+            </div>
+          </div>
+          <p>
+            This array is used to monitor the movement of cells in response to chemical gradients and is the array used in chemotaxis measurements first described by Hadjout, N. et al. (2001) Biotechniques 31 (5) 1130. The measuring electrode in this array is a thin gold line between two registry marks.*
+          </p>
+          <p>
+            Each well has a substrate area of 0.8 cm<sup>2</sup> and a maximum volume of 600 μL. On average, with a confluent layer, approximately 50 to 100 cells will be monitored by the electrode.
+          </p>
+          <p class="smallDesc">
+            *The gold line has the same total area as a 250 μm single circular electrode.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Cell Chemotaxis</li>
+          </ul>
+        </div><!-- /array -->
+        
+        <hr class="mb-5">
+
+        <!-- 8W2LE PET or PC -->
+        <div id="8W2LE" class="array">
+          <h4>8W2LE PET or PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/8W2LE-line-array.jpg" alt="ECIS 8W2LE PET or PC Array">
+            </div>
+          </div>
+          <p>
+            Each of the 8 wells contains a single linear electrode with dimensions of 667µm x 150µm and a measurement value equal to that of our standard 250µm circular electrodes. Each well has a substrate area of 0.8cm<sup>2</sup> and a maximum volume of 600μL. On average, with a confluent cell layer, approximately 200 to 400 cells will be measured by the electrode, but even a single cell can be observed.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Cell Migration / Wound Healing</li>
+            <li>- Correlated Microscopy and ECIS Experiments</li>
+          </ul>
+        </div><!-- /array -->
+        
+        <hr class="mb-5">
+
+        <!-- 8Wµ1E+ PET or PC -->
+        <div id="8WU1EPlus" class="array">
+          <h4>8Wµ1E+ PET or PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/8Wu1E+.jpg" alt="ECIS 8Wµ1E+ PET or PC Array">
+            </div>
+          </div>
+          <p>
+            Each of the 8 wells contains four 250µm circular electrodes which will measure from 200-400 cells. The placement of the electrodes at the center of the well allows for the use of cloning cylinders to be placed around the electrodes creating microwells. The area outside of the cloning cylinder can then be flooded to reduce evaporation from within the micro-wells.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Barrier Function</li>
+            <li>- Signal Transduction Assays</li>
+            <li>- Cell Invasion</li>
+            <li>- In situ Cell Electroporation and Monitoring</li>
+            <li>- Cell Migration / Wound Healing</li>
+            <li>- Correlated Microscopy and ECIS Experiments</li>
+          </ul>
+        </div><!-- /array -->
+        
+        <hr class="mb-5">
+
+        <!-- 2W4x10E PC -->
+        <div id="2W4x10E" class="array">
+          <h4>2W4x10E PC</h4>
+          <div class="row">
+            <div class="col-md-8 mr-auto">
+              <img class="img-fluid mt-4 mb-5" src="public/img/Wang-array.jpg" alt="ECIS 2W4x10E PC Array">
+            </div>
+          </div>
+          <p>
+            Each of the 2 circular 25mm diameter wells contain four independent sets of ten 250 μm diameter active electrodes measuring from 2000-4000 cells. In addition, the 2W4x10E array is useful for duplicating readings in the same well or to wound/electroporate one electrode while leaving the other as a control within the same well.
+          </p>
+          <p class="applicationTitle">Applications Include:</p>
+          <ul class="list-unstyled">
+            <li>- Cell Attachment and Spreading</li>
+            <li>- Cell Proliferation</li>
+            <li>- Cell Differentiation</li>
+            <li>- Barrier Function</li>
+            <li>- Signal Transduction Assays</li>
+            <li>- Cell Invasion</li>
+            <li>- Cytotoxicity</li>
+            <li>- Correlated Microscopy and ECIS Experiments</li>
+          </ul>
+        </div><!-- /array -->
+        
         
 
       </div>
