@@ -1,0 +1,20 @@
+#stageAdapterHeading {
+  margin-top: 2em;
+
+  h1 {
+    font-weight: 500;
+    margin-bottom: -10px;
+
+    @include mq600 {
+      font-size: 3.25rem;
+    }
+  }
+
+  h2 {
+    color: $orange;
+  }
+}
+
+#stageAdapterContent {
+  
+}
