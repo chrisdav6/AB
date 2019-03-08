@@ -42,22 +42,15 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <section id="applicationContent" class="py-4 text-center text-md-left">
       <div class="container">
 
-        <div class="row">
-          <div class="col">
-            <p>
-              Epithelial cells and endothelial cells regulate the passage of molecules across cell layers. Diseases, especially vascular disease, occur when this function is impaired. ECIS<sup>®</sup> provides a highly sensitive real-time continous TEER measurement ideal for these types of studies.
-            </p>
-            <p class="mb-0">
-              Example Publication: <a href="https://www.nature.com/articles/ncomms8893" class="text-dark link" target="_blank"> Kim et al., (2015) "Critical Role of Sphingosine-1-Phosphate Receptor-2 in the Disruption of Cerebrovascular Integrity in Experimental Stroke." Nature Communications 6:7893 doi:10.1038/ncomms8893</a> 
-            </p>
-          </div>
-        </div><!-- /row -->
+        <p>
+          Epithelial cells and endothelial cells regulate the passage of molecules across cell layers. Diseases, especially vascular disease, occur when this function is impaired. ECIS<sup>®</sup> provides a highly sensitive real-time continous TEER measurement ideal for these types of studies.
+        </p>
 
         <div class="row mt-5">
           <div class="col">
             <h3>Monitoring the Barrier Function of Cell Monolayers using ECIS<sup>®</sup></h3>
             <hr class="my-0">
-            <h4 class="mt-5 mb-3 secondary-title">Introduction</h4>
+            <h4 class="mt-5 mb-3 secondary-title">Overview</h4>
             <p>
               In vivo, barriers are provided by monolayers of epithelial or endothelial cells. These cell layers play a key role regulating the free movement of molecules between different tissues and/or interstitial compartments. In many diseases as well as in inflammation, these barriers become compromised, and hence, measuring their permeability is of considerable interest to cell biologists and the health community in general.
             </p>
@@ -207,6 +200,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         <div class="row">
           <div class="col mb-5">
             <h4 class="mt-4 mb-0">Related Barrier Function of Cell Layers ECIS Publications</h4>
+            
             <hr class="mt-0 mb-4">
 
             <p><strong>Septin-2 Mediates Airway Epithelial Barrier Function in  Physiologic and Pathologic Conditions. </strong>VK Sidhaye, E Chau, P Breysse, and  LS King. <em>Am J Respir Cell  Mol Biol.</em> 2010.</p>
@@ -344,6 +338,11 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <p>Tiruppathi, C., W. Song., M.  Bergenfeldt. P. Sass and A.B. Malik. <strong>Gp60  activation mediates albumin transcytosis in endothelial cells bytyrosine  kinase-dependent pathway,</strong> J. Biol. Chem. 272:25968-25975,</p>
 
             <p>Tiruppathi, C., Malik, A.B., Del  Vecchio, P.J., Keese, C.R., and Giaever,I., <strong>Electrical method for detection of endothelial cell shape change in  real time,</strong> PNAS USA 89, 7919-7923 (1992).</p>
+
+            <h4 class="mt-4 mb-4">Example Publication</h4>
+            <p>
+              <a href="https://www.nature.com/articles/ncomms8893" class="text-dark link" target="_blank"> Kim et al., (2015) "Critical Role of Sphingosine-1-Phosphate Receptor-2 in the Disruption of Cerebrovascular Integrity in Experimental Stroke." Nature Communications 6:7893 doi:10.1038/ncomms8893</a> 
+            </p>
           </div>
         </div>
 
