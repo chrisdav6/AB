@@ -42,20 +42,13 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <section id="applicationContent" class="py-4 text-center text-md-left">
       <div class="container">
 
+        <p>
+          ECIS<sup>®</sup> is especially useful to monitor the signal transduction pathways activated by G protein cou-pled receptors (GPCR). GPCR activation, regardless of the second messenger, results in alterations of the cell’s cytoskeletal elements, causing morpholog-ical changes.
+        </p>
+  
         <div class="row">
           <div class="col">
-            <p>
-              ECIS<sup>®</sup> is especially useful to monitor the signal transduction pathways activated by G protein cou-pled receptors (GPCR). GPCR activation, regardless of the second messenger, results in alterations of the cell’s cytoskeletal elements, causing morpholog-ical changes.
-            </p>
-            <p class="mb-0">
-              Example Publication: <a href="http://stke.sciencemag.org/content/6/267/ra18" class="text-dark link" target="_blank"> Shinde et al., (2013) "STIM1 Controls Endothelial Barrier Function Independ-ently of Orai1 and Ca2+ Entry." Science Signaling 6(267):ra18. doi:10.1126/scisignal.2003425</a>
-            </p>
-          </div>
-        </div><!-- /row -->
-
-        <div class="row">
-          <div class="col">
-            <h4 class="mt-5 mb-3 secondary-title">Introduction</h4>
+            <h4 class="mt-4 mb-3 secondary-title">Overview</h4>
             <p>
               Many compounds of interest in biological and medical research are those molecules that specifically bind to cell surface receptors. When the receptor receives these ligands, subsequent changes in a signal transduction pathway result in the enhancement or attenuation of a cellular response. Assays capable of detecting and quantifying the receptor-ligand interaction are valuable tools both in fundamental studies of cell behavior and in the development of new drugs. Many modern assays are based upon detection of receptor-ligand binding event directly. Although binding of a compound is an essential component of signal transduction, this event alone does not assure that the biological response affected by the receptor is altered. Assays where one monitors cellular response directly, can avoid these potential false positives and provide more reliable information regarding the efficacy of compounds.
             </p>
@@ -85,6 +78,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         <div class="row">
           <div class="col mb-5">
             <h4 class="mt-4 mb-0">Related Signal Transduction Assays ECIS Publications</h4>
+
             <hr class="mt-0 mb-4">
 
             <p><strong>ADAM15  regulates endothelial permeability and neutrophil migration via Src/ERK1/2  signaling. </strong>Chongxiu Sun, Mack H. Wu, Mingzhang  Guo, Mark L. Day, Eugene S. Lee, and Sarah Y. Yuan. <em>Cardiovasc Res.</em> published  10 April 2010, 10.1093/cvr/cvq060.</p>
@@ -152,6 +146,11 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <p>Wegener, J., Zink, S., Rosen, P.,  GAlla, H., &quot;<strong>Use of Electrochemical  Impedance measurements to monitor B-adrenergic stimulation of bovine aortic  endothelial cells</strong>.&quot; [PDF] Eur J Physiol 437: 925-934, 1999.</p>
             
             <p>Reddy, L., Wang, H.S., Keese, C.R.,  Giaever, I., Smith, T.J., &quot;<strong>Assessment  of rapid morphological changes associated with elevated cAMP levels in human  orbital fibroblasts</strong>,&rdquo; Experimental Cell Research, 245 (2): 360-367 (1998).</p>
+
+            <h4 class="my-4">Example Publication</h4>
+            <p>
+              <a href="http://stke.sciencemag.org/content/6/267/ra18" class="text-dark link" target="_blank"> Shinde et al., (2013) "STIM1 Controls Endothelial Barrier Function Independ-ently of Orai1 and Ca2+ Entry." Science Signaling 6(267):ra18. doi:10.1126/scisignal.2003425</a>
+            </p>
 
           </div>
         </div>

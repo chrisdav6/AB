@@ -339,7 +339,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
             <p>Tiruppathi, C., Malik, A.B., Del  Vecchio, P.J., Keese, C.R., and Giaever,I., <strong>Electrical method for detection of endothelial cell shape change in  real time,</strong> PNAS USA 89, 7919-7923 (1992).</p>
 
-            <h4 class="mt-4 mb-4">Example Publication</h4>
+            <h4 class="my-4">Example Publication</h4>
             <p>
               <a href="https://www.nature.com/articles/ncomms8893" class="text-dark link" target="_blank"> Kim et al., (2015) "Critical Role of Sphingosine-1-Phosphate Receptor-2 in the Disruption of Cerebrovascular Integrity in Experimental Stroke." Nature Communications 6:7893 doi:10.1038/ncomms8893</a> 
             </p>
