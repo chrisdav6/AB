@@ -42,20 +42,13 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <section id="applicationContent" class="py-4 text-center text-md-left">
       <div class="container">
 
-        <div class="row">
-          <div class="col">
-            <p>
-              As cells proliferate two factors act to change the impedance: cell number and cell morphology. In most instances the cells grow asynchronously and the impedance gradually increases until a maximum when cells become confluent. The impedance change is approximately linear with cell number while the cells are sub-confluent.
-            </p>
-            <p class="mb-0">
-              Example Publication: <a href="http://mct.aacrjournals.org/content/12/7/1266" class="text-dark link" target="_blank"> MacKenzie et al., (2013) "Triptolide Induces the Expres-sion of miR-142-3p: A Negative Regulator of Heat Shock Protein 70 and Pancreatic Cancer Cell Proliferation." Molecular Cancer Therapeutics 12(7):1266 doi:10.1158/1535-7163.MCT-12-1231</a> 
-            </p>
-          </div>
-        </div><!-- /row -->
+        <p>
+          As cells proliferate two factors act to change the impedance: cell number and cell morphology. In most instances the cells grow asynchronously and the impedance gradually increases until a maximum when cells become confluent. The impedance change is approximately linear with cell number while the cells are sub-confluent.
+        </p>
 
         <div class="row">
           <div class="col">
-            <h4 class="mt-5 mb-3 secondary-title">Introduction</h4>
+            <h4 class="mt-4 mb-3 secondary-title">Overview</h4>
             <p>
               ECIS measurements can be used to monitor cell proliferation, and experiments can be designed to determine how various changes in cell and culture conditions affect the rates at which the cell monolayer approaches confluence. To accomplish these studies, arrays are inoculated with a low cell density providing room for the dividing cell population. As the cell number increases, the amount of electrode area covered with the spread cells grows accordingly, causing the electrode impedance to rise. These impedance changes can be related to the relative cell proliferation rates or, more accurately, the rate at which the substrate becomes occupied with spread cells. More quantitative measurements can be obtained by observing the changes in capacitance measured at high AC frequencies.
             </p>
@@ -96,17 +89,23 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div><!-- /container -->
     </section><!-- /applicationContent -->
 
-    <section id="applicationReferences" class="py-4 text-center text-md-left">
+    <section id="applicationReferences" class="py-4 text-center text-md-left mb-5">
       <div class="container">
 
         <div class="row">
-          <div class="col mb-5">
+          <div class="col">
             <h4 class="mt-4 mb-0">Related Cell Proliferation ECIS Publications</h4>
+            
             <hr class="mt-0 mb-4">
 
             <p>Zudaire, E., Cuesta, N., Murty, V., Woodson, K., Gonzalez, N., Martinez, A, Narayan, G., Kirsch, I., Hirsch, F., Birrer, M., Cuttitta, F., <strong>"The aryl hydrocarbon receptor repressor is a putative tumor gene in multiple human cancers."</strong> J. of Clinical Investigation, 118 (2):640-650 (2008).</p>
 
             <p>Lundien, M.C., Mohammed, K.A., Nasreen, N., Tepper, R.S., Hardwick, J.A., Sanders, K.L., Van Horn, R.D., Antony, V.B., <strong>"Induction of MCP-1 expression in airway epithelial cells: Role of CCR2 receptor in airway epithelial injury"</strong>, Journal of Clinical Immunology, 22 (3): 144-152 (2002).</p>
+
+            <h4 class="my-4">Example Publication</h4>
+            <p>
+              <a href="http://mct.aacrjournals.org/content/12/7/1266" class="text-dark link" target="_blank"> MacKenzie et al., (2013) "Triptolide Induces the Expres-sion of miR-142-3p: A Negative Regulator of Heat Shock Protein 70 and Pancreatic Cancer Cell Proliferation." Molecular Cancer Therapeutics 12(7):1266 doi:10.1158/1535-7163.MCT-12-1231</a> 
+            </p>
 
           </div>
         </div>

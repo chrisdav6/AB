@@ -45,30 +45,16 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
     <section id="applicationContent" class="py-4 text-center text-md-left">
       <div class="container">
 
+        <p>
+          ECIS<sup>®</sup> instruments include an elevated field mode allowing for electroporation and wounding.
+          The ECIS<sup>®</sup> wound is precisely defined, as it includes only those cells on the electrode.
+          Additionally, with ECIS<sup>®</sup> the ECM protein coating is not scraped off and is unaffected by the
+          current.
+        </p>
+
         <div class="row">
           <div class="col">
-            <p>
-              ECIS<sup>®</sup> instruments include an elevated field mode allowing for electroporation and wounding.
-              The ECIS<sup>®</sup> wound is precisely defined, as it includes only those cells on the electrode.
-              Additionally, with ECIS<sup>®</sup> the ECM protein coating is not scraped off and is unaffected by the
-              current.
-            </p>
-            <p class="mb-0">
-              Example Publication: <a href="https://www.physiology.org/doi/full/10.1152/ajpcell.00159.2015" class="text-dark link"
-                target="_blank">Peitzman et al., (2015) "Agonist Binding to β-Adrenergic Receptors on Human Airway
-                Epithelial Cells Inhibits Migration and Wound Repair." American Journal of Physiology - Cell Physiology
-                309(12):C847 doi:10.1152/ajpcell.00159.2015</a>
-            </p>
-            <h4 class="mt-5 mb-4 orange-title">Pre-Recorded Tutorial Videos</h4>
-            <p class="mb-0"><a href="#" class="text-dark link">Pre-Recorded Cell Migration Webinar (10:27)</a></p>
-            <p class="mt-0"><a href="#" class="text-dark link">Pre-recorded Measurement of Cellular Chemotaxis with
-                ECIS/Taxis Video (11:32)</a></p>
-          </div>
-        </div><!-- /row -->
-
-        <div class="row mt-4">
-          <div class="col">
-            <h4 class="mb-3 secondary-title">Introduction</h4>
+            <h4 class="mt-4 mb-3 secondary-title">Overview</h4>
 
             <div class="row">
               <div class="col-md-8">
@@ -290,12 +276,13 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div><!-- /container -->
     </section><!-- /applicationContent -->
 
-    <section id="applicationReferences" class="py-4 text-center text-md-left">
+    <section id="applicationReferences" class="py-4 text-center text-md-left mb-5">
       <div class="container">
 
         <div class="row">
-          <div class="col mb-5">
+          <div class="col">
             <h4 class="mt-4 mb-0">Related Wound Healing/Cell-Migration Assay ECIS Publications</h4>
+            
             <hr class="mt-0 mb-4">
 
             <p><strong>Cystic fibrosis transmembrane conductance regulator is involved in airway epithelial wound
@@ -397,6 +384,14 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
             <p>Lo, C.M., Keese, C.R., Giaever, I. <strong>&quot;Monitoring motion of confluent cells in tissue
                 culture.&quot;</strong> Exp Cell Res. 204(1):102-9 (1993).</p>
+
+            <h4 class="my-4">Example Publication</h4>
+            <p>
+              <a href="https://www.physiology.org/doi/full/10.1152/ajpcell.00159.2015" class="text-dark link"
+              target="_blank">Peitzman et al., (2015) "Agonist Binding to β-Adrenergic Receptors on Human Airway
+              Epithelial Cells Inhibits Migration and Wound Repair." American Journal of Physiology - Cell Physiology
+              309(12):C847 doi:10.1152/ajpcell.00159.2015</a>
+            </p>
 
           </div>
         </div>

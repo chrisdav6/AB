@@ -178,7 +178,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div><!-- /container -->
     </section><!-- /applicationContent -->
 
-    <section id="applicationReferences" class="py-4 text-center text-md-left">
+    <section id="applicationReferences" class="py-4 text-center text-md-left mb-5">
       <div class="container">
 
         <div class="row">
@@ -198,7 +198,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         </div>
 
         <div class="row">
-          <div class="col mb-5">
+          <div class="col">
             <h4 class="mt-4 mb-0">Related Barrier Function of Cell Layers ECIS Publications</h4>
             
             <hr class="mt-0 mb-4">
