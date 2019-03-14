@@ -23,7 +23,7 @@
       <div class="col-md-3">
         <ul class="list-unstyled">
           <li><a href="ecisSchool.php">ECIS School</a></li>
-          <li><a href="tradeshows.php">Tradeshows</a></li>
+          <li><a href="tradeShows.php">Tradeshows</a></li>
           <li><a href="techSupport.php">Technical Support</a></li>
           <li><a href="publicationsNew.php">Publications</a></li>
         </ul>
@@ -41,7 +41,7 @@
     </div>
 
   </div>
-</footer> <!-- /footer -->
+</footer> <!-- /footer --> 
 
 <section id="copyright" class="py-5">
   <div class="container">
