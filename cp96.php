@@ -84,7 +84,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Description</h2>
             <hr class="mt-1">
             <p>
-              The complete turn-key CP 96 system provides a means to carry out reproducible, label-free, automated cell proliferation measurements. Cell-proliferation is monitored as cells are grown in a normal CO2 issue culture incubator, and data are reported as real-time changes in percent cell coverage.
+              The complete turn-key CP96 system provides a means to carry out reproducible, label-free, automated cell proliferation measurements. Cell-proliferation is monitored as cells are grown in a normal CO<sup>2</sup> issue culture incubator, and data are reported as real-time changes in percent cell coverage.
             </p>
             <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data Sheet</a>
             <a href="#" class="btn btn-success productBtn" role="button">Order Info</a>
@@ -102,7 +102,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Overview</h2>
             <hr class="mt-1">
             <p>
-              The system is based upon the ECIS (Electric Cell-substrate Impedance Sensing) technology where cells are grown upon electrodes carrying very weak AC signals. In the CP96 instrument, the impedance data is automatically analyzed to directly report percent of cell-substrate coverage.
+              The CP96 Cell Proliferation system is based upon the ECIS (Electric Cell-substrate Impedance Sensing) technology where cells are grown upon electrodes carrying very weak AC signals. This complete turn-key system provides a means to carry out reproducible, label-free, automated cell proliferation measurements. Cell-proliferation is monitored as cells are grown in a normal CO<sup>2</sup> tissue culture incubator, and data are reported as real-time changes in percent cell coverage.
             </p>
             <h5 class="mt-4">System includes:</h5>
             <ul class="list-unstyled mt-3 ml-0 ml-md-3">
