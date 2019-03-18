@@ -116,7 +116,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <li>- Impedance data converted to percent of cell-substrate coverage</li>
               <li>- Create figures and plots of data</li>
             </ul>
-            <h5 class="mt-4">System includes:</h5>
+            <h5 class="mt-4">System Includes:</h5>
             <ul class="list-unstyled mt-3 ml-0 ml-md-3">
               <li>- 96 channel station located in CO<sub>2</sub> incubator</li>
               <li>- External control module</li>
