@@ -84,7 +84,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Description</h2>
             <hr class="mt-1">
             <p>
-              The complete turn-key CP96 system provides a means to carry out reproducible, label-free, automated cell proliferation measurements. Cell-proliferation is monitored as cells are grown in a normal CO<sup>2</sup> issue culture incubator, and data are reported as real-time changes in percent cell coverage.
+              The complete turn-key CP96 system provides a means to carry out reproducible, label-free, automated cell proliferation measurements. Cell-proliferation is monitored as cells are grown in a normal CO<sub>2</sub> issue culture incubator, and data are reported as real-time changes in percent cell coverage.
             </p>
             <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data Sheet</a>
             <a href="#" class="btn btn-success productBtn" role="button">Order Info</a>
@@ -102,8 +102,20 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Overview</h2>
             <hr class="mt-1">
             <p>
-              The CP96 Cell Proliferation system is based upon the ECIS (Electric Cell-substrate Impedance Sensing) technology where cells are grown upon electrodes carrying very weak AC signals. This complete turn-key system provides a means to carry out reproducible, label-free, automated cell proliferation measurements. Cell-proliferation is monitored as cells are grown in a normal CO<sup>2</sup> tissue culture incubator, and data are reported as real-time changes in percent cell coverage.
+              The CP96 Cell Proliferation system is based upon the ECIS (Electric Cell-Substrate Impedance Sensing) technology where cells are grown upon electrodes carrying very weak AC signals. This complete turn-key system provides a means to carry out reproducible, label-free, automated cell proliferation measurements. Cell-proliferation is monitored as cells are grown in a normal CO<sub>2</sub> tissue culture incubator, and data are reported as real-time changes in percent cell coverage.
             </p>
+            <h5 class="mt-4">Advantages</h5>
+            <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+              <li>- Automated cell proliferation measurements in 96 wells</li>
+              <li>- Data recorded and visualized in real time under incubator conditions</li>
+              <li>- Long-term data collection capabilities</li>
+              <li>- Non-invasive &amp; label free</li>
+              <li>- Highly reproducible</li>
+              <li>- User Friendly software</li>
+              <li>- Data output in CSV or graphical (jpg, tif)</li>
+              <li>- Impedance data converted to percent of cell-substrate coverage</li>
+              <li>- Create figures and plots of data</li>
+            </ul>
             <h5 class="mt-4">System includes:</h5>
             <ul class="list-unstyled mt-3 ml-0 ml-md-3">
               <li>- 96 channel station located in CO<sup>2</sup> incubator</li>
@@ -114,7 +126,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <li>- Six 96W20idf consumable electrode arrays</li>
             </ul>
             <p class="mt-4">
-              These non-invasive measurements can be made for days and even weeks with no need to remove the station from the incubator, eliminating unwanted temperature and pH variations.
+              These non-invasive measurements can be made for days and even weeks without the need to remove the station from the incubator, eliminating unwanted temperature and pH variations.
             </p>
             <p class="mt-4">
               Compounds affecting cell growth can be introduced before or after the cells have attached to distinguish changes in growth from the ability of the cells to attach to the substrate.
@@ -142,10 +154,13 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
                 <p class="mt-4">
                   <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                    <li>- Measures reactance at 48Khz</li>
-                    <li>- Power: &lt;1 watt, 12 V dc</li>
-                    <li>- Station: 25.5 x 18 x 4.5 cm, 2.3kg</li>
-                    <li>- Controller: 21.5 x 18 x 4.5 cm, 2kg</li>
+                    <li>- 96 well plates are barcoded with serial numbers for tracking</li>
+                    <li>- Gold electrodes</li>
+                    <li>- 48 KHz sinusoidal signal</li>
+                    <li>- Power: &lt; 1 watt, 12 V dc</li>
+                    <li>- Station: 25.5 x 18 x 4.5 cm, 2.3 kg</li>
+                    <li>- Controller: 21.5 x 18 x 4.5 cm, 2 kg</li>
+                    <li>- Connects to laptop via USB</li>
                     <li>- Windows 10</li>
                   </ul>
                 </p>
