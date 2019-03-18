@@ -118,7 +118,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             </ul>
             <h5 class="mt-4">System includes:</h5>
             <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-              <li>- 96 channel station located in CO<sup>2</sup> incubator</li>
+              <li>- 96 channel station located in CO<sub>2</sub> incubator</li>
               <li>- External control module</li>
               <li>- Laptop PC</li>
               <li>- ECIS control, acquisition, and display software</li>

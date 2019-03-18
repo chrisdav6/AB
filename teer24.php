@@ -84,7 +84,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Description</h2>
             <hr class="mt-1">
             <p>
-              The ECIS TEER24 is designed to carry out traditional trans-epithelial/endothelial electrical resistance measurements to monitor the barrier function of cell layers grown on membrane insert filters. Data are collected continuously from up to 24 independent wells and reported as real-time changes in the carrier function of cell layers in ohm-cm.
+            The ECIS TEER24 is designed to carry out traditional trans-epithelial/endothelial electrical resistance measurements using ECIS (electric cell-substrate impedance sensing) technology to monitor the barrier function of cell layers grown on membrane insert filters. Data are collected continuously from up to 24 independent wells and reported as real-time barrier function changes in ohm-cm<sup>2</sup>
             </p>
             <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data Sheet</a>
             <a href="#" class="btn btn-success productBtn" role="button">Order Info</a>
@@ -104,25 +104,26 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <p>
               This system provides repeatable, automated TEER measurements to electrically monitor the barrier function of epithelial and endothelial cells as they are grown on membrane insert filters in 24 independent wells. Data are collectedcontinuously and it reports real-time changes in barrier function of cell layers in ohm-cm<sup>2</sup>.
             </p>
-            <h5 class="mt-4">Biological Benefits</h5>
+            <h5 class="mt-4">Advantages</h5>
             <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-              <li>- Continuous long-term measurement of TEER from under 10 to 10,000 ohm cm2 in up to 24 wells</li>
+              <li>- Automated TEER measurements from under 10 to 1,000 ohm-cm<sup>2</sup> in 24 wells</li>
               <li>- Uses standard commercially available membrane inserts</li>
-              <li>- Fast barrier function dynamics can be monitored</li>
-              <li>- Accurately measures Endothelial barrier function</li>
-              <li>- Located in incubator for long term experiments</li>
-              <li>- Real time visualization of TEER, control of sampling rate</li>
-              <li>- Multiple samples</li>
-              <li>- Easy sample tracking</li>
+              <li>- Data recorded and visualized in real time under incubator conditions</li>
+              <li>- Accurate measuring of endothelial barrier function</li>
+              <li>- Long term data collection capabilities</li>
               <li>- Easily sterilizable, disposable array and autoclavable stainless dipping pins</li>
-              <li>- Quantitative data easy to export to third party programs</li>
+              <li>- Fast barrier function dynamics monitoring</li>
+              <li>- Non-invasive &amp; label free</li>
+              <li>- Highly reproducible</li>
+              <li>- User friendly software</li>
+              <li>- Data output in CSV or graphical (jpg, tif)</li>
               <li>- Create figures and plots of data</li>
             </ul>
             <p class="mt-4">
-              Non-invasive measurements may be made continuously for days and even weeks. The fixed position of electrodes throughout the measurements eliminates operator variability allowing precise and repeatable measurements of endothelial layers with weak barrier function (&lt;10 ohm-cm<sup>2</sup>). No need to take the station out of the incubator eliminating temperature variations.
+              Non-invasive measurements may be made continuously for days and even weeks with TEER24. The fixed position of electrodes throughout the measurements eliminates operator variability allowing precise and repeatable measurements of endothelial layers with weak barrier function (&lt;10 ohm-cm<sup>2</sup>). There is no need to take the station out of the incubator, therefore eliminating temperature variations.
             </p>
             <p class="mt-4">
-              The TEER24 accepts standard 24 well membrane inserts from any commercial supplier. These are placed in a disposable sterile base plate with addressable electrodes on the well bottom. Once medium and cell suspension are added, an autoclavable array of gold dipping electrodes is inserted and measurements begun. Even with the dipping electrodes in place, the media both in and out of the inner well can be easily reached with standard micropipettes.
+              The TEER24 accepts standard 24 well membrane inserts from any commercial supplier. These are placed in a disposable sterile baseplate with addressable electrodes on the well bottom. Once medium and cell suspension are added, an autoclavable array of gold dipping electrodes is inserted and measurements may begin. Even with the dipping electrodes in place, the media both in and out of the inner well can be easily reached with standard micropipettes.
             </p>
           </div>
         </div>
@@ -147,17 +148,15 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
                 <p class="mt-4">
                   <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                    <li>- 10 sec/well read rate</li>
                     <li>- 24 well microplates use standard 6mm filters</li>
+                    <li>- 24 well plates are barcoded with serial numbers for tracking</li>
+                    <li>- 24 well dipping assembly is medical grade stainless and autoclavable</li>
                     <li>- Gold electrodes</li>
+                    <li>- 75 Hz sinusoidal signal</li>
+                    <li>- Power: 3 watts; 12 V dc</li>
+                    <li>- Station: 25.5 x 18 x 4.5 cm, 2.3 kg</li>
+                    <li>- Controller: 21.5 x 18 x 4.5 cm, 2 kg</li>
                     <li>- Connects to laptop via USB</li>
-                    <li>- Power: powered from USB output</li>
-                    <li>- 24 well plates are barcoded with unique serial number for tracking</li>
-                    <li>- 24 well dipping assembly is medical grade stainless, can be autoclaved</li>
-                    <li>- Station dimensions 10 x 3 x 15cm</li>
-                    <li>- Power and mode indicator light located on front panel</li>
-                    <li>- Rear panel: USB</li>
-                    <li>- Power: 3 watts</li>
                     <li>- Windows 10 OS</li>
                   </ul>
                 </p>
