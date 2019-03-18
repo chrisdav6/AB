@@ -159,13 +159,8 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <hr class="mt-1">
             <div class="row mt-4">
               <div class="col-md-3 pb-4 pb-md-0">
-                <a href="public/pdf/CP96DataSheetR2.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ZTheta Data Sheet">
-                  <img class="img-fluid" src="public/img/cp96DataSheet.jpg" alt="Download CP96 Data Sheet">
-                </a>
-              </div>
-              <div class="col-md-3">
-                <a href="public/pdf/CP96ManualR4.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ZTheta Manual">
-                  <img class="img-fluid" src="public/img/cp96Manual.jpg" alt="Download CP96 Manual">
+                <a href="public/pdf/ABPBrochure2018.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ZTheta Data Sheet">
+                  <img class="img-fluid" src="public/img/zThetaDataSheet.jpg" alt="Download ZTheta Data Sheet">
                 </a>
               </div>
             </div>
