@@ -104,7 +104,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <p>
               The CP96 Cell Proliferation system is based upon the ECIS (Electric Cell-Substrate Impedance Sensing) technology where cells are grown upon electrodes carrying very weak AC signals. This complete turn-key system provides a means to carry out reproducible, label-free, automated cell proliferation measurements. Cell-proliferation is monitored as cells are grown in a normal CO<sub>2</sub> tissue culture incubator, and data are reported as real-time changes in percent cell coverage.
             </p>
-            <h5 class="mt-4">Advantages</h5>
+            <h5 class="mt-4">Benefits</h5>
             <ul class="list-unstyled mt-3 ml-0 ml-md-3">
               <li>- Automated cell proliferation measurements in 96 wells</li>
               <li>- Data recorded and visualized in real time under incubator conditions</li>

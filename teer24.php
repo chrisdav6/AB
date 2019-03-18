@@ -104,7 +104,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <p>
               This system provides repeatable, automated TEER measurements to electrically monitor the barrier function of epithelial and endothelial cells as they are grown on membrane insert filters in 24 independent wells. Data are collectedcontinuously and it reports real-time changes in barrier function of cell layers in ohm-cm<sup>2</sup>.
             </p>
-            <h5 class="mt-4">Advantages</h5>
+            <h5 class="mt-4">Benefits</h5>
             <ul class="list-unstyled mt-3 ml-0 ml-md-3">
               <li>- Automated TEER measurements from under 10 to 1,000 ohm-cm<sup>2</sup> in 24 wells</li>
               <li>- Uses standard commercially available membrane inserts</li>
