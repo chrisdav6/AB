@@ -84,7 +84,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Description</h2>
             <hr class="mt-1">
             <p>
-            The ECIS TEER24 is designed to carry out traditional trans-epithelial/endothelial electrical resistance measurements using ECIS (electric cell-substrate impedance sensing) technology to monitor the barrier function of cell layers grown on membrane insert filters. Data are collected continuously from up to 24 independent wells and reported as real-time barrier function changes in ohm-cm<sup>2</sup>
+              How can TEER assays for barrier function be made easier and more accurate? By making them automated and reporting measurements in real time. The all new TEER24 by Applied Biophysics, Inc. A more effective approach to a traditionally complicated assay.
             </p>
             <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data Sheet</a>
             <a href="#" class="btn btn-success productBtn" role="button">Order Info</a>
@@ -102,7 +102,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Overview</h2>
             <hr class="mt-1">
             <p>
-              This system provides repeatable, automated TEER measurements to electrically monitor the barrier function of epithelial and endothelial cells as they are grown on membrane insert filters in 24 independent wells. Data are collectedcontinuously and it reports real-time changes in barrier function of cell layers in ohm-cm<sup>2</sup>.
+              The ECIS TEER24 is designed to carry out traditional trans-epithelial/endothelial electrical resistance measurements using ECIS (electric cell-substrate impedance sensing) technology to monitor the barrier function of cell layers grown on membrane insert filters. Data is collected continuously from up to 24 independent wells and reported as real-time barrier function changes in ohm-cm<sup>2</sup> .
             </p>
             <h5 class="mt-4">Benefits</h5>
             <ul class="list-unstyled mt-3 ml-0 ml-md-3">
@@ -119,8 +119,18 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <li>- Data output in CSV or graphical (jpg, tif)</li>
               <li>- Create figures and plots of data</li>
             </ul>
+            <h5 class="mt-4">System Includes:</h5>
+            <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+              <li>- 24 well channel station located in CO<sub>2</sub> incubator</li>
+              <li>- External control module</li>
+              <li>- Laptop PC</li>
+              <li>- ECIS control, acquisition, and display software</li>
+              <li>- Validation test array</li>
+              <li>- 1 Common Electrode Array (CEA) with 24 gold pins</li>
+              <li>- Six 24-well TEER consumable electrode microplates</li>
+            </ul>
             <p class="mt-4">
-              Non-invasive measurements may be made continuously for days and even weeks with TEER24. The fixed position of electrodes throughout the measurements eliminates operator variability allowing precise and repeatable measurements of endothelial layers with weak barrier function (&lt;10 ohm-cm<sup>2</sup>). There is no need to take the station out of the incubator, therefore eliminating temperature variations.
+              Non-invasive measurements may be made continuously for days and even weeks with TEER24. The fixed position of electrodes throughout the measurements eliminates operator variability allowing precise and repeatable measurements of cell layers with weak barrier function (&lt;10 ohm-cm<sup>2</sup>). There is no need to take the station out of the incubator, therefore eliminating temperature variations.
             </p>
             <p class="mt-4">
               The TEER24 accepts standard 24 well membrane inserts from any commercial supplier. These are placed in a disposable sterile baseplate with addressable electrodes on the well bottom. Once medium and cell suspension are added, an autoclavable array of gold dipping electrodes is inserted and measurements may begin. Even with the dipping electrodes in place, the media both in and out of the inner well can be easily reached with standard micropipettes.
