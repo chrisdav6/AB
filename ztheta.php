@@ -84,7 +84,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Description</h2>
             <hr class="mt-1">
             <p>
-              The ECIS<sup>®</sup> ZƟ (Z Theta) is our most advanced instrument capable of noninvasively monitoring cell behavior in real-time. The turn-key package consists of a ZƟ System Controller, 16 and/or 96 well Array Station, and computer with integrated software running on Windows or Mac OS. The system also includes our exclusive elevated field mode (EFM) to carry out automated cell migration and electroporation studies.
+              The ECIS<sup>®</sup> Z-Theta is our most advanced all-in-one instrument with a distinct method of accurately measuring cellular behaviors including proliferation, migration, barrier function, attachment, and much more. Not only is the ECIS Z-Theta capable of a multitude of assays, it’s all done in real time, giving it the edge in impedance-based assays.
             </p>
             <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data Sheet</a>
             <a href="#" class="btn btn-success productBtn" role="button">Order Info</a>
@@ -102,17 +102,35 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Overview</h2>
             <hr class="mt-1">
             <p>
-              The ECIS<sup>®</sup> ZƟ interprets complex impedance as series resistance and capacitance and reports these values at any AC frequency. Data gathered from confluent cell monolayers at multiple AC frequencies can also be mathematically modeled to present time course changes in three parameters related to actual cell morphology. These parameters include changes in the barrier function (permeability) of the confluent layer, averaged apical and basal membrane capacitance and the close contacts between the basal cell membrane and the cell substrate.
+              The ECIS<sup>®</sup> ZƟ (Z Theta) is capable of noninvasively monitoring cell behavior in real-time using electric cell-substrate impedance sensing (ECIS). By applying an alternating current across patterned gold electrodes, a voltage potential is created which is then measured by the system. When cells cover these electrodes, the current is then impeded in different manners depending upon the overall cell morphology.
             </p>
-            <h5 class="mt-4">System includes:</h5>
+            <p>
+              Upon stimulation of cell function, resulting responses in cell morphology will alter the impedance, revealing quantifiable differences. The ECIS Z-Theta can then convert the complex impedance into series resistance and capacitance, allowing for more accurate data of the cell behavior, making it an advanced form of cellular impedance-based assays.
+            </p>
+            <h5 class="mt-4">Benefits</h5>
             <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-              <li>- Include Items</li>
+              <li>- Automated measurements of cell proliferation, morphology, barrier function, attachment, etc.</li>
+              <li>- 16 or 96 wells</li>
+              <li>- Choice of a wide range of AC frequencies*</li>
+              <li>- Data recorded and visualized in real time under incubator conditions</li>
+              <li>- Long-term data collection capabilities</li>
+              <li>- Non-invasive &amp; label free</li>
+              <li>- Highly reproducible</li>
+              <li>- User Friendly software</li>
+              <li>- Data output in CSV, excel or graphical (jpg, tif)</li>
+              <li>- Multiple array selection</li>
+            </ul>
+            <h5 class="mt-4">System Includes:</h5>
+            <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+              <li>- 16 and/or 96 well station located inside CO<sub>2</sub> incubator</li>
+              <li>- External control module</li>
+              <li>- Laptop PC</li>
+              <li>- ECIS control, acquisition, and display software</li>
+              <li>- Elevated field module (EFM) for automated cell migration and electroporation</li>
+              <li>- Twelve 8-well and/or six 96-well consumable electrode arrays</li>
             </ul>
             <p class="mt-4">
-              These non-invasive measurements can be made for days and even weeks with no need to remove the station from the incubator, eliminating unwanted temperature and pH variations.
-            </p>
-            <p class="mt-4">
-              Compounds affecting cell growth can be introduced before or after the cells have attached to distinguish changes in growth from the ability of the cells to attach to the substrate.
+              *The ECIS Z-Theta uses a range of AC frequencies from 100 – 64,000 Hz to calculate time course changes in cell behavior including measurements of permeability of the cell layer, constricted flow underneath the cells, and the membrane capacitance. And with multiple options in size of electrodes and patterns of the available arrays, the ECIS Z-Theta is able to detect morphological changes from subtle variations in small populations of cells to widespread population changes such as cell proliferation.
             </p>
           </div>
         </div>
@@ -137,7 +155,15 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
                 <p class="mt-4">
                   <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                    <li>- Specs</li>
+                    <li>- Array plates are barcoded with serial numbers for tracking</li>
+                    <li>- Gold electrodes</li>
+                    <li>- 100-64,000 Hz sinusoidal signal</li>
+                    <li>- Power: ~100watts, 120/240 V AC</li>
+                    <li>- 16-well station: 15.2 x 12.7 x 7.6 cm</li>
+                    <li>- 96-well station: 25.1 x 17.5 x 6 cm</li>
+                    <li>- Controller: 43.8 x 49.5 x 20.3 cm</li>
+                    <li>- Connects to laptop via USB</li>
+                    <li>- Windows 10</li>
                   </ul>
                 </p>
               </div>
