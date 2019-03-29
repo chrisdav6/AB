@@ -45,7 +45,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           Fill out the form below to recieve the latest software for your Applied Biophyics ECIS device.
         </p>
         <div class="googleForm">
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfc-4jDMuNfhbivWMRXHPwEksOTPXOHtiPA_7hvLfOuNC_SIA/viewform?embedded=true" width="100%" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+          <iframe onload="self.scrollTo(0,0)" src="https://docs.google.com/forms/d/e/1FAIpQLSfc-4jDMuNfhbivWMRXHPwEksOTPXOHtiPA_7hvLfOuNC_SIA/viewform?embedded=true" width="100%" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
         </div>
 
       </div>
