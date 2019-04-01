@@ -189,6 +189,11 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                   <img class="img-fluid" src="public/img/zThetaDataSheet.jpg" alt="Download ZTheta Data Sheet">
                 </a>
               </div>
+              <div class="col-md-3">
+                <a href="public/pdf/ECISProductGuide.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ECIS Product Guide">
+                  <img class="img-fluid" src="public/img/ECISProductGuide.jpg" alt="Download ECIS Product Guide">
+                </a>
+              </div>
             </div>
           </div>
         </div>
