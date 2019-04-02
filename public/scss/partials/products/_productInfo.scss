@@ -17,6 +17,11 @@
     font-weight: 400;
   }
 
+  .manual-link {
+    font-size: 1.15rem;
+    font-weight: 600;
+  }
+
   @include mq600 {
     .nav-link {
       padding: .4em .6em;

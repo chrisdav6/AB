@@ -189,13 +189,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           <div class="col">
             <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
             <hr class="mt-1">
-            <div class="row mt-4">
-              <div class="col-md-3 pb-4 pb-md-0">
-                <a href="public/pdf/P-FlowPumpManualRevD.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ECIS p-FLOW Peristaltic Pump Manual">
-                  <img class="img-fluid" src="public/img/pFlowManual.jpg" alt="Download ECIS p-FLOW Peristaltic Pump Manual">
-                </a>
-              </div>
-            </div>
+            <a class="text-dark manual-link" href="public/pdf/P-FlowPumpManualRevD.pdf" target="_blank">ECIS p-FLOW Peristaltic Pump Manual</a>
           </div>
         </div>
 
