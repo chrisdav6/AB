@@ -78,8 +78,8 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <p>
               For proper data collection, the ECIS stations with inoculated arrays need to be kept under appropriate cellular incubation parameters that regulate thermal conditions and CO<sub>2</sub>. Fluctuations in these parameters can alter cellular behavior, and due to the high measuring sensitivity of the ECIS systems, these alterations will be expressed in the data. Because space next to the incubator is required for the ECIS electronics, we recommend acquiring a tissue-culture incubator that is dedicated for the ECIS systems.
             </p>
-            <!-- <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data Sheet</a>
-            <a href="#" class="btn btn-success productBtn" role="button">Order Info</a> -->
+            <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data Sheet</a>
+            <a href="#" class="btn btn-success productBtn" role="button">Order Info</a>
           </div>
 
         </div>
@@ -152,19 +152,13 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </div>
         </div>
 
-        <!-- <div id="dataSheets" class="row mt-5">
+        <div id="dataSheets" class="row mt-5">
           <div class="col">
             <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
             <hr class="mt-1">
-            <div class="row mt-4">
-              <div class="col-md-3 pb-4 pb-md-0">
-                <a href="public/pdf/P-FlowPumpManualRevD.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ECIS p-FLOW Peristaltic Pump Manual">
-                  <img class="img-fluid" src="public/img/pFlowManual.jpg" alt="Download ECIS p-FLOW Peristaltic Pump Manual">
-                </a>
-              </div>
-            </div>
+            
           </div>
-        </div> -->
+        </div>
 
       </div>
     </section>
