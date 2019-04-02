@@ -102,7 +102,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h2>Overview</h2>
             <hr class="mt-1">
             <p>
-              The ECIS TEER24 is designed to carry out traditional trans-epithelial/endothelial electrical resistance measurements using ECIS (electric cell-substrate impedance sensing) technology to monitor the barrier function of cell layers grown on membrane insert filters. Data is collected continuously from up to 24 independent wells and reported as real-time barrier function changes in ohm-cm<sup>2</sup> .
+              The ECIS TEER24 is designed to carry out traditional trans-epithelial/endothelial electrical resistance measurements using ECIS (electric cell-substrate impedance sensing) technology to monitor the barrier function of cell layers grown on membrane insert filters. Data is collected continuously from up to 24 independent wells and reported as real-time barrier function changes in ohm-cm<sup>2</sup>.
             </p>
             <h5 class="mt-4">Benefits</h5>
             <ul class="list-unstyled mt-3 ml-0 ml-md-3">
