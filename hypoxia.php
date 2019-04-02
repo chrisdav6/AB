@@ -178,7 +178,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                     <li>- Humidity: Moisture tray to ensure maximum sample saturation</li>
                   </ul>
                 </p>
-                <p>These products are offered by Coy Laboratory Products. For more information, please call 734-475-2200 or visit <a class="text-dark link" href="http://coylab.com/" target="_blank">coylab.com</a></p>
+                <p class="mt-5">These products are offered by Coy Laboratory Products. For more information, please call 734-475-2200 or visit <a class="text-dark link" href="http://coylab.com/" target="_blank">coylab.com</a></p>
               </div>
               <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
                 <p class="mt-4">
@@ -192,34 +192,16 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           </div>
         </div>
 
-        <!-- <div id="dataSheets" class="row mt-5">
+        <div id="dataSheets" class="row mt-5">
           <div class="col">
             <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
             <hr class="mt-1">
-            <div class="row mt-4">
-              <div class="col-md-3 pb-4 pb-md-0">
-                <a href="public/pdf/P-FlowPumpManualRevD.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download Hypoxia Literature">
-                  <img class="img-fluid" src="public/img/pFlowManual.jpg" alt="Download Hypoxia Literature">
-                </a>
-              </div>
-              <div class="col-md-3 pb-4 pb-md-0">
-                <a href="public/pdf/P-FlowPumpManualRevD.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Hypoxia or In Situ Normoxia: The Stem Cell Paradigm">
-                  <img class="img-fluid" src="public/img/pFlowManual.jpg" alt="Download ECIS p-FLOW Peristaltic Pump Manual">
-                </a>
-              </div>
-              <div class="col-md-3 pb-4 pb-md-0">
-                <a href="public/pdf/P-FlowPumpManualRevD.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ECIS p-FLOW Peristaltic Pump Manual">
-                  <img class="img-fluid" src="public/img/pFlowManual.jpg" alt="Download ECIS p-FLOW Peristaltic Pump Manual">
-                </a>
-              </div>
-              <div class="col-md-3 pb-4 pb-md-0">
-                <a href="public/pdf/P-FlowPumpManualRevD.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ECIS p-FLOW Peristaltic Pump Manual">
-                  <img class="img-fluid" src="public/img/pFlowManual.jpg" alt="Download ECIS p-FLOW Peristaltic Pump Manual">
-                </a>
-              </div>
-            </div>
+            <a class="text-dark manual-link" href="public/pdf/HypoxiaV2cFINAL.pdf" target="_blank">Hypoxia Literature</a>
+            <a class="text-dark manual-link" href="public/pdf/StemCellParadigm.pdf" target="_blank">Hypoxia or In Situ Normoxia: The Stem Cell Paradigm</a>
+            <a class="text-dark manual-link" href="public/pdf/PO2MattersinStemCellCulture.pdf" target="_blank">PO<sub>2</sub> Matters in Stem Cell Culture</a>
+            <a class="text-dark manual-link" href="public/pdf/MetabolicMarkersofHypoxia.pdf" target="_blank">Metabolic Markers of Hypoxia: Systems Biology Applications in Biomedicine</a>
           </div>
-        </div> -->
+        </div>
 
       </div>
     </section>

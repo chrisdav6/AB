@@ -20,6 +20,8 @@
   .manual-link {
     font-size: 1.15rem;
     font-weight: 600;
+    display: block;
+    margin: .5em 0;
   }
 
   @include mq600 {
