@@ -49,25 +49,25 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
             <div id="carouselExampleIndicators" class="carousel slide border" data-ride="carousel">
               <div class="carousel-inner">
-                <ol class="carousel-indicators">
+                <!-- <ol class="carousel-indicators">
                   <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                   <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                   <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-                </ol>
+                </ol> -->
 
                 <div class="carousel-item active">
                   <img class="d-block w-100" src="public/img/c02incubator.jpg" alt="ECIS CO2 Incubator">
                 </div>
 
               </div>
-              <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
+              <!-- <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                 <span class="sr-only">Previous</span>
               </a>
               <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
                 <span class="sr-only">Next</span>
-              </a>
+              </a> -->
             </div>
 
           </div>
