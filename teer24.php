@@ -194,7 +194,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 </a>
               </div>
               <div class="col-md-3">
-                <a href="public/pdf/TEER24ManualR3.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Manual">
+                <a href="public/pdf/TEER24ManualR5.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Manual">
                   <img class="img-fluid" src="public/img/teer24Manual.jpg" alt="Download TEER24 Manual">
                 </a>
               </div>

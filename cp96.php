@@ -188,7 +188,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 </a>
               </div>
               <div class="col-md-3">
-                <a href="public/pdf/CP96ManualR4.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download CP96 Manual">
+                <a href="public/pdf/CP96ManualR6.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download CP96 Manual">
                   <img class="img-fluid" src="public/img/cp96Manual.jpg" alt="Download CP96 Manual">
                 </a>
               </div>
