@@ -46,7 +46,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
           <div class="col-md-3">
             <div class="list-group mb-5" id="list-tab" role="tablist">
-              <a class="list-group-item list-group-item-action active" data-toggle="list" href="#apoptosis" role="tab" data-scroll-ignore>Apoptosis</a>
+              <a class="list-group-item list-group-item-action" data-toggle="list" href="#apoptosis" role="tab" data-scroll-ignore>Apoptosis</a>
               <a class="list-group-item list-group-item-action" data-toggle="list" href="#attachment" role="tab" data-scroll-ignore>Attachment</a>
               <a class="list-group-item list-group-item-action" data-toggle="list" href="#barrierFunction" role="tab" data-scroll-ignore>Barrier Function</a>
               <a class="list-group-item list-group-item-action" data-toggle="list" href="#biofilms" role="tab" data-scroll-ignore>Biofilms</a>
@@ -75,7 +75,29 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           <div class="col-md-9">
             <div class="tab-content" id="nav-tabContent">
 
-              <div class="tab-pane active" id="apoptosis" role="tabpanel">
+              <div class="tab-pane active" role="tabpanel">
+                <h2>Recent Publications</h2>
+                <hr>
+
+                <div class="pub">
+                  <p>Ameri, Hossein,Liu, Hua,Liu, Rong,Ha, Yonju,Paulucci-Holthauzen, Adriana A,Hu, Shuqun,Motamedi, Massoud,Godley, Bernard F,Tilton, Ronald G,Zhang, Wenbo (2014). "TWEAK/Fn14 pathway is a novel mediator of retinal neovascularization.." Investigative ophthalmology & visual science 55 (2) : 801-813. doi:10.1167/iovs.13-12812 - <a href="#" class="link text-dark" target="_blank">[Abstract]</a></p>
+                </div>
+
+                <hr>
+
+                <div class="pub">
+                  <p>MacKenzie, Tiffany N,Mujumdar, Nameeta,Banerjee, Sulagna,Sangwan, Veena,Sarver, Aaron,Vickers, Selwyn,Subramanian, Subbaya,Saluja, Ashok K (2013). "Triptolide induces the expression of miR-142-3p: a negative regulator of heat shock protein 70 and pancreatic cancer cell proliferation.." Molecular cancer therapeutics 12 (7) : 1266-1275. doi:10.1158/1535-7163.MCT-12-1231 - <a href="#" class="link text-dark" target="_blank">[Abstract]</a></p>
+                </div>
+
+                <hr>
+
+                <div class="pub">
+                  <p>Bosanquet, David C,Ye, Lin,Harding, Keith G,Jiang, Wen G (2012). "Role of HuR in keratinocyte migration and wound healing.." Molecular medicine reports 5 (2) : 529-534. doi:10.3892/mmr.2011.675 - <a href="#" class="link text-dark" target="_blank">[Abstract]</a></p>
+                </div>
+
+              </div><!-- /tab-pane -->
+
+              <div class="tab-pane" id="apoptosis" role="tabpanel">
                 <h2>Recent Publications in Apoptosis.</h2>
                 <hr>
 
