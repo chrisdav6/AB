@@ -40,6 +40,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <hr class="mt-0">
           </div>
         </div>
+      </div>
     </section><!-- /ecisReferralHeading -->
 
     <section id="ecisReferralContent" class="py-4 mb-5">

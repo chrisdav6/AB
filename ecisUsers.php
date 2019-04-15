@@ -40,6 +40,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <h1 class="mb-0">ECIS Users</h1>
             <hr class="mt-0">
           </div>
+        </div>
       </div>
     </section><!-- /ecisUsersHeading -->
 

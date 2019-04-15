@@ -38,6 +38,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <hr class="mt-0">
           </div>
         </div>
+      </div>
     </section><!-- /companyHeading -->
 
     <section id="earlyCareerContent" class="py-4 mb-5">

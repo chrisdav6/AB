@@ -40,6 +40,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             <hr class="mt-0">
           </div>
         </div>
+      </div>
     </section><!-- /applicationHeading -->
 
     <section id="applicationContent" class="py-4 text-center text-md-left">
