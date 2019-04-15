@@ -1,0 +1,40 @@
+#publicationsHeading {
+  margin-top: 3em;
+
+  h1 {
+    font-size: 2rem;
+    padding: .5em 1em;
+    background: $orange;
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
+#publicationsContent {
+  .list-group-item:hover {
+    background: lighten($logo-blue, 35%);
+  }
+
+  .list-group-item.active {
+    background: $logo-blue;
+  }
+
+  .submitPubBtn {
+    background: $orange;
+    color: #fff;
+  }
+
+  .submitPubBtn:hover {
+    background: transparent;
+    border: 1px solid $orange;
+    color: $orange;
+  }
+
+  .pub {
+    padding: .5em;
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+}
