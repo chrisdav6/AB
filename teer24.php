@@ -26,8 +26,8 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
   <body class="d-flex flex-column">
 
-    <?php include_once "includes/navbar.php"; ?>
-    <?php include_once "includes/logo-sm.php"; ?>
+    <?php include_once "includes/navbar.php";?>
+    <?php include_once "includes/logo-sm.php";?>
 
     <section id="productHeading" class="pb-4 text-center text-md-left">
       <div class="container">
@@ -53,10 +53,15 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                   <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                   <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                   <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
                 </ol>
 
                 <div class="carousel-item active">
                   <img class="d-block w-100" src="public/img/teer24Large.jpg" alt="TEER24 Barrier Function Measurement System">
+                </div>
+
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="public/img/teer24Station.jpg" alt="TEER24 Barrier Function Measurement System">
                 </div>
 
                 <div class="carousel-item">
@@ -140,7 +145,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
         <div class="row mt-5">
           <div class="col">
-            
+
             <ul class="nav nav-tabs" id="myTab" role="tablist">
               <li class="nav-item">
                 <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
@@ -153,7 +158,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                   aria-selected="false">Options</a>
               </li>
             </ul>
-            
+
             <div class="tab-content" id="myTabContent">
               <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
                 <p class="mt-4">
@@ -205,7 +210,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
       </div>
     </section>
 
-    <?php include_once "includes/footer.php"; ?>
+    <?php include_once "includes/footer.php";?>
 
     <!-- Scroll to top -->
     <button class="btn btn-outline-dark" id="scrollBtn"><i class="fas fa-angle-up fa-2x"></i></button>

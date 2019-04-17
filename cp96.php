@@ -53,10 +53,15 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                   <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                   <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
                   <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+                  <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
                 </ol>
 
                 <div class="carousel-item active">
                   <img class="d-block w-100" src="public/img/cp96Large.jpg" alt="CP96 Cell Proliferation Measurement System">
+                </div>
+
+                <div class="carousel-item">
+                  <img class="d-block w-100" src="public/img/cp96Station.jpg" alt="CP96 Cell Proliferation Measurement System">
                 </div>
 
                 <div class="carousel-item">
