@@ -6,62 +6,62 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="<?php echo $metaDesc; ?>">
-    <!-- Google Fonts -->
-    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700,900" rel="stylesheet">
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
-    <!-- Bootstrap -->
-    <link rel="stylesheet" href="public/css/bootstrap.css" type="text/css">
-    <!-- Custom CSS -->
-    <link rel="stylesheet" href="public/css/style.css">
-    <!-- Favicon -->
-    <link rel="icon" type="image/x-icon" href="public/img/favicon.ico">
-    <title><?php echo $title; ?></title>
-  </head>
 
-  <body class="d-flex flex-column">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="<?php echo $metaDesc; ?>">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700,900" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="public/css/bootstrap.css" type="text/css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="public/css/style.css">
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="public/img/favicon.ico">
+  <title><?php echo $title; ?></title>
+</head>
 
-    <?php include_once "includes/navbar.php";?>
-    <?php include_once "includes/logo-sm.php";?>
+<body class="d-flex flex-column">
 
-    <section id="softwareHeading" class="text-center text-md-left">
-      <div class="container">
-        <div class="row">
-          <div class="col">
-            <h1 class="mb-0">Software</h1>
-            <hr class="mt-0">
-          </div>
+  <?php include_once "includes/navbar.php";?>
+  <?php include_once "includes/logo-sm.php";?>
+
+  <section id="softwareHeading" class="text-center text-md-left">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <h1 class="mb-0">Software</h1>
+          <hr class="mt-0">
         </div>
       </div>
-    </section><!-- /softwareHeading -->
+    </div>
+  </section><!-- /softwareHeading -->
 
-    <section id="softwareContent" class="py-4 mb-5">
-      <div class="container text-center text-md-left">
-        <p class="mb-5">
-          Fill out the form below to recieve the latest software for your Applied Biophyics ECIS device.
-        </p>
-        <div class="googleForm">
-          <iframe onload="self.scrollTo(0,0)" src="https://docs.google.com/forms/d/e/1FAIpQLSfc-4jDMuNfhbivWMRXHPwEksOTPXOHtiPA_7hvLfOuNC_SIA/viewform?embedded=true" width="100%" height="1500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-        </div>
-
+  <section id="softwareContent" class="py-4">
+    <div class="container text-center text-md-left">
+      <div class="googleForm">
+        <iframe onload="self.scrollTo(0,0)"
+          src="https://docs.google.com/forms/d/e/1FAIpQLSfMiSfG9ajissHdku_e1Z9wyhCxNlRRig04K_zE44SxJMlQPQ/viewform?embedded=true"
+          width="100%" height="2700" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">Loading...</iframe>
       </div>
-    </section><!-- /softwareContent -->
 
-    <?php include_once "includes/footer.php";?>
+    </div>
+  </section><!-- /softwareContent -->
 
-    <!-- Scroll to top -->
-    <button class="btn btn-outline-dark" id="scrollBtn"><i class="fas fa-angle-up fa-2x"></i></button>
+  <?php include_once "includes/footer.php";?>
 
-    <script src="public/js/jquery.min.js"></script>
-    <script src="public/js/bootstrap.bundle.min.js"></script>
-    <script src="public/js/util.js"></script>
-    <script src="public/js/smooth-scroll.min.js"></script>
-    <script src="public/js/scripts.js"></script>
-  </body>
+  <!-- Scroll to top -->
+  <button class="btn btn-outline-dark" id="scrollBtn"><i class="fas fa-angle-up fa-2x"></i></button>
+
+  <script src="public/js/jquery.min.js"></script>
+  <script src="public/js/bootstrap.bundle.min.js"></script>
+  <script src="public/js/util.js"></script>
+  <script src="public/js/smooth-scroll.min.js"></script>
+  <script src="public/js/scripts.js"></script>
+</body>
 
 </html>
