@@ -47,7 +47,7 @@
               <a class="dropdown-item" href="teerBarrierFunction.php">TEER/Barrier Function</a>
               <a class="dropdown-item" href="cellProliferation.php">Cell Proliferation</a>
               <a class="dropdown-item" href="cellMigration.php">Cell Migration</a>
-              <a class="dropdown-item" href="signalTransduction.php">Signal Transduction</a>
+              <!-- <a class="dropdown-item" href="signalTransduction.php">Signal Transduction</a> -->
             </div>
           </li>
           <li class="nav-item">
