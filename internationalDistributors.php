@@ -63,7 +63,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 </address>
               </div>
 
-              <div class="col-md-6 my-4">
+              <!-- <div class="col-md-6 my-4">
                 <h3>Brazil</h3>
                 <hr class="mb-4">
                 <h5><a class="text-dark link" href="http://bioprophecy.com" target="_blank">BIOProphecy</a></h5>
@@ -74,7 +74,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                   Attn: Dr. Cleverson Fernandes<br>
                   <a class="text-dark link" href="mailto:cleverson@bioprophecy.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cleverson@bioprophecy.com</a>
                 </address>
-              </div>
+              </div> -->
 
               <div class="col-md-6 my-4">
                 <h3>China</h3>

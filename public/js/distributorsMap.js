@@ -8,7 +8,7 @@ function initMap() {
 
   var markers = [
     ['Austrailia, SDR Clinical Technology', -21.517270, 133.668094],
-    ['Brazil, BIOProphecy', -9.931470, -50.785254],
+    // ['Brazil, BIOProphecy', -9.931470, -50.785254],
     ['China, Dakewe Biotech Co', 35.682732, 103.662959],
     ['Czech Republic, I.T.A-Intertact s.r.o', 49.802342, 15.038014],
     ['Germany, ibidi GmbH', 51.475423, 10.377814],
@@ -41,16 +41,16 @@ function initMap() {
     ],
 
     // Brazil
-    [
-      '<div class="map-text">' +
-      '<span>BIOProphecy</span><br>' +
-      '<hr>' +
-      'Tel: +55 16 98206-8282<br>' +
-      'Attn: Dr. Cleverson Fernandes<br>' +
-      '<p><a class="map-link" href="mailto:cleverson@bioprophecy.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
-      '<p class="mt-0"><a class="map-link" href="http://bioprophecy.com" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
-      '</div>'
-    ],
+    // [
+    //   '<div class="map-text">' +
+    //   '<span>BIOProphecy</span><br>' +
+    //   '<hr>' +
+    //   'Tel: +55 16 98206-8282<br>' +
+    //   'Attn: Dr. Cleverson Fernandes<br>' +
+    //   '<p><a class="map-link" href="mailto:cleverson@bioprophecy.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+    //   '<p class="mt-0"><a class="map-link" href="http://bioprophecy.com" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+    //   '</div>'
+    // ],
 
     // China
     [
