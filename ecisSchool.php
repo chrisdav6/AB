@@ -118,7 +118,18 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
         <h4 class="mt-5 mb-4 secondary-title">ECIS School Past Graduates</h4>
 
+        
         <div class="row text-center">
+          <div class="col-lg-4 col-md-6 mb-4">
+            <a class="text-dark gradLink" data-toggle="modal" data-target="#ecisSchoolMay2019">
+              <div class="card">
+                <img src="public/img/students-may2019.jpg" class="card-img-top" alt="ECIS Students May 2019">
+                <div class="card-body">
+                  <h5 class="card-title mb-0">May 2019</h5>
+                </div>
+              </div>
+            </a>
+          </div>
           <div class="col-lg-4 col-md-6 mb-4">
             <a class="text-dark gradLink" data-toggle="modal" data-target="#ecisSchoolAug2018">
               <div class="card">
@@ -186,6 +197,37 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
 
     <!-- Modals -->
 
+    <!-- May 2019 -->
+    <div class="modal fade" id="ecisSchoolMay2019" tabindex="-1" role="dialog">
+      <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalCenterTitle">ECIS School Graduates - May 2019</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <figure class="figure">
+              <img src="public/img/students-may2019.jpg" class="figure-img w-100" alt="ECIS Students May 2019">
+              <figcaption class="figure-caption">
+                From left to right: Dennis Grab - Christian Dehnert - Applied BioPhysics, Charles Keese - Applied BioPhysics, Tetyana Buzhdygan - Temple University, Slava Rom - Temple University, Ivar Giaever - Applied BioPhysics
+              </figcaption>
+            </figure>
+            <div class="grad-text my-2">
+              <p class="mb-0">Slava Rom, PhD.</p>
+              <p class="grad-desc-title">Assistant Professor- Temple University</p>
+              <p class="grad-desc">Research Focus: Dr. Rom’s research focuses on microRNA biology and their role in blood-brain barrier dysfunction during ischemia-reperfusion (stroke), as well as on the Interactions between leukocytes and endothelium.</p>
+              <hr>
+              <p class="mb-0">Tetyana Buzhdygan, PhD.</p>
+              <p class="grad-desc-title">Researcher- Temple University</p>
+              <p class="grad-desc">Research Focus: The goal of Dr. Buzhdygan’s research is to shed light on the neurobiology of novel designer drugs in terms of their effects on neuroinflammation and blood-brain barrier damage.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
     <!-- August 2018 -->
     <div class="modal fade" id="ecisSchoolAug2018" tabindex="-1" role="dialog">
       <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
