@@ -17,12 +17,13 @@
   },
   "homepage": "https://github.com/chrisdav6/AB#readme",
   "dependencies": {
-    "bootstrap": "^4.1.3",
-    "jquery": "^3.3.1"
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
   },
   "devDependencies": {
-    "browser-sync": "^2.24.7",
+    "browser-sync": "^2.26.7",
     "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.1"
+    "gulp-sass": "^4.0.1",
+    "natives": "^1.1.6"
   }
 }

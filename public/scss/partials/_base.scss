@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   min-height: 100vh;
   box-sizing: border-box;
   font-family: "Lato";
@@ -38,6 +39,10 @@ a.facebook:hover {
 
 a.twitter:hover {
   color: #38A1F3;
+}
+
+a.youtube:hover {
+  color: #c4302b;
 }
 
 .ecisBtn {
