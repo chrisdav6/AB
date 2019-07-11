@@ -98,7 +98,7 @@ $publications = new Publications();
                     <tbody>
 
                     <?php /** @var Publication $publication */
-                    foreach ($publications->getPublications() as $publication) : ?>
+                    foreach ($publications->publications as $publication) : ?>
 
                         <tr class="publication" data-abstract="<?= $publication->getAbstract() ?>">
                             <td>

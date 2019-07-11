@@ -53,7 +53,9 @@ class Publication
     {
         $labels = explode(';', $this->record->label);
 
-        return array_map('Publications::stripECIS', array_filter($labels));
+        return array_map(function($label) {
+            return ucwords(self::stripECIS(trim($label)));
+        }, array_filter($labels));
     }
 
     /**
@@ -148,5 +150,16 @@ class Publication
     public function getAbstract()
     {
         return $this->record->abstract->__toString();
+    }
+
+    /**
+     * Strip the beginning of any string of "ECIS "
+     *
+     * @param $string
+     * @return string|string[]|null
+     */
+    public static function stripECIS($string)
+    {
+        return preg_replace('/^ECIS\s/', '', $string);
     }
 }
