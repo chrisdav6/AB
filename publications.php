@@ -1,292 +1,227 @@
 <?php
-$header_class = 'publications';
-$page_name = 'video';
-include('includes/header.php');
 
-include('dynamic_publications.php');
-include('includes/sidebars/dynamic_publications.php');
+require_once __DIR__ . '/includes/classes/Publications.php';
+
+$title = "Applied Biophysics";
+$metaDesc = "Label-free Real-time Automated Cell-based assays powered by the technology of ECIS. Developed by Nobel laureate Ivar
+    Giaever and Charles Keese ECIS uses impedance sensing to monitor the behavior of cells as they grow in culture.";
+
+$publications = new Publications();
+
 ?>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="<?php echo $metaDesc; ?>">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700,900" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="public/css/bootstrap.css" type="text/css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="public/css/style.css">
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="public/img/favicon.ico">
 
+    <!-- link/script for dynamic publications page -->
+    <link rel="stylesheet" type="text/css" href="/public/css/datatables.min.css"/>
+    <!-- publications.css after dataTables css to override defaults -->
+    <link rel="stylesheet" type="text/css" href="public/css/dynamic_publications.css"/>
+    <!--    <link rel="stylesheet" type="text/css" href="./css/magnific-popup.css" />-->
 
-<!-- Base link/script for all pages REMOVE after install -->
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<!-- -->
+    <title><?php echo $title; ?></title>
+</head>
 
+<body class="d-flex flex-column">
 
-<!-- link/script for dynamic publications page -->
-<link rel="stylesheet" type="text/css" href="./css/jquery.dataTables.min.css" />
-<!-- publications.css after dataTables css to override defaults -->
-<link rel="stylesheet" type="text/css" href="./css/dynamic_publications.css" />
-<link rel="stylesheet" type="text/css" href="./css/magnific-popup.css" />
-<script type="text/javascript" src="includes/jquery/jquery.dataTables.min.js"></script>
-<script type="text/javascript" src="includes/jquery/underscore-min.js"></script>
-<script type="text/javascript" src="includes/jquery/jquery.magnific-popup.min.js"></script>
-<!-- -->
+<?php include_once "includes/navbar.php"; ?>
+<?php include_once "includes/logo-sm.php"; ?>
 
+<section id="publicationsHeading" class="text-center text-md-left">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <h1 class="mb-0">Publications</h1>
+                <hr class="mt-0">
+            </div>
+        </div>
+    </div>
+</section><!-- /publicationsHeading -->
 
-<!-- REMOVE after install -->
-<script type="text/javascript">
-  //<![CDATA[
-  $j = jQuery.noConflict();
-  //]]>
-</script>
+<section id="publicationsContent" class="py-4 mb-5">
+    <div class="container text-center text-md-left">
 
+        <div class="row">
 
-<!-- server generated json from XML based publications -->
-<script>
-  var publications = <?php echo $publications_json; ?>;
-</script>
-<!-- -->
+            <div class="col-md-3">
+                <div class="list-group mb-5" id="publication-labels" role="tablist">
+                    <?php foreach ($publications->getUniqueLabels() as $label) : ?>
 
-<!-- Lightbox markup dynmically filled upon choosing publication -->
-<div id="publication-modal" class="publication-popup mfp-hide">
-</div>
+                        <a class="list-group-item list-group-item-action"
+                           href="#"
+                           role="tab"
+                           data-filter="<?= $label ?>"
+                           data-scroll-ignore
+                        ><?= $label ?></a>
 
-<div id="sub-content">
-	<div class="content">
-    
-    <!-- New content for XML based publications -->
-    <h2>Recent Publications</h2>
-    <div id="publications-filter-message"></div>
+                    <?php endforeach; ?>
 
-    <a href="submit.php"><button style="margin-top: 10px;">Submit a Publication</button></a>
+                    <a class="list-group-item list-group-item-action submitPubBtn" href="#" role="tab"
+                       data-scroll-ignore>
+                        Submit A Publication
+                    </a>
 
-    <?php
-      echo "<table id=\"publications-table\" class=\"publications-table\">\n";
-      echo "  <thead>\n";
-      echo "    <th></th>\n";
-      echo "    <th></th>\n";
-      echo "    <th></th>\n";
-      echo "  </thead>\n";
-      echo "  </tbody>\n";
+                </div>
+            </div>
 
-      $publication_index = 0;
-      foreach ($records->record as $record) {
-        switch ($record->{'ref-type'}) {
-          case '0':
-            $publication = new PublicationInJournal($record);
-            break;
-          case '1':
-            $publication = new PublicationInBook($record);
-            break;
-        }
+            <div class="col-md-9">
 
-        $publication->echoTableRow($publication_index);
-        ++$publication_index;
-      }
+                <h2>Recent Publications
+                    <small id="labels-filter-message" class="text-muted"></small>
+                </h2>
 
-      echo "  </tbody>\n";
-      echo "</table>\n";
-    ?>
+                <hr>
 
-    <p>&nbsp;</p>
-    <p>&nbsp;</p>
-		<!-- -->
+                <table id="publications-table" class="publications-table table table-hover" hidden>
 
-	</div>
-</div>
+                    <thead hidden>
+                    <th>Reference</th>
+                    <th>Year</th>
+                    <th>Labels</th>
+                    </thead>
 
-<!-- Underscore template for journal based publication modal dialog -->
-<script type="text/x-underscore" id='publication-journal-details-template'>
-  <div class="publication-item-detail">
-    <dl class="publication-item-description-list">
-      <dt>Authors</dt>
-      <dd class="publication-authors"><%= authors %></dd>
+                    <tbody>
 
-      <dt>Title</dt>
-      <dd class="publication-title"><%= title %></dd>
+                    <?php /** @var Publication $publication */
+                    foreach ($publications->getPublications() as $publication) : ?>
 
-      <dt>Published In</dt>
-      <dd class="publication-title"><i><%= publishedIn %></i></dd>
+                        <tr class="publication" data-abstract="<?= $publication->getAbstract() ?>">
+                            <td>
+                                <p>
+                                    <strong class="publication-title"><?= $publication->getTitle() ?></strong>.,&nbsp;
+                                    <small>
+                                        <span class="publication-authors"><?= implode(',', $publication->getAuthors()) ?></span>&nbsp;
+                                        <span class="publication-year">(<?= $publication->getPublishedDates() ?>)</span>.&nbsp;
+                                        <?php if (!empty($publication->getPublishedIn())) : ?>
+                                            <em class="publication-published-in"><?= $publication->getPublishedIn() ?></em>&nbsp;
+                                        <?php endif; ?>
+                                        <?php if (!empty($publication->getPublishedVolume())) : ?>
+                                            <span class="publication-volume"><?= $publication->getPublishedVolume() ?></span>
+                                        <?php endif; ?>
+                                        <?php if (!empty($publication->getPublishedIssue())) : ?>
+                                            <span class="publication-issue">(<?= $publication->getPublishedIssue() ?>)</span>&nbsp;:&nbsp;
+                                        <?php endif; ?>
+                                        <?php if (!empty($publication->getPublishedPages())) : ?>
+                                            <span class="publication-pages"><?= $publication->getPublishedPages() ?></span>
+                                        <?php endif; ?>
+                                    </small>
+                                    <?php if (!empty($publication->getElectronicResourceNum())) : ?>
+                                        <a class="publication-doi" href="<?= $publication->getDoiUrl() ?>"
+                                           target="_blank">
+                                            doi:<?= $publication->getElectronicResourceNum() ?>
+                                        </a>
+                                    <?php endif; ?>
+                                    <a href=""
+                                       class="publication-abstract link text-dark"
+                                       data-sroll-ignore
+                                       data-toggle="modal"
+                                       data-target="#publications-modal"
+                                    >[Abstract]</a>
+                                </p>
+                                <?php if (!empty($publication->getPublicationLabels())) : ?>
+                                    <div class="publication-labels text-right">
+                                        <?php foreach ($publication->getPublicationLabels() as $label) : ?>
+                                            <span class="badge badge-primary"><?= $label ?></span>
+                                        <?php endforeach; ?>
+                                    </div>
+                                <?php endif; ?>
+                            </td>
+                            <td><?= $publication->getPublishedDates() ?></td>
+                            <td><?= $publication->getDelimitedPublicationLabels() ?></td>
+                        </tr>
 
-      <dt>Volume</dt>
-      <dd class="publication-published-volume"><%= volume %></dd>
+                    <?php endforeach; ?>
 
-      <dt>Issue</dt>
-      <dd class="publication-published-issue"><%= issue %></dd>
+                    </tbody>
 
-      <dt>Date</dt>
-      <dd class="publication-published-date"><%= date %></dd>
+                </table><!-- /tab-pane -->
 
-      <dt>Pages</dt>
-      <dd class="publication-published-pages"><%= pages %>.</dd>
+            </div><!-- /col-md-9 -->
 
-      <dt>DOI</dt>
-      <dd>
-        <a href="http://doi.org/<%= doi %>" target="blank">doi:<%= doi %></a>
-      </dd>
+        </div><!-- /row -->
 
-      <dt>Abstract</dt>
-      <dd><%= abstract %></dd>
+    </div><!-- /container -->
 
-      <dt>Label</dt>
-      <dd><%= label %></dd>
-    </dl>
-  </div>
-</script>
+    <div id="publications-modal" class="modal fade" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <button type="button" class="close text-right mr-1" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <div class="modal-body"></div>
+            </div>
+        </div>
+    </div>
 
-<!-- Underscore template for book based publication modal dialog -->
-<script type="text/x-underscore" id='publication-book-details-template'>
-  <div class="publication-item-detail">
-    <dl class="publication-item-description-list">
-      <dt>Authors</dt>
-      <dd class="publication-authors"><%= authors %></dd>
+    <!-- Underscore template for publication modal dialog -->
+    <script type="text/x-underscore" id='publication-details-template'>
+      <div class="publication-item-detail">
+        <dl class="publication-item-description-list">
+          <dt>Title</dt>
+          <dd class="publication-title"><%= title %></dd>
 
-      <dt>Title</dt>
-      <dd class="publication-title"><%= title %></dd>
+          <dt>Authors</dt>
+          <dd class="publication-authors"><%= authors %></dd>
 
-      <dt>Publisher</dt>
-      <dd class="publication-publisher"><i><%= publisher %></i></dd>
-      
-      <dt>Date</dt>
-      <dd class="publication-published-date"><%= date %></dd>
+          <dt>Published In</dt>
+          <dd class="publication-title"><i><%= publishedIn %></i></dd>
 
-      <dt>DOI</dt>
-      <dd>
-        <a href="http://doi.org/<%= doi %>" target="blank">doi:<%= doi %></a>
-      </dd>
+          <dt>Volume</dt>
+          <dd class="publication-published-volume"><%= volume %></dd>
 
-      <dt>Label</dt>
-      <dd><%= label %></dd>
-    </dl>
-  </div>
-</script>
+          <dt>Issue</dt>
+          <dd class="publication-published-issue"><%= issue %></dd>
 
-<script type="text/javascript">
-  var publicationsJournalDetailsTemplate;
-  var publicationsBookDetailsTemplate;
-  var publicationsDataTable;
+          <dt>Date</dt>
+          <dd class="publication-published-date"><%= date %></dd>
 
-  function formatLabel(rawLabel) {
-    'use strict';
-    
-    if (typeof rawLabel === 'undefined') { return ''; }
+          <dt>Pages</dt>
+          <dd class="publication-published-pages"><%= pages %></dd>
 
-    var labels = rawLabel.split(';');
-    labels = _.map(labels, function(label) {
-      return label.replace(/^ECIS\s/i, '');
-    });
-    return labels.join(', ');
-  }
+          <dt>DOI</dt>
+          <dd><%= doi %></dd>
 
-  // Current site referenced jQuery as $j
-  $j(document).ready(function(){
-    'use strict';
-    (function($) {
-      publicationsJournalDetailsTemplate = _.template($('#publication-journal-details-template').html());
-      publicationsBookDetailsTemplate = _.template($('#publication-book-details-template').html());
+          <dt>Abstract</dt>
+          <dd><%= abstract %></dd>
 
-      publicationsDataTable = $('#publications-table').DataTable({
-        order: [[ 0, 'desc' ]],
-        columnDefs: [
-          {
-            targets: [ 1, 2 ],
-            visible: false,
-            searchable: true
-          },
-          {
-            targets: 0,
-            orderData: [ 1 ]
-          }
-        ]
-      });
+          <dt>Labels</dt>
+          <dd><%= labels %></dd>
+        </dl>
+      </div>
 
-      //Move Datatables elements to top of table
-      $('#publications-table_info').detach().prependTo('#publications-table_wrapper');
-      $('#publications-table_paginate').detach().prependTo('#publications-table_wrapper');
-      $('#publications-table_filter').detach().prependTo('#publications-table_wrapper');
-      
-      $('.publication-label').click(function(){
-        $(this).toggleClass( 'publication-label-filtering' );
+    </script>
 
-        var filterLabels = [];
-        $('.publication-label-filtering').each(function() {
-          filterLabels.push( $(this).data('label') );
-        });
+</section><!-- /publicationsContent -->
 
-        var regex;
-        if (filterLabels.length > 0) {
-          regex = '(' + filterLabels.join('|') + ')';
+<?php include_once "includes/footer.php"; ?>
 
-          var filterLabelsCount = filterLabels.length;
-          var filterLabelsSentence;
-          if (filterLabelsCount === 1) {
-            filterLabelsSentence = filterLabels[0] + '.';
-          } else {
-            var partial = filterLabels.slice(0, filterLabelsCount-1);
-            filterLabelsSentence = partial.join(', ') + ' or ' + filterLabels[filterLabelsCount-1];
-          }
+<!-- Scroll to top -->
+<button class="btn btn-outline-dark" id="scrollBtn"><i class="fas fa-angle-up fa-2x"></i></button>
 
-          $('#publications-filter-message').html('<h3>in ' + filterLabelsSentence + '</h3>');
-        } else {
-          regex = '';
-          $('#publications-filter-message').html('');
-        }
-        
-        publicationsDataTable.columns(2).search(regex, true, false).draw();
-      });
+<script src="public/js/jquery.min.js"></script>
+<script src="public/js/bootstrap.bundle.min.js"></script>
+<script src="public/js/util.js"></script>
+<script src="public/js/smooth-scroll.min.js"></script>
+<script src="public/js/scripts.js"></script>
 
-      // Open the publication details in a modal dialog
-      $(document).on('click', '.publication-details-link', function(){
-        var publicationIndex = $(this).data('publication-index');
-        var record = publications.records.record[publicationIndex * 1];
-        var authors = '';
-        var title = '';
-        var templateData;
-        
-        switch (record['ref-type']) {
-          case '0': //Journal
-            authors = record.contributors.authors.author.join(', ');
-            title = record.titles.title;
-            var publishedIn = record.periodical['full-title'];
+<script type="text/javascript" src="/public/js/datatables.min.js"></script>
+<script type="text/javascript" src="public/js/underscore-min.js"></script>
 
-            templateData = {
-              authors: authors,
-              title: title,
-              publishedIn: publishedIn,
-              volume: record.volume,
-              issue: record.issue,
-              pages: record.pages,
-              date: record.dates.year,
-              doi: record['electronic-resource-num'],
-              abstract: record.abstract,
-              label: formatLabel(record.label)
-            };
-            $('#publication-modal').html( publicationsJournalDetailsTemplate(templateData) );
+</body>
 
-            break;
-          case '1': //Book
-            authors = record.contributors['secondary-authors'].author;
-            title = record.titles.title;
-            var publisher = record.publisher;
-
-            templateData = {
-              authors: authors,
-              title: title,
-              publisher: publisher,
-              date: record.dates.year,
-              doi: record['electronic-resource-num'],
-              label: formatLabel(record.label)
-            };
-            $('#publication-modal').html( publicationsBookDetailsTemplate(templateData) );
-
-            break;
-        }
-
-        $.magnificPopup.open({
-          items: {
-            src: '#publication-modal',
-            type: 'inline'
-          }
-        });
-      });
-
-    })( jQuery );
-  });
-</script>
-
-<?php
-include('includes/footer.php');
-?>
-
+</html>
