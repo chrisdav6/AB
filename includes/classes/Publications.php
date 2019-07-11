@@ -8,28 +8,32 @@ class Publications
     /**
      * @var SimpleXMLElement
      */
-    private $publications;
+    private $publicationsXML;
+
+    public $publications;
 
     public function __construct()
     {
-        $this->publications = simplexml_load_file(dirname(dirname(__DIR__)) . '/public/xml/publications.xml');
+        $this->publicationsXML = simplexml_load_file(dirname(dirname(__DIR__)) . '/public/xml/publications.xml');
+
+        $this->setPublications();
     }
 
     /**
-     * Get Publications from XML file and instantiate new object
+     * Set Publications from XML file and instantiate new object
      * based on type
      *
      * @return array
      */
-    public function getPublications()
+    public function setPublications()
     {
         $publications = [];
 
-        foreach ($this->publications->xpath('records/record') as $record) {
+        foreach ($this->publicationsXML->xpath('records/record') as $record) {
             $publications[] = new Publication($record);
         }
 
-        return $publications;
+        $this->publications = $publications;
     }
 
     /**
@@ -41,26 +45,15 @@ class Publications
     {
         $labels = [];
 
-        foreach ($this->publications->xpath('records/record/label') as $publicationLabels) {
-            $_labels = explode(';', $publicationLabels);
+        foreach ($this->publications as $publication) {
+            $_labels = $publication->getPublicationLabels();
             $labels = array_merge($labels, $_labels);
         }
 
-        $labels = array_map('Publications::stripECIS', array_unique($labels));
+        $labels = array_unique($labels);
 
         sort($labels);
 
         return $labels;
-    }
-
-    /**
-     * Strip the beginning of any string of "ECIS "
-     *
-     * @param $string
-     * @return string|string[]|null
-     */
-    public static function stripECIS($string)
-    {
-        return preg_replace('/^ECIS\s/', '', $string);
     }
 }
