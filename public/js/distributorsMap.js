@@ -14,7 +14,7 @@ function initMap() {
     ['Germany, ibidi GmbH', 51.475423, 10.377814],
     ['India, Labmate', 23.647772, 79.508199],
     ['Israel, Almog Diagnostic', 31.261726, 34.953094],
-    ['Italy, Origlia Srl - SisLab Line', 43.560405, 12.229838],
+    ['Italy, ORIGLIA Srl', 43.560405, 12.229838],
     ['Japan, Nepa Gene Company, Ltd.', 36.987055, 138.438764],
     ['Korea, LeeBaeg Science Co., Ltd.', 36.858338, 127.988415],
     ['Malaysia, Precision Technologies', 4.187779, 102.043109],
@@ -113,12 +113,12 @@ function initMap() {
     //Italy
     [
       '<div class="map-text">' +
-      '<span>Origlia Srl - SisLab Line</span><br>' +
+      '<span>ORIGLIA Srl</span><br>' +
       '<hr>' +
-      'Tel: 39 02 808 86458<br>' +
+      'Tel: +39 02 93503262<br>' +
       'Attn: Riccardo Sacco<br>' +
-      '<p><a class="map-link" href="mailto:info@sislab.it?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
-      '<p class="mt-0"><a class="map-link" href="http://www.sislab.info" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+      '<p><a class="map-link" href="mailto:info@origliaservice.it?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+      '<p class="mt-0"><a class="map-link" href="http://www.origliaservice.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
       '</div>'
     ],
 
