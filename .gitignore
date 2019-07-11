@@ -2,4 +2,4 @@
 /vendor/
 /editable assets/
 .idea
-/public/xml/publications.xml
+# /public/xml/publications.xml
