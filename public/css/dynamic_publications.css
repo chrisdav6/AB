@@ -1,0 +1,86 @@
+.publication-item {
+  padding-left: 2.5em;
+  text-indent:-2.5em;
+
+  padding-bottom: 0.5em;
+
+  border-style: solid;
+  border-top: none;
+  border-right: none;
+  border-bottom: thin solid #DDDDDD;
+  border-left: none;
+}
+
+.publication-published-in {
+  font-style: italic;
+}
+
+table.dataTable tbody th, table.dataTable tbody td {
+  padding: 3px 10px;
+}
+
+/* hide filter and length select box for this example */
+#publications-table_length {
+     display: none;
+}
+
+/* avoid info to be misaligned to pagination buttons */
+#publications-table_info {
+    clear: none;
+}
+
+#publications-table_filter {
+    display:block;
+    width: 100%;
+    padding: 0.5em;
+}
+
+.publication-label:hover{
+  cursor: pointer;
+}
+
+.publication-label-filtering {
+  color: #FFF !important;
+  background-color: #245181;
+}
+
+.publication-label-badges {
+  display: block;
+  margin-top: 2px;
+  text-align: right;
+}
+
+.publication-label-badge {
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+
+  color: #FFFFFF;
+  font-size: 80%;
+  padding: 2px 4px;
+  background-color: #245181;
+}
+
+.publication-item-description-list {
+}
+
+.publication-item-description-list dt {
+  font-weight: bold;
+}
+
+.publication-item-description-list dd {
+  margin-bottom: 1em;
+}
+
+.publication-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width:auto;
+  max-width: 500px;
+  margin: 20px auto;
+
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
