@@ -54,7 +54,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
           <img class="img-fluid mb-4 mb-lg-0 border" src="public/img/schoolKeese.jpg" alt="Dr. Keese Teaching">
         </div>
         <div class="col-lg-6">
-          <p class="nextClass">Next training class: May 9-10, 2019</p>
+          <p class="nextClass">Next training class: September 19-20, 2019</p>
           <p>
             The course, taught by Dr. Charles Keese, provides the students with the knowledge and tools on how to apply
             ECIS
