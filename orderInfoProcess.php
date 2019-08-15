@@ -19,7 +19,7 @@
   $body .= "<p>From: " . $name . "<br/>";
   $body .= "Institution: " . $institution . "<br />";
   $body .= "Phone: " . $phone . "<br/>";
-  $body .= "Email: " . $email . "<br/></p>";
+  $body .= "Email: " . $email . "<br/>";
   $body .= "Demo or Purchase: " . $demoOrPurchase . "<br /></p>";
   $body .= "<p>Comments:<br/>" . $comments . "</p>";
   $body .= "</body></html>";
