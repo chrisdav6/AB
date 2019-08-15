@@ -301,6 +301,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
   <script src="public/js/bootstrap.bundle.min.js"></script>
   <script src="public/js/util.js"></script>
   <script src="public/js/smooth-scroll.min.js"></script>
+  <script src="public/js/formsHandling.js"></script>
   <script src="public/js/scripts.js"></script>
 </body>
 
