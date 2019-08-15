@@ -161,14 +161,14 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs"
                 role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab"
                 aria-controls="video" aria-selected="false">Video</a>
             </li>
             <li class="nav-item">
               <a class="nav-link text-dark" id="options-tab" data-scroll-ignore data-toggle="tab" href="#options"
                 role="tab" aria-controls="options" aria-selected="false">Options</a>
-            </li>
+            </li> -->
           </ul>
 
           <div class="tab-content" id="myTabContent">
@@ -187,14 +187,14 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
                 </ul>
               </p>
             </div>
-            <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
+            <!-- <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
               <p class="mt-4">
                 <div class="youtubeEmbed" id="5Rui4xG5Nr0"></div>
               </p>
             </div>
             <div class="tab-pane fade" id="options" role="tabpanel" aria-labelledby="options-tab">
               <p class="mt-4">Descriptions and links of optional add-on products and/or training</p>
-            </div>
+            </div> -->
           </div>
         </div>
       </div>
