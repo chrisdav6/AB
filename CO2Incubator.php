@@ -169,7 +169,8 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         <div class="col">
           <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
           <hr class="mt-1">
-
+          <a class="text-dark manual-link" href="public/pdf/SCO2WBrochure.pdf" target="_blank">SHEL LAB CO<sub>2</sub>
+            Incubators</a>
         </div>
       </div>
 
