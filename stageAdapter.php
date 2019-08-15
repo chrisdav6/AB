@@ -92,8 +92,8 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             simultaneously. With the ECIS Array Stage Adapter, researchers can view activity of their cells while
             collecting data in real time.
           </p>
-          <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
-            Sheet</a>
+          <!-- <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
+            Sheet</a> -->
           <!-- <a href="#" class="btn btn-success productBtn" role="button">Order Info</a> -->
         </div>
 
@@ -167,12 +167,12 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         </div>
       </div>
 
-      <div id="dataSheets" class="row mt-5">
+      <!-- <div id="dataSheets" class="row mt-5">
         <div class="col">
           <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
           <hr class="mt-1">
         </div>
-      </div>
+      </div> -->
 
     </div>
   </section>
