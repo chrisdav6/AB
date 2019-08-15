@@ -269,7 +269,7 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               <input type="email" class="form-control form-control-lg" name="email" id="email" required>
             </div>
             <div class="form-group">
-              <label for="system">System Intrerested In</label>
+              <label for="system">System Interested In</label>
               <input type="text" class="form-control form-control-lg" name="system" id="system" required>
             </div>
             <div class="form-group d-none">
