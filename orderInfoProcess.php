@@ -7,6 +7,7 @@
   $institution = trim(filter_input(INPUT_POST, "institution", FILTER_SANITIZE_STRING));
   $phone = trim(filter_input(INPUT_POST, "phone", FILTER_SANITIZE_STRING));
   $email = trim(filter_input(INPUT_POST, "email", FILTER_SANITIZE_EMAIL));
+  $system = trim(filter_input(INPUT_POST, "system", FILTER_SANITIZE_STRING));
   $fax = $_POST['fax']; //HoneyPot
   $demoOrPurchase = $_POST['demoOrPurchase'];
   $comments = trim(filter_input(INPUT_POST, "comments", FILTER_SANITIZE_STRING));
@@ -20,6 +21,7 @@
   $body .= "Institution: " . $institution . "<br />";
   $body .= "Phone: " . $phone . "<br/>";
   $body .= "Email: " . $email . "<br/>";
+  $body .= "System Interested In: " . $system . "<br />";
   $body .= "Demo or Purchase: " . $demoOrPurchase . "<br /></p>";
   $body .= "<p>Comments:<br/>" . $comments . "</p>";
   $body .= "</body></html>";

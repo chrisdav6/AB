@@ -190,6 +190,7 @@ $("#orderInfoForm").on("submit", function (event) {
   let $institution = $("#institution");
   let $phone = $("#phone");
   let $email = $("#email");
+  let $system = $("#system");
   let $fax = $("#fax"); //Honeypot field
   let $demoOrPurchase = $(".demoOrPurchase:checked").val();
   let $comments = $("#comments");
@@ -219,6 +220,7 @@ $("#orderInfoForm").on("submit", function (event) {
       $institution.val("");
       $phone.val("");
       $email.val("");
+      $system.val("");
       $comments.val("");
     });
     //Hide Modal
