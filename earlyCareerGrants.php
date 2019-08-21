@@ -61,7 +61,9 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
         merit, suitability with ECIS technology and novelty.
       </p>
 
-      <p class="mb-0">To apply please send a resume, RO1 research plan and cover letter to ???</p>
+      <p class="mb-0">To apply please send a resume, RO1 research plan and cover letter to <a
+          href="mailto:keese@biophysics.com?subject=Applied Biophysics Early Career Mini-Grant" class="text-dark
+          link">Dr. Charles Keese</a></p>
 
       <h4 class="mt-5 mb-3 secondary-title">2011 ECIS Early Career Grant Recipient: Dr. Seema Sehrawat</h4>
 
