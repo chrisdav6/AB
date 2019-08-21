@@ -58,8 +58,8 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
               </ol>
 
               <div class="carousel-item active">
-                <img class="d-block w-100" src="public/img/cp96Large.jpg"
-                  alt="CP96 Cell Proliferation Measurement System">
+                <img class="d-block w-100" src="public/img/cp96Graph.jpg"
+                  alt="CP96 Cell Proliferation Measurement System Graph">
               </div>
 
               <div class="carousel-item">
