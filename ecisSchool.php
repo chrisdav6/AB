@@ -69,6 +69,9 @@ $metaDesc = "Label-free Real-time Automated Cell-based assays powered by the tec
             local
             eateries for the duration of your stay. Please contact us for further details.
           </p>
+
+          <p><a href="/public/pdf/schoolAgenda.pdf" class="link text-dark" target="_blank">Download ECIS School
+              Agenda</a></p>
         </div>
       </div>
 
