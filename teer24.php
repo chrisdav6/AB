@@ -1,7 +1,7 @@
 <?php
-$title = "Applied Biophysics";
-$metaDesc = "Label-free Real-time Automated Cell-based assays powered by the technology of ECIS. Developed by Nobel laureate Ivar
-    Giaever and Charles Keese ECIS uses impedance sensing to monitor the behavior of cells as they grow in culture.";
+  $title = "TEER24 - Barrier Function Measurements - Applied BioPhysics";
+  $metaDesc = "The TEER24 by Applied BioPhysics measures the transepithelial electrical resistance (TEER) barrier
+  function of cellular layers in a total of 24 wells continuously in real-time.";
 ?>
 
 <!DOCTYPE html>

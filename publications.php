@@ -2,9 +2,9 @@
 
 require_once __DIR__ . '/includes/classes/Publications.php';
 
-$title = "Applied Biophysics";
-$metaDesc = "Label-free Real-time Automated Cell-based assays powered by the technology of ECIS. Developed by Nobel laureate Ivar
-    Giaever and Charles Keese ECIS uses impedance sensing to monitor the behavior of cells as they grow in culture.";
+$title = "Publications Using ECIS - Applied BioPhysics";
+$metaDesc = "ECIS systems have been used in over 700 publications world-wide with a variety of different
+applications.";
 
 $publications = new Publications();
 

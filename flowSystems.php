@@ -1,7 +1,7 @@
 <?php
-$title = "Applied Biophysics";
-$metaDesc = "Label-free Real-time Automated Cell-based assays powered by the technology of ECIS. Developed by Nobel laureate Ivar
-    Giaever and Charles Keese ECIS uses impedance sensing to monitor the behavior of cells as they grow in culture.";
+  $title = "ECIS Flow Systems - Applied BioPhysics";
+  $metaDesc = "A flow system and flow arrays from Applied BioPhysics that allow cellular behavior to be measured with
+  ECIS under shear stress conditions. ";
 ?>
 
 <!DOCTYPE html>

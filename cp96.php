@@ -1,7 +1,7 @@
 <?php
-$title = "Applied Biophysics";
-$metaDesc = "Label-free Real-time Automated Cell-based assays powered by the technology of ECIS. Developed by Nobel laureate Ivar
-    Giaever and Charles Keese ECIS uses impedance sensing to monitor the behavior of cells as they grow in culture.";
+  $title = "ECIS CP96 - Cellular Proliferation Measurements - Applied BioPhysics";
+  $metaDesc = "The ECIS CP96 by Applied BioPhysics is a single-purpose instrument that uses ECIS technology and measures
+  cell proliferation rates in up to 96 wells, label-free, incubated, continuously and in real-time.";
 ?>
 
 <!DOCTYPE html>

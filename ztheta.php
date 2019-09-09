@@ -1,7 +1,7 @@
 <?php
-$title = "Applied Biophysics";
-$metaDesc = "Label-free Real-time Automated Cell-based assays powered by the technology of ECIS. Developed by Nobel laureate Ivar
-    Giaever and Charles Keese ECIS uses impedance sensing to monitor the behavior of cells as they grow in culture.";
+  $title = "ECIS Z-Theta - Applied BioPhysics";
+  $metaDesc = "The ECIS Z-Theta is Applied BioPhysics’ all-in-one instrument that uses ECIS technology and measures
+  proliferation, migration via wound-healing, barrier function, and other morphological changes.";
 ?>
 
 <!DOCTYPE html>
