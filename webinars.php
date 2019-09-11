@@ -79,16 +79,16 @@
       <h4 class="mt-5 mt-md-4 mb-4 secondary-title">To register for a webinar:</h4>
 
       <div class="row">
-        <div class="col-lg-8 col-md-8">
+        <div class="col-lg-8">
           <p>1. Please go to: <a href="https://appliedbiophysics.webex.com" class="link text-dark"
               target="_blank">https://appliedbiophysics.webex.com</a> scroll to webinar date.</p>
           <p>2. Register for the meeting.</p>
           <p>Once you have registered, you will receive a confirmation email with instructions for joining the webinar.
           </p>
         </div>
-        <div class="col-lg-4 col-md-4 d-none d-md-block">
+        <div class="col-lg-4">
           <figure class="figure">
-            <img class="figure-img img-fluid mt-4 mt-md-0" src="public/img/DrCharlesKeese.jpg" alt="Dr. Charles Keese">
+            <img class="figure-img img-fluid mt-4 mt-lg-0" src="public/img/DrCharlesKeese.jpg" alt="Dr. Charles Keese">
             <figcaption class="figure-caption">All webinars are presented by Dr. Charles Keese, President, Applied
               BioPhysics</figcaption>
           </figure>
@@ -144,7 +144,7 @@
           </div>
         </div>-->
 
-      <h4 class="mt-3 mt-md-4 mb-3 secondary-title">2019 Webinar Schedule</h4>
+      <h4 class="mt-4 mt-lg-0 mb-3 secondary-title">2019 Webinar Schedule</h4>
 
       <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
