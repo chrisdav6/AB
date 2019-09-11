@@ -52,7 +52,7 @@
         <p>Below are a list of upcoming shows that Applied BioPhysics will be attending in 2019-2020:</p>
       </div>
 
-      <div class="tradeshow mb-5">
+      <!-- <div class="tradeshow mb-5">
         <h4 class="date">September 8-11, 2019</h4>
         <div class="row">
           <div class="col-lg-4">
@@ -67,9 +67,7 @@
               approximately 1,500.</p>
           </div>
         </div>
-      </div>
-
-      <hr class="my-5">
+      </div> -->
 
       <div class="tradeshow mb-5">
         <h4 class="date">October 27-31, 2019</h4>

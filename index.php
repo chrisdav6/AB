@@ -59,8 +59,8 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Webinars</h3>
-                <h4 class="mb-0">September 10, 2019</h4>
-                <p class="card-text mb-0">Signal Transduction Assays</p>
+                <h4 class="mb-0">September 24, 2019</h4>
+                <p class="card-text mb-0">Toxicology with ECIS</p>
                 <p class="card-text mb-0">11:00AM EST</p>
               </div>
             </div>
@@ -72,9 +72,9 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Tradeshows</h3>
-                <h4 class="mb-0">September 8-11, 2019</h4>
-                <p class="card-text mb-0">EUROTOX 2019</p>
-                <p class="card-text mb-0">Rotterdam, The Netherlands</p>
+                <h4 class="mb-0">October 27-31, 2019</h4>
+                <p class="card-text mb-0">NAVBO</p>
+                <p class="card-text mb-0">Monterey, CA</p>
               </div>
             </div>
           </a>
