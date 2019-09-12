@@ -62,6 +62,8 @@
       <h4 class="mt-5 mt-lg-0 mb-4 secondary-title">Manuals</h4>
 
       <div class="supportDocs">
+        <p><a href="public/pdf/ECISProductGuide.pdf" class="link text-dark" target="_blank"><i
+              class="far fa-file-pdf mr-2"></i> ECIS Product Manual</a></p>
         <p><a href="public/pdf/ECIS_Operation_Manual_v1_2_123.pdf" class="link text-dark" target="_blank"><i
               class="far fa-file-pdf mr-2"></i> ECIS Operation Manual</a></p>
         <p><a href="public/pdf/ECISHandbook.pdf" class="link text-dark" target="_blank"><i
