@@ -1,362 +1,353 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://www.biophysics.com/</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/teer24.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/cp96.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/ztheta.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/cultureware.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/flowSystems.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/CO2Incubator.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/hypoxia.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/stageAdapter.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/teerBarrierFunction.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/cellProliferation.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/cellMigration.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/publications.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/whatIsECIS.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/cellsMeasuredwithECIS.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/faqs.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/glossary.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/webinars.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/ecisSchool.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/tradeShows.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/techSupport.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/software.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/ibcaMeeting.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/aboutABP.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/ecisUsers.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/ecisReferralProgram.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/earlyCareerGrants.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/partnerCompanies.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/contactABP.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/requestDemo.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/internationalDistributors.php</loc>
-  <lastmod>2019-09-11T18:15:14+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/TEER24DataSheetR4.pdf</loc>
-  <lastmod>2019-09-11T17:31:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/TEER24ManualR5.pdf</loc>
-  <lastmod>2019-09-11T17:31:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/CP96DataSheetR2.pdf</loc>
-  <lastmod>2019-09-11T17:31:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/CP96ManualR6.pdf</loc>
-  <lastmod>2019-09-11T17:31:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/ABPBrochure2018.pdf</loc>
-  <lastmod>2019-09-11T17:31:33+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/ECISProductGuide.pdf</loc>
-  <lastmod>2019-09-11T17:31:40+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/TN01ArrayChoices.pdf</loc>
-  <lastmod>2019-09-11T17:31:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/96WellArrays.pdf</loc>
-  <lastmod>2019-09-11T17:31:31+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/8WellArrays.pdf</loc>
-  <lastmod>2019-09-11T17:31:31+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/P-FlowPumpManualRevD.pdf</loc>
-  <lastmod>2019-09-11T17:31:45+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/SCO2WBrochure.pdf</loc>
-  <lastmod>2019-09-11T17:31:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/HypoxiaV2cFINAL.pdf</loc>
-  <lastmod>2019-09-11T17:31:41+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/StemCellParadigm.pdf</loc>
-  <lastmod>2019-09-11T17:31:48+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/PO2MattersinStemCellCulture.pdf</loc>
-  <lastmod>2019-09-11T17:31:46+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/MetabolicMarkersofHypoxia.pdf</loc>
-  <lastmod>2019-09-11T17:31:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/schoolAgenda.pdf</loc>
-  <lastmod>2019-09-11T17:31:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/ECIS_Operation_Manual_v1_2_123.pdf</loc>
-  <lastmod>2019-09-11T17:31:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/ECISHandbook.pdf</loc>
-  <lastmod>2019-09-11T17:31:35+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/PerfusionIN-1090X_pump_system%20manual.pdf</loc>
-  <lastmod>2019-09-11T17:31:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/IncubatorPortSheldonInstructions.pdf</loc>
-  <lastmod>2019-09-11T17:31:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/ImprovingExperimentRepeatabilitywithCysteine.pdf</loc>
-  <lastmod>2019-09-11T17:31:41+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/InoculationOfArrays.pdf</loc>
-  <lastmod>2019-09-11T17:31:42+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/Pre-CoatingElectrodeswithDefinedProteinCoats.pdf</loc>
-  <lastmod>2019-09-11T17:31:46+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/AnAlternativeWaytoObtainGoodCellDistributiononECISArrays.pdf</loc>
-  <lastmod>2019-09-11T17:31:33+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/AddingCompoundsToStudyTheirEffectonECISMeasurements.pdf</loc>
-  <lastmod>2019-09-11T17:31:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/ECIS_Microscopy_V2_DINA4.pdf</loc>
-  <lastmod>2019-09-11T17:31:37+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/ChoiceOfProgramForECISTimeCourseDataAcquisition.pdf</loc>
-  <lastmod>2019-09-11T17:31:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/DontOverlookMicromotion.pdf</loc>
-  <lastmod>2019-09-11T17:31:34+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/AN12_Avoiding_evaporation.pdf</loc>
-  <lastmod>2019-09-11T17:31:32+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/TEERMeasurement2014.pdf</loc>
-  <lastmod>2019-09-11T17:31:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/transFilterArray.pdf</loc>
-  <lastmod>2019-09-11T17:31:50+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/WenJiangBookPressRelease.pdf</loc>
-  <lastmod>2019-09-11T17:31:51+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/Stemnion.pdf</loc>
-  <lastmod>2019-09-11T17:31:49+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/RegensburgMtg.pdf</loc>
-  <lastmod>2019-09-11T17:31:46+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/NoblePrize.pdf</loc>
-  <lastmod>2019-09-11T17:31:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/StageArrayHolder.pdf</loc>
-  <lastmod>2019-09-11T17:31:47+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/CellProliferationRelease.pdf</loc>
-  <lastmod>2019-09-11T17:31:33+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/ElectricFencePress.pdf</loc>
-  <lastmod>2019-09-11T17:31:41+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://www.biophysics.com/public/pdf/LineWoundingPress.pdf</loc>
-  <lastmod>2019-09-11T17:31:43+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-
-
+  <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+  <url>
+    <loc>https://www.biophysics.com/</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/teer24.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/cp96.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/ztheta.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/cultureware.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/flowSystems.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/CO2Incubator.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/hypoxia.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/stageAdapter.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/teerBarrierFunction.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/cellProliferation.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/cellMigration.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/publications.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/whatIsECIS.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/cellsMeasuredwithECIS.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/faqs.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/glossary.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/webinars.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/ecisSchool.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/tradeShows.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/techSupport.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/software.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/ibcaMeeting.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/aboutABP.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/ecisUsers.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/ecisReferralProgram.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/partnerCompanies.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/contactABP.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/requestDemo.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/internationalDistributors.php</loc>
+    <lastmod>2019-09-11T18:15:14+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/TEER24DataSheetR4.pdf</loc>
+    <lastmod>2019-09-11T17:31:49+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/TEER24ManualR5.pdf</loc>
+    <lastmod>2019-09-11T17:31:50+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/CP96DataSheetR2.pdf</loc>
+    <lastmod>2019-09-11T17:31:34+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/CP96ManualR6.pdf</loc>
+    <lastmod>2019-09-11T17:31:34+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/ABPBrochure2018.pdf</loc>
+    <lastmod>2019-09-11T17:31:33+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/ECISProductGuide.pdf</loc>
+    <lastmod>2019-09-11T17:31:40+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/TN01ArrayChoices.pdf</loc>
+    <lastmod>2019-09-11T17:31:50+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/96WellArrays.pdf</loc>
+    <lastmod>2019-09-11T17:31:31+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/8WellArrays.pdf</loc>
+    <lastmod>2019-09-11T17:31:31+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/P-FlowPumpManualRevD.pdf</loc>
+    <lastmod>2019-09-11T17:31:45+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/SCO2WBrochure.pdf</loc>
+    <lastmod>2019-09-11T17:31:49+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/HypoxiaV2cFINAL.pdf</loc>
+    <lastmod>2019-09-11T17:31:41+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/StemCellParadigm.pdf</loc>
+    <lastmod>2019-09-11T17:31:48+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/PO2MattersinStemCellCulture.pdf</loc>
+    <lastmod>2019-09-11T17:31:46+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/MetabolicMarkersofHypoxia.pdf</loc>
+    <lastmod>2019-09-11T17:31:43+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/schoolAgenda.pdf</loc>
+    <lastmod>2019-09-11T17:31:47+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/ECIS_Operation_Manual_v1_2_123.pdf</loc>
+    <lastmod>2019-09-11T17:31:43+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/ECISHandbook.pdf</loc>
+    <lastmod>2019-09-11T17:31:35+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/PerfusionIN-1090X_pump_system%20manual.pdf</loc>
+    <lastmod>2019-09-11T17:31:47+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/IncubatorPortSheldonInstructions.pdf</loc>
+    <lastmod>2019-09-11T17:31:42+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/ImprovingExperimentRepeatabilitywithCysteine.pdf</loc>
+    <lastmod>2019-09-11T17:31:41+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/InoculationOfArrays.pdf</loc>
+    <lastmod>2019-09-11T17:31:42+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/Pre-CoatingElectrodeswithDefinedProteinCoats.pdf</loc>
+    <lastmod>2019-09-11T17:31:46+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/AnAlternativeWaytoObtainGoodCellDistributiononECISArrays.pdf</loc>
+    <lastmod>2019-09-11T17:31:33+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/AddingCompoundsToStudyTheirEffectonECISMeasurements.pdf</loc>
+    <lastmod>2019-09-11T17:31:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/ECIS_Microscopy_V2_DINA4.pdf</loc>
+    <lastmod>2019-09-11T17:31:37+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/ChoiceOfProgramForECISTimeCourseDataAcquisition.pdf</loc>
+    <lastmod>2019-09-11T17:31:34+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/DontOverlookMicromotion.pdf</loc>
+    <lastmod>2019-09-11T17:31:34+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/AN12_Avoiding_evaporation.pdf</loc>
+    <lastmod>2019-09-11T17:31:32+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/TEERMeasurement2014.pdf</loc>
+    <lastmod>2019-09-11T17:31:50+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/transFilterArray.pdf</loc>
+    <lastmod>2019-09-11T17:31:50+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/WenJiangBookPressRelease.pdf</loc>
+    <lastmod>2019-09-11T17:31:51+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/Stemnion.pdf</loc>
+    <lastmod>2019-09-11T17:31:49+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/RegensburgMtg.pdf</loc>
+    <lastmod>2019-09-11T17:31:46+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/NoblePrize.pdf</loc>
+    <lastmod>2019-09-11T17:31:43+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/StageArrayHolder.pdf</loc>
+    <lastmod>2019-09-11T17:31:47+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/CellProliferationRelease.pdf</loc>
+    <lastmod>2019-09-11T17:31:33+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/ElectricFencePress.pdf</loc>
+    <lastmod>2019-09-11T17:31:41+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://www.biophysics.com/public/pdf/LineWoundingPress.pdf</loc>
+    <lastmod>2019-09-11T17:31:43+00:00</lastmod>
+    <priority>0.64</priority>
+  </url>
 </urlset>
