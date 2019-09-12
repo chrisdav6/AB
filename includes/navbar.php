@@ -21,7 +21,14 @@
                   <a class="dropdown-item" href="ztheta.php">ZTheta - 16 or 96 Well Array Station</a>
                 </ul>
               </li>
-              <a class="dropdown-item" href="cultureware.php">Cultureware</a>
+              <li class="dropdown-item dropdown-submenu">
+                <a href="#" data-toggle="dropdown" class="submenu-link dropdown-toggle">Arrays</a>
+                <ul class="dropdown-menu">
+                  <a class="dropdown-item" href="cultureware.php">Cultureware</a>
+                  <a class="dropdown-item" href="https://applied-biophysics-inc.myshopify.com" target="_blank"><i
+                      class="fas fa-shopping-cart mr-2"></i> Shop Online</a>
+                </ul>
+              </li>
               <li class="dropdown-item dropdown-submenu">
                 <a href="#" data-toggle="dropdown" class="submenu-link dropdown-toggle">Options</a>
                 <ul class="dropdown-menu">
