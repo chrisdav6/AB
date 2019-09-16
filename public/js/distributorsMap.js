@@ -69,7 +69,7 @@ function initMap() {
       '<span>I.T.A-Intertact s.r.o</span><br>' +
       '<hr>' +
       'Tel: +420 234 760 838<br>' +
-      'Attn: Lenka Kasalova<br>' +
+      'Attn: Helena Janatkova<br>' +
       '<p class="mt-0"><a class="map-link" href="http://www.ita-intertact.com" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
       '</div>'
     ],
@@ -183,7 +183,7 @@ function initMap() {
       '<span>I.T.A-Intertact s.r.o</span><br>' +
       '<hr>' +
       'Tel: +420 234 760 838<br>' +
-      'Attn: Lenka Kasalova<br>' +
+      'Attn: Helena Janatkova<br>' +
       '<p class="mt-0"><a class="map-link" href="http://www.ita-intertact.com" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
       '</div>'
     ],

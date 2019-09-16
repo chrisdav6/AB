@@ -103,7 +103,11 @@
               Czech Republic<br>
               Tel: +420 234 760 838<br>
               GSM: +420 601 321 094<br>
-              Attn: Lenka Kasalova
+              Mobile: +420 725 517 925<br>
+              Attn: Helena Janatkova<br>
+              <a class="text-dark link"
+                href="mailto:janatkova@ita-intertact.com?subject=Inquiry from Applied Biophysics Website"><i
+                  class="far fa-envelope"></i> janatkova@ita-intertact.com</a>
             </address>
           </div>
 
@@ -264,7 +268,11 @@
               Czech Republic<br>
               Tel: +420 234 760 838<br>
               GSM: +420 601 321 094<br>
-              Attn: Lenka Kasalova
+              Mobile: +420 725 517 925<br>
+              Attn: Helena Janatkova<br>
+              <a class="text-dark link"
+                href="mailto:janatkova@ita-intertact.com?subject=Inquiry from Applied Biophysics Website"><i
+                  class="far fa-envelope"></i> janatkova@ita-intertact.com</a>
             </address>
           </div>
 
