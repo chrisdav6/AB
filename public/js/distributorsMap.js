@@ -55,10 +55,10 @@ function initMap() {
     // China
     [
       '<div class="map-text">' +
-      '<span>Dakewe Biotech Co</span><br>' +
+      '<span>Dakewe Biotech Co., Ltd</span><br>' +
       '<hr>' +
-      'Tel: 0086 755 2686 946<br>' +
-      'Attn: Dr. Qing Jun<br>' +
+      'Tel: (86) 755-2641 0427<br>' +
+      'Attn: Aling Xiao<br>' +
       '<p class="mt-0"><a class="map-link" href="http://www.dakewe.net" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
       '</div>'
     ],

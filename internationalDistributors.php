@@ -80,15 +80,16 @@
           <div class="col-md-6 my-4">
             <h3>China</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.dakewe.net" target="_blank">Dakewe Biotech Co</a></h5>
+            <h5><a class="text-dark link" href="http://www.dakewe.net" target="_blank">Dakewe Biotech Co., Ltd</a></h5>
             <address>
-              Unit B, 3/F,The 5th Building<br>
-              Tian'an Industrial Village<br>
-              Nanyou, Dengliang Rd., Nanshan Dist.,<br>
-              Shenzhen 518054 China<br>
-              Tel: 0086 755 2686 946<br>
-              Fax: 0086 755 2686 9149<br>
-              Attn: Dr. Qing Jun
+              Rm#203 Unit A, No.1 Chuangye Bldg.,<br>
+              #43 Yanshan Rd., Shekou Area, NanShan dist.,<br>
+              ShenZhen 518067, China<br>
+              Tel: (86) 755-2641 0427 <br>
+              Attn: Aling Xiao<br>
+              <a class="text-dark link"
+                href="mailto:equipment@dakewe.com?subject=Inquiry from Applied Biophysics Website"><i
+                  class="far fa-envelope"></i> equipment@dakewe.com</a>
             </address>
           </div>
 
