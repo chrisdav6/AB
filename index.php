@@ -85,7 +85,7 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">ECIS School</h3>
-                <h4 class="mb-0">September 19-20, 2019</h4>
+                <h4 class="mb-0">Date - TBD</h4>
                 <p class="card-text mb-0">2 Day Course</p>
                 <p class="card-text mb-0">Troy, NY</p>
               </div>
