@@ -59,8 +59,8 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Webinars</h3>
-                <h4 class="mb-0">September 24, 2019</h4>
-                <p class="card-text mb-0">Toxicology with ECIS</p>
+                <h4 class="mb-0">October 8, 2019</h4>
+                <p class="card-text mb-0">ECIS Theory</p>
                 <p class="card-text mb-0">11:00AM EST</p>
               </div>
             </div>
