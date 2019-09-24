@@ -145,6 +145,19 @@
   <script src="public/js/util.js"></script>
   <script src="public/js/smooth-scroll.min.js"></script>
   <script src="public/js/scripts.js"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-108411540-1');
+  </script>
 </body>
 
 </html>
