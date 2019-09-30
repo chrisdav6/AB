@@ -80,8 +80,7 @@
 
       <div class="row">
         <div class="col-lg-8">
-          <p>1. Please go to: <a href="https://appliedbiophysics.webex.com" class="link text-dark"
-              target="_blank">https://appliedbiophysics.webex.com</a> scroll to webinar date.</p>
+          <p>1. Scroll down to a webinar and click register.</p>
           <p>2. Register for the meeting.</p>
           <p>Once you have registered, you will receive a confirmation email with instructions for joining the webinar.
           </p>
@@ -146,12 +145,15 @@
 
       <h4 class="mt-4 mt-lg-0 mb-3 secondary-title">2019 Webinar Schedule</h4>
 
-      <div class="webinar">
+      <!-- <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
         <p class="date">January 8, 2019</p>
         <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell
           morphological
           changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/d574e305d0c84a73af85361ece443047?localOccurrenceTime=2019-10-08%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -164,6 +166,9 @@
           cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding
           the
           metastatic potential of the cancer cells.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/78a06bad36c94967ac70dc5296b8c212?localOccurrenceTime=2019-10-22%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -180,6 +185,9 @@
           this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then
           present
           quantitative data regarding these automated assays.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/393c3ab03ba349eb95cecd3404722b6f?localOccurrenceTime=2019-11-05%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -192,6 +200,9 @@
           function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically
           modeled will
           be briefly introduced.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/6b26b52bef2b49b9b646305dc4cc2a85?localOccurrenceTime=2019-11-19%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -202,6 +213,9 @@
         <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in
           real-time.
           This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/41926702cfbf4ca4ab2ed8a53ab00ed2?localOccurrenceTime=2019-12-03%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -212,6 +226,9 @@
         <p>The webinar will review ECIS and then present quantitative data gathered in real time regarding the
           attachment and
           spreading behavior of cells upon extracellular matrix proteins.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/d67fa17fab264e3892e36edae2aa781c?localOccurrenceTime=2019-07-23%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -224,6 +241,9 @@
           morphological changes responsible for the impedance changes will be further evaluated by modeling the complex
           impedance
           data.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/0a30ea2d697b450b9b546494103e1a61?localOccurrenceTime=2019-09-10%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -234,6 +254,9 @@
         <p>This webinar will review ECIS and then present data showing how ECIS impedance measurements respond to
           varying
           concentrations of toxic compounds.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/dc74a2239548469f929027ab7a43a1c4?localOccurrenceTime=2019-09-24%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -244,6 +267,9 @@
         <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell
           morphological
           changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/d574e305d0c84a73af85361ece443047?localOccurrenceTime=2019-10-08%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -256,6 +282,9 @@
           cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding
           the
           metastatic potential of the cancer cells.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/78a06bad36c94967ac70dc5296b8c212?localOccurrenceTime=2019-10-22%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -272,6 +301,9 @@
           this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then
           present
           quantitative data regarding these automated assays.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/393c3ab03ba349eb95cecd3404722b6f?localOccurrenceTime=2019-11-05%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -284,6 +316,9 @@
           function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically
           modeled will
           be briefly introduced.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/6b26b52bef2b49b9b646305dc4cc2a85?localOccurrenceTime=2019-11-19%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -294,6 +329,9 @@
         <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in
           real-time.
           This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/41926702cfbf4ca4ab2ed8a53ab00ed2?localOccurrenceTime=2019-12-03%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -304,6 +342,9 @@
         <p>The webinar will review ECIS and then present quantitative data gathered in real time regarding the
           attachment and
           spreading behavior of cells upon extracellular matrix proteins.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/d67fa17fab264e3892e36edae2aa781c?localOccurrenceTime=2019-07-23%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -316,6 +357,9 @@
           morphological changes responsible for the impedance changes will be further evaluated by modeling the complex
           impedance
           data.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/0a30ea2d697b450b9b546494103e1a61?localOccurrenceTime=2019-09-10%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -326,9 +370,10 @@
         <p>This webinar will review ECIS and then present data showing how ECIS impedance measurements respond to
           varying
           concentrations of toxic compounds.</p>
-      </div>
-
-      <hr>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/dc74a2239548469f929027ab7a43a1c4?localOccurrenceTime=2019-09-24%2011%3A00%3A00"
+          target="_blank">Register</a>
+      </div> -->
 
       <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EDT</h4>
@@ -336,6 +381,9 @@
         <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell
           morphological
           changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/d574e305d0c84a73af85361ece443047?localOccurrenceTime=2019-10-08%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -348,6 +396,9 @@
           cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding
           the
           metastatic potential of the cancer cells.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/78a06bad36c94967ac70dc5296b8c212?localOccurrenceTime=2019-10-22%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -364,6 +415,9 @@
           this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then
           present
           quantitative data regarding these automated assays.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/393c3ab03ba349eb95cecd3404722b6f?localOccurrenceTime=2019-11-05%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -376,6 +430,9 @@
           function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically
           modeled will
           be briefly introduced.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/6b26b52bef2b49b9b646305dc4cc2a85?localOccurrenceTime=2019-11-19%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
       <hr>
@@ -386,6 +443,9 @@
         <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in
           real-time.
           This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/41926702cfbf4ca4ab2ed8a53ab00ed2?localOccurrenceTime=2019-12-03%2011%3A00%3A00"
+          target="_blank">Register</a>
       </div>
 
     </div>
