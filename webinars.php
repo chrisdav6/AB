@@ -44,12 +44,12 @@
   <section id="webinarsContent" class="py-4 mb-5">
     <div class="container text-center text-md-left">
 
-      <p class="webinarIntro mb-4">
+      <p class="webinarIntro mb-4 mb-md-5">
         ECIS is used in over 160 labs worldwide, and ECIS data has been published in a growing list of over 700
         peer-reviewed publications.
       </p>
 
-      <div class="row">
+      <div class="row mb-5">
         <div class="col-md-7">
           <p>
             ECIS electrically monitors cell morphological changes and provides quantitative, real-time measurements of
@@ -76,7 +76,7 @@
         </div>
       </div>
 
-      <h4 class="mt-5 mt-md-4 mb-4 secondary-title">To register for a webinar:</h4>
+      <!--<h4 class="mt-5 mt-md-4 mb-4 secondary-title">To register for a webinar:</h4>
 
       <div class="row">
         <div class="col-lg-8">
@@ -92,7 +92,7 @@
               BioPhysics</figcaption>
           </figure>
         </div>
-      </div>
+      </div>-->
 
 
       <!--<h4 class="mt-3 mt-md-4 mb-4 secondary-title">To view webinars:</h4>
@@ -143,7 +143,7 @@
           </div>
         </div>-->
 
-      <h4 class="mt-4 mt-lg-0 mb-3 secondary-title">2019 Webinar Schedule</h4>
+      <h4 class="mt-lg-0 mb-3 secondary-title">2019 Webinar Schedule</h4>
 
       <!-- <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
