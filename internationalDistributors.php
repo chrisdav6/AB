@@ -60,7 +60,7 @@
               CHATSWOOD NSW 2067<br>
               Tel: 61-2-9882-2882<br>
               Fax: 61-2-9882-6468<br>
-              Attn: Dr. Peter Kenny
+              Attn: Sudha Vijay
             </address>
           </div>
 
@@ -189,7 +189,7 @@
               Ichikawa, Chiba 272-0114 Japan<br>
               Tel: 81 47 306 7222<br>
               Fax: 81 47 306 7333<br>
-              Attn: Suzuki
+              Attn: Junichi Nishimura
             </address>
           </div>
 
@@ -227,10 +227,9 @@
           <div class="col-md-6 my-4">
             <h3>Puerto Rico</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.avpcaribe.com" target="_blank">Audio & Video Pro Caribe</a>
+            <h5><a class="text-dark link" href="http://www.avpcaribe.com" target="_blank">J.C. Gonzalez, Inc.</a>
             </h5>
             <address>
-              J.C. Gonzalez, Inc.<br>
               HC 01 Box 8389<br>
               San German, P.R. 00683-9714<br>
               Tel: 787-892-0047<br>
