@@ -26,11 +26,21 @@ p {
 a.social-head {
   color: $dark-gray;
   transition: .3s;
+  font-size: 2.25rem;
+
+  @include mq1200 {
+    font-size: 1.5rem;
+  }
 }
 
 a.social {
   color: $light-gray;
   transition: .3s;
+  font-size: 2.25rem;
+
+  @include mq1200 {
+    font-size: 1.5rem;
+  }
 }
 
 a.facebook:hover {
@@ -43,6 +53,14 @@ a.twitter:hover {
 
 a.youtube:hover {
   color: #c4302b;
+}
+
+a.instagram:hover {
+  color: #9f09f7;
+}
+
+a.linkedin:hover {
+  color: #0077B5;
 }
 
 .ecisBtn {

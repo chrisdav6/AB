@@ -108,15 +108,23 @@
         <ul class="navbar-nav ml-auto flex-row">
           <li class="nav-item mr-1">
             <a class="social-head facebook" href="https://www.facebook.com/Applied-BioPhysics-165532397615/"
-              target="_blank"><i class="fab fa-facebook-square fa-2x"></i></a>
+              target="_blank"><i class="fab fa-facebook-square"></i></a>
           </li>
           <li class="nav-item mr-1">
             <a class="social-head twitter" href="https://twitter.com/AppliedBioPhys" target="_blank"><i
-                class="fab fa-twitter-square fa-2x"></i></a>
+                class="fab fa-twitter-square"></i></a>
+          </li>
+          <li class="nav-item mr-1">
+            <a class="social-head instagram" href="https://www.instagram.com/appliedbiophysics" target="_blank"><i
+                class="fab fa-instagram"></i></a>
+          </li>
+          <li class="nav-item mr-1">
+            <a class="social-head linkedin" href="https://www.linkedin.com/company/applied-biophysics-inc."
+              target="_blank"><i class="fab fa-linkedin"></i></a>
           </li>
           <li class="nav-item">
             <a class="social-head youtube" href="https://www.youtube.com/channel/UCc1YA1oDtt00Cz9GjunFhPg"
-              target="_blank"><i class="fab fa-youtube-square fa-2x"></i></a>
+              target="_blank"><i class="fab fa-youtube-square"></i></a>
           </li>
         </ul>
       </div>
