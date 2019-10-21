@@ -59,8 +59,8 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Webinars</h3>
-                <h4 class="mb-0">October 22, 2019</h4>
-                <p class="card-text mb-0">Cell Invasion / Extravasation Assays</p>
+                <h4 class="mb-0">November 5, 2019</h4>
+                <p class="card-text mb-0">Automated Cell Migration</p>
                 <p class="card-text mb-0">11:00AM EST</p>
               </div>
             </div>
