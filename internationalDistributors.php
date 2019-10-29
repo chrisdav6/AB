@@ -117,14 +117,14 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
-              D-82152 Martinsreid (Munchen)<br>
-              Tel: 49 89 5204 617391<br>
-              Fax: 49 89 5204 61759<br>
-              Attn: Dr. Ulf Radler<br>
+              Am Lochhamer Schlag 11<br>
+              D-82166 Gräfelfing (Munich)<br>
+              Tel: +49 89 520 46 17 391<br>
+              Fax: +49 89 520 46 17 59<br>
+              Attn: Dr. Christiane Thanisch<br>
               <a class="text-dark link"
-                href="mailto:uraedler@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i> uraedler@ibidi.de</a>
+                href="mailto:cthansich@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i
+                  class="far fa-envelope"></i> cthansich@ibidi.de</a>
             </address>
           </div>
 
@@ -315,15 +315,14 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
-              D-82152 Martinsreid (Munchen)<br>
-              Tel: 49 89 5204 617391<br>
-              Fax: 49 89 5204 61759<br>
-              Attn: Dr. Ulf Radler<br>
+              Am Lochhamer Schlag 11<br>
+              D-82166 Gräfelfing (Munich)<br>
+              Tel: +49 89 520 46 17 391<br>
+              Fax: +49 89 520 46 17 59<br>
+              Attn: Dr. Christiane Thanisch<br>
               <a class="text-dark link"
-                href="mailto:uraedler@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i>
-                uraedler@ibidi.de</a>
+                href="mailto:cthansich@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i
+                  class="far fa-envelope"></i> cthansich@ibidi.de</a>
             </address>
           </div>
 

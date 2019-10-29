@@ -79,9 +79,9 @@ function initMap() {
       '<div class="map-text">' +
       '<span>ibidi GmbH</span><br>' +
       '<hr>' +
-      'Tel: 49 89 5204 617391<br>' +
-      'Attn: Dr. Ulf Radler<br>' +
-      '<p><a class="map-link" href="mailto:uraedler@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+      'Tel: +49 89 520 46 17 391<br>' +
+      'Attn: Dr. Christiane Thanisch<br>' +
+      '<p><a class="map-link" href="mailto:cthansich@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
       '<p class="mt-0"><a class="map-link" href="http://www.ibidi.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
       '</div>'
     ],
@@ -217,12 +217,12 @@ function initMap() {
       '<div class="map-text">' +
       '<span>ibidi GmbH</span><br>' +
       '<hr>' +
-      'Tel: 49 89 5204 617391<br>' +
-      'Attn: Dr. Ulf Radler<br>' +
-      '<p><a class="map-link" href="mailto:uraedler@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+      'Tel: +49 89 520 46 17 391<br>' +
+      'Attn: Dr. Christiane Thanisch<br>' +
+      '<p><a class="map-link" href="mailto:cthansich@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
       '<p class="mt-0"><a class="map-link" href="http://www.ibidi.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
       '</div>'
-    ],
+    ]
 
   ];
 
