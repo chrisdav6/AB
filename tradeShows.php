@@ -69,7 +69,7 @@
         </div>
       </div> -->
 
-      <div class="tradeshow mb-5">
+      <!-- <div class="tradeshow mb-5">
         <h4 class="date">October 27-31, 2019</h4>
         <div class="row">
           <div class="col-lg-4">
@@ -81,6 +81,23 @@
               society is to provide a forum whereby members disseminate and share knowledge related to the scientific
               field of vascular biology, to ensure the translation of knowledge from basic science to clinical practice.
             </p>
+          </div>
+        </div>
+      </div> -->
+
+      <div class="tradeshow mb-5">
+        <h4 class="date">December 7-11, 2019</h4>
+        <div class="row">
+          <div class="col-lg-4">
+            <img class="img-fluid mb-3 mb-lg-0" src="public/img/ascb-emboMeeting.png" alt="ASCB Banner">
+          </div>
+          <div class="col-lg-8">
+            <a href="https://www.ascb.org/2019ascbembo" class="tradeshow-link" target="_blank">ASCB|EMBO 2019 -
+              Washington, DC</a>
+            <p class="mb-0 mt-2">The 2019 joint meeting of the American Society for Cell Biology (ASCB) and European
+              Molecular Biology Organization (EMBO) will focus on cell biology as the fundamental basis of biology, and
+              will offer sessions on emerging topics such as nontraditional model organisms, and the use of
+              computational modeling and biophysics to “Build the Cell from the Ground Up.”</p>
           </div>
         </div>
       </div>
@@ -95,8 +112,7 @@
           </div>
           <div class="col-lg-8">
             <a href="https://www.toxicology.org/events/am/AM2020/meeting-info.asp" class="tradeshow-link"
-              target="_blank">59th Annual
-              SOT Annual Meeting - Baltimore, MD</a>
+              target="_blank">59th Annual SOT Annual Meeting - Baltimore, MD</a>
             <p class="mb-0 mt-2">Taking place in Anaheim, California, the SOT 59th Annual Meeting and ToxExpo will
               feature more than 80 Scientific Sessions, 2,000 presentations, 300 exhibitors, and 6,000 attendees. The
               full Annual Meeting website will launch August 1, 2019.</p>

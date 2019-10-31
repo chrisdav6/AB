@@ -59,7 +59,7 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Webinars</h3>
-                <h4 class="mb-0">November 5, 2019</h4>
+                <h4 class="mb-1">November 5, 2019</h4>
                 <p class="card-text mb-0">Automated Cell Migration</p>
                 <p class="card-text mb-0">11:00AM EST</p>
               </div>
@@ -72,9 +72,9 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Tradeshows</h3>
-                <h4 class="mb-0">October 27-31, 2019</h4>
-                <p class="card-text mb-0">NAVBO</p>
-                <p class="card-text mb-0">Monterey, CA</p>
+                <h4 class="mb-1">December 7-11, 2019</h4>
+                <p class="card-text mb-0">ASCB|EMBO 2019</p>
+                <p class="card-text mb-0">Washington, DC</p>
               </div>
             </div>
           </a>
@@ -85,7 +85,7 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">ECIS School</h3>
-                <h4 class="mb-0">Date - TBD</h4>
+                <h4 class="mb-1">Date - TBD</h4>
                 <p class="card-text mb-0">2 Day Course</p>
                 <p class="card-text mb-0">Troy, NY</p>
               </div>
