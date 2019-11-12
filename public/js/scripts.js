@@ -130,7 +130,7 @@ jQuery(document).ready(function () {
           $labelsFilterMessage.html(null);
         } else {
           publicationsDataTable.columns(2).
-            search(filter, false, false, false).
+            search(filter).
             draw();
           $publicationLabels.filter('.active').removeClass('active');
           $this.addClass('active');
