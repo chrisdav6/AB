@@ -418,7 +418,7 @@
 
       <div class="webinar">
         <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EST</h4>
-        <p class="date">November 19, 2019</p>
+        <p class="date">November 21, 2019</p>
         <p>This webinar will review ECIS and then show how complex impedance measurements can be used to evaluate the
           barrier
           function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically
