@@ -187,7 +187,7 @@
           <hr>
           <p>
             We now offer a special single purpose instrument designed to only work with membrane insert filters. The
-            ECIS TEER24 uses 3 AC frequencies to determine the TEER value. The measurement consists of three steps; a
+            ECIS TEER24 uses a 75 Hz AC frequency to determine TEER value. The measurement consists of three steps; a
             zero set phase to flat-field the microplate array, setting a reference well to monitor any incubator changes
             which may occur during the measurement and the data collection phase. The flat-fielding takes into account
             the resistance of the electrodes in the microplate, solution and filter. During data collection the
