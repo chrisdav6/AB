@@ -226,7 +226,7 @@
               </a>
             </div>
             <div class="col-md-3">
-              <a href="public/pdf/TEER24ManualR5.pdf" target="_blank" data-toggle="tooltip" data-placement="right"
+              <a href="public/pdf/TEER24ManualR6.pdf" target="_blank" data-toggle="tooltip" data-placement="right"
                 title="Download TEER24 Manual">
                 <img class="img-fluid" src="public/img/teer24Manual.jpg" alt="Download TEER24 Manual">
               </a>
