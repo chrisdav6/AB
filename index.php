@@ -72,9 +72,9 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Tradeshows</h3>
-                <h4 class="mb-1">December 7-11, 2019</h4>
-                <p class="card-text mb-0">ASCB|EMBO 2019</p>
-                <p class="card-text mb-0">Washington, DC</p>
+                <h4 class="mb-1">March 15-19, 2020</h4>
+                <p class="card-text mb-0">SOT Annual Meeting</p>
+                <p class="card-text mb-0">Baltimore, MD</p>
               </div>
             </div>
           </a>

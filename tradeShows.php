@@ -49,7 +49,7 @@
           What better way to learn more about the power of ECIS than joining us at scientific events around the world!
         </p>
 
-        <p>Below are a list of upcoming shows that Applied BioPhysics will be attending in 2019-2020:</p>
+        <p>Below are a list of upcoming shows that Applied BioPhysics will be attending in 2020:</p>
       </div>
 
       <!-- <div class="tradeshow mb-5">
@@ -85,7 +85,7 @@
         </div>
       </div> -->
 
-      <div class="tradeshow mb-5">
+      <!-- <div class="tradeshow mb-5">
         <h4 class="date">December 7-11, 2019</h4>
         <div class="row">
           <div class="col-lg-4">
@@ -100,9 +100,7 @@
               computational modeling and biophysics to “Build the Cell from the Ground Up.”</p>
           </div>
         </div>
-      </div>
-
-      <hr class="my-5">
+      </div> -->
 
       <div class="tradeshow mb-5">
         <h4 class="date">March 15-19, 2020</h4>
