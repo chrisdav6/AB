@@ -15,7 +15,7 @@
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700,900" rel="stylesheet">
   <!-- Font Awesome -->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
   <!-- Bootstrap -->
   <link rel="stylesheet" href="public/css/bootstrap.css" type="text/css">
   <!-- Custom CSS -->
@@ -26,6 +26,16 @@
 </head>
 
 <body class="d-flex flex-column">
+
+  <div class="holiday">
+    <div class="container py-3 text-center">
+      <h5 class="mb-0">
+        <i class="fas fa-holly-berry mr-3"></i>
+        Applied Biophyics will be closed for the holidays - December 23rd, 24th, 25th, 31st and January 1st
+        <i class="fas fa-holly-berry ml-3"></i>
+      </h5>
+    </div>
+  </div>
 
   <?php include_once "includes/navbar.php"; ?>
   <?php include_once "includes/logo.php"; ?>

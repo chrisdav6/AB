@@ -1,5 +1,8 @@
 $(function () {
 
+  //Holiday Banner
+  $(".holiday").slideDown(1000).delay(10000).slideUp(1000);
+
   //navbar dropdown submenu
   $('.dropdown-submenu > a').on('click', function (e) {
     var submenu = $(this);
