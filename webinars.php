@@ -151,9 +151,9 @@
         <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell
           morphological
           changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
-        <!--<a class="register"
-          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/143215560689230293"
-          target="_blank">Register</a>-->
+        <a class="register"
+          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/fc888e86ab1f4d1b8816a4527922e483"
+          target="_blank">Register</a>
       </div>
 
       <hr>
