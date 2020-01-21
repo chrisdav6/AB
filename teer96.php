@@ -67,7 +67,7 @@
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/teer24Data.jpg"
+                <img class="d-block w-100" src="public/img/teer96Data.jpg"
                   alt="TEER96 Barrier Function Measurement System Data">
               </div>
 
@@ -141,7 +141,6 @@
             <li>- ECIS control, acquisition, and display software</li>
             <li>- Validation test array</li>
             <li>- Two 96 well gold coated dipping pin assemblies</li>
-            <li>- Six 96-well 0.4µm Millipore filter plates</li>
           </ul>
           <p class="mt-4">
             Non-invasive measurements may be made continuously for days and even weeks with TEER96. The fixed position
