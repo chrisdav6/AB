@@ -1,7 +1,7 @@
 <?php
   $title = "TEER96 - Barrier Function Measurements - Applied BioPhysics";
   $metaDesc = "The ECIS TEER96 is designed to carry out traditional trans-epithelial/endothelial electrical resistance
-  measurements using ECIS ";
+  measurements using ECIS";
 ?>
 
 <!DOCTYPE html>
