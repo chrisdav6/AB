@@ -117,6 +117,22 @@
             function of cell layers grown on membrane insert filters. Data is collected continuously from up to 96
             independent wells and reported as real-time barrier function changes in ohm-cm<sup>2</sup>.
           </p>
+
+          <div class="row my-5">
+            <div class="col-md-8 mx-auto">
+              <img class="img-fluid" src="public/img/teer96graphLg.jpg" alt="TEER96 Graph">
+            </div>
+          </div>
+
+          <div class="row my-5">
+            <div class="col-md-6">
+              <img class="img-fluid" src="public/img/teer96-1.jpg" alt="TEER96 Station">
+            </div>
+            <div class="col-md-6">
+              <img class="img-fluid" src="public/img/teer96-2.jpg" alt="TEER96 Station">
+            </div>
+          </div>
+
           <h5 class="mt-4">Benefits</h5>
           <ul class="list-unstyled mt-3 ml-0 ml-md-3">
             <li>- Automated TEER measurements from under 10 to 1,000 ohm-cm<sup>2</sup> in 96 wells</li>
@@ -142,6 +158,13 @@
             <li>- Validation test array</li>
             <li>- Two 96 well gold coated dipping pin assemblies</li>
           </ul>
+
+          <div class="row my-5">
+            <div class="col-md-8 mx-auto">
+              <img class="img-fluid" src="public/img/teer96-2.jpg" alt="TEER96 Station">
+            </div>
+          </div>
+
           <p class="mt-4">
             Non-invasive measurements may be made continuously for days and even weeks with TEER96. The fixed position
             of electrodes throughout the measurements eliminates operator variability allowing precise and repeatable
