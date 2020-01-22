@@ -111,24 +111,21 @@
         <div class="col">
           <h2>Overview</h2>
           <hr class="mt-1">
-          <p>
+          <p class="mb-5">
             The ECIS TEER96 is designed to carry out traditional trans-epithelial/endothelial electrical resistance
             measurements using ECIS (electric cell-substrate impedance sensing) technology to monitor the barrier
             function of cell layers grown on membrane insert filters. Data is collected continuously from up to 96
             independent wells and reported as real-time barrier function changes in ohm-cm<sup>2</sup>.
           </p>
 
-          <div class="row my-5">
+          <div class="row">
             <div class="col-md-8 mx-auto">
               <img class="img-fluid" src="public/img/teer96graphLg.jpg" alt="TEER96 Graph">
             </div>
           </div>
 
-          <div class="row my-5">
-            <div class="col-md-6">
-              <img class="img-fluid" src="public/img/teer96-1.jpg" alt="TEER96 Station">
-            </div>
-            <div class="col-md-6">
+          <div class="row my-t">
+            <div class="col-md-8 mx-auto">
               <img class="img-fluid" src="public/img/teer96-2.jpg" alt="TEER96 Station">
             </div>
           </div>
@@ -161,7 +158,7 @@
 
           <div class="row my-5">
             <div class="col-md-8 mx-auto">
-              <img class="img-fluid" src="public/img/teer96-2.jpg" alt="TEER96 Station">
+              <img class="img-fluid" src="public/img/teer96-3.jpg" alt="TEER96 Station">
             </div>
           </div>
 
