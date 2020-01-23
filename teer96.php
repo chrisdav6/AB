@@ -118,19 +118,16 @@
             independent wells and reported as real-time barrier function changes in ohm-cm<sup>2</sup>.
           </p>
 
-          <div class="row">
-            <div class="col-md-8 mx-auto">
+          <div class="row pt-3">
+            <div class="col-lg-6">
               <img class="img-fluid" src="public/img/teer96graphLg.jpg" alt="TEER96 Graph">
             </div>
-          </div>
-
-          <div class="row my-t">
-            <div class="col-md-8 mx-auto">
+            <div class="col-lg-6">
               <img class="img-fluid" src="public/img/teer96-2.jpg" alt="TEER96 Station">
             </div>
           </div>
 
-          <h5 class="mt-4">Benefits</h5>
+          <h5>Benefits</h5>
           <ul class="list-unstyled mt-3 ml-0 ml-md-3">
             <li>- Automated TEER measurements from under 10 to 1,000 ohm-cm<sup>2</sup> in 96 wells</li>
             <li>- Can run in single point measurement or continuous mode</li>
@@ -157,7 +154,7 @@
           </ul>
 
           <div class="row my-5">
-            <div class="col-md-8 mx-auto">
+            <div class="col-lg-8 mx-auto">
               <img class="img-fluid" src="public/img/teer96-3.jpg" alt="TEER96 Station">
             </div>
           </div>
