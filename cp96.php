@@ -1,7 +1,7 @@
 <?php
-  $title = "ECIS CP96 - Cellular Proliferation Measurements - Applied BioPhysics";
-  $metaDesc = "The ECIS CP96 by Applied BioPhysics is a single-purpose instrument that uses ECIS technology and measures
-  cell proliferation rates in up to 96 wells, label-free, incubated, continuously and in real-time.";
+  $title = "ECIS CP96 - Cell Population Monitor - Applied BioPhysics";
+  $metaDesc = "The ECIS CP96 by Applied BioPhysics is is based upon the ECIS (Electric Cell-Substrate Impedance Sensing)
+  technology where cells are grown upon gold electrodes carrying very weak AC signals";
 ?>
 
 <!DOCTYPE html>
@@ -36,7 +36,7 @@
         <div class="col">
           <h1 class="display-2">CP96</h1>
           <hr class="my-2">
-          <h2>Cell Proliferation Measurement System</h2>
+          <h2>Cell Population Monitor</h2>
         </div>
       </div>
     </div>
@@ -96,8 +96,8 @@
           <h2>Description</h2>
           <hr class="mt-1">
           <p>
-            Cell proliferation measured in automated real time, under incubator conditions, label-free and in 96 wells.
-            Introducing the all new CP96 by Applied Biophysics, Inc. Data collection made easy.
+            Cell population is measured in real time, under incubator conditions, label-free and in 96 wells.
+            Introducing the all new CP96 by Applied Biophysics, Inc. Data collection made easy.”
           </p>
           <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
             Sheet</a>
@@ -117,20 +117,21 @@
           <h2>Overview</h2>
           <hr class="mt-1">
           <p>
-            The CP96 Cell Proliferation system is based upon the ECIS (Electric Cell-Substrate Impedance Sensing)
+            The CP96 Cell Population Monitor is based upon the ECIS (Electric Cell-Substrate Impedance Sensing)
             technology where cells are grown upon gold electrodes carrying very weak AC signals. This complete turn-key
-            system provides a means to carry out reproducible, label-free, automated cell proliferation measurements
-            without damaging the cells. Cell-proliferation is monitored as cells are grown in a normal CO<sub>2</sub>
-            tissue culture incubator, and data are reported as real-time changes in percent cell coverage.
+            system provides a means to carry out reproducible, label-free, automated cell population measurements
+            without damaging the cells. Cell population is monitored as cells are grown in a normal CO<sub>2</sub>
+            tissue culture incubator, and data are reported as real-time changes in percent of cell-substrate coverage.
           </p>
           <h5 class="mt-4">Benefits</h5>
           <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- Automated cell proliferation measurements in 96 wells</li>
+            <li>- Automated cell population monitoring in 96 wells</li>
             <li>- Data recorded and visualized in real time under incubator conditions</li>
             <li>- Long-term data collection capabilities</li>
             <li>- Non-invasive &amp; label free</li>
             <li>- Highly reproducible</li>
             <li>- User Friendly software</li>
+            <li>- Calculate EC50 values</li>
             <li>- Data output in CSV or graphical (jpg, tif)</li>
             <li>- Impedance data converted to percent of cell-substrate coverage</li>
             <li>- Create figures and plots of data</li>
@@ -149,10 +150,10 @@
             from the incubator, eliminating unwanted temperature and pH variations.
           </p>
           <p class="mt-4">
-            Compounds affecting cell growth can be introduced before or after the cells have attached to distinguish
-            changes in growth from the ability of the cells to attach to the substrate. And with the capability of
+            Compounds affecting cell behavior can be introduced before or after the cells have covered the substrate to
+            distinguish changes in growth from the cells to detaching from the substrate. And with the capability of
             measuring 96 wells continuously, the CP96 allows for a high throughput of data to be collected and analyzed
-            in real time, making cell proliferation data acquisition simple and efficient.
+            in real time, making cell population monitoring simple and efficient.
           </p>
         </div>
       </div>
@@ -208,7 +209,7 @@
           <hr class="mt-1">
           <div class="row mt-4">
             <div class="col-md-3 pb-4 pb-md-0">
-              <a href="public/pdf/CP96DataSheetR2.pdf" target="_blank" data-toggle="tooltip" data-placement="right"
+              <a href="public/pdf/CP96DataSheetR3.pdf" target="_blank" data-toggle="tooltip" data-placement="right"
                 title="Download CP96 Data Sheet">
                 <img class="img-fluid" src="public/img/cp96DataSheet.jpg" alt="Download CP96 Data Sheet">
               </a>
