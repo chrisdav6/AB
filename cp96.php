@@ -136,6 +136,12 @@
             <li>- Impedance data converted to percent of cell-substrate coverage</li>
             <li>- Create figures and plots of data</li>
           </ul>
+          <h5 class="mt-4">Features</h5>
+          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+            <li>- Follow dynamics of cell-substrate coverage</li>
+            <li>- Study cytotoxic effects of compounds upon cell proliferation or loss of viability</li>
+            <li>- Calculate EC50 values</li>
+          </ul>
           <h5 class="mt-4">System Includes:</h5>
           <ul class="list-unstyled mt-3 ml-0 ml-md-3">
             <li>- 96 channel station located in CO<sub>2</sub> incubator</li>
