@@ -129,11 +129,11 @@
 
       <div class="row text-center">
         <div class="col-lg-4 col-md-6 mb-4">
-          <a class="text-dark gradLink" data-toggle="modal" data-target="#ecisSchoolFeb2020">
+          <a class="text-dark gradLink" data-toggle="modal" data-target="#ecisSchoolSept2019">
             <div class="card">
-              <img src="public/img/students-feb2020.jpg" class="card-img-top" alt="ECIS Students February 2020">
+              <img src="public/img/students-sep2019.jpg" class="card-img-top" alt="ECIS Students September 2019 ">
               <div class="card-body">
-                <h5 class="card-title mb-0">February 2020</h5>
+                <h5 class="card-title mb-0">September 2019</h5>
               </div>
             </div>
           </a>
@@ -216,18 +216,18 @@
   <!-- Modals -->
 
   <!-- February 2020 -->
-  <div class="modal fade" id="ecisSchoolFeb2020" tabindex="-1" role="dialog">
+  <div class="modal fade" id="ecisSchoolSept2019" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title" id="exampleModalCenterTitle">ECIS School Graduates - February 2020</h5>
+          <h5 class="modal-title" id="exampleModalCenterTitle">ECIS School Graduates - September 2019</h5>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
         </div>
         <div class="modal-body">
           <figure class="figure">
-            <img src="public/img/students-feb2020.jpg" class="figure-img w-100" alt="ECIS Students May 2019">
+            <img src="public/img/students-sep2019.jpg" class="figure-img w-100" alt="ECIS Students September 2019">
             <figcaption class="figure-caption">
               From left to right: Charles Keese - Applied BioPhysics, Catherine Toniatti-Yanulavich - Applied
               BioPhysics, Derek Beahm, PhD - SUNY at Buffalo State, Erin Troy - SUNY at Buffalo State, Ryan Makin -
