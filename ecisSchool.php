@@ -129,6 +129,16 @@
 
       <div class="row text-center">
         <div class="col-lg-4 col-md-6 mb-4">
+          <a class="text-dark gradLink" data-toggle="modal" data-target="#ecisSchoolFeb2020">
+            <div class="card">
+              <img src="public/img/students-feb2020.jpg" class="card-img-top" alt="ECIS Students February 2020">
+              <div class="card-body">
+                <h5 class="card-title mb-0">February 2020</h5>
+              </div>
+            </div>
+          </a>
+        </div>
+        <div class="col-lg-4 col-md-6 mb-4">
           <a class="text-dark gradLink" data-toggle="modal" data-target="#ecisSchoolMay2019">
             <div class="card">
               <img src="public/img/students-may2019.jpg" class="card-img-top" alt="ECIS Students May 2019">
@@ -205,6 +215,48 @@
 
   <!-- Modals -->
 
+  <!-- February 2020 -->
+  <div class="modal fade" id="ecisSchoolFeb2020" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title" id="exampleModalCenterTitle">ECIS School Graduates - February 2020</h5>
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <figure class="figure">
+            <img src="public/img/students-feb2020.jpg" class="figure-img w-100" alt="ECIS Students May 2019">
+            <figcaption class="figure-caption">
+              From left to right: Charles Keese - Applied BioPhysics, Catherine Toniatti-Yanulavich - Applied
+              BioPhysics, Derek Beahm, PhD - SUNY at Buffalo State, Erin Troy - SUNY at Buffalo State, Ryan Makin -
+              University of Virginia
+            </figcaption>
+          </figure>
+          <div class="grad-text my-2">
+            <p class="mb-0">Derek Beahm, PhD</p>
+            <p class="grad-desc-title">SUNY at Buffalo State</p>
+            <p class="grad-desc">Research Focus: Investigating membrane, intercellular, and transepithelial transport
+              phenomenon and the applications and development of label-free biosensing instrumentation.</p>
+            <hr>
+            <p class="mb-0">Erin Troy- Graduate Student</p>
+            <p class="grad-desc-title">SUNY at Buffalo State</p>
+            <p class="grad-desc">Research Focus: Investigating the effects of curcumin on the physiological properties
+              of normal and transformed cell types.</p>
+            <hr>
+            <p class="mb-0">Ryan Makin- Graduate Student </p>
+            <p class="grad-desc-title">University of Virginia</p>
+            <p class="grad-desc">Research Pathological ocular neovascularization in the context of age-related macular
+              degeneration (AMD). The Gelfand Lab is interested in the role of the DICER ribonuclease in pathological
+              angiogenesis, and we are currently utilizing ECIS to study the effects of SINE RNA on endothelial adherens
+              junction degradation and barrier function. </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
   <!-- May 2019 -->
   <div class="modal fade" id="ecisSchoolMay2019" tabindex="-1" role="dialog">
     <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
@@ -219,7 +271,7 @@
           <figure class="figure">
             <img src="public/img/students-may2019.jpg" class="figure-img w-100" alt="ECIS Students May 2019">
             <figcaption class="figure-caption">
-              From left to right: Dennis Grab - Christian Dehnert - Applied BioPhysics, Charles Keese - Applied
+              From left to right: Christian Dehnert - Applied BioPhysics, Charles Keese - Applied
               BioPhysics, Tetyana Buzhdygan - Temple University, Slava Rom - Temple University, Ivar Giaever - Applied
               BioPhysics
             </figcaption>
