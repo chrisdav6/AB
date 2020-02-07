@@ -240,12 +240,12 @@
             <p class="grad-desc">Research Focus: Investigating membrane, intercellular, and transepithelial transport
               phenomenon and the applications and development of label-free biosensing instrumentation.</p>
             <hr>
-            <p class="mb-0">Erin Troy- Graduate Student</p>
+            <p class="mb-0">Erin Troy - Graduate Student</p>
             <p class="grad-desc-title">SUNY at Buffalo State</p>
             <p class="grad-desc">Research Focus: Investigating the effects of curcumin on the physiological properties
               of normal and transformed cell types.</p>
             <hr>
-            <p class="mb-0">Ryan Makin- Graduate Student </p>
+            <p class="mb-0">Ryan Makin - Graduate Student </p>
             <p class="grad-desc-title">University of Virginia</p>
             <p class="grad-desc">Research Pathological ocular neovascularization in the context of age-related macular
               degeneration (AMD). The Gelfand Lab is interested in the role of the DICER ribonuclease in pathological
@@ -272,18 +272,18 @@
             <img src="public/img/students-may2019.jpg" class="figure-img w-100" alt="ECIS Students May 2019">
             <figcaption class="figure-caption">
               From left to right: Christian Dehnert - Applied BioPhysics, Charles Keese - Applied
-              BioPhysics, Tetyana Buzhdygan - Temple University, Slava Rom - Temple University, Ivar Giaever - Applied
-              BioPhysics
+              BioPhysics, Tetyana Buzhdygan PhD - Temple University, Slava Rom PhD - Temple University, Ivar Giaever -
+              Applied BioPhysics
             </figcaption>
           </figure>
           <div class="grad-text my-2">
-            <p class="mb-0">Slava Rom, PhD.</p>
-            <p class="grad-desc-title">Assistant Professor- Temple University</p>
+            <p class="mb-0">Slava Rom, PhD</p>
+            <p class="grad-desc-title">Assistant Professor - Temple University</p>
             <p class="grad-desc">Research Focus: Dr. Rom’s research focuses on microRNA biology and their role in
               blood-brain barrier dysfunction during ischemia-reperfusion (stroke), as well as on the Interactions
               between leukocytes and endothelium.</p>
             <hr>
-            <p class="mb-0">Tetyana Buzhdygan, PhD.</p>
+            <p class="mb-0">Tetyana Buzhdygan, PhD</p>
             <p class="grad-desc-title">Researcher- Temple University</p>
             <p class="grad-desc">Research Focus: The goal of Dr. Buzhdygan’s research is to shed light on the
               neurobiology of novel designer drugs in terms of their effects on neuroinflammation and blood-brain
@@ -308,17 +308,17 @@
           <figure class="figure">
             <img src="public/img/students-august2018.jpg" class="figure-img w-100" alt="ECIS Students August 2018">
             <figcaption class="figure-caption">
-              From left to right: Dennis Grab - Uniformed Services University of the Health Sciences, Ivar Giaever -
+              From left to right: Dennis Grab PhD - Uniformed Services University of the Health Sciences, Ivar Giaever -
               Applied BioPhysics, Charles Keese - Applied BioPhysics, Jessica Neder - University of Maryland School of
-              Medicine, Lili Gu - University of Maryland School of Medicine, Lin Zou - University of Maryland School of
-              Medicine
+              Medicine, Lili Gu - University of Maryland School of Medicine, Lin Zou PhD - University of Maryland School
+              of Medicine
             </figcaption>
           </figure>
           <div class="grad-text my-2">
             <p class="mb-0">Jessica Neder</p>
             <p class="grad-desc-title">Research Specialist - University of Maryland School of Medicine</p>
             <hr>
-            <p class="mb-0">Lin Zou MD, Ph.D.</p>
+            <p class="mb-0">Lin Zou MD, PhD</p>
             <p class="grad-desc-title">University of Maryland School of Medicine</p>
             <p class="grad-desc">Research Focus: Determining the role of extracellular RNA in lung injury during sepsis.
             </p>
@@ -326,7 +326,7 @@
             <p class="mb-0">Lili Gu</p>
             <p class="grad-desc-title">Reseacher - University of Maryland School of Medicine</p>
             <hr>
-            <p class="mb-0">Dennis Grab Ph.D.</p>
+            <p class="mb-0">Dennis Grab PhD</p>
             <p class="grad-desc-title">Uniformed Services University of the Health Sciences</p>
             <p class="grad-desc">Research Focus: Microbes and microvascular endothelial cell (MEC) barriers.</p>
           </div>
@@ -349,26 +349,26 @@
           <figure class="figure">
             <img src="public/img/students-may2018.jpg" class="figure-img w-100" alt="ECIS Students May 2018">
             <figcaption class="figure-caption">
-              From left to right: Ivar Giaever - Applied BioPhysics, Susmita Bhattari - Louisiana State University
-              Health Sciences Center, Ann Marie DiGeorge Foushee - Naval Medical Research Unit, Kirstin Morris - Naval
-              Medical Research Unit, Joshua Sumislawski - University of Colorado, Erica Beatman - National Jewish
-              Health, Kelly Schweitzer - National Jewish Health, Fang Niu - University of Nebraska Medical Center,
-              Manikandan Panchatcharam - Louisiana State University Health Sciences Center, Charles Keese - Applied
-              BioPhysics
+              From left to right: Ivar Giaever - Applied BioPhysics, Susmita Bhattarai PhD - Louisiana State University
+              Health Sciences Center, Ann Marie DiGeorge Foushee - Naval Medical Research Unit, Kirstin Morris PhD -
+              Naval Medical Research Unit, Joshua Sumislawski MD - University of Colorado, Erica Beatman - National
+              Jewish Health, Kelly Schweitzer - National Jewish Health, Fang Niu - University of Nebraska Medical
+              Center, Manikandan Panchatcharam PhD - Louisiana State University Health Sciences Center, Charles Keese -
+              Applied BioPhysics
             </figcaption>
           </figure>
           <div class="grad-text my-2">
-            <p class="mb-0">Manikandan Panchatcharam, Ph.D.</p>
+            <p class="mb-0">Manikandan Panchatcharam, PhD</p>
             <p class="grad-desc-title">Louisiana State University Health Sciences Center</p>
             <p class="grad-desc">Research Focus: Research focuses on lipids which play a major factor in blocking blood
               vessels leading to stroke and heart attack.</p>
             <hr>
-            <p class="mb-0">Susmita Bhattarai Ph.D.</p>
+            <p class="mb-0">Susmita Bhattarai PhD</p>
             <p class="grad-desc-title">Student - Louisiana State University Health Sciences Center</p>
             <p class="grad-desc">Research Focus: Cardiovascular disease model focusing on the vascular functionality and
               muscular function.</p>
             <hr>
-            <p class="mb-0">Kirstin Morris Ph.D.</p>
+            <p class="mb-0">Kirstin Morris PhD</p>
             <p class="grad-desc-title">Student at UTSA-UTHSCSA, Orise Research Fellow, NAMRU-SA, Naval Medical Research
               Unit</p>
             <p class="grad-desc">Research Focus: Developing an electrospun collagen based 3D scaffold that would improve
@@ -380,7 +380,7 @@
               personnel via development of novel wound dressings that address prevention of infection as well as
               promotion of wound healing.</p>
             <hr>
-            <p class="mb-0">Joshua Sumislawski, M.D.</p>
+            <p class="mb-0">Joshua Sumislawski, MD</p>
             <p class="grad-desc-title">Resident Physician - University of Colorado</p>
             <hr>
             <p class="mb-0">Kelly Schweitzer</p>
@@ -417,13 +417,13 @@
           <figure class="figure">
             <img src="public/img/students-august2017.jpg" class="figure-img w-100" alt="ECIS Students August 2017">
             <figcaption class="figure-caption">
-              From left to right: Gary McCollum - Vanderbilt University, Tillie Hackett - University of British
-              Columbia, G. Cristina Brailoiu - Thomas Jefferson University, May Al-Fouadi - University of British
+              From left to right: Gary McCollum PhD - Vanderbilt University, Tillie Hackett - University of British
+              Columbia, G. Cristina Brailoiu MD - Thomas Jefferson University, May Al-Fouadi - University of British
               Columbia, Alok Bhushan - Thomas Jefferson University (not shown in image)
             </figcaption>
           </figure>
           <div class="grad-text my-2">
-            <p class="mb-0">Gary W. McCollum, Ph.D.</p>
+            <p class="mb-0">Gary W. McCollum, PhD</p>
             <p class="grad-desc-title">Vanderbilt Eye Institute, Vanderbilt University</p>
             <p class="grad-desc">Research Focus: Our lab's research efforts are focused on developing therapies against
               retinal inflammatory and vasoproliferative events occurring in diabetic retinopathy (DR), using in vitro
@@ -458,19 +458,20 @@
             <img src="public/img/students-march2017.jpg" class="figure-img w-100" alt="ECIS Students March 2017">
             <figcaption class="figure-caption">
               From left to right: Ying Lui - University of Pennsylvania, Koreana Pak - University of Pennsylvania,
-              Nektarios Barabutis - Old Dominion University, Raji Rajesh - Lenin-University of Tennessee Health Science
-              Centre, Bethany Young - Virginia Commonwealth University, Gaelle Mercenne - Recursion Pharmaceuticals
+              Nektarios Barabutis MSc, PhD - Old Dominion University, Raji Rajesh Lenin PhD - University of Tennessee
+              Health Science Centre, Bethany Young - Virginia Commonwealth University, Gaelle Mercenne - Recursion
+              Pharmaceuticals
             </figcaption>
           </figure>
           <div class="grad-text my-2">
-            <p class="mb-0">Nektarios Barabutis, M.Sc., Ph.D</p>
+            <p class="mb-0">Nektarios Barabutis, MSc, PhD</p>
             <p class="grad-desc-title">Frank Reidy Research Center for Bioelectrics, Old Dominion University</p>
             <p class="grad-desc">Research Focus: Dr. Nektarios Barabutis is interested on the mechanisms which govern
               the regulation of vascular permeability in lung tissues. He has recently introduced the protective role of
               p53 on the LPS induced hyperpermeability and he is currently focused on the intracellular cascades which
               mediate that effect.</p>
             <hr>
-            <p class="mb-0">Raji Rajesh Lenin, Ph.D</p>
+            <p class="mb-0">Raji Rajesh Lenin, PhD</p>
             <p class="grad-desc-title">Gangaraju lab, Department of Ophthalmology, University of Tennessee Health
               Science Centre</p>
             <p class="grad-desc">Research Focus: Effect of hyperglycemia and TNF-α in ER stress induced tight junction
@@ -502,7 +503,7 @@
             <img src="public/img/students-oct2016.jpg" class="figure-img w-100" alt="ECIS Students October 2016">
             <figcaption class="figure-caption">
               From left to right: Christian Renken - Applied BioPhysics, Randy Strauss - Virginia Tech Carilion Research
-              Institute, Matthew Pennington - Cornell University, Wei-Sheng Chen - National Institute of Allergy and
+              Institute, Matthew Pennington - Cornell University, Wei-Sheng Chen PhD - National Institute of Allergy and
               Infectious Diseases (NIAID)
             </figcaption>
           </figure>
@@ -514,7 +515,7 @@
               relevant setting. We are currently exploring ECIS as a technique to aid in these studies. Additionally, we
               have utilized ECIS to study various aspects of mesenchymal stem cell biology.</p>
             <hr>
-            <p class="mb-0">Wei-Sheng Chen, Ph.D.</p>
+            <p class="mb-0">Wei-Sheng Chen, PhD</p>
             <p class="grad-desc-title">National Institute of Allergy and Infectious Diseases (NIAID)</p>
             <p class="grad-desc">Research Focus: As a Postdoctoral Fellow, Dr. Chen is responsible for exploring the
               biological mechanisms of the systemic capillary leak syndrome (SCLS), an ultra-rare orphan disease that is
@@ -549,12 +550,12 @@
           <figure class="figure">
             <img src="public/img/students-june2016.jpg" class="figure-img w-100" alt="ECIS Students June 2016">
             <figcaption class="figure-caption">
-              From left to right: Doug Chung - UCLA, Kaushali Thakore-Shah - UCLA, Christopher Turner - University of
-              British Columbia, Cameron Oram - University of British Columbia, Chris Barrett - MIT
+              From left to right: Doug Chung PhD - UCLA, Kaushali Thakore-Shah PhD - UCLA, Christopher Turner PhD -
+              University of British Columbia, Cameron Oram - University of British Columbia, Chris Barrett MD - MIT
             </figcaption>
           </figure>
           <div class="grad-text my-2">
-            <p class="mb-0">Doug Chung, Ph.D.</p>
+            <p class="mb-0">Doug Chung, PhD</p>
             <p class="grad-desc-title">UCLA, The Stein Eye Institute</p>
             <p class="grad-desc">Research Focus: Affecting approximately 4% - 5% of the world population above the age
               of 40, the corneal endothelial dystrophies are a group of heritable bilateral disorders that lead to the
@@ -563,12 +564,12 @@
               endothelial proliferation, migration, and cell barrier function in cell-based models of corneal
               endothelial dystrophies.</p>
             <hr>
-            <p class="mb-0">Kaushali Thakore-Shah, Ph.D.</p>
+            <p class="mb-0">Kaushali Thakore-Shah, PhD</p>
             <p class="grad-desc-title">UCLA</p>
             <p class="grad-desc">Research Focus: My research focus is to find ways to improve the proliferation
               potential of corneal endothelial cells so that they may be used for regenerative cell therapy.</p>
             <hr>
-            <p class="mb-0">Christopher Turner, Ph.D.</p>
+            <p class="mb-0">Christopher Turner, PhD</p>
             <p class="grad-desc-title">University of British Columbia, Granville Lab, International Collaboration on
               Repair Discoveries (ICORD)</p>
             <p class="grad-desc">Research Focus: The Granville lab is focused on researching the role of granzymes in
@@ -579,7 +580,7 @@
             <p class="mb-0">Cameron Oram</p>
             <p class="grad-desc-title">University of British Columbia</p>
             <hr>
-            <p class="mb-0">Chris Barrett M.D.</p>
+            <p class="mb-0">Chris Barrett, MD</p>
             <p class="grad-desc-title">MIT</p>
             <p class="grad-desc">Research Focus: My research focuses on the links between the inflammatory response and
               coagulation system after major traumatic injury. The goal is to develop early interventions that have both
