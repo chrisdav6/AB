@@ -58,33 +58,27 @@
               </ol>
 
               <div class="carousel-item active">
-                <img class="d-block w-100" src="public/img/teer24Large.jpg"
-                  alt="TEER24 Barrier Function Measurement System">
+                <img class="d-block w-100" src="public/img/teer24Large.jpg" alt="TEER24 Barrier Function Measurement System">
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/teer24Station.jpg"
-                  alt="TEER24 Barrier Function Measurement System">
+                <img class="d-block w-100" src="public/img/teer24Station.jpg" alt="TEER24 Barrier Function Measurement System">
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/teer24top.jpg"
-                  alt="TEER24 Barrier Function Measurement System Top View">
+                <img class="d-block w-100" src="public/img/teer24top.jpg" alt="TEER24 Barrier Function Measurement System Top View">
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/teer24Data.jpg"
-                  alt="TEER24 Barrier Function Measurement System Data">
+                <img class="d-block w-100" src="public/img/teer24Data.jpg" alt="TEER24 Barrier Function Measurement System Data">
               </div>
 
             </div>
-            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators"
-              role="button" data-slide="prev">
+            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="sr-only">Previous</span>
             </a>
-            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators"
-              role="button" data-slide="next">
+            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="sr-only">Next</span>
             </a>
@@ -102,8 +96,7 @@
           </p>
           <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
             Sheet</a>
-          <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal"
-            data-target="#orderInfo">Order Info</a>
+          <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a>
         </div>
 
       </div>
@@ -125,7 +118,7 @@
           </p>
           <h5 class="mt-4">Benefits</h5>
           <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- Automated TEER measurements from under 10 to 1,000 ohm-cm<sup>2</sup> in 24 wells</li>
+            <li>- Automated TEER measurements from under 10 to 2,500 ohm-cm<sup>2</sup> in 24 wells</li>
             <li>- Uses standard commercially available membrane inserts</li>
             <li>- Data recorded and visualized in real time under incubator conditions</li>
             <li>- Accurate measuring of endothelial barrier function</li>
@@ -169,12 +162,10 @@
 
           <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs"
-                role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
+              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab"
-                aria-controls="video" aria-selected="false">Video</a>
+              <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab" aria-controls="video" aria-selected="false">Video</a>
             </li>
             <!-- <li class="nav-item">
               <a class="nav-link text-dark" id="options-tab" data-scroll-ignore data-toggle="tab" href="#options"
@@ -220,14 +211,12 @@
           <hr class="mt-1">
           <div class="row mt-4">
             <div class="col-md-3 pb-4 pb-md-0">
-              <a href="public/pdf/TEER24DataSheetR4.pdf" target="_blank" data-toggle="tooltip" data-placement="right"
-                title="Download TEER24 Data Sheet">
+              <a href="public/pdf/TEER24DataSheetR4.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Data Sheet">
                 <img class="img-fluid" src="public/img/teer24DataSheet.jpg" alt="Download TEER24 Data Sheet">
               </a>
             </div>
             <div class="col-md-3">
-              <a href="public/pdf/TEER24ManualR6.pdf" target="_blank" data-toggle="tooltip" data-placement="right"
-                title="Download TEER24 Manual">
+              <a href="public/pdf/TEER24ManualR6.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Manual">
                 <img class="img-fluid" src="public/img/teer24Manual.jpg" alt="Download TEER24 Manual">
               </a>
             </div>
@@ -282,13 +271,11 @@
             <div class="form-group mt-4">
               <label class="d-block">Would you like to Demo or Purchase?</label>
               <div class="form-check form-check-inline">
-                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase"
-                  id="demoOrPurchaseDemo" value="Demo" checked>
+                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase" id="demoOrPurchaseDemo" value="Demo" checked>
                 <label class="form-check-label" for="demoOrPurchaseDemo">Demo</label>
               </div>
               <div class="form-check form-check-inline">
-                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase"
-                  id="demoOrPurchasePurchase" value="Purchase">
+                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase" id="demoOrPurchasePurchase" value="Purchase">
                 <label class="form-check-label" for="demoOrPurchasePurchase">Purchase</label>
               </div>
             </div>
