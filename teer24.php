@@ -139,7 +139,7 @@
             <li>- ECIS control, acquisition, and display software</li>
             <li>- Validation test array</li>
             <li>- 1 Common Electrode Array (CEA) with 24 gold pins</li>
-            <li>- Six 24-well TEER consumable electrode microplates</li>
+            <li>- Four 24-well TEER consumable electrode microplates</li>
           </ul>
           <p class="mt-4">
             Non-invasive measurements may be made continuously for days and even weeks with TEER24. The fixed position
