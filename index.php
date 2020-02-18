@@ -71,7 +71,7 @@
                 <h3 class="card-title">Webinars</h3>
                 <h4 class="mb-1">March 3, 2020</h4>
                 <p class="card-text mb-0">Real-time Electroporation and Monitoring</p>
-                <p class="card-text mb-0">11:00AM EDT</p>
+                <p class="card-text mb-0">11:00AM EST</p>
               </div>
             </div>
           </a>

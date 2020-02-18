@@ -204,7 +204,7 @@
       <hr>-->
 
       <div class="webinar">
-        <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EDT</h4>
+        <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
         <p class="date">March 3, 2020</p>
         <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in real-time.
           This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
@@ -354,7 +354,7 @@
       <hr>
 
       <div class="webinar">
-        <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EDT</h4>
+        <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EST</h4>
         <p class="date">November 3, 2020</p>
         <p>The ECIS Wound Healing Assay replaces the traditional "scratch" or "scrape" assay. Instead of disrupting the
           cell layer mechanically with a needle or pipette tip and following the migration of cells to "heal" the wound with a
@@ -367,7 +367,7 @@
       <hr>
 
       <div class="webinar">
-        <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EDT</h4>
+        <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EST</h4>
         <p class="date">November 17, 2020</p>
         <p>This webinar will review ECIS and then show how complex impedance measurements can be used to evaluate the
           barrier function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically
@@ -378,7 +378,7 @@
       <hr>
 
       <div class="webinar">
-        <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EDT</h4>
+        <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
         <p class="date">December 8, 2020</p>
         <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in
           real-time. This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
