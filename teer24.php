@@ -144,8 +144,7 @@
           <p class="mt-4">
             Non-invasive measurements may be made continuously for days and even weeks with TEER24. The fixed position
             of electrodes throughout the measurements eliminates operator variability allowing precise and repeatable
-            measurements of cell layers with weak barrier function (&lt;10 ohm-cm<sup>2</sup>). There is no need to take
-            the station out of the incubator, therefore eliminating temperature variations.
+            measurements of cell layers. There is no need to take the station out of the incubator, therefore eliminating temperature variations.
           </p>
           <p class="mt-4">
             The TEER24 accepts standard 24 well membrane inserts from any commercial supplier. These are placed in a
