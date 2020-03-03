@@ -69,22 +69,6 @@
         </div>
       </div> -->
 
-      <!-- <div class="tradeshow mb-5">
-        <h4 class="date">October 27-31, 2019</h4>
-        <div class="row">
-          <div class="col-lg-4">
-            <img class="img-fluid mb-3 mb-lg-0" src="public/img/navboMeeting2019.png" alt="NAVBO Banner">
-          </div>
-          <div class="col-lg-8">
-            <a href="http://www.navbo.org" class="tradeshow-link" target="_blank">NAVBO - Monterey, CA</a>
-            <p class="mb-0 mt-2">The mission of NAVBO is to promote the study of vascular biology. The purpose of the
-              society is to provide a forum whereby members disseminate and share knowledge related to the scientific
-              field of vascular biology, to ensure the translation of knowledge from basic science to clinical practice.
-            </p>
-          </div>
-        </div>
-      </div> -->
-
       <div class="tradeshow mb-5">
         <h4 class="date">March 15-19, 2020</h4>
         <div class="row">
@@ -132,6 +116,24 @@
               cancer research—from population science and prevention; to cancer biology, translational, and clinical
               studies; to survivorship and advocacy—and highlights the work of the best minds in research and medicine
               from institutions all over the world.</p>
+          </div>
+        </div>
+      </div>
+
+      <hr class="my-5">
+
+      <div class="tradeshow mb-5">
+        <h4 class="date">October 25-29, 2020</h4>
+        <div class="row">
+          <div class="col-lg-4">
+            <img class="img-fluid mb-3 mb-lg-0" src="public/img/navboMeeting2020.png" alt="NAVBO Banner">
+          </div>
+          <div class="col-lg-8">
+            <a href="http://www.navbo.org/events/vb2020" class="tradeshow-link" target="_blank">Vascular Biology 2020 - Newport, RI</a>
+            <p class="mb-0 mt-2">The mission of NAVBO is to promote the study of vascular biology. The purpose of the
+              society is to provide a forum whereby members disseminate and share knowledge related to the scientific
+              field of vascular biology, to ensure the translation of knowledge from basic science to clinical practice.
+            </p>
           </div>
         </div>
       </div>
