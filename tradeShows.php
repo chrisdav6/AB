@@ -85,23 +85,6 @@
         </div>
       </div> -->
 
-      <!-- <div class="tradeshow mb-5">
-        <h4 class="date">December 7-11, 2019</h4>
-        <div class="row">
-          <div class="col-lg-4">
-            <img class="img-fluid mb-3 mb-lg-0" src="public/img/ascb-emboMeeting.png" alt="ASCB Banner">
-          </div>
-          <div class="col-lg-8">
-            <a href="https://www.ascb.org/2019ascbembo" class="tradeshow-link" target="_blank">ASCB|EMBO 2019 -
-              Washington, DC</a>
-            <p class="mb-0 mt-2">The 2019 joint meeting of the American Society for Cell Biology (ASCB) and European
-              Molecular Biology Organization (EMBO) will focus on cell biology as the fundamental basis of biology, and
-              will offer sessions on emerging topics such as nontraditional model organisms, and the use of
-              computational modeling and biophysics to “Build the Cell from the Ground Up.”</p>
-          </div>
-        </div>
-      </div> -->
-
       <div class="tradeshow mb-5">
         <h4 class="date">March 15-19, 2020</h4>
         <div class="row">
@@ -109,8 +92,7 @@
             <img class="img-fluid mb-3 mb-lg-0" src="public/img/SOTMeeting2020.png" alt="SOT Banner">
           </div>
           <div class="col-lg-8">
-            <a href="https://www.toxicology.org/events/am/AM2020/meeting-info.asp" class="tradeshow-link"
-              target="_blank">59th Annual SOT Annual Meeting - Baltimore, MD</a>
+            <a href="https://www.toxicology.org/events/am/AM2020/meeting-info.asp" class="tradeshow-link" target="_blank">59th Annual SOT Annual Meeting - Baltimore, MD</a>
             <p class="mb-0 mt-2">Taking place in Anaheim, California, the SOT 59th Annual Meeting and ToxExpo will
               feature more than 80 Scientific Sessions, 2,000 presentations, 300 exhibitors, and 6,000 attendees. The
               full Annual Meeting website will launch August 1, 2019.</p>
@@ -145,12 +127,27 @@
             <img class="img-fluid mb-3 mb-lg-0" src="public/img/aacrMeeting2020.png" alt="AACR Banner">
           </div>
           <div class="col-lg-8">
-            <a href="https://aacr-2020.com/?msclkid=4db7c906f10c1b22c59895e2c45124f7" class="tradeshow-link"
-              target="_blank">AACR Annual Meeting 2020 - San Diego, CA</a>
+            <a href="https://aacr-2020.com/?msclkid=4db7c906f10c1b22c59895e2c45124f7" class="tradeshow-link" target="_blank">AACR Annual Meeting 2020 - San Diego, CA</a>
             <p class="mb-0 mt-2">The AACR Annual Meeting program covers the latest discoveries across the spectrum of
               cancer research—from population science and prevention; to cancer biology, translational, and clinical
               studies; to survivorship and advocacy—and highlights the work of the best minds in research and medicine
               from institutions all over the world.</p>
+          </div>
+        </div>
+      </div>
+
+      <hr class="my-5">
+
+      <div class="tradeshow mb-5">
+        <h4 class="date">December 5-9, 2020</h4>
+        <div class="row">
+          <div class="col-lg-4">
+            <img class="img-fluid mb-3 mb-lg-0" src="public/img/ascb-emboMeeting2020.png" alt="ASCB Banner">
+          </div>
+          <div class="col-lg-8">
+            <a href="https://www.ascb.org/cellbio2020" class="tradeshow-link" target="_blank">ASCB|EMBO 2020 -
+              Philadelphia, PA</a>
+            <p class="mb-0 mt-2">Cell Bio is an arena to showcase the brightest minds in the cell biology community. Our community encompasses researchers from diverse backgrounds, including age, gender, race, ethnicity, geographic location, institutions, career levels, and research interests. As such, we want the meeting to represent our diverse community within our sessions, speakers, and poster presenters.</p>
           </div>
         </div>
       </div>
