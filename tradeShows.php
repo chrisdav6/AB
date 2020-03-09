@@ -67,7 +67,9 @@
               approximately 1,500.</p>
           </div>
         </div>
-      </div> -->
+      </div> 
+      
+      <hr class="my-5">
 
       <div class="tradeshow mb-5">
         <h4 class="date">March 15-19, 2020</h4>
@@ -84,7 +86,7 @@
         </div>
       </div>
 
-      <!-- <hr class="my-5">
+      <hr class="my-5">
 
       <div class="tradeshow mb-5">
         <h4 class="date">April 4-8, 2020</h4>
@@ -101,8 +103,6 @@
           </div>
         </div>
       </div> -->
-
-      <hr class="my-5">
 
       <div class="tradeshow mb-5">
         <h4 class="date">April 24-29, 2020</h4>
