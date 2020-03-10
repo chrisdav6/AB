@@ -58,33 +58,27 @@
               </ol>
 
               <div class="carousel-item active">
-                <img class="d-block w-100" src="public/img/cp96Graph.jpg"
-                  alt="CP96 Cell Proliferation Measurement System Graph">
+                <img class="d-block w-100" src="public/img/cp96Graph.jpg" alt="CP96 Cell Proliferation Measurement System Graph">
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/cp96Station.jpg"
-                  alt="CP96 Cell Proliferation Measurement System">
+                <img class="d-block w-100" src="public/img/cp96Station.jpg" alt="CP96 Cell Proliferation Measurement System">
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/cp96Front.jpg"
-                  alt="CP96 Cell Proliferation Measurement System Front View">
+                <img class="d-block w-100" src="public/img/cp96Front.jpg" alt="CP96 Cell Proliferation Measurement System Front View">
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/cp96Computer.jpg"
-                  alt="CP96 Cell Proliferation Measurement System Computer">
+                <img class="d-block w-100" src="public/img/cp96Computer.jpg" alt="CP96 Cell Proliferation Measurement System Computer">
               </div>
 
             </div>
-            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators"
-              role="button" data-slide="prev">
+            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="sr-only">Previous</span>
             </a>
-            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators"
-              role="button" data-slide="next">
+            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="sr-only">Next</span>
             </a>
@@ -101,8 +95,7 @@
           </p>
           <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
             Sheet</a>
-          <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal"
-            data-target="#orderInfo">Order Info</a>
+          <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a>
         </div>
 
       </div>
@@ -169,12 +162,10 @@
 
           <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs"
-                role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
+              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab"
-                aria-controls="video" aria-selected="false">Video</a>
+              <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab" aria-controls="video" aria-selected="false">Video</a>
             </li>
             <!-- <li class="nav-item">
               <a class="nav-link text-dark" id="options-tab" data-scroll-ignore data-toggle="tab" href="#options"
@@ -215,14 +206,12 @@
           <hr class="mt-1">
           <div class="row mt-4">
             <div class="col-md-3 pb-4 pb-md-0">
-              <a href="public/pdf/CP96DataSheetR3.pdf" target="_blank" data-toggle="tooltip" data-placement="right"
-                title="Download CP96 Data Sheet">
+              <a href="public/pdf/CP96DataSheetR4.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download CP96 Data Sheet">
                 <img class="img-fluid" src="public/img/cp96DataSheet.jpg" alt="Download CP96 Data Sheet">
               </a>
             </div>
             <div class="col-md-3">
-              <a href="public/pdf/CP96ManualR6.pdf" target="_blank" data-toggle="tooltip" data-placement="right"
-                title="Download CP96 Manual">
+              <a href="public/pdf/CP96ManualR7.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download CP96 Manual">
                 <img class="img-fluid" src="public/img/cp96Manual.jpg" alt="Download CP96 Manual">
               </a>
             </div>
@@ -277,13 +266,11 @@
             <div class="form-group mt-4">
               <label class="d-block">Would you like to Demo or Purchase?</label>
               <div class="form-check form-check-inline">
-                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase"
-                  id="demoOrPurchaseDemo" value="Demo" checked>
+                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase" id="demoOrPurchaseDemo" value="Demo" checked>
                 <label class="form-check-label" for="demoOrPurchaseDemo">Demo</label>
               </div>
               <div class="form-check form-check-inline">
-                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase"
-                  id="demoOrPurchasePurchase" value="Purchase">
+                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase" id="demoOrPurchasePurchase" value="Purchase">
                 <label class="form-check-label" for="demoOrPurchasePurchase">Purchase</label>
               </div>
             </div>
