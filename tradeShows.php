@@ -102,7 +102,7 @@
               scientists from academic institutions, government agencies, non-profit organizations and industry.</p>
           </div>
         </div>
-      </div> -->
+      </div> 
 
       <div class="tradeshow mb-5">
         <h4 class="date">April 24-29, 2020</h4>
@@ -120,7 +120,7 @@
         </div>
       </div>
 
-      <hr class="my-5">
+      <hr class="my-5">-->
 
       <div class="tradeshow mb-5">
         <h4 class="date">October 25-29, 2020</h4>
