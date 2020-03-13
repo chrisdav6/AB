@@ -44,7 +44,6 @@
   <section id="productInfo" class="py-5 mb-5 text-center text-md-left">
     <div class="container">
 
-
       <div class="row mt-4 justify-content-between">
         <div class="col-md-4 pb-4 pb-md-0">
           <a href="public/pdf/TEER24DataSheetR4.pdf" target="_blank" data-toggle="tooltip" data-placement="left" title="TEER24 White Paper">

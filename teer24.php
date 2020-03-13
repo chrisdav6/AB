@@ -210,12 +210,12 @@
           <hr class="mt-1">
           <div class="row mt-4">
             <div class="col-md-3 pb-4 pb-md-0">
-              <a href="public/pdf/TEER24DataSheetR4.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Data Sheet">
+              <a href="public/pdf/TEER24DataSheetR5.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Data Sheet">
                 <img class="img-fluid" src="public/img/teer24DataSheet.jpg" alt="Download TEER24 Data Sheet">
               </a>
             </div>
             <div class="col-md-3">
-              <a href="public/pdf/TEER24ManualR6.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Manual">
+              <a href="public/pdf/TEER24ManualR9.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER24 Manual">
                 <img class="img-fluid" src="public/img/teer24Manual.jpg" alt="Download TEER24 Manual">
               </a>
             </div>
