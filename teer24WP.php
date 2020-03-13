@@ -46,8 +46,8 @@
 
       <div class="row mt-4 justify-content-between">
         <div class="col-md-4 pb-4 pb-md-0">
-          <a href="public/pdf/TEER24DataSheetR4.pdf" target="_blank" data-toggle="tooltip" data-placement="left" title="TEER24 White Paper">
-            <img class="img-fluid" src="public/img/teer24DataSheet.jpg" alt="Download TEER24 Data Sheet">
+          <a href="public/pdf/ABPTEER24Whitepaper.pdf" target="_blank" data-toggle="tooltip" data-placement="left" title="TEER24 White Paper">
+            <img class="img-fluid" src="public/img/teer24WP.jpg" alt="Download TEER24 White Paper">
           </a>
           <div class="d-flex justify-content-center mt-2">
             <small>(Click to download white paper)</small>
