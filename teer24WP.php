@@ -35,7 +35,7 @@
         <div class="col">
           <h1 class="display-3">TEER24</h1>
           <hr class="my-2">
-          <h2>Click below to receive your copy of the TEER24 white paper</h2>
+          <h2>Continuous 24 Well TEER Measurements</h2>
         </div>
       </div>
     </div>
@@ -45,7 +45,9 @@
     <div class="container">
 
       <div class="row mt-4 justify-content-between">
-        <div class="col-md-6 pb-4 pb-md-0">
+        <div class="col-md-7 pb-4 pb-md-0">
+          <h3>Click below to download whitepaper</h3>
+          <hr class="mb-5">
           <a href="public/pdf/ABPTEER24Whitepaper.pdf" target="_blank" data-toggle="tooltip" data-placement="left" title="TEER24 White Paper">
             <img class="img-fluid w-100" src="public/img/teer24WP.jpg" alt="Download TEER24 White Paper">
           </a>
@@ -53,8 +55,8 @@
             <small>(Click to download white paper)</small>
           </div>
         </div>
-        <div class="col-md-5 mt-5 mt-md-0">
-          <h3>Fill out form to learn more</h3>
+        <div class="col-md-4 mt-5 mt-md-0">
+          <h3>Submit to learn more</h3>
           <hr>
           <form class="mt-5" action="/">
             <div class=" form-group">
