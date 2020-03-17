@@ -69,8 +69,8 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Webinars</h3>
-                <h4 class="mb-1">March 17, 2020</h4>
-                <p class="card-text mb-0">Cell Attachment and Spreading Measurements</p>
+                <h4 class="mb-1">April 7, 2020</h4>
+                <p class="card-text mb-0">Signal Transduction Assays</p>
                 <p class="card-text mb-0">11:00AM EST</p>
               </div>
             </div>
