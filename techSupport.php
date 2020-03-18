@@ -63,6 +63,9 @@
         <p><a href="public/pdf/ECISApplicationsBrochure.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Applications Brochure</a></p>
         <p><a href="public/pdf/TEER24DataSheetR5.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS TEER24 Brochure</a></p>
         <p><a href="public/pdf/CP96DataSheetR4.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS CP96 Brochure</a></p>
+        <p><a href="public/pdf/ECISCancer.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Cancer</a></p>
+        <p><a href="public/pdf/ECISVirology.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Virology</a></p>
+        <p><a href="public/pdf/ECISEndothelialCellResearch.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Endothelial Cell Research</a></p>
       </div>
 
       <h4 class="mt-5 mb-4 secondary-title">Manuals</h4>
@@ -74,9 +77,6 @@
         <p><a href="public/pdf/P-FlowPumpManualRevD.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> P-Flow Pump Manual</a></p>
         <p><a href="public/pdf/PerfusionIN-1090X_pump_system manual.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Perfusion IN-1090X Pump System Manual</a></p>
         <p><a href="public/pdf/IncubatorPortSheldonInstructions.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Incubator Port Sheldon Instructions</a></p>
-        <p><a href="public/pdf/ECISCancer.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Cancer</a></p>
-        <p><a href="public/pdf/ECISVirology.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Virology</a></p>
-        <p><a href="public/pdf/ECISEndothelialCellResearch.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Endothelial Cell Research</a></p>
       </div>
 
 
