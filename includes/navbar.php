@@ -75,7 +75,6 @@
               <a class="dropdown-item" href="ecisSchool.php">ECIS School</a>
               <a class="dropdown-item" href="tradeShows.php">Tradeshows</a>
               <a class="dropdown-item" href="techSupport.php">Technical Support</a>
-              <a class="dropdown-item" href="manuals.php">Manuals &amp; Brochures</a>
               <a class="dropdown-item" href="software.php">Software</a>
               <a class="dropdown-item" href="ibcaMeeting.php">IBCA Meeting</a>
             </div>

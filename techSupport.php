@@ -48,16 +48,37 @@
         <div class="col-md-6">
           <p>
             At Applied BioPhysics we understand that the journey of scientific research can be a very bumpy endeavor.
-            That’s why we
-            want to make sure that using the ECIS technology is a smooth, hassle-free process from beginning to end by
-            providing
-            manuals, journal articles, videos, and even user notes to aid in your travels on the road to discovery.
+            That’s why we want to make sure that using the ECIS technology is a smooth, hassle-free process from beginning to end by
+            providing manuals, journal articles, videos, and even user notes to aid in your travels on the road to discovery.
           </p>
         </div>
         <div class="col-md-6">
           <img class="img-fluid" src="public/img/techSupportArray.jpg" alt="Applied BioPhysics Array">
         </div>
       </div>
+
+      <h4 class="mt-5 mt-lg-0 mb-4 secondary-title">Brochures</h4>
+
+      <div class="supportDocs">
+        <p><a href="public/pdf/ECISApplicationsBrochure.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Applications Brochure</a></p>
+        <p><a href="public/pdf/TEER24DataSheetR5.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS TEER24 Brochure</a></p>
+        <p><a href="public/pdf/CP96DataSheetR4.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS CP96 Brochure</a></p>
+      </div>
+
+      <h4 class="mt-5 mb-4 secondary-title">Manuals</h4>
+
+      <div class="supportDocs">
+        <p><a href="public/pdf/ECISProductGuide.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Product Manual</a></p>
+        <p><a href="public/pdf/ECIS_Operation_Manual_v1_2_123.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Operation Manual</a></p>
+        <p><a href="public/pdf/ECISHandbook.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Handbook</a></p>
+        <p><a href="public/pdf/P-FlowPumpManualRevD.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> P-Flow Pump Manual</a></p>
+        <p><a href="public/pdf/PerfusionIN-1090X_pump_system manual.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Perfusion IN-1090X Pump System Manual</a></p>
+        <p><a href="public/pdf/IncubatorPortSheldonInstructions.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Incubator Port Sheldon Instructions</a></p>
+        <p><a href="public/pdf/ECISCancer.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Cancer</a></p>
+        <p><a href="public/pdf/ECISVirology.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Virology</a></p>
+        <p><a href="public/pdf/ECISEndothelialCellResearch.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Endothelial Cell Research</a></p>
+      </div>
+
 
       <h4 class="mt-5 mb-4 secondary-title">Journal Articles</h4>
 
