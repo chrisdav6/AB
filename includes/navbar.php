@@ -1,10 +1,8 @@
 <header>
   <nav class="navbar navbar-expand-lg navbar-light py-2 border-bottom">
     <div class="container px-3">
-      <a class="navbar-brand" href="/"><img src="public/img/abLogoNavbar.png" alt="Applied Biophysics Round Logo"
-          height="30"></a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <a class="navbar-brand" href="/"><img src="public/img/abLogoNavbar.png" alt="Applied Biophysics Round Logo" height="30"></a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
       </button>
 
@@ -26,8 +24,7 @@
                 <a href="#" data-toggle="dropdown" class="submenu-link dropdown-toggle">Arrays</a>
                 <ul class="dropdown-menu">
                   <a class="dropdown-item" href="cultureware.php">Cultureware</a>
-                  <a class="dropdown-item" href="https://applied-biophysics-inc.myshopify.com" target="_blank"><i
-                      class="fas fa-shopping-cart mr-2"></i> Shop Online</a>
+                  <a class="dropdown-item" href="https://applied-biophysics-inc.myshopify.com" target="_blank"><i class="fas fa-shopping-cart mr-2"></i> Shop Online</a>
                 </ul>
               </li>
               <li class="dropdown-item dropdown-submenu">
@@ -51,8 +48,7 @@
             </div>
           </li> -->
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-              aria-expanded="false">Applications</a>
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Applications</a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="teerBarrierFunction.php">TEER/Barrier Function</a>
               <a class="dropdown-item" href="cellProliferation.php">Cell Proliferation</a>
@@ -64,8 +60,7 @@
             <a class="nav-link" href="publications.php">Publications</a>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-              aria-expanded="false">Technology</a>
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Technology</a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="whatIsECIS.php">What is ECIS?</a>
               <a class="dropdown-item" href="cellsMeasuredwithECIS.php">Cells Measured with ECIS</a>
@@ -74,20 +69,19 @@
             </div>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-              aria-expanded="false">Support</a>
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Support</a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="webinars.php">Webinars</a>
               <a class="dropdown-item" href="ecisSchool.php">ECIS School</a>
               <a class="dropdown-item" href="tradeShows.php">Tradeshows</a>
               <a class="dropdown-item" href="techSupport.php">Technical Support</a>
+              <a class="dropdown-item" href="manuals.php">Manuals &amp; Brochures</a>
               <a class="dropdown-item" href="software.php">Software</a>
               <a class="dropdown-item" href="ibcaMeeting.php">IBCA Meeting</a>
             </div>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-              aria-expanded="false">Company</a>
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Company</a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="aboutABP.php">About ABP</a>
               <a class="dropdown-item" href="ecisUsers.php">ECIS Users</a>
@@ -97,8 +91,7 @@
             </div>
           </li>
           <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true"
-              aria-expanded="false">Contact</a>
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Contact</a>
             <div class="dropdown-menu">
               <a class="dropdown-item" href="contactABP.php">Contact APB</a>
               <a class="dropdown-item" href="requestDemo.php">Request Demo System</a>
@@ -108,24 +101,19 @@
         </ul>
         <ul class="navbar-nav ml-auto flex-row">
           <li class="nav-item mr-1">
-            <a class="social-head facebook" href="https://www.facebook.com/Applied-BioPhysics-165532397615/"
-              target="_blank"><i class="fab fa-facebook-square"></i></a>
+            <a class="social-head facebook" href="https://www.facebook.com/Applied-BioPhysics-165532397615/" target="_blank"><i class="fab fa-facebook-square"></i></a>
           </li>
           <li class="nav-item mr-1">
-            <a class="social-head twitter" href="https://twitter.com/AppliedBioPhys" target="_blank"><i
-                class="fab fa-twitter-square"></i></a>
+            <a class="social-head twitter" href="https://twitter.com/AppliedBioPhys" target="_blank"><i class="fab fa-twitter-square"></i></a>
           </li>
           <li class="nav-item mr-1">
-            <a class="social-head instagram" href="https://www.instagram.com/appliedbiophysics" target="_blank"><i
-                class="fab fa-instagram"></i></a>
+            <a class="social-head instagram" href="https://www.instagram.com/appliedbiophysics" target="_blank"><i class="fab fa-instagram"></i></a>
           </li>
           <li class="nav-item mr-1">
-            <a class="social-head linkedin" href="https://www.linkedin.com/company/applied-biophysics-inc."
-              target="_blank"><i class="fab fa-linkedin"></i></a>
+            <a class="social-head linkedin" href="https://www.linkedin.com/company/applied-biophysics-inc." target="_blank"><i class="fab fa-linkedin"></i></a>
           </li>
           <li class="nav-item">
-            <a class="social-head youtube" href="https://www.youtube.com/channel/UCc1YA1oDtt00Cz9GjunFhPg"
-              target="_blank"><i class="fab fa-youtube-square"></i></a>
+            <a class="social-head youtube" href="https://www.youtube.com/channel/UCc1YA1oDtt00Cz9GjunFhPg" target="_blank"><i class="fab fa-youtube-square"></i></a>
           </li>
         </ul>
       </div>

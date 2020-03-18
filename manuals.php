@@ -1,0 +1,88 @@
+<?php
+  $title = "Manuals &amp; Brochures - Applied BioPhysics";
+  $metaDesc = "Ensuring that using the ECIS technology is a smooth, hassle-free process from beginning to end by
+  providing manuals, journal articles, videos, and user notes to aid in the road to discovery.";
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta name="description" content="<?php echo $metaDesc; ?>">
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700,900" rel="stylesheet">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+  <!-- Bootstrap -->
+  <link rel="stylesheet" href="public/css/bootstrap.css" type="text/css">
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="public/css/style.css">
+  <!-- Favicon -->
+  <link rel="icon" type="image/x-icon" href="public/img/favicon.ico">
+  <title><?php echo $title; ?></title>
+</head>
+
+<body class="d-flex flex-column">
+
+  <?php include_once "includes/navbar.php";?>
+  <?php include_once "includes/logo-sm.php";?>
+
+  <section id="techSupportHeading" class="text-center text-md-left">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <h1 class="mb-0">Manuals &amp; Brochures</h1>
+          <hr class="mt-0">
+        </div>
+      </div>
+    </div>
+  </section><!-- /techSupportHeading -->
+
+  <section id="techSupportContent" class="py-4 mb-5">
+    <div class="container text-center text-md-left">
+
+      <h4 class="mt-5 mt-lg-0 mb-4 secondary-title">Manuals</h4>
+
+      <div class="supportDocs">
+        <p><a href="public/pdf/ECISProductGuide.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Product Manual</a></p>
+        <p><a href="public/pdf/ECIS_Operation_Manual_v1_2_123.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Operation Manual</a></p>
+        <p><a href="public/pdf/ECISHandbook.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Handbook</a></p>
+        <p><a href="public/pdf/P-FlowPumpManualRevD.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> P-Flow Pump Manual</a></p>
+        <p><a href="public/pdf/PerfusionIN-1090X_pump_system manual.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Perfusion IN-1090X Pump System Manual</a></p>
+        <p><a href="public/pdf/IncubatorPortSheldonInstructions.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Incubator Port Sheldon Instructions</a></p>
+        <p><a href="public/pdf/ECISCancer.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Cancer</a></p>
+        <p><a href="public/pdf/ECISVirology.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Virology</a></p>
+      </div>
+
+    </div>
+  </section><!-- /techSupportContent -->
+
+  <?php include_once "includes/footer.php";?>
+
+  <!-- Scroll to top -->
+  <button class="btn btn-outline-dark" id="scrollBtn"><i class="fas fa-angle-up fa-2x"></i></button>
+
+  <script src="public/js/jquery.min.js"></script>
+  <script src="public/js/bootstrap.bundle.min.js"></script>
+  <script src="public/js/util.js"></script>
+  <script src="public/js/smooth-scroll.min.js"></script>
+  <script src="public/js/scripts.js"></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-108411540-1');
+  </script>
+</body>
+
+</html>
