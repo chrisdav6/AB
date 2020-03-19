@@ -48,22 +48,14 @@
 
         <div class="col-md-3">
           <div class="list-group mb-5" id="list-tab" role="tablist">
-            <a class="list-group-item list-group-item-action active" data-toggle="list" href="#overview" role="tab"
-              data-scroll-ignore>Overview</a>
-            <a class="list-group-item list-group-item-action" data-toggle="list" href="#whoWeAre" role="tab"
-              data-scroll-ignore>Who We Are</a>
-            <a class="list-group-item list-group-item-action" data-toggle="list" href="#mission" role="tab"
-              data-scroll-ignore>Mission</a>
-            <a class="list-group-item list-group-item-action" data-toggle="list" href="#advisory" role="tab"
-              data-scroll-ignore>Advisory Board</a>
-            <a class="list-group-item list-group-item-action" data-toggle="list" href="#press" role="tab"
-              data-scroll-ignore>Press Releases</a>
-            <a href="https://app.robly.com/public/archives?a=1afc70f23a9e4539"
-              class="list-group-item list-group-item-action" target="_blank">Newsletter Archive</a>
-            <a class="list-group-item list-group-item-action" data-toggle="list" href="#pastEvents" role="tab"
-              data-scroll-ignore>Past Events</a>
-            <a class="list-group-item list-group-item-action" data-toggle="list" href="#comics" role="tab"
-              data-scroll-ignore>ECIS Comics</a>
+            <a class="list-group-item list-group-item-action active" data-toggle="list" href="#overview" role="tab" data-scroll-ignore>Overview</a>
+            <a class="list-group-item list-group-item-action" data-toggle="list" href="#whoWeAre" role="tab" data-scroll-ignore>Who We Are</a>
+            <a class="list-group-item list-group-item-action" data-toggle="list" href="#mission" role="tab" data-scroll-ignore>Mission</a>
+            <a class="list-group-item list-group-item-action" data-toggle="list" href="#advisory" role="tab" data-scroll-ignore>Advisory Board</a>
+            <a class="list-group-item list-group-item-action" data-toggle="list" href="#press" role="tab" data-scroll-ignore>Press Releases</a>
+            <a href="https://app.robly.com/public/archives?a=1afc70f23a9e4539" class="list-group-item list-group-item-action" target="_blank">Newsletter Archive</a>
+            <a class="list-group-item list-group-item-action" data-toggle="list" href="#pastEvents" role="tab" data-scroll-ignore>Past Events</a>
+            <a class="list-group-item list-group-item-action" data-toggle="list" href="#comics" role="tab" data-scroll-ignore>ECIS Comics</a>
           </div>
         </div>
 
@@ -287,8 +279,7 @@
                 <div class="col-md-9 col-lg-10">
                   <h3 class="mb-3">Dave Litwiller</h3>
                   <p>
-                    Dave Litwiller is a senior executive of <a class="text-dark link"
-                      href="http://www.teledynedalsa.com/en/home" target="_blank">DALSA Corporation</a>, headquartered
+                    Dave Litwiller is a senior executive of <a class="text-dark link" href="http://www.teledynedalsa.com/en/home" target="_blank">DALSA Corporation</a>, headquartered
                     in Waterloo, Ontario, Canada. He oversees strategy and
                     market development for DALSA's business units in semiconductor fabrication, image sensor integrated
                     circuit
@@ -321,8 +312,7 @@
                   <h5 class="mb-3">Institute for Analytical Chemistry, Chemo & Biosensors - University of Regensburg
                   </h5>
                   <p>
-                    <a class="text-dark link" href="http://www-analytik.chemie.uni-regensburg.de/wegener/wegener.htm"
-                      target="_blank">Joachim
+                    <a class="text-dark link" href="http://www-analytik.chemie.uni-regensburg.de/wegener/wegener.htm" target="_blank">Joachim
                       Wegener</a> is a professor for Biosensors & Bioanalytics at the University of Regensburg in
                     Germany where he
                     moved in 2008 from his previous appointment at the University of Muenster (Germany). He holds a
@@ -533,12 +523,13 @@
 
               <div class="row">
                 <div class="col-lg-10 mx-auto">
-                  <img class="img-fluid comic" src="public/img/ECIS-Halloween-2017-Comic.jpg"
-                    alt="ECIS Comic October 2017">
-                  <img class="img-fluid comic" src="public/img/ECIS-Comic-March-2017-Final.jpg"
-                    alt="ECIS Comic March 2017">
-                  <img class="img-fluid comic" src="public/img/ECIS-Comic-Oct-2016-Final.jpg"
-                    alt="ECIS Comic October 2016">
+                  <div class="mb-5">
+                    <img class="img-fluid" src="public/img/ComicCrosswordApr2020.jpg" alt="ECIS Comic Crossword April 2020">
+                    <a href="public/pdf/ComicCrosswordApr2020Answers.pdf" class="link text-dark" target="_blank">Link to answers</a>
+                  </div>
+                  <img class="img-fluid comic" src="public/img/ECIS-Halloween-2017-Comic.jpg" alt="ECIS Comic October 2017">
+                  <img class="img-fluid comic" src="public/img/ECIS-Comic-March-2017-Final.jpg" alt="ECIS Comic March 2017">
+                  <img class="img-fluid comic" src="public/img/ECIS-Comic-Oct-2016-Final.jpg" alt="ECIS Comic October 2016">
                   <img class="img-fluid comic" src="public/img/Comic-Feb-2016-Final.jpg" alt="ECIS Comic February 2016">
                   <img class="img-fluid comic" src="public/img/ECIS-Comic-Feb-2015.jpg" alt="ECIS Comic February 2015">
                   <img class="img-fluid comic" src="public/img/ECIS-Comic-Oct-2014.jpg" alt="ECIS Comic October 2014">
@@ -683,14 +674,12 @@
             November 14, 2014 in Seoul,
             Korea with the theme "Women Scientist and Engineers Lead the World".
           </p>
-          <img class="img-fluid pb-3" src="public/img/ibca_2014_1.jpg"
-            alt="Korea Federation of Women's Science and Technology">
+          <img class="img-fluid pb-3" src="public/img/ibca_2014_1.jpg" alt="Korea Federation of Women's Science and Technology">
           <p>
             Dr. Ivar Giaever, Chief Technology Officer of Applied BioPhysics, Inc. who won the Nobel Prize in Physics in
             1973 was guest speaker.
           </p>
-          <img class="img-fluid" src="public/img/ibca_2014_2.jpg"
-            alt="Korea Federation of Women's Science and Technology">
+          <img class="img-fluid" src="public/img/ibca_2014_2.jpg" alt="Korea Federation of Women's Science and Technology">
         </div>
       </div>
     </div>
