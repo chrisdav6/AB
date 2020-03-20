@@ -54,6 +54,8 @@
           <a class="application-link mb-2 flex-fill" href="teerBarrierFunction.php">TEER/Barrier Function</a>
           <a class="application-link mb-2 flex-fill" href="cellProliferation.php">Cell Proliferation</a>
           <a class="application-link mb-2 flex-fill" href="cellMigration.php">Cell Migration</a>
+          <a class="application-link mb-2 flex-fill" href="cytotoxicity.php">Cytotoxicity</a>
+          <!-- <a class="application-link mb-2 flex-fill" href="virology">Virology</a> -->
           <!-- <a class="application-link mb-2 flex-fill" href="signalTransduction.php">Signal Transduction</a> -->
         </div>
       </div>
