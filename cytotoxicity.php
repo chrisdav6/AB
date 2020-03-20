@@ -58,9 +58,52 @@
               </p>
             </div>
             <div class="col-md-6">
-              <img class="img-fluid w-100 my-3 my-md-0" src="public/img/cytotoxicity.jpg" alt="Cytotoxicity">
+              <figure class="figure w-100">
+                <img class="img-fluid w-100 my-3 my-md-0" src="public/img/cytotoxicity.jpg" alt="Cytotoxicity">
+                <figcaption class="figure-caption text-center">(Nahid, Campbell, Fong, Barnhill, & Washington, 2020)</figcaption>
+              </figure>
             </div>
-          </div> 
+          </div>
+
+          <div class="row mt-5">
+
+            <div class="col-md-4">
+              <a class="text-dark link" href="ztheta.php">
+                <div class="card mb-3">
+                  <img class="card-img-top px-3 pt-3" src="public/img/zThetaLarge1.jpg" alt="ECIS zTheta">
+                  <div class="card-body text-center">
+                    <h3>ECIS Z-theta</h3>
+                    <p class="card-text">All-in-One Cell Monitor</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="col-md-4">
+              <a class="text-dark link" href="cp96.php">
+                <div class="card mb-3">
+                  <img class="card-img-top px-3 pt-3" src="public/img/cp96Computer.jpg" alt="ECIS CP96">
+                  <div class="card-body text-center">
+                    <h3>ECIS CP96</h3>
+                    <p class="card-text">Cell Population Monitor</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+            <div class="col-md-4">
+              <a class="text-dark link" href="teer24.php">
+                <div class="card mb-3">
+                  <img class="card-img-top px-3 pt-3" src="public/img/teer24Station.jpg" alt="ECIS TEER24">
+                  <div class="card-body text-center">
+                    <h3>ECIS TEER24</h3>
+                    <p class="card-text">Barrier Function Monitor</p>
+                  </div>
+                </div>
+              </a>
+            </div>
+
+          </div>
 
         </div><!-- /col -->
       </div><!-- /row -->
@@ -76,7 +119,7 @@
           <h4 class="mt-4 mb-0">Key References</h4>
           <hr class="mt-0 mb-4">
           <p>
-            <strong>An evaluation of the impact of clinical bacterial isolates on epithelial cell monolayer integrity by the electric Cell-Substrate Impedance Sensing (ECIS) method.</strong>, Nahid, Md A.,Campbell, Carmen E.,Fong, Keith S.K.,Barnhill, Jason C.,Washington, Michael A.  (2020).  Journal of Microbiological Methods  169 105833 doi:10.1016/j.mimet.2020.105833 [Abstract]  
+            <strong>An evaluation of the impact of clinical bacterial isolates on epithelial cell monolayer integrity by the electric Cell-Substrate Impedance Sensing (ECIS) method.</strong>, Nahid, Md A.,Campbell, Carmen E.,Fong, Keith S.K.,Barnhill, Jason C.,Washington, Michael A. (2020). Journal of Microbiological Methods 169 105833 doi:10.1016/j.mimet.2020.105833 [Abstract]
           </p>
         </div>
       </div>
@@ -108,14 +151,14 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
 </body>
 
