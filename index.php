@@ -55,7 +55,7 @@
           <a class="application-link mb-2 flex-fill" href="cellProliferation.php">Cell Proliferation</a>
           <a class="application-link mb-2 flex-fill" href="cellMigration.php">Cell Migration</a>
           <a class="application-link mb-2 flex-fill" href="cytotoxicity.php">Cytotoxicity</a>
-          <!-- <a class="application-link mb-2 flex-fill" href="virology">Virology</a> -->
+          <a class="application-link mb-2 flex-fill" href="virology.php">Virology</a>
           <!-- <a class="application-link mb-2 flex-fill" href="signalTransduction.php">Signal Transduction</a> -->
         </div>
       </div>
@@ -123,14 +123,14 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
 </body>
 

@@ -54,7 +54,7 @@
               <a class="dropdown-item" href="cellProliferation.php">Cell Proliferation</a>
               <a class="dropdown-item" href="cellMigration.php">Cell Migration</a>
               <a class="dropdown-item" href="cytotoxicity.php">Cytotoxicity</a>
-              <!-- <a class="dropdown-item" href="virology">Virology</a> -->
+              <a class="dropdown-item" href="virology.php">Virology</a>
               <!-- <a class="dropdown-item" href="signalTransduction.php">Signal Transduction</a> -->
             </div>
           </li>
