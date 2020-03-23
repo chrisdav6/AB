@@ -40,17 +40,16 @@
   <?php include_once "includes/navbar.php"; ?>
   <?php include_once "includes/logo.php"; ?>
 
+  <section id="notification">
+    <div class="container text-center">
+      <p>Measurement of Cytopathic Effects from Viral Infections</p>
+    </div>
+  </section>
+
   <section id="hero" class="d-flex">
     <div class="container my-auto">
       <div class="row">
         <div class="col pt-5">
-          <h3 class="text-light text-center hero-text">
-            Measurement of Cytopathic Effects from Viral Infections
-          </h3>
-        </div>
-      </div>
-      <div class="row">
-        <div class="col pt-4">
           <h3 class="text-light text-center hero-text">
             ECIS, the label free, non-invasive method to electronically monitor cells grown in tissue culture.
           </h3>
