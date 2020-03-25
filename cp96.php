@@ -137,7 +137,7 @@
           </ul>
           <h5 class="mt-4">System Includes:</h5>
           <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- 96 channel station located in CO<sub>2</sub> incubator</li>
+            <li>- 96 channel station</li>
             <li>- External control module</li>
             <li>- Laptop PC</li>
             <li>- ECIS control, acquisition, and display software</li>
@@ -304,14 +304,14 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
 </body>
 

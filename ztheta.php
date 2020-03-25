@@ -69,13 +69,11 @@
               </div>
 
             </div>
-            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators"
-              role="button" data-slide="prev">
+            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="sr-only">Previous</span>
             </a>
-            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators"
-              role="button" data-slide="next">
+            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="sr-only">Next</span>
             </a>
@@ -94,8 +92,7 @@
           </p>
           <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
             Sheet</a>
-          <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal"
-            data-target="#orderInfo">Order Info</a>
+          <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a>
         </div>
 
       </div>
@@ -136,7 +133,7 @@
           </ul>
           <h5 class="mt-4">System Includes:</h5>
           <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- 16 and/or 96 well station located inside CO<sub>2</sub> incubator</li>
+            <li>- 16 and/or 96 well station</li>
             <li>- External control module</li>
             <li>- Laptop PC</li>
             <li>- ECIS control, acquisition, and display software</li>
@@ -158,12 +155,10 @@
 
           <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs"
-                role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
+              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab"
-                aria-controls="video" aria-selected="false">Video</a>
+              <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab" aria-controls="video" aria-selected="false">Video</a>
             </li>
             <!--<li class="nav-item">
               <a class="nav-link text-dark" id="options-tab" data-scroll-ignore data-toggle="tab" href="#options"
@@ -189,9 +184,7 @@
             </div>
             <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
               <p class="mt-4">
-                <iframe allowTransparency="true" allowfullscreen height="600px" width="100%" border="0" scrolling="no"
-                  frameborder="0" marginwheight="0" marginwidth="0"
-                  src="https://www.jove.com/embed/player?id=51300&s=1">
+                <iframe allowTransparency="true" allowfullscreen height="600px" width="100%" border="0" scrolling="no" frameborder="0" marginwheight="0" marginwidth="0" src="https://www.jove.com/embed/player?id=51300&s=1">
                 </iframe>
               </p>
             </div>
@@ -208,14 +201,12 @@
           <hr class="mt-1">
           <div class="row mt-4">
             <div class="col-md-3 pb-4 pb-md-0">
-              <a href="public/pdf/ABPBrochure2018.pdf" target="_blank" data-toggle="tooltip" data-placement="right"
-                title="Download ZTheta Data Sheet">
+              <a href="public/pdf/ABPBrochure2018.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ZTheta Data Sheet">
                 <img class="img-fluid" src="public/img/zThetaDataSheet.jpg" alt="Download ZTheta Data Sheet">
               </a>
             </div>
             <div class="col-md-3">
-              <a href="public/pdf/ECISProductGuide.pdf" target="_blank" data-toggle="tooltip" data-placement="right"
-                title="Download ECIS Product Guide">
+              <a href="public/pdf/ECISProductGuide.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ECIS Product Guide">
                 <img class="img-fluid" src="public/img/ECISProductGuide.jpg" alt="Download ECIS Product Guide">
               </a>
             </div>
@@ -270,13 +261,11 @@
             <div class="form-group mt-4">
               <label class="d-block">Would you like to Demo or Purchase?</label>
               <div class="form-check form-check-inline">
-                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase"
-                  id="demoOrPurchaseDemo" value="Demo" checked>
+                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase" id="demoOrPurchaseDemo" value="Demo" checked>
                 <label class="form-check-label" for="demoOrPurchaseDemo">Demo</label>
               </div>
               <div class="form-check form-check-inline">
-                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase"
-                  id="demoOrPurchasePurchase" value="Purchase">
+                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase" id="demoOrPurchasePurchase" value="Purchase">
                 <label class="form-check-label" for="demoOrPurchasePurchase">Purchase</label>
               </div>
             </div>
@@ -310,14 +299,14 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
 </body>
 
