@@ -191,8 +191,7 @@
               </p>
             </div>
             <div class="col-md-4">
-              <img class="img-fluid my-3 my-md-0" src="public/img/traditionalScratchAssay.jpg"
-                alt="Traditional Scratch Assay">
+              <img class="img-fluid my-3 my-md-0" src="public/img/traditionalScratchAssay.jpg" alt="Traditional Scratch Assay">
             </div>
           </div>
 
@@ -231,8 +230,7 @@
               </p>
             </div>
             <div class="col-md-5">
-              <img class="img-fluid my-3 my-md-0" src="public/img/woundingRadialPatterns.jpg"
-                alt="Wounding Radial Patterns">
+              <img class="img-fluid my-3 my-md-0" src="public/img/woundingRadialPatterns.jpg" alt="Wounding Radial Patterns">
             </div>
           </div>
 
@@ -288,7 +286,9 @@
 
           <hr class="mt-0 mb-4">
 
-          <p><strong>Cystic fibrosis transmembrane conductance regulator is involved in airway epithelial wound
+          <p>To view publications in wound healing/cell-migration assay please visit our <a class="link text-dark" href="publications.php">publications page</a></p>
+
+          <!--<p><strong>Cystic fibrosis transmembrane conductance regulator is involved in airway epithelial wound
               repair. </strong>Katherine R. Schiller, Peter J. Maniak, and Scott M. O'Grady. <em>Am J Physiol Cell
               Physiol.</em> 2010; 299:C912-C921.</p>
 
@@ -399,7 +399,7 @@
               target="_blank">Peitzman et al., (2015) "Agonist Binding to β-Adrenergic Receptors on Human Airway
               Epithelial Cells Inhibits Migration and Wound Repair." American Journal of Physiology - Cell Physiology
               309(12):C847 doi:10.1152/ajpcell.00159.2015</a>
-          </p>
+          </p>-->
 
         </div>
       </div>
@@ -421,14 +421,14 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
 </body>
 

@@ -118,8 +118,7 @@
             in more regions of cell-cell contact and a slight drop in resistance. Using capacitance measurements at high
             frequency, this factor can be essentially eliminated.
           </p>
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/chonprolif2a.jpg"
-            alt="Average Minus Starting Value">
+          <img class="img-fluid py-5 d-block mx-auto" src="public/img/chonprolif2a.jpg" alt="Average Minus Starting Value">
         </div><!-- /col -->
       </div><!-- /row -->
 
@@ -135,7 +134,9 @@
 
           <hr class="mt-0 mb-4">
 
-          <p>Zudaire, E., Cuesta, N., Murty, V., Woodson, K., Gonzalez, N., Martinez, A, Narayan, G., Kirsch, I.,
+          <p>To view publications in cell proliferation please visit our <a class="link text-dark" href="publications.php">publications page</a></p>
+
+          <!--<p>Zudaire, E., Cuesta, N., Murty, V., Woodson, K., Gonzalez, N., Martinez, A, Narayan, G., Kirsch, I.,
             Hirsch, F., Birrer, M., Cuttitta, F., <strong>"The aryl hydrocarbon receptor repressor is a putative tumor
               gene in multiple human cancers."</strong> J. of Clinical Investigation, 118 (2):640-650 (2008).</p>
 
@@ -149,7 +150,7 @@
               al., (2013) "Triptolide Induces the Expres-sion of miR-142-3p: A Negative Regulator of Heat Shock Protein
               70 and Pancreatic Cancer Cell Proliferation." Molecular Cancer Therapeutics 12(7):1266
               doi:10.1158/1535-7163.MCT-12-1231</a>
-          </p>
+          </p>-->
 
         </div>
       </div>
@@ -172,14 +173,14 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
 
 </body>

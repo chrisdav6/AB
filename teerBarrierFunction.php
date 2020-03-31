@@ -283,7 +283,9 @@
 
           <hr class="mt-0 mb-4">
 
-          <p><strong>Septin-2 Mediates Airway Epithelial Barrier Function in Physiologic and Pathologic Conditions.
+          <p>To view publications in barrier function please visit our <a class="link text-dark" href="publications.php">publications page</a></p>
+
+          <!--<p><strong>Septin-2 Mediates Airway Epithelial Barrier Function in Physiologic and Pathologic Conditions.
             </strong>VK Sidhaye, E Chau, P Breysse, and LS King. <em>Am J Respir Cell Mol Biol.</em> 2010.</p>
 
           <p><strong>Epidermal growth factor receptor signaling contributes to house dust mite-induced epithelial
@@ -566,7 +568,8 @@
             <a href="https://www.nature.com/articles/ncomms8893" class="text-dark link" target="_blank"> Kim et al.,
               (2015) "Critical Role of Sphingosine-1-Phosphate Receptor-2 in the Disruption of Cerebrovascular Integrity
               in Experimental Stroke." Nature Communications 6:7893 doi:10.1038/ncomms8893</a>
-          </p>
+          </p>-->
+
         </div>
       </div>
 
@@ -587,14 +590,14 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
 </body>
 
