@@ -355,6 +355,12 @@
               <div class="row">
 
                 <div class="col-md-6 mb-4">
+                  <h3 class="pressTitle">April 2020</h3>
+                  <hr class="mt-0">
+                  <p><a class="text-dark link" href="https://www.prweb.com/releases/measuring_cytopathic_effects_of_viral_infections_by_applied_biophysics_inc/prweb16994423.htm" target="_blank">Measuring Cytopathic Effects of Viral Infections</a></p>
+                </div>
+
+                <div class="col-md-6 mb-4">
                   <h3 class="pressTitle">June 2014</h3>
                   <hr class="mt-0">
                   <p><a class="text-dark link" href="public/pdf/TEERMeasurement2014.pdf" target="_blank">TEER
@@ -700,14 +706,14 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
 
 </body>
