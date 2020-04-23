@@ -183,7 +183,7 @@
                   <li>- 75 Hz sinusoidal signal</li>
                   <li>- Power: 3 watts; 12 V dc</li>
                   <li>- Station: 25.5 x 18 x 4.5 cm, 2.3 kg</li>
-                  <li>- Controller: 21.5 x 18 x 4.5 cm, 2 kg</li>
+                  <li>- Controller: 30.2 x 22.2 x 9.8 cm, 2.3 kg</li>
                   <li>- Connects to laptop via USB</li>
                   <li>- Windows 10 OS</li>
                 </ul>
