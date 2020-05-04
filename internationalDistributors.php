@@ -87,9 +87,7 @@
               ShenZhen 518067, China<br>
               Tel: (86) 755-2641 0427 <br>
               Attn: Aling Xiao<br>
-              <a class="text-dark link"
-                href="mailto:equipment@dakewe.com?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i> equipment@dakewe.com</a>
+              <a class="text-dark link" href="mailto:equipment@dakewe.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> equipment@dakewe.com</a>
             </address>
           </div>
 
@@ -106,9 +104,7 @@
               GSM: +420 601 321 094<br>
               Mobile: +420 725 517 925<br>
               Attn: Helena Janatkova<br>
-              <a class="text-dark link"
-                href="mailto:janatkova@ita-intertact.com?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i> janatkova@ita-intertact.com</a>
+              <a class="text-dark link" href="mailto:janatkova@ita-intertact.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> janatkova@ita-intertact.com</a>
             </address>
           </div>
 
@@ -122,9 +118,7 @@
               Tel: +49 89 520 46 17 391<br>
               Fax: +49 89 520 46 17 59<br>
               Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link"
-                href="mailto:cthansich@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i> cthansich@ibidi.de</a>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
             </address>
           </div>
 
@@ -139,9 +133,7 @@
               Tel: 44 2220 0066<br>
               Fax: 44 2220 0056<br>
               Attn: S. Viswanathan<br>
-              <a class="text-dark link"
-                href="mailto:labmate@vsnl.com?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i>
+              <a class="text-dark link" href="mailto:labmate@vsnl.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
                 labmate@vsnl.com</a>
             </address>
           </div>
@@ -157,9 +149,7 @@
               Tel: 972 3 967 3390<br>
               Fax: 972 3 967 3391<br>
               Attn: Nitsan Levi<br>
-              <a class="text-dark link"
-                href="mailto:nitsan@almog.co.il?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i>
+              <a class="text-dark link" href="mailto:nitsan@almog.co.il?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
                 nitsan@almog.co.il</a>
             </address>
           </div>
@@ -173,9 +163,7 @@
               20010 Cornaredo (MI) – Italy<br>
               Tel: +39 02 93503262<br>
               Attn: Riccardo Sacco<br>
-              <a class="text-dark link"
-                href="mailto:info@origliaservice.it?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i>
+              <a class="text-dark link" href="mailto:info@origliaservice.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
                 info@origliaservice.it</a>
             </address>
           </div>
@@ -202,9 +190,7 @@
               Second Floor<br>
               626-1Guam-Dong<br>
               YuSung-Gu, Daejeon-City 305-801<br>
-              <a class="text-dark link"
-                href="mailto:info@lbscience.com?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i>
+              <a class="text-dark link" href="mailto:info@lbscience.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
                 info@lbscience.com</a>
             </address>
           </div>
@@ -235,9 +221,7 @@
               Tel: 787-892-0047<br>
               Fax: 787-264-3816<br>
               Attn: Julio C. Gonzalez<br>
-              <a class="text-dark link"
-                href="mailto:jcgonzalez@avpcaribe.com?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i>
+              <a class="text-dark link" href="mailto:jcgonzalez@avpcaribe.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
                 jcgonzalez@avpcaribe.com</a>
             </address>
           </div>
@@ -270,9 +254,7 @@
               GSM: +420 601 321 094<br>
               Mobile: +420 725 517 925<br>
               Attn: Helena Janatkova<br>
-              <a class="text-dark link"
-                href="mailto:janatkova@ita-intertact.com?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i> janatkova@ita-intertact.com</a>
+              <a class="text-dark link" href="mailto:janatkova@ita-intertact.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> janatkova@ita-intertact.com</a>
             </address>
           </div>
 
@@ -287,9 +269,7 @@
               Taoyuan City 33377 , Taiwan<br>
               Tel: 886 3 3273889<br>
               Attn: Sunny Tsai<br>
-              <a class="text-dark link"
-                href="mailto:sunny@sunpointworld.com?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i>
+              <a class="text-dark link" href="mailto:sunny@sunpointworld.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
                 sunny@sunpointworld.com</a>
             </address>
           </div>
@@ -303,9 +283,7 @@
               No.246 Maslak 34398 ISTANBUL<br>
               Tel: +90(0)212 346 2019<br>
               Attn: Alp Kibaroglu<br>
-              <a class="text-dark link"
-                href="mailto:alpkibaroglu@akabiotech.com?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i>
+              <a class="text-dark link" href="mailto:alpkibaroglu@akabiotech.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
                 alpkibaroglu@akabiotech.com</a>
             </address>
           </div>
@@ -320,9 +298,7 @@
               Tel: +49 89 520 46 17 391<br>
               Fax: +49 89 520 46 17 59<br>
               Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link"
-                href="mailto:cthansich@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i
-                  class="far fa-envelope"></i> cthansich@ibidi.de</a>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
             </address>
           </div>
 
@@ -341,22 +317,21 @@
   <script src="public/js/bootstrap.bundle.min.js"></script>
   <script src="public/js/util.js"></script>
   <script src="public/js/smooth-scroll.min.js"></script>
-  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByPLn0duvJmhlyjlZeB3nBVVTTL78u4ps&callback=initMap"
-    async defer></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyByPLn0duvJmhlyjlZeB3nBVVTTL78u4ps&callback=initMap" async defer></script>
   <script src="public/js/distributorsMap.js"></script>
   <script src="public/js/scripts.js"></script>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
 </body>
 
