@@ -50,7 +50,8 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Applications</a>
             <div class="dropdown-menu">
-              <a class="dropdown-item" href="teerBarrierFunction.php">TEER/Barrier Function</a>
+              <a class="dropdown-item" href="teer.php">TEER</a>
+              <a class="dropdown-item" href="teerBarrierFunction.php">Barrier Function</a>
               <a class="dropdown-item" href="cellProliferation.php">Cell Proliferation</a>
               <a class="dropdown-item" href="cellMigration.php">Cell Migration</a>
               <a class="dropdown-item" href="cytotoxicity.php">Cytotoxicity</a>
