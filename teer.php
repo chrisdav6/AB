@@ -76,11 +76,10 @@
             <div class="col-lg-8 col-md-7 pr-5">
               <p>Monitoring cell barriers upon membrane filter inserts with ECIS<sup>®</sup> Electrode arrays</p>
               <ul class="application-list list-unstyled mt-5">
-                <li>- Cells are seeded into ECIS<sup>®</sup> electrode arrays</li>
-                <li>- Cells are grown to confluency. This will be represented by a plateau in the ECIS<sup>®</sup> software graph.</li>
-                <li>- Cells are then treated with specified virus</li>
-                <li>- Cells will exhibit cytopathic effects by changes in morphology and viability as cells reduce their barrier function and detach from the gold electrodes</li>
-                <li>- These cytopathic effects can be viewed in real-time as changes in impedance on the ECIS® software graph</li>
+                <li>- Available with ECIS<sup>®</sup> TEER24 systems</li>
+                <li>- Cells are cultured on standard transwell filter inserts that fit 24-well ECIS<sup>®</sup> arrays</li>
+                <li>- Measurements are continuous, in real-time, under incubated conditions</li>
+                <li>- Easy to use software presents TEER values (ohm-cm<sup>2</sup>) in graphical format</li>
               </ul>
             </div>
             <div class="col-lg-4 col-md-5">
