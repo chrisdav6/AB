@@ -1,7 +1,6 @@
 <?php
-  $title = "TEER/Barrier Function with ECIS - Applied BioPhysics";
-  $metaDesc = "ECIS® instruments provide real-time continuous TEER and barrier resistant measurements ideal for
-  measuring permeability of epithelial and endothelial cell layers.";
+  $title = "Barrier Function with ECIS - Applied BioPhysics";
+  $metaDesc = "ECIS® instruments provide real-time continuous barrier resistant measurements ideal for measuring permeability of epithelial and endothelial cell layers in real-time while incubated.";
 ?>
 
 <!DOCTYPE html>
