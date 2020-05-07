@@ -33,7 +33,7 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <h1 class="mb-0">TEER/Barrier Function</h1>
+          <h1 class="mb-0">Barrier Function</h1>
           <hr class="mt-0">
         </div>
       </div>
@@ -44,9 +44,7 @@
     <div class="container">
 
       <p>
-        Epithelial cells and endothelial cells regulate the passage of molecules across cell layers. Diseases,
-        especially vascular disease, occur when this function is impaired. ECIS<sup>®</sup> provides a highly sensitive
-        real-time continous TEER measurement ideal for these types of studies.
+        Epithelial and endothelial cells regulate the passage of molecules across their layers. Diseases, especially vascular disease, occur when this function is impaired, and so the measurement of this property in vitro is often required for research efforts. ECIS<sup>®</sup> provides a highly sensitive, real-time continuous barrier resistance measurement ideal for these types of studies.
       </p>
 
       <div class="row mt-5">
@@ -55,198 +53,149 @@
           <hr class="my-0">
           <h4 class="mt-5 mb-3 secondary-title">Overview</h4>
           <p>
-            In vivo, barriers are provided by monolayers of epithelial or endothelial cells. These cell layers play a
-            key role regulating the free movement of molecules between different tissues and/or interstitial
-            compartments. In many diseases as well as in inflammation, these barriers become compromised, and hence,
-            measuring their permeability is of considerable interest to cell biologists and the health community in
-            general.
+            In vivo, barriers are provided by monolayers of epithelial or endothelial cells. These cell layers play a key role regulating the free movement of molecules between different tissues and/or interstitial compartments. In many diseases, as well as in inflammation, these barriers become compromised, and hence, measuring their permeability is of considerable interest to cell biologists and the health community in general.
           </p>
           <p>
-            Most epithelial and endothelial cells types can be cultured in vitro to form confluent monolayers where it
-            is possible to measure the barrier function afforded by these cell layers. In addition, with the right
-            tools, dynamic changes of the layers can be followed when the cellular environment is altered by exposure to
-            compounds or physical changes such as shear stress.
+            Most epithelial and endothelial cells types can be cultured in vitro to form monolayers where it is possible to measure the barrier function afforded by these confluent cell layers. In addition, with the right tools, dynamic changes of the layers can be followed when the cellular environment is altered by exposure to compounds or physical changes such as shear stress.
           </p>
+
+          <div class="row mt-5 mb-4">
+            <div class="col-lg-6 col-md-8 mx-auto">
+              <figure class="figure w-100">
+                <img class="img-fluid w-100" src="public/img/brainEndothelium.jpg" alt="Brain Endothelium">
+                <figcaption class="figure-caption text-center">Brain endothelium grown in Enriched Media containing either 10%, 5%, or 2% FBS (Robilliard et al., 2018)
+                </figcaption>
+              </figure>
+            </div>
+          </div>
 
           <h4 class="mt-4 mb-3 secondary-title">Barrier Function Measurements</h4>
           <p>
-            We offer different real-time approaches for electrically monitoring the barrier function (permeability) of
-            cell monolayers using the ECIS<sup>®</sup> instrumentation. The approach used depends upon the degree of
-            barrier function of the cells being studied, the throughput (number of experimental conditions) required,
-            special experimental conditions (e.g. cells under flow) and, of course, the preference of the researcher.
-            The main consideration, however, is whether one wants to monitor cells grown upon solid substrates or upon
-            membrane filter supports.
+            We offer different real-time approaches for electrically monitoring the barrier function (or its inverse - permeability) of cell monolayers using the ECIS<sup>®</sup> instrumentation. The approach used depends upon the degree of barrier function of the cells being studied, the throughput (number of experimental conditions) required, special experimental conditions (e.g. cells under flow) and, of course, the preference of the researcher. One other main consideration is whether one wants to monitor cells grown upon solid substrates or upon membrane filter inserts (See <a class="link text-dark" href="teer.php">TEER Applications</a>).
           </p>
 
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li class="indent my-4 pl-0 pl-sm-4">
-              Monitoring cells upon solid substrates with gold film electrodes is simple and high throughput can easily
-              be achieved (e.g. using 96 well arrays). In addition, this approach allows barrier measurements to be made
-              under shear stress conditions to more closely mimic the in vivo endothelial cell environment.
-            </li>
-            <li class="indent my-4 pl-0 pl-sm-4">
-              The use of membrane filters as a substrate is experimentally more demanding, however, this approach
-              provides a more in vivo like situation where cells are effectively fed from both the apical and basal
-              side. It is commonly observed that under these conditions cell layers achieve higher absolute barrier
-              function. That being said, the relative change in barrier function observed on both solid and filter
-              supports seem to be comparable.
-            </li>
+          <p class="mt-4"><strong>Monitoring cell barriers upon solid substrates with ECIS<sup>®</sup> Instrumentation</strong></p>
+
+          <ul class="list-unstyled ml-3">
+            <li>- Uses ECIS<sup>®</sup> <a class="link text-dark" href="ztheta.php">Z-theta</a> instrumentation with latest software package </li>
+            <li>- Cells are cultured in 16 or 96-well standard ECIS<sup>®</sup> arrays with gold substrates</li>
+            <li>- Measurements are taken continuously and in real-time under incubated conditions</li>
+            <li>- User friendly software converts impedance data into TEER values (ohm-cm<sup>2</sup>)</li>
+            <li>- Using ECIS flow arrays, measurements can be made under shear stress conditions</li>
           </ul>
 
-          <h4 class="mt-4 mb-3 secondary-title">ECIS Barrier Function Measurements on Gold Film Electrodes</h4>
+          <p class="mt-4"><strong>Monitoring cell barriers upon membrane filter supports with ECIS<sup>®</sup> Instrumentation</strong></p>
+
+          <ul class="list-unstyled ml-3">
+            <li>- Uses the ECIS<sup>®</sup> <a class="link text-dark" href="teer24.php">TEER24</a></li>
+            <li>- Cells are cultured in standard membrane filter inserts, allowing cells to be fed both on apical and basal sides for more in vivo-like conditions</li>
+            <li>- Measurements are taken continuously and in real-time under incubated conditions</li>
+            <li>- User friendly software converts impedance data into TEER values (ohm-cm<sup>2</sup>)</li>
+          </ul>
+
+          <p class="mt-4">*The relative change in barrier function observed on both solid and filter shows comparable results.</p>
+
+          <h4 class="mt-5 mb-3 secondary-title">ECIS<sup>®</sup> Barrier Function Measurements on Gold Film Electrodes</h4>
           <p>
-            Let's first consider the importance of the AC frequency used in the ECIS constant current measurement. The
-            illustration below shows a cross section of a confluent cells layer where the path of the current is
-            indicated by the arrows. The red arrows represent ion current flow coming from the electrode interface,
-            moving in the solution spaces between the electrode and the basal plasma membrane and then moving through
-            the paracellular passage between the cells (the barrier function). The green arrows on the other hand
-            indicate a path of current that is possible as ECIS is an AC measurement, and current can couple
-            capacitively through the cell membranes.
+            Let's first consider the importance of the AC frequency used in the ECIS constant current measurement. The illustration below shows a cross section of a confluent cells layer where the path of the current is indicated by the arrows. The red arrows represent ion current flow coming from the electrode interface and moving in the solution spaces between the electrode and the basal plasma membrane and then through the paracellular passage between the cells (the barrier function). The green arrows on the other hand indicate a path of current that is possible as ECIS is an AC measurement, and current can couple capacitively through the cell membranes.
           </p>
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/ac-frequency.jpg" alt="AC frequency">
+          <img class="img-fluid py-5 d-block mx-auto" src="public/img/ac-frequency2.jpg" alt="AC frequency">
           <p>
-            Current will always follow the path of least resistance. At high AC frequency (40,000 Hz) the impedance
-            (capacitive reactance) of the membrane is relatively small, and current mainly capacitively couples through
-            the insulating cell membranes with little current passing through the paracellular path. At low AC
-            frequency, on the other hand, the membrane impedance is high, and most of the current now flows under the
-            cells and through the tight spaces between the cells (the solution path).
+            Current will always follow the path of least resistance. At high AC frequency (40,000 Hz) the impedance (capacitive reactance) of the membrane is relatively small, and current mainly capacitively couples through the insulating cell membranes with little current passing through the paracellular path. At lower AC frequency (2000 Hz in the example), on the other hand, the membrane impedance is high, and most of the current now flows under the cells and through the tight spaces between the cells (the solution path).
           </p>
           <p>
-            As a result of this difference, high frequency impedance can be used to monitor the establishment of a
-            confluent layer, and low frequency impedance can be used to monitor the solution paths about the cells and
-            hence the layer's barrier function.
+            As a result of this difference, high frequency impedance can be used to monitor cell spreading and the establishment of a confluent layer, and low frequency impedance can be used to monitor the solution paths about the cells and hence the layer's barrier formation.
           </p>
 
-          <h4 class="mt-4 mb-3 secondary-title">Data Taken at Different AC Frequencies with Tight Epithelial Cell
-            Monolayers</h4>
-          <p>
-            The data below report the changes of impedance in two duplicate wells following inoculation of MDCK II cells
-            (canine kidney epithelium). The micrographs show that the cell layer is in place and confluent about 3 hours
-            after inoculation, and this is conveyed by the plateau in the impedance at 40,000 Hz. Measuring the same
-            wells at 400 Hz we see the formation of the barrier function is not completed until about 10 hours after
-            inoculation. This is also confirmed microscopically using stains for the junctional proteins E-cadherin and
-            ZO-1 (zona occludens protein. (Data courtesy of Professor Joachim Wegener, Univ. of Regensburg) For tight
-            epithelial cells, the impedance at low AC frequencies provides a very effective measure of the layer's
-            barrier function.
-          </p>
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/cell-coverage.png" alt="Cell Coverage">
+          <h4 class="my-5 mb-3 secondary-title">Data Using Multiple AC Frequencies</h4>
 
-          <h4 class="mt-4 mb-3 secondary-title">Data from Endothelial Cell Measurements</h4>
+          <div class="row mb-4">
+            <div class="col-md-6 mb-5 mb-md-0">
+              <img class="img-fluid" src="public/img/multipleFrequencies1.jpg" alt="Cell Coverage">
+            </div>
+            <div class="col-md-6">
+              <img class="img-fluid" src="public/img/multipleFrequencies2.jpg" alt="Cell Coverage">
+            </div>
+          </div>
+
           <p>
-            With endothelial cells, the barrier function is relatively low compared with epithelial cells with tight
-            junctions, and the resistive portion of the ECIS impedance measured at 4000 Hz is commonly used to evaluate
-            barrier function changes. This assay for endothelium was introduced in 1992 (Tiruppathi et.al.) and relied
-            on the use of complex impedance measurements of endothelial cells grown upon ECIS electrodes to report just
-            the resistive portion of the impedance. In this first study, the response of bovine pulmonary microvascular
-            endothelial cells exposed to thrombin was evaluated (see figure below).
+            The data above report the changes of impedance in two duplicate wells following inoculation of MDCK II cells (canine kidney epithelium). The micrographs show that the cell layer is in place and confluent about 3 hours after inoculation, and this is conveyed by the plateau in the impedance at 40,000 Hz. Measuring the same wells at 400 Hz we see the formation of the barrier function is not completed until about 10 hours after inoculation. This is also confirmed microscopically using stains for the junctional proteins E-cadherin and ZO-1 (zona occludens protein) (Data courtesy of Professor Joachim Wegener, Univ. of Regensburg). For tight epithelial cells, the impedance at low AC frequencies provides a very effective measure of the layer's barrier function.
           </p>
+
+          <img class="img-fluid py-5 d-block mx-auto" src="public/img/cellSpreading.jpg" alt="Cell Spreading">
+
+          <p>
+            The above figure shows MDCK cells inoculated at time zero in balanced salt solutions containing only Ca<sup>2+</sup> or Mg<sup>2+</sup> divalent ions. Cell spreading was measured using capacitance at high frequency (40KHz) and barrier formation was measured using impedance with low frequency (400 Hz). As the graphs show, Ca<sup>+2</sup> and Mg<sup>+2</sup> both allow cell spreading to occur, whereas the same wells with only Ca<sup>2+</sup> and not Mg<sup>+2</sup> result in barrier formation.
+          </p>
+
+          <h4 class="mt-5 mb-3 secondary-title">Modeled ECIS Measurements</h4>
+
+          <img class="img-fluid py-5 d-block mx-auto" src="public/img/modeledEcis.jpg" alt="Modeled ECIS">
+
+          <p>
+            This is illustrated in the figure showing a cross section of an epithelial cell with tight junctions to its neighboring cells. In this case, we illustrate a porated filter as the cell substrate, but one could just as well have an ECIS gold electrode substrate beneath the cells. In either situation, there is a constricted space beneath the cell (shaded in blue) that is traversed before most current (or tracers) can pass through the paracellular space (the cellular barrier of interest, shaded in red).
+          </p>
+
+          <p>
+            For many epithelial cell layers, the contribution of this passage under the cell is small relative to the tight paracellular passage and does not play a major role in the measurement of barrier function. However, with cells having weaker barrier functions (e.g. some endothelial layers), this may present a complication in making a clean measurement of the paracellular path.
+          </p>
+
+          <p>
+            Fortunately, using the ECIS mathematical modeling software (Giaever and Keese), it is possible to separate these two aspects of the measurement. With this feature, time course changes in both the barrier function (Rb) and the passage beneath the cells (alpha) can be independently presented. The modeling software comes standard with the <a class="link text-dark" href="ztheta.php">ZTheta</a> instrumentation.
+          </p>
+
+          <img class="img-fluid py-5 d-block mx-auto" src="public/img/thrombinAddition.jpg" alt="Thrombin Addition">
+
+          <p>
+            An example is shown of modeled data software, where time course changes of Rb are reported for microvascular endothelial cells exposed to thrombin. The value of alpha remains essentially constant throughout the measurements and is also plotted for comparison.
+          </p>
+
+          <h4 class="mt-5 mb-3 secondary-title">Barrier Function of Endothelial Cells</h4>
+
+          <p>
+            With endothelial cells, the barrier function is relatively low compared with epithelial cells with tight junctions, and the resistive portion of the ECIS impedance measured at 4000 Hz is commonly used to evaluate barrier function changes. This assay for endothelium was introduced in 1992 (Tiruppathi et.al.) and relied on the use of complex impedance measurements of endothelial cells grown upon ECIS electrodes to report just the resistive portion of the impedance. In this first study, the response of bovine pulmonary microvascular endothelial cells exposed to thrombin was evaluated (see figure below).
+          </p>
+
           <img class="img-fluid py-5 d-block mx-auto" src="public/img/thrombin.jpg" alt="Thrombin">
+
           <p>
-            Since this first study, the resistive portion of the impedance at 4000 Hz has been used to monitor real-time
-            changes in endothelial permeability in several laboratories, and the assay appears in many peer-reviewed
-            publications. ECIS used in this manner has increasingly become an attractive alternative to Ussing chambers
-            and other membrane filter measurements. In addition to its convenience in gathering barrier function data
-            with a minimum of labor, the measurement also requires no tagged compounds and associated sampling/measuring
-            techniques.
+            Since this first study, the resistive portion of the impedance at 4000 Hz has been used to monitor real-time changes in endothelial permeability in many laboratories, and the assay appears in many peer-reviewed publications. ECIS used in this manner has increasingly become an attractive alternative to Ussing chambers and other membrane filter measurements. In addition to its convenience in gathering barrier function data with a minimum of labor, the measurement also requires no tagged compounds and associated sampling/measuring techniques.
           </p>
 
-          <h4 class="mt-4 mb-3 secondary-title">Flow Arrays Measurements</h4>
+          <h4 class="mt-5 mb-3 secondary-title">Flow Array Measurements</h4>
           <p>
-            Another important feature of the ECIS system, unlike filter-based assays, is its ability to follow the
-            barrier function of endothelial cell monolayers as they are exposed to flow conditions. This is accomplished
-            using ECIS flow arrays that permit measurements of cell layers subjected to shear stress as high as those
-            experienced in vivo.
+            Another important feature of the ECIS system is its ability to follow the barrier function of endothelial cell monolayers as they are exposed to flow conditions. This is accomplished using ECIS flow arrays that permit measurements of cell layers subjected to shear stress as high as those experienced in vivo.
           </p>
+
           <img class="img-fluid py-5 d-block mx-auto" src="public/img/flow-diagram.jpg" alt="Flow Diagram">
 
-          <!--<h4 class="mt-4 mb-3 secondary-title">ECIS Measurements Using Porated Filters</h4>
-            <h5 class="third-title mt-3">The 8 Well Trans-Filter Adapter</h5>
-            <hr>
-            <p>
-              Traditionally, in vitro barriers are quantified by growing confluent cell layers upon filter supports, where medium on both the apical and basal side of the cell layer can be altered. The filters commonly used for this application are porated with pores etched in plastic films running vertically between the faces of the filter. This type of filter is generally preferred by cell biologists as not only can the pore size and density be tightly controlled, but, unlike most other filters, the material is marginally transparent making limited microscopic observation of the cells possible.
-            </p>
-            <a href="#">
-              <img class="img-fluid py-5 d-block mx-auto" src="public/img/filter-adapter.png" alt="Applied Biophysics Filter Adapter">
-            </a>
-            <p>
-              To make filter measurements with the ECIS instrumentation, an <a href="#" class="text-dark link">8W Trans Filter Adapter</a> is used. This device (shown in the figures) fits into the standard 16 well station and converts it into a multiple well, a filter-based device for real-time measurements of barrier function. Filter inserts are placed in the wells and a common dipping electrode contacts solution in the small inner wells above the filter. At the base of the wells are large electrodes that can be individually addressed by the instrumentation. Special software converts ECIS impedance measurements made with the device into time course changes in TEER (trans epithelial electrical resistance) values.
-            </p>
-            <img class="img-fluid py-5 d-block mx-auto" src="public/img/filter1-3.jpg" alt="TEER Resistance Values">
-            <p>
-              Data collected with the ECIS instrumentation from a Corning Costar filter (# 3413) with 0.4 micrometer diameter pores at a density of ~108 pores/cm<sup>2</sup>. At time zero two different concentrations of MDCK II epithelial cells were added to the inner wells and the TEER monitored over time – one well is without cells.
-            </p>
-            <p>
-              A 3D plot of the first 20 hours of the experiment showing data from the blue trace above. Notice how the four lowest frequencies (circled) are in good agreement with curves peaking around 370 ohm-cm<sup>2</sup>.
-            </p>
-            <img class="img-fluid py-5 d-block mx-auto" src="public/img/3D-2.jpg" alt="TEER 3D Plot">-->
+          <div class="row mt-5 d-flex justify-content-center">
 
-          <h4 class="mt-4 mb-3 secondary-title">The ECIS TEER24 Instrument</h4>
-          <h5 class="third-title mt-3"><a href="/teer24.php#dataSheets" class="text-dark link">ECIS TEER24
-              Literature</a></h5>
-          <hr>
-          <p>
-            We now offer a special single purpose instrument designed to only work with membrane insert filters. The
-            ECIS TEER24 uses a 75 Hz AC frequency to determine TEER value. The measurement consists of three steps; a
-            zero set phase to flat-field the microplate array, setting a reference well to monitor any incubator changes
-            which may occur during the measurement and the data collection phase. The flat-fielding takes into account
-            the resistance of the electrodes in the microplate, solution and filter. During data collection the
-            resistance is measured, and the TEER is calculated by subtracting the flat field zero values and reference
-            well changes and scaling for the surface area of the filter.
-          </p>
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/Cell-Dish-Small.jpg" alt="Cell Dish">
+            <div class="col-md-4">
+              <a class="text-dark link" href="ztheta.php">
+                <div class="card mb-3">
+                  <img class="card-img-top px-3 pt-3" src="public/img/zThetaLarge1.jpg" alt="ECIS zTheta">
+                  <div class="card-body text-center">
+                    <h3>ECIS Z-theta</h3>
+                    <p class="card-text">All-in-One Cell Monitor</p>
+                  </div>
+                </div>
+              </a>
+            </div>
 
-          <h4 class="mt-4 mb-3 secondary-title">Modeled ECIS Measurements (Pure Paracellular Path Measurements)</h4>
-          <p>
-            When using either the ECIS solid substrate array or measurements with porated filters, there is a component
-            to the solution-path impedance other than the paracellular path - namely the narrow solution passageway
-            sandwiched beneath the cell and its substrate. (Lo et.al.).
-          </p>
-          <p>
-            In some situations when measuring barrier function (the resistance of the paracellular space), there is
-            another component we refer to as alpha where current also encounters resistance in moving in the narrow
-            spaces between the substrate and the basal plasma membrane.
-          </p>
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/constructed-path.jpg" alt="Constructed Path">
-          <p>
-            This is illustrated in the figure showing a cross section of an epithelial cell with tight junctions to its
-            neighboring cells. In this case, we illustrate a porated filter as the cell substrate, but one could just as
-            well have an ECIS solid substrate beneath the cells. In either situation there is a constricted space
-            beneath the cell (shaded in blue) that must be first traversed before current (or tracers) can pass through
-            the paracellular space (the barrier of interest, shaded in red).
-          </p>
-          <p>
-            For many epithelial cell layers, the contribution of this passage under the cell is small relative to the
-            tight paracellular passage and does not play a major role in the measurement of barrier function. However,
-            with cells having weaker barrier functions (e.g. some endothelial layers), this may present a complication
-            in making a clean measurement of the paracellular path.
-          </p>
-          <p>
-            Fortunately, using the ECIS mathematical modeling software (Giaever and Keese), it is possible to separate
-            these two aspects of the measurement. With this feature, time course changes in both the barrier function
-            (Rb) and the passage beneath the cells (alpha) can be independently presented. The modeling software comes
-            standard with the <a href="/ztheta.php" class="text-dark link">ZTheta instrumentation</a>.
-          </p>
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/thrombin-addition.jpg" alt="Thrombin Addition">
-          <p>
-            An example is shown of modeled data software, where time course changes of Rb are reported for microvascular
-            endothelial cells exposed to thrombin. The value of alpha remains essentially constant throughout the
-            measurements and is also plotted for comparison.
-          </p>
+            <div class="col-md-4">
+              <a class="text-dark link" href="teer24.php">
+                <div class="card mb-3">
+                  <img class="card-img-top px-3 pt-3" src="public/img/teer24Station.jpg" alt="ECIS TEER24">
+                  <div class="card-body text-center">
+                    <h3>ECIS TEER24</h3>
+                    <p class="card-text">Barrier Function Monitor</p>
+                  </div>
+                </div>
+              </a>
+            </div>
 
-          <h4 class="mt-4 mb-3 secondary-title">ECIS Filter Measurements with Tortuous-path Filters</h4>
-          <p>
-            There is another means to eliminate the contribution of the spaces beneath the cells and measure only the
-            paracellular space; this is accomplished using tortuous-path rather than porated filters.
-          </p>
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/porated-filter.png" alt="Porated Filter">
-          <p>
-            As shown in the figure, without the vertical pores, current can now flow with little hindrance directly to
-            the cell-cell junctions - essentially eliminating this space (alpha) from the measurement.
-          </p>
-          <p>
-            Tortuous-path filters for 24 well plates are available from several vendors and can be used with the ECIS
-            <a href="/teer24.php" class="text-dark link">TEER24 instrument</a>.
-          </p>
+          </div>
 
         </div><!-- /col -->
       </div><!-- /row -->
@@ -262,13 +211,14 @@
           <h4 class="mt-4 mb-0">Key References</h4>
           <hr class="mt-0 mb-4">
           <p>
-            Tiruppathi, C., Malik, A.B., Del Vecchio, P.J., Keese, C.R., and Giaever,I., Electrical method for detection
-            of endothelial cell shape change in real time, <strong>PNAS USA 89</strong>, 7919-7923 (1992).
+            The Importance of Multifrequency Impedance Sensing of Endothelial Barrier Formation Using ECIS Technology for the Generation of a Strong and Durable Paracellular Barrier., Robilliard, Laverne,Kho, Dan,Johnson, Rebecca,Anchan, Akshata,O’Carroll, Simon,Graham, Euan (2018). Biosensors 8 (3) : 64 [Abstract]
           </p>
           <p>
-            Lo, C.M., Keese, C.R., Giaever, I., "Cell-substrate contact: Another factor may influence transepithelial
-            electrical resistance of cell layers cultured on permeable filters", <strong>Experimental Cell
-              Research</strong>, 250 (2): 576-580 (1999).
+            Lo, C.M., Keese, C.R., Giaever, I., "Cell-substrate contact: Another factor may influence transepithelial electrical resistance of cell layers cultured on permeable filters", <strong>Experimental Cell Research</strong>, 250 (2): 576-580 (1999).
+          </p>
+          <p>
+            Tiruppathi, C., Malik, A.B., Del Vecchio, P.J., Keese, C.R., and Giaever,I., Electrical method for detection
+            of endothelial cell shape change in real time, <strong>PNAS USA 89</strong>, 7919-7923 (1992).
           </p>
           <p>
             Giaever, I. and Keese,C.R., <strong>PNAS USA 88</strong>, 7896 (1991).

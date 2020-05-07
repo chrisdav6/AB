@@ -55,7 +55,7 @@
           <div class="row">
             <div class="col">
               <p>
-                When detecting cytopathic effects in cell cultures, the researcher needs the ability to monitor cell viability continuously and in real-time. With ECIS<sup>®</sup> technology, they can do just that. ECIS<sup>®</sup> technology monitors cell growth and death by the changing impedance that happens well cells attach and spread and then detach from the gold electrodes at the bottom of ECIS<sup>®</sup> well arrays when viral pathogens are introduced. Through the ECIS software, impedance changes are monitored in graphical form, and when cells attach and spread over the gold electrodes, the impedance rises to confluent levels indicated by a plateau in the graphical plot. 
+                When detecting cytopathic effects in cell cultures, the researcher needs the ability to monitor cell viability continuously and in real-time. With ECIS<sup>®</sup> technology, they can do just that. ECIS<sup>®</sup> technology monitors cell growth and death by the changing impedance that happens well cells attach and spread and then detach from the gold electrodes at the bottom of ECIS<sup>®</sup> well arrays when viral pathogens are introduced. Through the ECIS software, impedance changes are monitored in graphical form, and when cells attach and spread over the gold electrodes, the impedance rises to confluent levels indicated by a plateau in the graphical plot.
               </p>
             </div>
           </div>
@@ -84,7 +84,7 @@
             </div>
             <div class="col-md-6">
               <p>When cells are displaying cytopathic effects following their infection with viruses, the ECIS<sup>®</sup> instrumentation detects these changes in real time.</p>
-              <p>The graph on the left is an example of this, where endothelioma papulosum cyprini cells (EPC) were exposed to infectious hematopoietic necrosis virus (IHNV) in 10-fold dilutions.  The graph represents resistance changes that are clearly dependent upon the titer of the virions applied to the cell layers.  The black trace is resistance from an uninfected control.</p>
+              <p>The graph on the left is an example of this, where endothelioma papulosum cyprini cells (EPC) were exposed to infectious hematopoietic necrosis virus (IHNV) in 10-fold dilutions. The graph represents resistance changes that are clearly dependent upon the titer of the virions applied to the cell layers. The black trace is resistance from an uninfected control.</p>
             </div>
           </div>
 
@@ -142,7 +142,7 @@
           <h4 class="mt-4 mb-0">Key References</h4>
           <hr class="mt-0 mb-4">
           <p>
-            <strong>Monitoring viral-induced cell death using electric cell-substrate impedance sensing..,</strong>Campbell, Carmen Elaine,Laane, Morten Motzfeldt,Haugarvoll, Erlend,Giaever, Ivar  (2007).  Biosensors & bioelectronics  23 (4) :  536-542 doi:10.1016/j.bios.2007.06.015 [Abstract]
+            <strong>Monitoring viral-induced cell death using electric cell-substrate impedance sensing..,</strong>Campbell, Carmen Elaine,Laane, Morten Motzfeldt,Haugarvoll, Erlend,Giaever, Ivar (2007). Biosensors & bioelectronics 23 (4) : 536-542 doi:10.1016/j.bios.2007.06.015 [Abstract]
           </p>
         </div>
       </div>
