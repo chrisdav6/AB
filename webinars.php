@@ -252,7 +252,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/d3170fc12a6a4e8cbe6ace3ad7087c8e?localOccurrenceTime=2020-05-05%2011%3A00%3A00" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EDT</h4>
@@ -263,7 +263,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/70245e24b3db444db4e3bc0b5ca892c0?localOccurrenceTime=2020-05-19%2011%3A00%3A00" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EDT</h4>
