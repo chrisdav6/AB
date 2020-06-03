@@ -32,9 +32,7 @@
   <!-- map section -->
   <section id="map">
     <!-- Using google maps embed option rather than javascript to be able to point to APB location -->
-    <iframe
-      src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1264004.5057464375!2d-74.43971885698693!3d42.61940243211835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7df4a4401a7f6a8!2sApplied+Biophysics+Inc!5e0!3m2!1sen!2sus!4v1545401747145"
-      style="border:0; width: 100%; height: 100%;" allowfullscreen></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1264004.5057464375!2d-74.43971885698693!3d42.61940243211835!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7df4a4401a7f6a8!2sApplied+Biophysics+Inc!5e0!3m2!1sen!2sus!4v1545401747145" style="border:0; width: 100%; height: 100%;" allowfullscreen></iframe>
   </section>
   <!-- /map section -->
 
@@ -64,10 +62,8 @@
           </div>
         </div>
         <div class="col-md-6">
-          <p><a class="link text-dark" href="tel:+18663013247"><i class="fas fa-phone-square"
-                data-fa-transform="flip-h"></i> 1-866-301-ECIS (3247)</a></p>
-          <p><a class="link text-dark" href="tel:+5188806860"><i class="fas fa-phone-square"
-                data-fa-transform="flip-h"></i> 518-880-6860</a></p>
+          <p><a class="link text-dark" href="tel:18663013247"><i class="fas fa-phone-square" data-fa-transform="flip-h"></i> 1-866-301-ECIS (3247)</a></p>
+          <p><a class="link text-dark" href="tel:5188806860"><i class="fas fa-phone-square" data-fa-transform="flip-h"></i> 518-880-6860</a></p>
           <p><i class="fas fa-fax"></i> 518-880-6865</p>
         </div>
       </div>
@@ -216,14 +212,14 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
 </body>
 
