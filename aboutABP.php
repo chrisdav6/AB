@@ -166,7 +166,7 @@
                 </div>
               </div>
 
-              <div class="row">
+              <div class="row mb-5">
                 <div class="col-md-3 col-lg-2 mb-4 mb-md-0">
                   <img class="img-fluid memberPhoto" src="public/img/catherine.jpg" alt="Catherine Toniatti Photo">
                 </div>
@@ -178,6 +178,18 @@
                     BioPhysics she completed an internship at Albany Medical College. She will be consulting with
                     researchers
                     to match ECIS technology with their individual needs and goals.
+                  </p>
+                </div>
+              </div>
+
+              <div class="row">
+                <div class="col-md-3 col-lg-2 mb-4 mb-md-0">
+                  <img class="img-fluid memberPhoto" src="public/img/michael.jpg" alt="Michael Detweiler Photo">
+                </div>
+                <div class="col-md-9 col-lg-10">
+                  <h3 class="mb-3">Michael A. Detweiler - Director of Sales</h3>
+                  <p>
+                    Michael received his MS in Molecular Biology and BS in Human Biology at Boise State University. During his collegiate years, he also gained extensive experience in business and sales at a local retail company. He will serve to provide research labs with ECIS<sup>®</sup> technologies to aid in their novel discoveries.
                   </p>
                 </div>
               </div>
