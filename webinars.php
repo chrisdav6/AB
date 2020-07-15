@@ -287,7 +287,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/86092ad9c8464d19a36f005eb95a98d4?localOccurrenceTime=2020-06-16%2011%3A00%3A00" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EDT</h4>
@@ -297,7 +297,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/53f87eead7d14344ab3337a4b7ddbcfd?localOccurrenceTime=2020-07-07%2011%3A00%3A00" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">Cell Attachment and Spreading Measurements – 11:00 AM EDT</h4>
