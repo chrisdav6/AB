@@ -297,7 +297,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/53f87eead7d14344ab3337a4b7ddbcfd?localOccurrenceTime=2020-07-07%2011%3A00%3A00" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Cell Attachment and Spreading Measurements – 11:00 AM EDT</h4>
@@ -307,20 +307,18 @@
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/58586119f8a94df09249fe689bf962f4?localOccurrenceTime=2020-07-21%2011%3A00%3A00" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
-      <!--<div class="webinar">
+      <div class="webinar">
         <h4 class="webinar-title">Signal Transduction Assays – 11:00 AM EDT</h4>
         <p class="date">September 8, 2020</p>
         <p>Data will be presented showing the ability of ECIS to monitor signal transduction in label-free, whole-cell
           assays. The morphological changes responsible for the impedance changes will be further evaluated by modeling the complex
           impedance data.</p>
-        <a class="register"
-          href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/0a30ea2d697b450b9b546494103e1a61?localOccurrenceTime=2019-09-10%2011%3A00%3A00"
-          target="_blank">Register</a>
+        <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/9e385af663df424ea04dddda128b4889" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Toxicology with ECIS – 11:00 AM EDT</h4>
