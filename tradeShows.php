@@ -49,7 +49,7 @@
           What better way to learn more about the power of ECIS than joining us at scientific events around the world!
         </p>
 
-        <p>Below are a list of upcoming shows that Applied BioPhysics will be attending in 2020:</p>
+        <p>Below are a list of upcoming shows that Applied BioPhysics will attend in 2020:</p>
       </div>
 
       <!-- <div class="tradeshow mb-5">
