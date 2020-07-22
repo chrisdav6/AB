@@ -123,13 +123,13 @@
       <hr class="my-5">-->
 
       <div class="tradeshow mb-5">
-        <h4 class="date">October 25-29, 2020</h4>
+        <h4 class="date">October 26-29, 2020</h4>
         <div class="row">
           <div class="col-lg-4">
             <img class="img-fluid mb-3 mb-lg-0" src="public/img/navboMeeting2020.png" alt="NAVBO Banner">
           </div>
           <div class="col-lg-8">
-            <a href="http://www.navbo.org/events/vb2020" class="tradeshow-link" target="_blank">Vascular Biology 2020 - Newport, RI</a>
+            <a href="http://www.navbo.org/events/vb2020" class="tradeshow-link" target="_blank">Vascular Biology Virtual 2020</a>
             <p class="mb-0 mt-2">The mission of NAVBO is to promote the study of vascular biology. The purpose of the
               society is to provide a forum whereby members disseminate and share knowledge related to the scientific
               field of vascular biology, to ensure the translation of knowledge from basic science to clinical practice.
@@ -141,15 +141,14 @@
       <hr class="my-5">
 
       <div class="tradeshow mb-5">
-        <h4 class="date">December 5-9, 2020</h4>
+        <h4 class="date">Early December 2020</h4>
         <div class="row">
           <div class="col-lg-4">
             <img class="img-fluid mb-3 mb-lg-0" src="public/img/ascb-emboMeeting2020.png" alt="ASCB Banner">
           </div>
           <div class="col-lg-8">
-            <a href="https://www.ascb.org/cellbio2020" class="tradeshow-link" target="_blank">ASCB|EMBO 2020 -
-              Philadelphia, PA</a>
-            <p class="mb-0 mt-2">Cell Bio is an arena to showcase the brightest minds in the cell biology community. Our community encompasses researchers from diverse backgrounds, including age, gender, race, ethnicity, geographic location, institutions, career levels, and research interests. As such, we want the meeting to represent our diverse community within our sessions, speakers, and poster presenters.</p>
+            <a href="https://www.ascb.org/cellbio2020" class="tradeshow-link" target="_blank">Cell Bio Virtual 2020</a>
+            <p class="mb-0 mt-2">Cell Bio 2020 Virtual-an Online ASCB|EMBO Meeting offers every attendee the opportunity to create their own content and topics to present at the meeting. Our community encompasses researchers from diverse backgrounds, including age, gender, race, ethnicity, geographic location, institutions, career levels, and research interests. As such, we want the meeting to represent our diverse community within our sessions, speakers, and poster presenters.</p>
           </div>
         </div>
       </div>
@@ -171,14 +170,14 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
 </body>
 

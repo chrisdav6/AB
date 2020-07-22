@@ -91,9 +91,9 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Tradeshows</h3>
-                <h4 class="mb-1">October 25-29, 2020</h4>
-                <p class="card-text mb-0">Vascular Biology 2020</p>
-                <p class="card-text mb-0">Newport, RI</p>
+                <h4 class="mb-1">October 26-29, 2020</h4>
+                <p class="card-text mb-0">Vascular Biology Virtual 2020</p>
+                <p class="card-text mb-0">Navbo Online</p>
               </div>
             </div>
           </a>
