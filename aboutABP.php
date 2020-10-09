@@ -96,19 +96,19 @@
                 cells, in vitro toxicity testing as an alternative to animal testing, and signal transduction involving
                 GPCR's
                 for modern drug discovery.
-                <p>
+              <p>
 
-                  <p>
-                    Instruments are located throughout the United States as well as in Asia and Europe. Customers
-                    include Johns
-                    Hopkins University, The University of Tokyo, Vanderbilt University, Brown University, Genentech, and
-                    Allergan
-                    to mention a few. Drs. Giaever and Keese continue to develop new innovations to enhance the ECIS
-                    technology
-                    including most recently an automated wound healing assay and a device to study the behavior of cells
-                    under
-                    flow conditions both of which are now commercially available.
-                  </p>
+              <p>
+                Instruments are located throughout the United States as well as in Asia and Europe. Customers
+                include Johns
+                Hopkins University, The University of Tokyo, Vanderbilt University, Brown University, Genentech, and
+                Allergan
+                to mention a few. Drs. Giaever and Keese continue to develop new innovations to enhance the ECIS
+                technology
+                including most recently an automated wound healing assay and a device to study the behavior of cells
+                under
+                flow conditions both of which are now commercially available.
+              </p>
             </div><!-- /overview -->
 
             <div class="tab-pane" id="whoWeAre" role="tabpanel">
@@ -168,7 +168,7 @@
 
               <div class="row mb-5">
                 <div class="col-md-3 col-lg-2 mb-4 mb-md-0">
-                  <img class="img-fluid memberPhoto" src="public/img/catherine.jpg" alt="Catherine Toniatti Photo">
+                  <img class="img-fluid memberPhoto" src="public/img/catherine2020.jpg" alt="Catherine Toniatti Photo">
                 </div>
                 <div class="col-md-9 col-lg-10">
                   <h3 class="mb-3">Catherine Toniatti-Yanulavich - Vice President Sales</h3>
