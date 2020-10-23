@@ -542,6 +542,11 @@
               <div class="row">
                 <div class="col-lg-10 mx-auto">
                   <div class="mb-5">
+                    <img class="img-fluid" src="public/img/ComicCrosswordOct2020.jpg" alt="ECIS Comic Crossword October 2020">
+                    <a href="https://puzzel.org/en/crossword/play?p=-MKH2IxgRFCNxPgcGUYk" class="link text-dark" target="_blank">Play Online</a> -
+                    <a href="public/pdf/ComicCrosswordOct2020Answers.pdf" class="link text-dark" target="_blank">Link to answers</a>
+                  </div>
+                  <div class="mb-5">
                     <img class="img-fluid" src="public/img/ComicCrosswordApr2020.jpg" alt="ECIS Comic Crossword April 2020">
                     <a href="public/pdf/ComicCrosswordApr2020Answers.pdf" class="link text-dark" target="_blank">Link to answers</a>
                   </div>
