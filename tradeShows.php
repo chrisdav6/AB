@@ -120,7 +120,7 @@
         </div>
       </div>
 
-      <hr class="my-5">-->
+      <hr class="my-5">
 
       <div class="tradeshow mb-5">
         <h4 class="date">October 26-29, 2020</h4>
@@ -138,10 +138,10 @@
         </div>
       </div>
 
-      <hr class="my-5">
+      <hr class="my-5">-->
 
       <div class="tradeshow mb-5">
-        <h4 class="date">Early December 2020</h4>
+        <h4 class="date">December 2-16, 2020</h4>
         <div class="row">
           <div class="col-lg-4">
             <img class="img-fluid mb-3 mb-lg-0" src="public/img/ascb-emboMeeting2020.png" alt="ASCB Banner">
