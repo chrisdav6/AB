@@ -49,7 +49,20 @@
           What better way to learn more about the power of ECIS than joining us at scientific events around the world!
         </p>
 
-        <p>Below are a list of upcoming shows that Applied BioPhysics will attend in 2020:</p>
+        <p>Below are a list of upcoming shows that Applied BioPhysics will attend in 2021:</p>
+      </div>
+
+      <div class="tradeshow mb-5">
+        <h4 class="date">March, 2021</h4>
+        <div class="row">
+          <div class="col-lg-4">
+            <img class="img-fluid mb-3 mb-lg-0" src="public/img/SOT2021.png" alt="SOT Banner">
+          </div>
+          <div class="col-lg-8">
+            <a href="https://www.toxicology.org/events/am/AM2021/index.asp" class="tradeshow-link" target="_blank">2021 SOT Annual Meeting and ToxExpo - Virtual Event</a>
+            <p class="mb-0 mt-2">Nearly 60 Scientific Sessions will be presented as part of the Virtual 2021 SOT Annual Meeting, alongside 14 Continuing Education courses. Occurring every year as part of the SOT Annual Meeting, the ToxExpo features companies and organizations that support toxicologists and the toxicology community. Exhibitors include research organizations, government agencies, laboratory suppliers, drug developers, consulting firms, and academic institutions.</p>
+          </div>
+        </div>
       </div>
 
       <!-- <div class="tradeshow mb-5">
@@ -138,7 +151,7 @@
         </div>
       </div>
 
-      <hr class="my-5">-->
+      <hr class="my-5">
 
       <div class="tradeshow mb-5">
         <h4 class="date">December 2-16, 2020</h4>
@@ -151,7 +164,7 @@
             <p class="mb-0 mt-2">Cell Bio 2020 Virtual-an Online ASCB|EMBO Meeting offers every attendee the opportunity to create their own content and topics to present at the meeting. Our community encompasses researchers from diverse backgrounds, including age, gender, race, ethnicity, geographic location, institutions, career levels, and research interests. As such, we want the meeting to represent our diverse community within our sessions, speakers, and poster presenters.</p>
           </div>
         </div>
-      </div>
+      </div>-->
 
     </div>
   </section><!-- /tradeshowsContent -->

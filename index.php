@@ -91,9 +91,9 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Tradeshows</h3>
-                <h4 class="mb-1">December 2-16, 2020</h4>
-                <p class="card-text mb-0">Cell Bio Virtual 2020</p>
-                <p class="card-text mb-0">An Online ASCB</p>
+                <h4 class="mb-1">March, 2021</h4>
+                <p class="card-text mb-0">SOT Annual Meeting and ToxExpo</p>
+                <p class="card-text mb-0">Virtual Event</p>
               </div>
             </div>
           </a>
