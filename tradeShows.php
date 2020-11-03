@@ -65,6 +65,36 @@
         </div>
       </div>
 
+      <hr class="my-5">
+
+      <div class="tradeshow mb-5">
+        <h4 class="date">April 27-30, 2021</h4>
+        <div class="row">
+          <div class="col-lg-4">
+            <img class="img-fluid mb-3 mb-lg-0" src="public/img/EBMeeting2021.png" alt="Experimental Biology Banner">
+          </div>
+          <div class="col-lg-8">
+            <a href="https://experimentalbiology.org/2021/Home.aspx" class="tradeshow-link" target="_blank">Experimental Biology - Virtual Event</a>
+            <p class="mb-0 mt-2">Experimental Biology 2021 will deliver an experience unlike others! Your virtual experience will be filled with lectures, workshops, symposia, posters presentations, exhibits and the opportunity to make connections with global scientists. Just think, with one click you’ll be able to build new relationships with experts from academic institutions, government agencies, nonprofit organizations and industry.</p>
+          </div>
+        </div>
+      </div>
+
+      <hr class="my-5">
+
+      <div class="tradeshow mb-5">
+        <h4 class="date">Dates to be Announced</h4>
+        <div class="row">
+          <div class="col-lg-4">
+            <img class="img-fluid mb-3 mb-lg-0" src="public/img/aacrMeeting2021.png" alt="AACR Banner">
+          </div>
+          <div class="col-lg-8">
+            <a href="https://www.aacr.org/meeting/aacr-annual-meeting-2021" class="tradeshow-link" target="_blank">AACR Annual Meeting 2021 - Virtual Meeting</a>
+            <p class="mb-0 mt-2">The AACR Annual Meeting program covers the latest discoveries across the spectrum of cancer research—from population science and prevention; to cancer biology, translational, and clinical studies; to survivorship and advocacy—and highlights the work of the best minds in research and medicine from institutions all over the world.</p>
+          </div>
+        </div>
+      </div>
+
       <!-- <div class="tradeshow mb-5">
         <h4 class="date">September 8-11, 2019</h4>
         <div class="row">
@@ -78,41 +108,6 @@
               7,500 European toxicologists. The annual congresses rotate from one European country to another
               providing diversity to the venues and contents of the congress. The number of participants is
               approximately 1,500.</p>
-          </div>
-        </div>
-      </div> 
-      
-      <hr class="my-5">
-
-      <div class="tradeshow mb-5">
-        <h4 class="date">March 15-19, 2020</h4>
-        <div class="row">
-          <div class="col-lg-4">
-            <img class="img-fluid mb-3 mb-lg-0" src="public/img/SOTMeeting2020.png" alt="SOT Banner">
-          </div>
-          <div class="col-lg-8">
-            <a href="https://www.toxicology.org/events/am/AM2020/meeting-info.asp" class="tradeshow-link" target="_blank">59th Annual SOT Annual Meeting - Baltimore, MD</a>
-            <p class="mb-0 mt-2">Taking place in Anaheim, California, the SOT 59th Annual Meeting and ToxExpo will
-              feature more than 80 Scientific Sessions, 2,000 presentations, 300 exhibitors, and 6,000 attendees. The
-              full Annual Meeting website will launch August 1, 2019.</p>
-          </div>
-        </div>
-      </div>
-
-      <hr class="my-5">
-
-      <div class="tradeshow mb-5">
-        <h4 class="date">April 4-8, 2020</h4>
-        <div class="row">
-          <div class="col-lg-4">
-            <img class="img-fluid mb-3 mb-lg-0" src="public/img/EBMeeting2020.png" alt="Experimental Biology Banner">
-          </div>
-          <div class="col-lg-8">
-            <a href="https://experimentalbiology.org/2020/home.aspx" class="tradeshow-link" target="_blank">Experimental
-              Biology 2020 - San Diego, CA</a>
-            <p class="mb-0 mt-2">EB is the place to explore the latest cutting edge science in anatomy, biochemistry
-              and molecular biology, investigative pathology, pharmacology, and physiology. Attendees represent
-              scientists from academic institutions, government agencies, non-profit organizations and industry.</p>
           </div>
         </div>
       </div> 
