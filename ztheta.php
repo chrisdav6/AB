@@ -169,17 +169,17 @@
           <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
               <p class="mt-4">
-                <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                  <li>- Array plates are barcoded with serial numbers for tracking</li>
-                  <li>- Gold electrodes</li>
-                  <li>- 100-64,000 Hz sinusoidal signal</li>
-                  <li>- Power: ~100watts, 120/240 V AC</li>
-                  <li>- 16-well station: 15.2 x 12.7 x 7.6 cm</li>
-                  <li>- 96-well station: 25.1 x 17.5 x 6 cm</li>
-                  <li>- Controller: 43.8 x 49.5 x 20.3 cm</li>
-                  <li>- Connects to laptop via USB</li>
-                  <li>- Windows 10</li>
-                </ul>
+              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+                <li>- Array plates are barcoded with serial numbers for tracking</li>
+                <li>- Gold electrodes</li>
+                <li>- 100-64,000 Hz sinusoidal signal</li>
+                <li>- Power: ~100watts, 120/240 V AC</li>
+                <li>- 16-well station: 15.2 x 12.7 x 7.6 cm</li>
+                <li>- 96-well station: 25.1 x 17.5 x 6 cm</li>
+                <li>- Controller: 43.8 x 49.5 x 20.3 cm</li>
+                <li>- Connects to laptop via USB</li>
+                <li>- Windows 10</li>
+              </ul>
               </p>
             </div>
             <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
@@ -308,6 +308,24 @@
 
   gtag('config', 'UA-108411540-1');
   </script>
+
+  <!-- Engagebay -->
+  <script type="text/javascript">
+  var EhAPI = EhAPI || {};
+  EhAPI.after_load = function() {
+    EhAPI.set_account('lj2ng4pb8ricu2piqdirfbrv61', 'biophysics');
+    EhAPI.execute('rules');
+  };
+  (function(d, s, f) {
+    var sc = document.createElement(s);
+    sc.type = 'text/javascript';
+    sc.async = true;
+    sc.src = f;
+    var m = document.getElementsByTagName(s)[0];
+    m.parentNode.insertBefore(sc, m);
+  })(document, 'script', '//d2p078bqz5urf7.cloudfront.net/jsapi/ehform.js');
+  </script>
+
 </body>
 
 </html>

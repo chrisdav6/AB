@@ -72,8 +72,7 @@
           of an instrument by the referral</li>
         <li class="indent mb-3 pl-0 pl-sm-4"><span>3. </span>You must submit the form below to be eligible or send an
           email to Catherine Toniatti, US Sales Mgr,
-          <a class="link text-dark"
-            href="mailto:ctoniatti@biophysics.com?subject=Applied Biophysics Referral Program">ctoniatti@biophysics.com</a>
+          <a class="link text-dark" href="mailto:ctoniatti@biophysics.com?subject=Applied Biophysics Referral Program">ctoniatti@biophysics.com</a>
         </li>
         <li class="indent mb-3 pl-0 pl-sm-4"><span>4. </span>The credit must be used within 18 months from the date
           of the sale</li>
@@ -84,8 +83,7 @@
           submitting their name to Applied BioPhysics</li>
         <li class="indent mb-3 pl-0 pl-sm-4"><span>8. </span>The referral should be notified that someone from
           Applied Biophysics will contact them (Catherine Toniatti, US sales
-          Mgr, <a class="link text-dark"
-            href="mailto:ctoniatti@biophysics.com?subject=Applied Biophysics Referral Program">ctoniatti@biophysics.com</a>)
+          Mgr, <a class="link text-dark" href="mailto:ctoniatti@biophysics.com?subject=Applied Biophysics Referral Program">ctoniatti@biophysics.com</a>)
         </li>
       </ul>
 
@@ -109,16 +107,13 @@
       <h4 class="mt-5 mb-4 secondary-title">FAQ's</h4>
 
       <ul class="list-unstyled programFAQs">
-        <li class="indent mb-3 pl-0 pl-sm-4">What if the referral leaves the institution but they still purchase?<span
-            class="text-success">The credit will still be applied</span></li>
+        <li class="indent mb-3 pl-0 pl-sm-4">What if the referral leaves the institution but they still purchase?<span class="text-success">The credit will still be applied</span></li>
         <li class="indent mb-3 pl-0 pl-sm-4">What if you move to another institution?<span class="text-success">The
             credit will be applied to your new institution</span></li>
-        <li class="indent mb-3 pl-0 pl-sm-4">Is there a limit to the number of referrals?<span
-            class="text-success">No</span></li>
+        <li class="indent mb-3 pl-0 pl-sm-4">Is there a limit to the number of referrals?<span class="text-success">No</span></li>
         <li class="indent mb-3 pl-0 pl-sm-4">Is there a time limit on a referral?<span class="text-success">No</span>
         </li>
-        <li class="indent mb-3 pl-0 pl-sm-4">Is there a time limit to using the $1000 array credit?<span
-            class="text-success">18 months</span></li>
+        <li class="indent mb-3 pl-0 pl-sm-4">Is there a time limit to using the $1000 array credit?<span class="text-success">18 months</span></li>
       </ul>
 
       <h4 class="mt-5 mb-4 secondary-title">Referral Form</h4>
@@ -224,15 +219,33 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
+
+  <!-- Engagebay -->
+  <script type="text/javascript">
+  var EhAPI = EhAPI || {};
+  EhAPI.after_load = function() {
+    EhAPI.set_account('lj2ng4pb8ricu2piqdirfbrv61', 'biophysics');
+    EhAPI.execute('rules');
+  };
+  (function(d, s, f) {
+    var sc = document.createElement(s);
+    sc.type = 'text/javascript';
+    sc.async = true;
+    sc.src = f;
+    var m = document.getElementsByTagName(s)[0];
+    m.parentNode.insertBefore(sc, m);
+  })(document, 'script', '//d2p078bqz5urf7.cloudfront.net/jsapi/ehform.js');
+  </script>
+
 </body>
 
 </html>

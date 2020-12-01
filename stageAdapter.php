@@ -69,13 +69,11 @@
               </div>
 
             </div>
-            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators"
-              role="button" data-slide="prev">
+            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="sr-only">Previous</span>
             </a>
-            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators"
-              role="button" data-slide="next">
+            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="sr-only">Next</span>
             </a>
@@ -132,8 +130,7 @@
 
           <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs"
-                role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
+              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
             </li>
             <!-- <li class="nav-item">
               <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab"
@@ -148,11 +145,11 @@
           <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
               <p class="mt-4">
-                <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                  <li>- Platform: 9.5 x 13.5 cm</li>
-                  <li>- Base: 10.9 x 16 cm</li>
-                  <li>- Cable: 152 cm</li>
-                </ul>
+              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+                <li>- Platform: 9.5 x 13.5 cm</li>
+                <li>- Base: 10.9 x 16 cm</li>
+                <li>- Cable: 152 cm</li>
+              </ul>
               </p>
             </div>
             <!-- <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
@@ -191,15 +188,33 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
+
+  <!-- Engagebay -->
+  <script type="text/javascript">
+  var EhAPI = EhAPI || {};
+  EhAPI.after_load = function() {
+    EhAPI.set_account('lj2ng4pb8ricu2piqdirfbrv61', 'biophysics');
+    EhAPI.execute('rules');
+  };
+  (function(d, s, f) {
+    var sc = document.createElement(s);
+    sc.type = 'text/javascript';
+    sc.async = true;
+    sc.src = f;
+    var m = document.getElementsByTagName(s)[0];
+    m.parentNode.insertBefore(sc, m);
+  })(document, 'script', '//d2p078bqz5urf7.cloudfront.net/jsapi/ehform.js');
+  </script>
+
 </body>
 
 </html>

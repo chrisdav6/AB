@@ -607,15 +607,33 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
+
+  <!-- Engagebay -->
+  <script type="text/javascript">
+  var EhAPI = EhAPI || {};
+  EhAPI.after_load = function() {
+    EhAPI.set_account('lj2ng4pb8ricu2piqdirfbrv61', 'biophysics');
+    EhAPI.execute('rules');
+  };
+  (function(d, s, f) {
+    var sc = document.createElement(s);
+    sc.type = 'text/javascript';
+    sc.async = true;
+    sc.src = f;
+    var m = document.getElementsByTagName(s)[0];
+    m.parentNode.insertBefore(sc, m);
+  })(document, 'script', '//d2p078bqz5urf7.cloudfront.net/jsapi/ehform.js');
+  </script>
+
 </body>
 
 </html>

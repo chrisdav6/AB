@@ -57,28 +57,23 @@
               </ol>
 
               <div class="carousel-item active">
-                <img class="d-block w-100" src="public/img/teer96Front.jpg"
-                  alt="TEER96 Barrier Function Measurement System">
+                <img class="d-block w-100" src="public/img/teer96Front.jpg" alt="TEER96 Barrier Function Measurement System">
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/teer96Station.jpg"
-                  alt="TEER96 Barrier Function Measurement System">
+                <img class="d-block w-100" src="public/img/teer96Station.jpg" alt="TEER96 Barrier Function Measurement System">
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/teer96Data.jpg"
-                  alt="TEER96 Barrier Function Measurement System Data">
+                <img class="d-block w-100" src="public/img/teer96Data.jpg" alt="TEER96 Barrier Function Measurement System Data">
               </div>
 
             </div>
-            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators"
-              role="button" data-slide="prev">
+            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="sr-only">Previous</span>
             </a>
-            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators"
-              role="button" data-slide="next">
+            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="sr-only">Next</span>
             </a>
@@ -96,8 +91,7 @@
           </p>
           <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
             Sheet</a>
-          <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal"
-            data-target="#orderInfo">Order Info</a>
+          <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a>
         </div>
 
       </div>
@@ -184,12 +178,10 @@
 
           <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs"
-                role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
+              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab"
-                aria-controls="video" aria-selected="false">Video</a>
+              <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab" aria-controls="video" aria-selected="false">Video</a>
             </li>
             <!-- <li class="nav-item">
               <a class="nav-link text-dark" id="options-tab" data-scroll-ignore data-toggle="tab" href="#options"
@@ -200,24 +192,24 @@
           <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
               <p class="mt-4">
-                <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                  <li>- Gold pin electrodes</li>
-                  <li>- 75 Hz sinusoidal signal</li>
-                  <li>- Power: 3 watts; 12 V dc</li>
-                  <li>- Station: X x X x X cm, X kg</li>
-                  <li>- Controller: 21.5 x 18 x 4.5 cm, 2 kg</li>
-                  <li>- motion control box X x X x X</li>
-                  <li>- Connects to laptop via USB</li>
-                  <li>- Windows 10 OS</li>
-                </ul>
+              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+                <li>- Gold pin electrodes</li>
+                <li>- 75 Hz sinusoidal signal</li>
+                <li>- Power: 3 watts; 12 V dc</li>
+                <li>- Station: X x X x X cm, X kg</li>
+                <li>- Controller: 21.5 x 18 x 4.5 cm, 2 kg</li>
+                <li>- motion control box X x X x X</li>
+                <li>- Connects to laptop via USB</li>
+                <li>- Windows 10 OS</li>
+              </ul>
               </p>
             </div>
             <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
               <p class="mt-4">
-                <div class="youtubeEmbed" id="H4AU9D-dKhk"></div>
+              <div class="youtubeEmbed" id="H4AU9D-dKhk"></div>
               </p>
               <p class="mt-4">
-                <div class="youtubeEmbed" id="YNWNDkTsMxs"></div>
+              <div class="youtubeEmbed" id="YNWNDkTsMxs"></div>
               </p>
             </div>
             <!-- <div class="tab-pane fade" id="options" role="tabpanel" aria-labelledby="options-tab">
@@ -233,14 +225,12 @@
           <hr class="mt-1">
           <div class="row mt-4">
             <div class="col-md-3 pb-4 pb-md-0">
-              <a href="public/pdf/TEER96DataSheetR2.pdf" target="_blank" data-toggle="tooltip" data-placement="right"
-                title="Download TEER96 Data Sheet">
+              <a href="public/pdf/TEER96DataSheetR2.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER96 Data Sheet">
                 <img class="img-fluid" src="public/img/teer96DataSheet.jpg" alt="Download TEER96 Data Sheet">
               </a>
             </div>
             <div class="col-md-3">
-              <a href="public/pdf/TEER96ManualR2.pdf" target="_blank" data-toggle="tooltip" data-placement="right"
-                title="Download TEER96 Manual">
+              <a href="public/pdf/TEER96ManualR2.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER96 Manual">
                 <img class="img-fluid" src="public/img/teer96Manual.jpg" alt="Download TEER96 Manual">
               </a>
             </div>
@@ -295,13 +285,11 @@
             <div class="form-group mt-4">
               <label class="d-block">Would you like to Demo or Purchase?</label>
               <div class="form-check form-check-inline">
-                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase"
-                  id="demoOrPurchaseDemo" value="Demo" checked>
+                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase" id="demoOrPurchaseDemo" value="Demo" checked>
                 <label class="form-check-label" for="demoOrPurchaseDemo">Demo</label>
               </div>
               <div class="form-check form-check-inline">
-                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase"
-                  id="demoOrPurchasePurchase" value="Purchase">
+                <input class="form-check-input demoOrPurchase" type="radio" name="demoOrPurchase" id="demoOrPurchasePurchase" value="Purchase">
                 <label class="form-check-label" for="demoOrPurchasePurchase">Purchase</label>
               </div>
             </div>
@@ -335,15 +323,33 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
+
+  <!-- Engagebay -->
+  <script type="text/javascript">
+  var EhAPI = EhAPI || {};
+  EhAPI.after_load = function() {
+    EhAPI.set_account('lj2ng4pb8ricu2piqdirfbrv61', 'biophysics');
+    EhAPI.execute('rules');
+  };
+  (function(d, s, f) {
+    var sc = document.createElement(s);
+    sc.type = 'text/javascript';
+    sc.async = true;
+    sc.src = f;
+    var m = document.getElementsByTagName(s)[0];
+    m.parentNode.insertBefore(sc, m);
+  })(document, 'script', '//d2p078bqz5urf7.cloudfront.net/jsapi/ehform.js');
+  </script>
+
 </body>
 
 </html>

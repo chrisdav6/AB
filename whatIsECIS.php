@@ -93,14 +93,12 @@
 
       <div class="row">
         <div class="col">
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/How Frequencies Reveal Cell Behavior A.jpg"
-            alt="How Frequencies Reveal Cell Behavior Illustration A">
+          <img class="img-fluid py-5 d-block mx-auto" src="public/img/How Frequencies Reveal Cell Behavior A.jpg" alt="How Frequencies Reveal Cell Behavior Illustration A">
           <p>
             At higher frequencies (&gt; 40,000 Hz) more current now capacitively couples directly through the insulating
             cell membranes (green lines).
           </p>
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/How Frequencies Reveal Cell Behavior B.jpg"
-            alt="How Frequencies Reveal Cell Behavior Illustration B">
+          <img class="img-fluid py-5 d-block mx-auto" src="public/img/How Frequencies Reveal Cell Behavior B.jpg" alt="How Frequencies Reveal Cell Behavior Illustration B">
           <p>
             The high frequency impedance is more affected by cell-coverage, whereas the low frequency responds more
             strongly to changes in the spaces either under or between the cells.
@@ -121,8 +119,7 @@
       <div class="row my-4">
         <div class="col">
           <h2>How Electrode Designs Reveal Aspects of Cell Behavior</h2>
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/1e v 10e+ web.jpg"
-            alt=">How Electrode Designs Reveal Aspects of Cell Behavior">
+          <img class="img-fluid py-5 d-block mx-auto" src="public/img/1e v 10e+ web.jpg" alt=">How Electrode Designs Reveal Aspects of Cell Behavior">
           <h2 class="my-4">Small Electrodes</h2>
           <p>
             Small electrodes (1E, 10E, 10E+ type arrays) and their layout within the wells ensure that all current
@@ -169,15 +166,33 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
+
+  <!-- Engagebay -->
+  <script type="text/javascript">
+  var EhAPI = EhAPI || {};
+  EhAPI.after_load = function() {
+    EhAPI.set_account('lj2ng4pb8ricu2piqdirfbrv61', 'biophysics');
+    EhAPI.execute('rules');
+  };
+  (function(d, s, f) {
+    var sc = document.createElement(s);
+    sc.type = 'text/javascript';
+    sc.async = true;
+    sc.src = f;
+    var m = document.getElementsByTagName(s)[0];
+    m.parentNode.insertBefore(sc, m);
+  })(document, 'script', '//d2p078bqz5urf7.cloudfront.net/jsapi/ehform.js');
+  </script>
+
 </body>
 
 </html>

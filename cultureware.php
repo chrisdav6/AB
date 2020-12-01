@@ -52,17 +52,14 @@
         array is placed in an array holder located in the incubator.
       </p>
 
-      <p>For help in chossing an ECIS array we offer a technical note for download - <a class="text-dark link"
-          href="public/pdf/TN01ArrayChoices.pdf" target="_blank"><i class="far fa-file-pdf mx-2"></i>TN01 Array
+      <p>For help in chossing an ECIS array we offer a technical note for download - <a class="text-dark link" href="public/pdf/TN01ArrayChoices.pdf" target="_blank"><i class="far fa-file-pdf mx-2"></i>TN01 Array
           Choices</a></p>
 
       <div class="culturewareTables my-5">
 
 
         <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
-          <h4 class="mb-0 secondary-title">24 Well Transfilter Arrays</h4><a class="arrayTitleLink"
-            href="https://applied-biophysics-inc.myshopify.com/collections/teer-24-arrays" target="_blank"><i
-              class="fas fa-shopping-cart mr-1"></i> Shop for Transfilter Arrays</a>
+          <h4 class="mb-0 secondary-title">24 Well Transfilter Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/teer-24-arrays" target="_blank"><i class="fas fa-shopping-cart mr-1"></i> Shop for Transfilter Arrays</a>
         </div>
 
         <table class="table table-bordered table-responsive-sm">
@@ -87,9 +84,7 @@
         </table>
 
         <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
-          <h4 class="mb-0 secondary-title">96 Well Arrays</h4><a class="arrayTitleLink"
-            href="https://applied-biophysics-inc.myshopify.com/collections/96-well-arrays" target="_blank"><i
-              class="fas fa-shopping-cart mr-1"></i> Shop for 96 Well Arrays</a>
+          <h4 class="mb-0 secondary-title">96 Well Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/96-well-arrays" target="_blank"><i class="fas fa-shopping-cart mr-1"></i> Shop for 96 Well Arrays</a>
         </div>
 
         <table class="table table-bordered table-responsive-sm">
@@ -128,9 +123,7 @@
         </table>
 
         <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
-          <h4 class="mb-0 secondary-title">Standard 8 Well Arrays</h4><a class="arrayTitleLink"
-            href="https://applied-biophysics-inc.myshopify.com/collections/8-well-arrays" target="_blank"><i
-              class="fas fa-shopping-cart mr-1"></i> Shop for 8 Well Arrays</a>
+          <h4 class="mb-0 secondary-title">Standard 8 Well Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/8-well-arrays" target="_blank"><i class="fas fa-shopping-cart mr-1"></i> Shop for 8 Well Arrays</a>
         </div>
 
         <table class="table table-bordered table-responsive-sm">
@@ -182,9 +175,7 @@
         </table>
 
         <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
-          <h4 class="mb-0 secondary-title">Specialty Arrays</h4><a class="arrayTitleLink"
-            href="https://applied-biophysics-inc.myshopify.com/collections/specialty-arrays" target="_blank"><i
-              class="fas fa-shopping-cart mr-1"></i> Shop for Specialty Arrays</a>
+          <h4 class="mb-0 secondary-title">Specialty Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/specialty-arrays" target="_blank"><i class="fas fa-shopping-cart mr-1"></i> Shop for Specialty Arrays</a>
         </div>
 
         <table class="table table-bordered table-responsive-sm">
@@ -239,9 +230,7 @@
         </table>
 
         <div class="mb-5 mt-5 array-title d-flex flex-column flex-md-row align-items-center">
-          <h4 class="mb-0 secondary-title">Flow Arrays</h4><a class="arrayTitleLink"
-            href="https://applied-biophysics-inc.myshopify.com/collections/flow-arrays" target="_blank"><i
-              class="fas fa-shopping-cart mr-1"></i> Shop for Flow Arrays</a>
+          <h4 class="mb-0 secondary-title">Flow Arrays</h4><a class="arrayTitleLink" href="https://applied-biophysics-inc.myshopify.com/collections/flow-arrays" target="_blank"><i class="fas fa-shopping-cart mr-1"></i> Shop for Flow Arrays</a>
         </div>
 
         <table class="table table-bordered table-responsive-sm">
@@ -335,8 +324,7 @@
 
       <p>
         For array ordering and questions please contact Catherine Toniatti at (518) 880-6860. You may also send an email
-        to <a class="link text-dark"
-          href="mailto:ctoniatti@biophysics.com?subject=Ordering Applied BioPhysics Arrays">ctoniatti@biophysics.com</a>
+        to <a class="link text-dark" href="mailto:ctoniatti@biophysics.com?subject=Ordering Applied BioPhysics Arrays">ctoniatti@biophysics.com</a>
         or fax your order with contact numbers and all shipping & billing addresses to 518-880-6865.
       </p>
 
@@ -373,8 +361,7 @@
       </div><!-- /array -->
 
       <div class="mt-5 array-title d-flex flex-column flex-md-row align-items-center">
-        <h4 class="mb-0 secondary-title">96 Well Array Specifications</h4><a class="arrayTitleLink"
-          href="public/pdf/96WellArrays.pdf" target="_blank">96 Well Array List</a>
+        <h4 class="mb-0 secondary-title">96 Well Array Specifications</h4><a class="arrayTitleLink" href="public/pdf/96WellArrays.pdf" target="_blank">96 Well Array List</a>
       </div>
 
       <!-- 96W1E -->
@@ -458,8 +445,7 @@
       </div><!-- /array -->
 
       <div class="array-title d-flex flex-column flex-md-row align-items-center">
-        <h4 class="mb-0 secondary-title">Standard 8 Well Array Specifications</h4><a class="arrayTitleLink"
-          href="public/pdf/8WellArrays.pdf" target="_blank">Standard 8 Well Array List</a>
+        <h4 class="mb-0 secondary-title">Standard 8 Well Array Specifications</h4><a class="arrayTitleLink" href="public/pdf/8WellArrays.pdf" target="_blank">Standard 8 Well Array List</a>
       </div>
 
       <!-- 8W1E PET or PC -->
@@ -893,15 +879,33 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
+
+  <!-- Engagebay -->
+  <script type="text/javascript">
+  var EhAPI = EhAPI || {};
+  EhAPI.after_load = function() {
+    EhAPI.set_account('lj2ng4pb8ricu2piqdirfbrv61', 'biophysics');
+    EhAPI.execute('rules');
+  };
+  (function(d, s, f) {
+    var sc = document.createElement(s);
+    sc.type = 'text/javascript';
+    sc.async = true;
+    sc.src = f;
+    var m = document.getElementsByTagName(s)[0];
+    m.parentNode.insertBefore(sc, m);
+  })(document, 'script', '//d2p078bqz5urf7.cloudfront.net/jsapi/ehform.js');
+  </script>
+
 </body>
 
 </html>

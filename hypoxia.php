@@ -63,13 +63,11 @@
               </div>
 
             </div>
-            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators"
-              role="button" data-slide="prev">
+            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
               <span class="carousel-control-prev-icon" aria-hidden="true"></span>
               <span class="sr-only">Previous</span>
             </a>
-            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators"
-              role="button" data-slide="next">
+            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="next">
               <span class="carousel-control-next-icon" aria-hidden="true"></span>
               <span class="sr-only">Next</span>
             </a>
@@ -151,8 +149,7 @@
         </div>
         <div class="col-md-6">
           <h5>ECC Carbon Dioxide Controller</h5>
-          <img class="img-fluid my-4" src="public/img/ECCCarbonDioxideController.jpg"
-            alt="ECC Carbon Dioxide Controller">
+          <img class="img-fluid my-4" src="public/img/ECCCarbonDioxideController.jpg" alt="ECC Carbon Dioxide Controller">
           <p>
             The carbon dioxide controller has two ports, one for CO<sub>2</sub> and one for nitrogen/air. The system
             regulates carbon dioxide concentration from 0% to 20% in single decimal increments using a gas purge method.
@@ -165,8 +162,7 @@
 
           <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs"
-                role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
+              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
             </li>
             <!-- <li class="nav-item">
               <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab"
@@ -181,19 +177,19 @@
           <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
               <p class="mt-4">
-                <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                  <li>- Cabinet size: 20.96 x 40.6 x 35.6 cm</li>
-                  <li>- Overall Footprint: 33.02 x 40.6 x 38.1 cm</li>
-                  <li>- Oxygen Control: 0-100% in 0.1% increments and control tolerance (factory range 0-20.9%, filed
-                    calibration required)</li>
-                  <li>- CO<sub>2</sub> Control (option): 0-20% in 0.1% increments and control tolerance
-                    <ul class="list-unstyled ml-0 ml-md-3">
-                      <li>- Or use pre-mixed tanks to control to desired levels</li>
-                    </ul>
-                  </li>
-                  <li>- Temperature Control: As dictated by incubator used to contain the cabinet</li>
-                  <li>- Humidity: Moisture tray to ensure maximum sample saturation</li>
-                </ul>
+              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+                <li>- Cabinet size: 20.96 x 40.6 x 35.6 cm</li>
+                <li>- Overall Footprint: 33.02 x 40.6 x 38.1 cm</li>
+                <li>- Oxygen Control: 0-100% in 0.1% increments and control tolerance (factory range 0-20.9%, filed
+                  calibration required)</li>
+                <li>- CO<sub>2</sub> Control (option): 0-20% in 0.1% increments and control tolerance
+                  <ul class="list-unstyled ml-0 ml-md-3">
+                    <li>- Or use pre-mixed tanks to control to desired levels</li>
+                  </ul>
+                </li>
+                <li>- Temperature Control: As dictated by incubator used to contain the cabinet</li>
+                <li>- Humidity: Moisture tray to ensure maximum sample saturation</li>
+              </ul>
               </p>
               <p class="mt-5">These products are offered by Coy Laboratory Products. For more information, please call
                 734-475-2200 or visit <a class="text-dark link" href="http://coylab.com/" target="_blank">coylab.com</a>
@@ -218,8 +214,7 @@
           <a class="text-dark manual-link" href="public/pdf/HypoxiaV2cFINAL.pdf" target="_blank">Hypoxia Literature</a>
           <a class="text-dark manual-link" href="public/pdf/StemCellParadigm.pdf" target="_blank">Hypoxia or In Situ
             Normoxia: The Stem Cell Paradigm</a>
-          <a class="text-dark manual-link" href="public/pdf/PO2MattersinStemCellCulture.pdf"
-            target="_blank">PO<sub>2</sub> Matters in Stem Cell Culture</a>
+          <a class="text-dark manual-link" href="public/pdf/PO2MattersinStemCellCulture.pdf" target="_blank">PO<sub>2</sub> Matters in Stem Cell Culture</a>
           <a class="text-dark manual-link" href="public/pdf/MetabolicMarkersofHypoxia.pdf" target="_blank">Metabolic
             Markers of Hypoxia: Systems Biology Applications in Biomedicine</a>
         </div>
@@ -242,15 +237,33 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
+
+  <!-- Engagebay -->
+  <script type="text/javascript">
+  var EhAPI = EhAPI || {};
+  EhAPI.after_load = function() {
+    EhAPI.set_account('lj2ng4pb8ricu2piqdirfbrv61', 'biophysics');
+    EhAPI.execute('rules');
+  };
+  (function(d, s, f) {
+    var sc = document.createElement(s);
+    sc.type = 'text/javascript';
+    sc.async = true;
+    sc.src = f;
+    var m = document.getElementsByTagName(s)[0];
+    m.parentNode.insertBefore(sc, m);
+  })(document, 'script', '//d2p078bqz5urf7.cloudfront.net/jsapi/ehform.js');
+  </script>
+
 </body>
 
 </html>

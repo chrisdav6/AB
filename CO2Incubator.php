@@ -124,8 +124,7 @@
 
           <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
-              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs"
-                role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
+              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
             </li>
             <!-- <li class="nav-item">
               <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab"
@@ -140,16 +139,16 @@
           <div class="tab-content" id="myTabContent">
             <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
               <p class="mt-4">
-                <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                  <li>- Digital controller</li>
-                  <li>- Power: 110-120 VAC. 50-60 Hz, 5.0 amps</li>
-                  <li>- Max HVAC load: 2001 BTUs/hr</li>
-                  <li>- Dimensions: 53.3 x 57.2 x 68.6 cm</li>
-                  <li>- Volume: 42 L</li>
-                  <li>- Unit Weight: 61.7 kg</li>
-                  <li>- Interior Metal: 300 SST</li>
-                  <li>- Exterior Metal: Painted cold roll steel</li>
-                </ul>
+              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+                <li>- Digital controller</li>
+                <li>- Power: 110-120 VAC. 50-60 Hz, 5.0 amps</li>
+                <li>- Max HVAC load: 2001 BTUs/hr</li>
+                <li>- Dimensions: 53.3 x 57.2 x 68.6 cm</li>
+                <li>- Volume: 42 L</li>
+                <li>- Unit Weight: 61.7 kg</li>
+                <li>- Interior Metal: 300 SST</li>
+                <li>- Exterior Metal: Painted cold roll steel</li>
+              </ul>
               </p>
             </div>
             <!-- <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
@@ -190,15 +189,33 @@
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-108411540-1"></script>
   <script>
-    window.dataLayer = window.dataLayer || [];
+  window.dataLayer = window.dataLayer || [];
 
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag('js', new Date());
+  function gtag() {
+    dataLayer.push(arguments);
+  }
+  gtag('js', new Date());
 
-    gtag('config', 'UA-108411540-1');
+  gtag('config', 'UA-108411540-1');
   </script>
+
+  <!-- Engagebay -->
+  <script type="text/javascript">
+  var EhAPI = EhAPI || {};
+  EhAPI.after_load = function() {
+    EhAPI.set_account('lj2ng4pb8ricu2piqdirfbrv61', 'biophysics');
+    EhAPI.execute('rules');
+  };
+  (function(d, s, f) {
+    var sc = document.createElement(s);
+    sc.type = 'text/javascript';
+    sc.async = true;
+    sc.src = f;
+    var m = document.getElementsByTagName(s)[0];
+    m.parentNode.insertBefore(sc, m);
+  })(document, 'script', '//d2p078bqz5urf7.cloudfront.net/jsapi/ehform.js');
+  </script>
+
 </body>
 
 </html>
