@@ -132,7 +132,7 @@
 
       <h4 class="mt-lg-0 mb-3 secondary-title">2020 - 2021 Webinar Schedule</h4>
 
-      <div class="webinar">
+      <!-- <div class="webinar">
         <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
         <p class="date">December 8, 2020</p>
         <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in
@@ -140,7 +140,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/7b62e98169f940a49efdf49373d13e4f?localOccurrenceTime=2020-12-08%2011%3A00%3A00" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr> -->
 
       <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
