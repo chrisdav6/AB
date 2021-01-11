@@ -20,12 +20,8 @@
                   <a class="dropdown-item" href="ztheta.php">ZTheta - 16 or 96 Well Array Station</a>
                 </ul>
               </li>
-              <li class="dropdown-item dropdown-submenu">
-                <a href="#" data-toggle="dropdown" class="submenu-link dropdown-toggle">Arrays</a>
-                <ul class="dropdown-menu">
-                  <a class="dropdown-item" href="cultureware.php">Cultureware</a>
-                  <a class="dropdown-item" href="https://applied-biophysics-inc.myshopify.com" target="_blank"><i class="fas fa-shopping-cart mr-2"></i> Shop Online</a>
-                </ul>
+              <li class="dropdown-item">
+                <a class="nav-item" href="cultureware.php">Cultureware</a>
               </li>
               <li class="dropdown-item dropdown-submenu">
                 <a href="#" data-toggle="dropdown" class="submenu-link dropdown-toggle">Options</a>
@@ -100,8 +96,11 @@
               <a class="dropdown-item" href="internationalDistributors.php">International Distributors</a>
             </div>
           </li>
+          <li class="nav-item">
+            <a class="nav-link" href="https://applied-biophysics-inc.myshopify.com" target="_blank"><i class="fas fa-shopping-cart mr-1"></i> Shop</a>
+          </li>
         </ul>
-        <ul class="navbar-nav ml-auto flex-row">
+        <!-- <ul class="navbar-nav ml-auto flex-row">
           <li class="nav-item mr-1">
             <a class="social-head facebook" href="https://www.facebook.com/Applied-BioPhysics-165532397615/" target="_blank"><i class="fab fa-facebook-square"></i></a>
           </li>
@@ -117,7 +116,7 @@
           <li class="nav-item">
             <a class="social-head youtube" href="https://www.youtube.com/channel/UCc1YA1oDtt00Cz9GjunFhPg" target="_blank"><i class="fab fa-youtube-square"></i></a>
           </li>
-        </ul>
+        </ul> -->
       </div>
     </div>
   </nav>

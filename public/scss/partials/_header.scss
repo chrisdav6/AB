@@ -33,6 +33,16 @@
 
 .nav-item {
   font-size: 1.1rem;
+  color: $dark;
+
+  &:hover {
+    color: $dark;
+    text-decoration: none;
+  }
+
+  &:active {
+    color: $white;
+  }
 }
 
 .dropdown-item:first-child {
