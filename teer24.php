@@ -94,7 +94,7 @@
             reporting measurements in real time. The all new TEER24 by Applied Biophysics, Inc. A more effective
             approach to a traditionally complicated assay.
           </p>
-          <a href="#dataSheets" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
+          <a href="public/pdf/TEER24DataSheetR5.pdf" target="_blank" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
             Sheet</a>
           <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a>
         </div>
