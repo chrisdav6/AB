@@ -19,7 +19,8 @@
     $fax = $_POST['fax']; //HoneyPot
     $headers = 'MIME-Version: 1.0' . "\r\n";
     $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-    $headers .= "From: $email";
+    $headers .= 'From: '.$email."\r\n" .
+        'Reply-To: '.$email."\r\n";
 
     $body = "<html><body>";
     $body .= "<h1>Applied Biophysics Contact Form</h1>";
