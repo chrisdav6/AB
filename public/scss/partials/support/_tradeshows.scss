@@ -16,6 +16,13 @@
     font-weight: 600;
   }
 
+  .no-shows {
+    padding: 1em;
+    border: 2px solid $orange;
+    display: inline-block;
+    text-align: center;
+  }
+
   .date {
     text-decoration: underline;
     margin-bottom: 1em;
