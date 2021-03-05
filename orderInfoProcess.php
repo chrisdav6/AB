@@ -13,7 +13,8 @@
   $comments = trim(filter_input(INPUT_POST, "comments", FILTER_SANITIZE_STRING));
   $headers = 'MIME-Version: 1.0' . "\r\n";
   $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-  $headers .= "From: $email";
+  $headers .= 'From: '.$email."\r\n" .
+        'Reply-To: '.$email."\r\n";
 
   $body = "<html><body>";
   $body .= "<h1>Applied Biophysics Product Information Form</h1>";
