@@ -52,7 +52,9 @@
         <p>Below are a list of upcoming shows that Applied BioPhysics will attend in 2021:</p>
       </div>
 
-      <div class="tradeshow mb-5">
+      <h5 class="mt-5">No tradeshows currently scheduled. Please check back soon.</h5>
+
+      <!-- <div class="tradeshow mb-5">
         <h4 class="date">March, 2021</h4>
         <div class="row">
           <div class="col-lg-4">
@@ -95,7 +97,7 @@
         </div>
       </div>
 
-      <!-- <div class="tradeshow mb-5">
+      <div class="tradeshow mb-5">
         <h4 class="date">September 8-11, 2019</h4>
         <div class="row">
           <div class="col-lg-4">
