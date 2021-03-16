@@ -80,7 +80,7 @@
                 <h3 class="card-title">Webinars</h3>
                 <h4 class="mb-1">March 30, 2021</h4>
                 <p class="card-text mb-0">Signal Transduction Assays</p>
-                <p class="card-text mb-0">11:00AM EST</p>
+                <p class="card-text mb-0">11:00AM EDT</p>
               </div>
             </div>
           </a>
