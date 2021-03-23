@@ -96,6 +96,7 @@
           <a href="public/pdf/CP96DataSheetR4.pdf" target="_blank" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
             Sheet</a>
           <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a>
+          <p class="text-danger mt-3"><small>***Please note CP96 is currently on backorder, please contact us for more information***</small></p>
         </div>
 
       </div>
