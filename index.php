@@ -40,11 +40,11 @@
   <?php include_once "includes/navbar.php"; ?>
   <?php include_once "includes/logo.php"; ?>
 
-  <section id="notification">
+  <!-- <section id="notification">
     <div class="container text-center">
       <p>Measurement of Cytopathic Effects from Viral Infections</p>
     </div>
-  </section>
+  </section> -->
 
   <section id="hero" class="d-flex">
     <div class="container my-auto">
