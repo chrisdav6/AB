@@ -22,8 +22,8 @@
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
-    "gulp": "^3.9.1",
-    "gulp-sass": "^4.0.1",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.1.0",
     "natives": "^1.1.6"
   }
 }
