@@ -38,13 +38,13 @@
   </div> -->
 
   <div class="anniversary">
-    <a href="aboutABP.php" class="anniversary_link">
-      <div class="container py-3 text-center">
-        <h5 class="mb-0">
-          Applied Biophysics, the creator of ECIS, is proud to celebrate 30 years in business!
-        </h5>
-      </div>
-    </a>
+    <!-- <a href="aboutABP.php" class="anniversary_link"> -->
+    <div class="container py-3 text-center">
+      <h5 class="mb-0">
+        Applied Biophysics, the creator of ECIS, is proud to celebrate 30 years in business!
+      </h5>
+    </div>
+    <!-- </a> -->
   </div>
 
   <?php include_once "includes/navbar.php"; ?>
