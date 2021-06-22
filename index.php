@@ -88,8 +88,8 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Webinars</h3>
-                <h4 class="mb-1">June 22, 2021</h4>
-                <p class="card-text mb-0">Real-time Electroporation and Monitoring</p>
+                <h4 class="mb-1">July 6, 2021</h4>
+                <p class="card-text mb-0">Cell Attachment and Spreading Measurements</p>
                 <p class="card-text mb-0">11:00AM EDT</p>
               </div>
             </div>
@@ -100,12 +100,12 @@
           <a href="tradeShows.php" class="text-dark">
             <div class="card text-center">
               <div class="card-body">
+                <!-- <h4 class="mb-1">No Scheduled Shows</h4>
+                <p class="card-text mb-0">Please check back soon.</p> -->
                 <h3 class="card-title">Tradeshows</h3>
-                <h4 class="mb-1">No Scheduled Shows</h4>
-                <p class="card-text mb-0">Please check back soon.</p>
-                <!-- <h4 class="mb-1">March, 2021</h4>
-                <p class="card-text mb-0">SOT Annual Meeting and ToxExpo</p>
-                <p class="card-text mb-0">Virtual Event</p> -->
+                <h4 class="mb-1">October 24-28, 2021</h4>
+                <p class="card-text mb-0">Vascular Biology 2021</p>
+                <p class="card-text mb-0">Monterey, CA</p>
               </div>
             </div>
           </a>
