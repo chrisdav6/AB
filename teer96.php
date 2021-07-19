@@ -193,7 +193,7 @@
             <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
               <p class="mt-4">
               <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                <li>- Gold pin electrodes</li>
+                <li>- Stainless Steel electrode dipping pins</li>
                 <li>- 75 Hz sinusoidal signal</li>
                 <li>- Power: 3 watts; 12 V dc</li>
                 <li>- Station: X x X x X cm, X kg</li>
