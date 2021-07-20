@@ -130,7 +130,7 @@
           </div>
         </div>-->
 
-      <h4 class="mt-lg-0 mb-3 secondary-title">2020 - 2021 Webinar Schedule</h4>
+      <h4 class="mt-lg-0 mb-3 secondary-title">2021 Webinar Schedule</h4>
 
       <!-- <div class="webinar">
         <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
