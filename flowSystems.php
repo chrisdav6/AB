@@ -211,7 +211,7 @@
         <div class="col">
           <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
           <hr class="mt-1">
-          <a class="text-dark manual-link" href="public/pdf/P-FlowPumpManualRevD.pdf" target="_blank">ECIS p-FLOW
+          <a class="text-dark manual-link" href="public/pdf/P-FlowPumpManual.pdf" target="_blank">ECIS p-FLOW
             Peristaltic Pump Manual</a>
         </div>
       </div>

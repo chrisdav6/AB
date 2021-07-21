@@ -74,7 +74,7 @@
         <p><a href="public/pdf/ECISProductGuide.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Product Manual</a></p>
         <p><a href="public/pdf/ECIS_Operation_Manual_v1_2_123.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Operation Manual</a></p>
         <p><a href="public/pdf/ECISHandbook.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Handbook</a></p>
-        <p><a href="public/pdf/P-FlowPumpManualRevD.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> P-Flow Pump Manual</a></p>
+        <p><a href="public/pdf/P-FlowPumpManual.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> P-Flow Pump Manual</a></p>
         <p><a href="public/pdf/PerfusionIN-1090X_pump_system manual.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Perfusion IN-1090X Pump System Manual</a></p>
         <p><a href="public/pdf/IncubatorPortSheldonInstructions.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Incubator Port Sheldon Instructions</a></p>
       </div>
