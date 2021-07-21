@@ -213,6 +213,7 @@
           <hr class="mt-1">
           <a class="text-dark manual-link" href="public/pdf/P-FlowPumpManual.pdf" target="_blank">ECIS p-FLOW
             Peristaltic Pump Manual</a>
+          <a class="text-dark manual-link" href="public/pdf/FlowNotesECISFlowSlides.pdf" target="_blank">Flow Notes for ECIS Flow Slides</a>
         </div>
       </div>
 
