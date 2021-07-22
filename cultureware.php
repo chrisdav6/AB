@@ -55,7 +55,7 @@
       <p>For help in chossing an ECIS array we offer a technical note for download - <a class="text-dark link" href="public/pdf/TN01ArrayChoices.pdf" target="_blank"><i class="far fa-file-pdf mx-2"></i>TN01 Array
           Choices</a></p>
 
-      <a href="public/pdf/ArrayPricingUpdate2021.pdf" class="text-dark link culturePrice" target="_blank">Change in Pricing and Availability of ECIS<sup>&reg;</sup> Arrays</a>
+      <a href="public/pdf/ArrayPricingUpdate2021.pdf" class="link culturePrice" target="_blank"><i class="fas fa-exclamation-circle"></i> Change in Pricing and Availability of ECIS<sup>&reg;</sup> Arrays</a>
 
       <div class="culturewareTables my-5">
 
