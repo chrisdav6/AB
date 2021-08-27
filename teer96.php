@@ -189,10 +189,6 @@
               <ul class="list-unstyled mt-3 ml-0 ml-md-3">
                 <li>- Stainless Steel electrode dipping pins</li>
                 <li>- 75 Hz sinusoidal signal</li>
-                <li>- Power: 3 watts; 12 V dc</li>
-                <li>- Station: X x X x X cm, X kg</li>
-                <li>- Controller: 21.5 x 18 x 4.5 cm, 2 kg</li>
-                <li>- motion control box X x X x X</li>
                 <li>- Connects to laptop via USB</li>
                 <li>- Windows 10 OS</li>
               </ul>
