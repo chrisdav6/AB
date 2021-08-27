@@ -116,13 +116,14 @@
           <div class="row pt-3">
             <div class="col-lg-6">
               <img class="img-fluid" src="public/img/teer96graphLg.jpg" alt="TEER96 Graph">
+              <p class='figText'>Figure 1: Continuous TEER measurements taken on MDCK II cells that were already confluent (turquoise) and freshly inoculated (magenta) at time 0 in the ECIS<sup>®</sup> TEER96. The cells were inoculated in a 96-well cell-culture insert plate.</p>
             </div>
             <div class="col-lg-6">
               <img class="img-fluid" src="public/img/teer96-2.jpg" alt="TEER96 Station">
             </div>
           </div>
 
-          <h5>Benefits</h5>
+          <h5 class='mt-5'>Benefits</h5>
           <ul class="list-unstyled mt-3 ml-0 ml-md-3">
             <li>- Automated TEER measurements in 96 wells under incubated conditions</li>
             <li>- Single point measurement or continuous mode</li>
@@ -167,20 +168,19 @@
         </div>
       </div>
 
-      <div class="row mt-5">
+      <!-- <div class="row mt-5">
         <div class="col">
 
           <ul class="nav nav-tabs" id="myTab" role="tablist">
             <li class="nav-item">
               <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
             </li>
-            <!-- <li class="nav-item">
+            <li class="nav-item">
               <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab" aria-controls="video" aria-selected="false">Video</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link text-dark" id="options-tab" data-scroll-ignore data-toggle="tab" href="#options"
-                role="tab" aria-controls="options" aria-selected="false">Options</a>
-            </li> -->
+              <a class="nav-link text-dark" id="options-tab" data-scroll-ignore data-toggle="tab" href="#options" role="tab" aria-controls="options" aria-selected="false">Options</a>
+            </li>
           </ul>
 
           <div class="tab-content" id="myTabContent">
@@ -202,12 +202,12 @@
               <div class="youtubeEmbed" id="YNWNDkTsMxs"></div>
               </p>
             </div>
-            <!-- <div class="tab-pane fade" id="options" role="tabpanel" aria-labelledby="options-tab">
+            <div class="tab-pane fade" id="options" role="tabpanel" aria-labelledby="options-tab">
               <p class="mt-4">Descriptions and links of optional add-on products and/or training</p>
-            </div> -->
+            </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <!-- <div id="dataSheets" class="row mt-5">
         <div class="col">
