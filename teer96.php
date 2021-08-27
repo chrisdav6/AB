@@ -61,11 +61,11 @@
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/teer96Station.jpg" alt="TEER96 Barrier Function Measurement System">
+                <img class="d-block w-100" src="public/img/teer96Front-2.jpg" alt="TEER96 Barrier Function Measurement System">
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/teer96Data.jpg" alt="TEER96 Barrier Function Measurement System Data">
+                <img class="d-block w-100" src="public/img/teer96Front-3.jpg" alt="TEER96 Barrier Function Measurement System Data">
               </div>
 
             </div>
@@ -89,9 +89,10 @@
             reporting measurements in real time. The all new TEER96 by Applied Biophysics, Inc. A more effective
             approach to a traditionally complicated assay.
           </p>
-          <a href="public/pdf/TEER96DataSheetR3.pdf" target="_blank" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
+          <h2 class='coming-soon'>Coming Soon!</h2>
+          <!-- <a href="public/pdf/TEER96DataSheetR3.pdf" target="_blank" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
             Sheet</a>
-          <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a>
+          <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a> -->
         </div>
 
       </div>
@@ -123,21 +124,14 @@
 
           <h5>Benefits</h5>
           <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- Automated TEER measurements from under 10 to 1,000 ohm-cm<sup>2</sup> in 96 wells</li>
-            <li>- Can run in single point measurement or continuous mode</li>
-            <li>- Uses Millipore<sup>&reg;</sup> and Corning<sup>&reg;</sup> 96-well filter plates</li>
-            <li>- Data recorded and visualized in real time under incubator conditions</li>
-            <li>- Accurate measuring of endothelial barrier function</li>
-            <li>- Long term data collection capabilities</li>
-            <li>- Easily sterilizable, disposable array and autoclavable stainless dipping pins</li>
+            <li>- Automated TEER measurements in 96 wells under incubated conditions</li>
+            <li>- Single point measurement or continuous mode</li>
+            <li>- Uses Corning<sup>&reg;</sup> and Millipore<sup>&reg;</sup> 96-well filter plates</li>
             <li>- Fast barrier function dynamics monitoring</li>
             <li>- Non-invasive &amp; label free</li>
-            <li>- Highly reproducible</li>
-            <li>- User friendly software</li>
-            <li>- Data output in CSV or graphical (jpg, tif)</li>
-            <li>- Create figures and plots of data</li>
           </ul>
-          <h5 class="mt-4">System Includes:</h5>
+
+          <!-- <h5 class="mt-4">System Includes:</h5>
           <ul class="list-unstyled mt-3 ml-0 ml-md-3">
             <li>- 96 well channel station located in or outside the CO<sub>2</sub> incubator</li>
             <li>- External control module</li>
@@ -145,7 +139,7 @@
             <li>- ECIS control, acquisition, and display software</li>
             <li>- Validation test array</li>
             <li>- Two 96 well gold coated dipping pin assemblies</li>
-          </ul>
+          </ul> -->
 
           <div class="row my-5">
             <div class="col-lg-8 mx-auto">
@@ -154,15 +148,15 @@
           </div>
 
           <p class="mt-4">
-            Non-invasive measurements may be made continuously for days and even weeks with TEER96. The fixed position
+            Non-invasive measurements may be made continuously for days with TEER96. The fixed position
             of electrodes throughout the measurements eliminates operator variability allowing precise and repeatable
-            measurements of cell layers with weak barrier function (&lt;10 ohm-cm<sup>2</sup>).
+            measurements of cell layers.
           </p>
           <p class="mt-4">
             The TEER96 accepts standard Millipore<sup>&reg;</sup> and Corning<sup>&reg;</sup> 96-well filter plates.
             These are placed on the platen of the TEER96. An optical switch senses the array is in place and
             automatically moves the array into the station and precisely moves the plate up to the dipping pins. Each
-            well has two gold coated dipping pins, one for the counter electrode and one over the filter to take the
+            well has two stainless steel coated dipping pins, one for the counter electrode and one over the filter to take the
             measurement.
           </p>
           <p>
@@ -180,10 +174,10 @@
             <li class="nav-item">
               <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
             </li>
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab" aria-controls="video" aria-selected="false">Video</a>
             </li>
-            <!-- <li class="nav-item">
+            <li class="nav-item">
               <a class="nav-link text-dark" id="options-tab" data-scroll-ignore data-toggle="tab" href="#options"
                 role="tab" aria-controls="options" aria-selected="false">Options</a>
             </li> -->
@@ -219,7 +213,7 @@
         </div>
       </div>
 
-      <div id="dataSheets" class="row mt-5">
+      <!-- <div id="dataSheets" class="row mt-5">
         <div class="col">
           <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
           <hr class="mt-1">
@@ -236,7 +230,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
     </div>
   </section>
