@@ -55,13 +55,13 @@
       <!-- <h5 class="mt-3 no-shows">No tradeshows currently scheduled. Please check back soon.</h5> -->
 
       <div class="tradeshow mb-5">
-        <h4 class="date">October 24-28, 2021</h4>
+        <h4 class="date">October 25-29, 2021</h4>
         <div class="row">
           <div class="col-lg-4">
             <img class="img-fluid mb-3 mb-lg-0" src="public/img/navboMeeting2021.png" alt="NAVBO Banner">
           </div>
           <div class="col-lg-8">
-            <a href="https://www.navbo.org/events/vb2021" class="tradeshow-link" target="_blank">Vascular Biology 2021 - Monterey, CA</a>
+            <a href="https://www.navbo.org/events/vb2021" class="tradeshow-link" target="_blank">Vascular Biology 2021 - Virtual Event</a>
             <p class="mb-0 mt-2">The mission of NAVBO is to promote the study of vascular biology. The purpose of the
               society is to provide a forum whereby members disseminate and share knowledge related to the scientific
               field of vascular biology, to ensure the translation of knowledge from basic science to clinical practice.

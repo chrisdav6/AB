@@ -275,7 +275,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/01cc414e47d340ba8a799c9b6dbf33c2" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Toxicology with ECIS – 11:00 AM EDT</h4>
@@ -284,7 +284,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/b2c03c43b30a44e982680d925184463c" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EDT</h4>
