@@ -445,10 +445,10 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Lochhamer Schlag 11<br>
-              D-82166 Gräfelfing (Munich)<br>
-              Tel: +49 89 520 46 17 391<br>
-              Fax: +49 89 520 46 17 59<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
               Attn: Dr. Christiane Thanisch<br>
               <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
             </address>
