@@ -69,7 +69,6 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Tel: +49 89 520 46 17-0<br>
@@ -84,7 +83,6 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Tel: +49 89 520 46 17-0<br>
@@ -142,7 +140,6 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Tel: +49 89 520 46 17-0<br>
@@ -157,7 +154,6 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Tel: +49 89 520 46 17-0<br>
@@ -172,7 +168,6 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Tel: +49 89 520 46 17-0<br>
@@ -233,7 +228,6 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Tel: +49 89 520 46 17-0<br>
@@ -290,7 +284,6 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Tel: +49 89 520 46 17-0<br>
@@ -305,7 +298,6 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Tel: +49 89 520 46 17-0<br>
@@ -320,7 +312,6 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Tel: +49 89 520 46 17-0<br>
@@ -382,7 +373,6 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Tel: +49 89 520 46 17-0<br>
@@ -397,7 +387,6 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Tel: +49 89 520 46 17-0<br>
@@ -412,7 +401,6 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Tel: +49 89 520 46 17-0<br>

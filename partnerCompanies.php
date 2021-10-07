@@ -100,7 +100,6 @@
           <div class="col-lg-8 col-md-6 mt-4 mt-md-0">
             <h3><a href="https://ibidi.com" class="link text-dark" target="_blank">ibidi GmbH</a></h3>
             <p>
-              Am Klopferspitz 19<br>
               Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
               Email: <a class="text-dark link" href="mailto:info@ibidi.de?subject=Inquiry from Applied Biophysics Website">info@ibidi.de</a><br>
