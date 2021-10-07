@@ -98,20 +98,17 @@
             <img class="img-fluid" src="public/img/ibidiLogo.png" alt="ibidi Logo">
           </div>
           <div class="col-lg-8 col-md-6 mt-4 mt-md-0">
-            <h3><a href="https://ibidi.com" class="link text-dark" target="_blank">Integrated BioDiagnostics</a></h3>
+            <h3><a href="https://ibidi.com" class="link text-dark" target="_blank">ibidi GmbH</a></h3>
             <p>
               Am Klopferspitz 19<br>
-              D-82152 Martinsreid<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
               Germany<br>
-              Tel: 49 (0)89 / 2180 64 19<br>
-              Fax: 49 (0)89 / 2180 135 39
+              Email: <a class="text-dark link" href="mailto:info@ibidi.de?subject=Inquiry from Applied Biophysics Website">info@ibidi.de</a><br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59
             </p>
             <p>
-              In partnership with Integrated Biodiagnostics, Applied BioPhysics now offers ibidi µ-Slide. ibidi is a
-              leading supplier for functional cell-based
-              assays and advanced products for cellular microscopy. ibidi is located in Martinsried, Germany, close to
-              Munich and the US headquarters, ibidi USA
-              Inc., is located in Madison, Wisconsin.
+              ibidi is a leading supplier for functional cell-based assays and advanced products for cellular microscopy. ibidi is located in Gräfelfing, Germany, close to Munich. The US headquarters, ibidi USA Inc., is located in Fitchburg, Wisconsin.
             </p>
           </div>
         </div>

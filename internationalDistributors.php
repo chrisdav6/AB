@@ -64,6 +64,36 @@
             </address>
           </div>
 
+          <div class="col-md-6 my-4">
+            <h3>Austria</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Am Klopferspitz 19<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Belgium</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Am Klopferspitz 19<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
           <!-- <div class="col-md-6 my-4">
                 <h3>Brazil</h3>
                 <hr class="mb-4">
@@ -94,17 +124,46 @@
           <div class="col-md-6 my-4">
             <h3>Czech Republic</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ita-intertact.com" target="_blank">I.T.A-Intertact s.r.o</a>
+            <h5><a class="text-dark link" href="https://svenbiolabs.cz" target="_blank">Sven Bio Labs</a>
             </h5>
             <address>
-              Černokostelecká 616/143, 108 00<br>
-              Praha 10<br>
-              Czech Republic<br>
-              Tel: +420 234 760 838<br>
-              GSM: +420 601 321 094<br>
-              Mobile: +420 725 517 925<br>
-              Attn: Helena Janatkova<br>
-              <a class="text-dark link" href="mailto:janatkova@ita-intertact.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> janatkova@ita-intertact.com</a>
+              Areál AVČR, building Ex<br>
+              Vídeňská 1083<br>
+              Prague 4<br>
+              140 00<br>
+              Tel: +420 731 494 179<br>
+              Attn: Mgr. Lenka Šídová (Kasalová)<br>
+              <a class="text-dark link" href="mailto:sidova@svenbiolabs.cz?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> sidova@svenbiolabs.cz</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Denmark</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Am Klopferspitz 19<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>France</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Am Klopferspitz 19<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
             </address>
           </div>
 
@@ -113,10 +172,11 @@
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
-              Am Lochhamer Schlag 11<br>
-              D-82166 Gräfelfing (Munich)<br>
-              Tel: +49 89 520 46 17 391<br>
-              Fax: +49 89 520 46 17 59<br>
+              Am Klopferspitz 19<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
               Attn: Dr. Christiane Thanisch<br>
               <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
             </address>
@@ -154,7 +214,7 @@
             </address>
           </div>
 
-          <div class="col-md-6 my-4">
+          <!-- <div class="col-md-6 my-4">
             <h3>Italy</h3>
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.origliaservice.it" target="_blank">ORIGLIA Srl</a></h5>
@@ -165,6 +225,21 @@
               Attn: Riccardo Sacco<br>
               <a class="text-dark link" href="mailto:info@origliaservice.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
                 info@origliaservice.it</a>
+            </address>
+          </div> -->
+
+          <div class="col-md-6 my-4">
+            <h3>Italy</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Am Klopferspitz 19<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
             </address>
           </div>
 
@@ -211,6 +286,51 @@
           </div>
 
           <div class="col-md-6 my-4">
+            <h3>Netherlands</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Am Klopferspitz 19<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Norway</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Am Klopferspitz 19<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Portugal</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Am Klopferspitz 19<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
             <h3>Puerto Rico</h3>
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.avpcaribe.com" target="_blank">J.C. Gonzalez, Inc.</a>
@@ -244,17 +364,61 @@
           <div class="col-md-6 my-4">
             <h3>Slovakia</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ita-intertact.com" target="_blank">I.T.A-Intertact s.r.o</a>
+            <h5><a class="text-dark link" href="https://svenbiolabs.cz" target="_blank">Sven Bio Labs</a>
             </h5>
             <address>
-              Černokostelecká 616/143, 108 00<br>
-              Praha 10<br>
-              Czech Republic<br>
-              Tel: +420 234 760 838<br>
-              GSM: +420 601 321 094<br>
-              Mobile: +420 725 517 925<br>
-              Attn: Helena Janatkova<br>
-              <a class="text-dark link" href="mailto:janatkova@ita-intertact.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> janatkova@ita-intertact.com</a>
+              Areál AVČR, building Ex<br>
+              Vídeňská 1083<br>
+              Prague 4<br>
+              140 00<br>
+              Tel: +420 731 494 179<br>
+              Attn: Mgr. Lenka Šídová (Kasalová)<br>
+              <a class="text-dark link" href="mailto:sidova@svenbiolabs.cz?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> sidova@svenbiolabs.cz</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Spain</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Am Klopferspitz 19<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Sweden</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Am Klopferspitz 19<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Switzerland</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Am Klopferspitz 19<br>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
             </address>
           </div>
 
