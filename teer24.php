@@ -58,7 +58,7 @@
               </ol>
 
               <div class="carousel-item active">
-                <img class="d-block w-100" src="public/img/teer24Large.jpg" alt="TEER24 Barrier Function Measurement System">
+                <img class="d-block w-100" src="public/img/teer24Graph.jpg" alt="TEER24 Barrier Function Measurement System">
               </div>
 
               <div class="carousel-item">
@@ -66,11 +66,11 @@
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/teer24top.jpg" alt="TEER24 Barrier Function Measurement System Top View">
+                <img class="d-block w-100" src="public/img/teer24Side.jpg" alt="TEER24 Barrier Function Measurement System Side View">
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/teer24Data.jpg" alt="TEER24 Barrier Function Measurement System Data">
+                <img class="d-block w-100" src="public/img/teer24Incubator.jpg" alt="TEER24 Barrier Function Measurement System Incubator">
               </div>
 
             </div>
