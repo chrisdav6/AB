@@ -70,7 +70,7 @@
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/cp96Computer.jpg" alt="CP96 Cell Proliferation Measurement System Computer">
+                <img class="d-block w-100" src="public/img/cp96Incubator.jpg" alt="CP96 Cell Proliferation Measurement System Incubator">
               </div>
 
             </div>
