@@ -53,20 +53,16 @@
               <ol class="carousel-indicators">
                 <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                 <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
               </ol>
 
               <div class="carousel-item active">
-                <img class="d-block w-100" src="public/img/zThetaLarge1.jpg" alt="ZTheta with 16 Well Array Station">
+                <img class="d-block w-100" src="public/img/zThetaFullSystem.jpg" alt="ZTheta Full System">
               </div>
 
               <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/zThetaLarge2.jpg" alt="ZTheta with 96 Well Array Station">
+                <img class="d-block w-100" src="public/img/zThetaStageAdapter.jpg" alt="ZTheta Stage Adapter">
               </div>
 
-              <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/zThetaData.jpg" alt="ZTheta System Data">
-              </div>
 
             </div>
             <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
