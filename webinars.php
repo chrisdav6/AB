@@ -132,14 +132,14 @@
 
       <h4 class="mt-lg-0 mb-3 secondary-title">2021 - 2022 Webinar Schedule</h4>
 
-      <div class="webinar">
+      <!--<div class="webinar">
         <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EST</h4>
         <p class="date">November 9, 2021</p>
         <p>This webinar will review ECIS and then show how complex impedance measurements can be used to evaluate the barrier function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically modeled will be briefly introduced.</p>
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/0561cabb375b4826956fa9cf0611391e" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
