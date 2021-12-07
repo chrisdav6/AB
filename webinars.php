@@ -130,7 +130,7 @@
           </div>
         </div>-->
 
-      <h4 class="mt-lg-0 mb-3 secondary-title">2021 - 2022 Webinar Schedule</h4>
+      <h4 class="mt-lg-0 mb-3 secondary-title">2022 Webinar Schedule</h4>
 
       <!--<div class="webinar">
         <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EST</h4>
@@ -148,7 +148,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/831b3bd20c084b42b0684eff0c428781" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
@@ -157,7 +157,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/4259ef6fe721464595090bd652fe0f59" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
