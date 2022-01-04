@@ -88,8 +88,8 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Webinars</h3>
-                <h4 class="mb-1">January 4, 2022</h4>
-                <p class="card-text mb-0">ECIS Theory</p>
+                <h4 class="mb-1">January 18, 2022</h4>
+                <p class="card-text mb-0">Cell Invasion / Extravasation Assays</p>
                 <p class="card-text mb-0">11:00AM EST</p>
               </div>
             </div>
