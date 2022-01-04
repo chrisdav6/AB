@@ -120,6 +120,20 @@
           </div>
 
           <div class="col-md-6 my-4">
+            <h3>Croatia</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
             <h3>Czech Republic</h3>
             <hr class="mb-4">
             <h5><a class="text-dark link" href="https://svenbiolabs.cz" target="_blank">Sven Bio Labs</a>
@@ -137,6 +151,34 @@
 
           <div class="col-md-6 my-4">
             <h3>Denmark</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Estonia</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Finland</h3>
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
@@ -194,6 +236,20 @@
           </div>
 
           <div class="col-md-6 my-4">
+            <h3>Ireland</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
             <h3>Israel</h3>
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.almog.co.il" target="_blank">Almog Diagnostic</a></h5>
@@ -208,20 +264,6 @@
                 nitsan@almog.co.il</a>
             </address>
           </div>
-
-          <!-- <div class="col-md-6 my-4">
-            <h3>Italy</h3>
-            <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.origliaservice.it" target="_blank">ORIGLIA Srl</a></h5>
-            <address>
-              Via Cascina Duomo 38<br>
-              20010 Cornaredo (MI) – Italy<br>
-              Tel: +39 02 93503262<br>
-              Attn: Riccardo Sacco<br>
-              <a class="text-dark link" href="mailto:info@origliaservice.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
-                info@origliaservice.it</a>
-            </address>
-          </div> -->
 
           <div class="col-md-6 my-4">
             <h3>Italy</h3>
@@ -265,6 +307,34 @@
           </div>
 
           <div class="col-md-6 my-4">
+            <h3>Latvia</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Lithuania</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
             <h3>Malaysia</h3>
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.pretech.com.sg" target="_blank">Precision Technologies</a>
@@ -295,6 +365,20 @@
 
           <div class="col-md-6 my-4">
             <h3>Norway</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Poland</h3>
             <hr class="mb-4">
             <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
             <address>
@@ -365,6 +449,20 @@
               Tel: +420 731 494 179<br>
               Attn: Mgr. Lenka Šídová (Kasalová)<br>
               <a class="text-dark link" href="mailto:sidova@svenbiolabs.cz?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> sidova@svenbiolabs.cz</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Slovenia</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <address>
+              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
+              Germany<br>
+              Tel: +49 89 520 46 17-0<br>
+              Fax: +49 89 520 46 17-59<br>
+              Attn: Dr. Christiane Thanisch<br>
+              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
             </address>
           </div>
 

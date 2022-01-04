@@ -15,22 +15,30 @@ function initMap() {
     ['Belgium, ibidi GmbH', 50.743101, 4.630654],
     // ['Brazil, BIOProphecy', -9.931470, -50.785254],
     ['China, Dakewe Biotech Co', 35.682732, 103.662959],
+    ['Croatia, ibidi GmbH', 44.731775, 15.355882],
     ['Czech Republic, Sven Bio Labs', 49.802342, 15.038014],
     ['Denmark, ibidi GmbH', 56.185261, 9.201947],
+    ['Estonia, ibidi GmbH', 58.968993, 25.798235],
+    ['Finland, ibidi GmbH', 61.056643, 25.226935],
     ['France, ibidi GmbH', 47.022127, 2.532289],
     ['Germany, ibidi GmbH', 51.475423, 10.377814],
     ['India, Labmate', 23.647772, 79.508199],
+    ['Ireland, ibidi GmbH', 53.295854, -7.973595],
     ['Israel, Almog Diagnostic', 31.261726, 34.953094],
     ['Italy, ibidi GmbH', 43.560405, 12.229838],
     ['Japan, Nepa Gene Company, Ltd.', 36.987055, 138.438764],
     ['Korea, LeeBaeg Science Co., Ltd.', 36.858338, 127.988415],
+    ['Latvia, ibidi GmbH', 56.793994, 25.97753],
+    ['Lithuania, ibidi GmbH', 55.202891, 24.025879],
     ['Malaysia, Precision Technologies', 4.187779, 102.043109],
     ['Netherlands, ibidi GmbH', 52.248033, 5.779013],
     ['Norway, ibidi GmbH', 61.378787, 9.180056],
+    ['Poland, ibidi GmbH', 52.464317, 18.870001],
     ['Portugal, ibidi GmbH', 40.055457, -8.044187],
     ['Puerto Rico, Audio & Video Pro Caribe', 18.229927, -66.459357],
     ['Singapore, Precision Technologies', 1.363426, 103.867258],
     ['Slovakia, Sven Bio Labs', 48.942438, 19.254374],
+    ['Slovenia, ibidi GmbH', 46.182112, 14.718282],
     ['Spain, ibidi GmbH', 40.171765, -3.102586],
     ['Sweden, ibidi GmbH', 57.31371, 14.512524],
     ['Switzerland, ibidi GmbH', 46.948425, 8.043165],
@@ -99,6 +107,18 @@ function initMap() {
         '</div>',
     ],
 
+    //Croatia
+    [
+      '<div class="map-text">' +
+        '<span>ibidi GmbH</span><br>' +
+        '<hr>' +
+        'Tel: +49 89 520 46 17-0<br>' +
+        'Attn: Dr. Christiane Thanisch<br>' +
+        '<p><a class="map-link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="http://www.ibidi.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '</div>',
+    ],
+
     // Czech Republic
     [
       '<div class="map-text">' +
@@ -112,6 +132,30 @@ function initMap() {
     ],
 
     //Denmark
+    [
+      '<div class="map-text">' +
+        '<span>ibidi GmbH</span><br>' +
+        '<hr>' +
+        'Tel: +49 89 520 46 17-0<br>' +
+        'Attn: Dr. Christiane Thanisch<br>' +
+        '<p><a class="map-link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="http://www.ibidi.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '</div>',
+    ],
+
+    //Estonia
+    [
+      '<div class="map-text">' +
+        '<span>ibidi GmbH</span><br>' +
+        '<hr>' +
+        'Tel: +49 89 520 46 17-0<br>' +
+        'Attn: Dr. Christiane Thanisch<br>' +
+        '<p><a class="map-link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="http://www.ibidi.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '</div>',
+    ],
+
+    //Finland
     [
       '<div class="map-text">' +
         '<span>ibidi GmbH</span><br>' +
@@ -156,6 +200,18 @@ function initMap() {
         'Attn: S. Viswanathan<br>' +
         '<p><a class="map-link" href="mailto:labmate@vsnl.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="http://www.labmateasia.com" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '</div>',
+    ],
+
+    //Ireland
+    [
+      '<div class="map-text">' +
+        '<span>ibidi GmbH</span><br>' +
+        '<hr>' +
+        'Tel: +49 89 520 46 17-0<br>' +
+        'Attn: Dr. Christiane Thanisch<br>' +
+        '<p><a class="map-link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="http://www.ibidi.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -204,6 +260,30 @@ function initMap() {
         '</div>',
     ],
 
+    //Latvia
+    [
+      '<div class="map-text">' +
+        '<span>ibidi GmbH</span><br>' +
+        '<hr>' +
+        'Tel: +49 89 520 46 17-0<br>' +
+        'Attn: Dr. Christiane Thanisch<br>' +
+        '<p><a class="map-link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="http://www.ibidi.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '</div>',
+    ],
+
+    //Lithuania
+    [
+      '<div class="map-text">' +
+        '<span>ibidi GmbH</span><br>' +
+        '<hr>' +
+        'Tel: +49 89 520 46 17-0<br>' +
+        'Attn: Dr. Christiane Thanisch<br>' +
+        '<p><a class="map-link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="http://www.ibidi.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '</div>',
+    ],
+
     //Malaysia
     [
       '<div class="map-text">' +
@@ -228,6 +308,18 @@ function initMap() {
     ],
 
     //Norway
+    [
+      '<div class="map-text">' +
+        '<span>ibidi GmbH</span><br>' +
+        '<hr>' +
+        'Tel: +49 89 520 46 17-0<br>' +
+        'Attn: Dr. Christiane Thanisch<br>' +
+        '<p><a class="map-link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="http://www.ibidi.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '</div>',
+    ],
+
+    //Poland
     [
       '<div class="map-text">' +
         '<span>ibidi GmbH</span><br>' +
@@ -283,6 +375,18 @@ function initMap() {
         'Attn: Mgr. Lenka Šídová (Kasalová)<br>' +
         '<p><a class="map-link" href="mailto:sidova@svenbiolabs.cz?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://svenbiolabs.cz" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '</div>',
+    ],
+
+    //Slovenia
+    [
+      '<div class="map-text">' +
+        '<span>ibidi GmbH</span><br>' +
+        '<hr>' +
+        'Tel: +49 89 520 46 17-0<br>' +
+        'Attn: Dr. Christiane Thanisch<br>' +
+        '<p><a class="map-link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="http://www.ibidi.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
