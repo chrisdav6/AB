@@ -44,34 +44,23 @@
   <section id="requestDemoContent" class="py-4 mb-5">
     <div class="container text-center text-md-left">
 
-      <h2 class="mb-4">Thank you for your interest in ECIS. </h2>
+      <h2 class="mb-4">Thank you for your interest in ECIS.</h2>
 
       <p class="requestIntro mb-4">
         Below are a few conditions along with requirements for a successful demonstration.
       </p>
 
-      <p>Applied Biophysics (ABP) agrees to make available an ECIS instrument (Z or Z&theta;) for a 4-week period.</p>
+      <p>Applied Biophysics (ABP) agrees to make available an ECIS instrument for a 4-week period.</p>
 
       <p>
-        All equipment necessary for Electric Cell-substrate Impedance Sensing is provided by ABP, which includes: ECIS
-        controller, array station, computer and start up supply of arrays. (Typically with a demo ABP provides 6
-        arrays (three 8W1E and 8W10E+). Additional arrays are available for purchase at a cost of $44.95 each.
-      </p>
-
-      <p>ABP agrees to pay the shipping from ABP to your location and requests researcher, should the decision be made
-        not to keep the instrument, customer pays return shipping fees.</p>
-
-      <p>
-        ABP requests at least one researcher be dedicated to the operation and maintenance of the instrument. As the
-        dedicated operator we request to speak with this researcher on a weekly basis to review data and system
-        operation.
+        All equipment necessary for Electric Cell-substrate Impedance Sensing is provided by ABP, which includes: ECIS controller, array station, computer and start up supply of arrays. Additional arrays are available for purchase.
       </p>
 
       <p>
-        A minimum bench length of 45 cm is required next to the incubator (opposite the hinge side), for controller
-        location. If the incubator does not have a port for cables, the cables most go over the door flange and are
-        held in place by the doors. We do recommend a dedicated incubator as the measurements reflect changes in
-        temperature.
+        ABP agrees to pay the shipping from ABP to your location and requests that the researcher, should the decision be made not to keep the instrument, pays the return shipping fees.</p>
+
+      <p>
+        ABP requests at least one researcher be dedicated to the operation and maintenance of the instrument. As the dedicated operator we request to speak with this researcher on a weekly basis to review data and system operation.
       </p>
 
       <h4 class="mt-5 mb-4 secondary-title">Request Demo Form</h4>
