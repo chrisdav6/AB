@@ -97,6 +97,9 @@
             Sheet</a>
           <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a>
           <!-- <p class="text-danger mt-3"><small>***Please note CP96 is currently on backorder, please contact us for more information***</small></p> -->
+          <a class='schedule-meet' href='https://calendly.com/mdetweiler' target='_blank'>
+            Schedule Zoom Informational Meeting Here
+          </a>
         </div>
 
       </div>

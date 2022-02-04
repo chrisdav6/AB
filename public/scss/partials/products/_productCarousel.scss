@@ -30,4 +30,28 @@
   .coming-soon {
     color: $orange;
   }
+
+  .schedule-meet {
+    display: block;
+    margin-top: 20px;
+    width: 100%;
+    background: $orange;
+    padding: .75em;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    transition: .5s;
+
+    @include mq600 {
+      padding: 1em;
+      font-size: 1.25rem;
+    }
+
+    &:hover,
+    &:active {
+      background: rgb(255, 145, 0);
+    }
+  }
 }
