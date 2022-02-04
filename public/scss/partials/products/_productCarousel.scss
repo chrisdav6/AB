@@ -1,4 +1,22 @@
 #productCarousel {
+
+  //Black Carousel Indicators and Buttons
+  .carousel .carousel-indicators li {
+    background-color: #fff !important;
+    background-color: rgba(70, 70, 70, 0.25) !important;
+  }
+
+  .carousel .carousel-indicators .active {
+    background-color: #444 !important;
+  }
+
+  .carousel-control-next-icon,
+  .carousel-control-prev-icon {
+    filter: invert(1);
+  }
+
+  //Black Carousel Indicators and Buttons
+
   .productBtn {
     @include mq600 {
       display: block;
