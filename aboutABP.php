@@ -122,11 +122,7 @@
                 <div class="col-md-9 col-lg-10">
                   <h3 class="mb-3">Catherine Toniatti-Yanulavich - President</h3>
                   <p>
-                    Catherine received her BS in Biology from Rensselaer Polytechnic Institute. Prior to working for
-                    Applied
-                    BioPhysics she completed an internship at Albany Medical College. She will be consulting with
-                    researchers
-                    to match ECIS technology with their individual needs and goals.
+                    Catherine received her BS in Biology from Rensselaer Polytechnic Institute. She has over 15 years of experience in the marketing and sales of ECIS products. She will be consulting with researchers to match ECIS technology with their individual needs and goals.
                   </p>
                 </div>
               </div>
