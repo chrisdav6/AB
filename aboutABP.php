@@ -117,12 +117,28 @@
 
               <div class="row mb-5">
                 <div class="col-md-3 col-lg-2 mb-4 mb-md-0">
+                  <img class="img-fluid memberPhoto" src="public/img/catherine2020.jpg" alt="Catherine Toniatti Photo">
+                </div>
+                <div class="col-md-9 col-lg-10">
+                  <h3 class="mb-3">Catherine Toniatti-Yanulavich - President</h3>
+                  <p>
+                    Catherine received her BS in Biology from Rensselaer Polytechnic Institute. Prior to working for
+                    Applied
+                    BioPhysics she completed an internship at Albany Medical College. She will be consulting with
+                    researchers
+                    to match ECIS technology with their individual needs and goals.
+                  </p>
+                </div>
+              </div>
+
+              <div class="row mb-5">
+                <div class="col-md-3 col-lg-2 mb-4 mb-md-0">
                   <img class="img-fluid memberPhoto" src="public/img/charlie.jpg" alt="Charles Keese Photo">
                 </div>
                 <div class="col-md-9 col-lg-10">
-                  <h3 class="mb-3">Dr. Charles Keese - President</h3>
+                  <h3 class="mb-3">Dr. Charles Keese - Chief Technology Officer</h3>
                   <p>
-                    Charles R. Keese, President, holds a BS in physics and a Ph.D. in biology and is the author of
+                    Charles R. Keese, holds a BS in physics and a Ph.D. in biology and is the author of
                     numerous
                     technical papers and patents. While a staff scientist at the General Electric Research and
                     Development
@@ -162,22 +178,6 @@
                     with an
                     industrial marketing focus. He has over 16 years of experience in the marketing and sales of high
                     technology products.
-                  </p>
-                </div>
-              </div>
-
-              <div class="row mb-5">
-                <div class="col-md-3 col-lg-2 mb-4 mb-md-0">
-                  <img class="img-fluid memberPhoto" src="public/img/catherine2020.jpg" alt="Catherine Toniatti Photo">
-                </div>
-                <div class="col-md-9 col-lg-10">
-                  <h3 class="mb-3">Catherine Toniatti-Yanulavich - Vice President Sales</h3>
-                  <p>
-                    Catherine received her BS in Biology from Rensselaer Polytechnic Institute. Prior to working for
-                    Applied
-                    BioPhysics she completed an internship at Albany Medical College. She will be consulting with
-                    researchers
-                    to match ECIS technology with their individual needs and goals.
                   </p>
                 </div>
               </div>
