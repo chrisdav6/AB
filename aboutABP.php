@@ -132,7 +132,7 @@
                   <img class="img-fluid memberPhoto" src="public/img/charlie.jpg" alt="Charles Keese Photo">
                 </div>
                 <div class="col-md-9 col-lg-10">
-                  <h3 class="mb-3">Dr. Charles Keese - Chief Technology Officer</h3>
+                  <h3 class="mb-3">Dr. Charles Keese - Chief Scientific Officer</h3>
                   <p>
                     Charles R. Keese, holds a BS in physics and a Ph.D. in biology and is the author of
                     numerous
