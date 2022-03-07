@@ -88,9 +88,9 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Webinars</h3>
-                <h4 class="mb-1">March 1, 2022</h4>
-                <p class="card-text mb-0">Real-time Electroporation and Monitoring</p>
-                <p class="card-text mb-0">11:00AM EST</p>
+                <h4 class="mb-1">March 15, 2022</h4>
+                <p class="card-text mb-0">Cell Attachment and Spreading Measurements</p>
+                <p class="card-text mb-0">11:00AM EDT</p>
               </div>
             </div>
           </a>
