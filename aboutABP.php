@@ -538,6 +538,11 @@
               <div class="row">
                 <div class="col-lg-10 mx-auto">
                   <div class="mb-5">
+                    <img class="img-fluid" src="public/img/ComicCrosswordMarch2022.png" alt="ECIS Comic Crossword March 2022">
+                    <a href="https://puzzel.org/acrostic/play?p=-MxB6sb16xy_EBR9GwKM" class="link text-dark" target="_blank">Play Online</a> -
+                    <a href="public/pdf/ComicCrosswordMarch2022Answers.pdf" class="link text-dark" target="_blank">Link to answers</a>
+                  </div>
+                  <div class="mb-5">
                     <img class="img-fluid" src="public/img/ComicCrosswordMay2021.jpg" alt="ECIS Comic Crossword May 2021">
                     <a href="https://puzzel.org/en/crossword/play?p=-M2AONytbLfneqt1lnZM" class="link text-dark" target="_blank">Play Online</a> -
                     <a href="public/pdf/ComicCrosswordMay2021Answers.pdf" class="link text-dark" target="_blank">Link to answers</a>
