@@ -219,6 +219,11 @@
                 <img class="img-fluid" src="public/img/cp96Manual.jpg" alt="Download CP96 Manual">
               </a>
             </div>
+            <div class="col-md-3">
+              <a href="public/pdf/MeasuringCytotoxicityCP96.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Measuring Cytotoxicity">
+                <img class="img-fluid" src="public/img/cp96MeasuringCytotoxicity.jpg" alt="Measuring Cytotoxicity">
+              </a>
+            </div>
           </div>
         </div>
       </div>
