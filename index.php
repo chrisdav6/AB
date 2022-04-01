@@ -41,7 +41,7 @@
     <!-- <a href="aboutABP.php" class="anniversary_link"> -->
     <div class="container py-3 text-center">
       <h5 class="mb-0">
-        Applied Biophysics, the creator of ECIS, is proud to celebrate 30 years in business!
+        Applied Biophysics, the creator of ECIS<sup>®</sup>, is proud to celebrate 30 years in business!
       </h5>
     </div>
     <!-- </a> -->
@@ -61,7 +61,7 @@
       <div class="row">
         <div class="col pt-5">
           <h3 class="text-light text-center hero-text">
-            ECIS, the label free, non-invasive method to electronically monitor cells grown in tissue culture.
+            ECIS<sup>®</sup>, the label free, non-invasive method to electronically monitor cells grown in tissue culture.
           </h3>
         </div>
       </div>
