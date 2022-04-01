@@ -34,7 +34,7 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <h1 class="display-2">TEER24<span class="registered">®</span></h1>
+          <h1 class="display-2">ECIS<sup class="registered">®</sup> TEER24</h1>
           <hr class="my-2">
           <h2>Barrier Function Measurement System</h2>
         </div>
