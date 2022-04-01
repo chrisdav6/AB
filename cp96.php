@@ -34,7 +34,7 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <h1 class="display-2">CP96</h1>
+          <h1 class="display-2">CP96<span class="registered">®</span></h1>
           <hr class="my-2">
           <h2>Cell Population Monitor</h2>
         </div>
