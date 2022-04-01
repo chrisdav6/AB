@@ -117,31 +117,48 @@
             function of cell layers grown on membrane insert filters. Data is collected continuously from up to 24
             independent wells and reported as real-time barrier function changes in ohm-cm<sup>2</sup>.
           </p>
-          <h5 class="mt-4">Benefits</h5>
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- Automated TEER measurements from under 10 to 2,500 ohm-cm<sup>2</sup> in 24 wells</li>
-            <li>- Uses standard commercially available membrane inserts</li>
-            <li>- Data recorded and visualized in real time under incubator conditions</li>
-            <li>- Accurate measuring of endothelial barrier function</li>
-            <li>- Long term data collection capabilities</li>
-            <li>- Easily sterilizable, disposable array and autoclavable stainless dipping pins</li>
-            <li>- Fast barrier function dynamics monitoring</li>
-            <li>- Non-invasive &amp; label free</li>
-            <li>- Highly reproducible</li>
-            <li>- User friendly software</li>
-            <li>- Data output in CSV or graphical (jpg, tif)</li>
-            <li>- Create figures and plots of data</li>
-          </ul>
-          <h5 class="mt-4">System Includes:</h5>
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- 24 well channel station</li>
-            <li>- External control module</li>
-            <li>- Laptop PC</li>
-            <li>- ECIS control, acquisition, and display software</li>
-            <li>- Validation test array</li>
-            <li>- 1 Common Electrode Array (CEA) with 24 gold pins</li>
-            <li>- Four 24-well TEER consumable electrode microplates</li>
-          </ul>
+
+          <div class="row">
+            <div class="col-lg-8 col-md-6">
+              <h5 class="mt-4">Benefits</h5>
+              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+                <li>- Automated TEER measurements from under 10 to 2,500 ohm-cm<sup>2</sup> in 24 wells</li>
+                <li>- Uses standard commercially available membrane inserts</li>
+                <li>- Data recorded and visualized in real time under incubator conditions</li>
+                <li>- Accurate measuring of endothelial barrier function</li>
+                <li>- Long term data collection capabilities</li>
+                <li>- Easily sterilizable, disposable array and autoclavable stainless dipping pins</li>
+                <li>- Fast barrier function dynamics monitoring</li>
+                <li>- Non-invasive &amp; label free</li>
+                <li>- Highly reproducible</li>
+                <li>- User friendly software</li>
+                <li>- Data output in CSV or graphical (jpg, tif)</li>
+                <li>- Create figures and plots of data</li>
+              </ul>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <img class="img-fluid pt-0 pt-md-5 my-3 my-md-0" src="public/img/TEER24Graph2.jpg" alt="TEER 24 Graph">
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-lg-8 col-md-6">
+              <h5 class="mt-4">System Includes:</h5>
+              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+                <li>- 24 well channel station</li>
+                <li>- External control module</li>
+                <li>- Laptop PC</li>
+                <li>- ECIS control, acquisition, and display software</li>
+                <li>- Validation test array</li>
+                <li>- 1 Common Electrode Array (CEA) with 24 gold pins</li>
+                <li>- Four 24-well TEER consumable electrode microplates</li>
+              </ul>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <img class="img-fluid pt-0 pt-md-4 my-3 my-md-0" src="public/img/TEER24Includes.jpg" alt="TEER 24 Includes">
+            </div>
+          </div>
+
           <p class="mt-4">
             Non-invasive measurements may be made continuously for days and even weeks with TEER24. The fixed position
             of electrodes throughout the measurements eliminates operator variability allowing precise and repeatable
