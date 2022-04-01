@@ -159,7 +159,7 @@
             </div>
           </div>
 
-          <p class="mt-4">
+          <p class="mt-5">
             Non-invasive measurements may be made continuously for days and even weeks with TEER24. The fixed position
             of electrodes throughout the measurements eliminates operator variability allowing precise and repeatable
             measurements of cell layers. There is no need to take the station out of the incubator, therefore eliminating temperature variations.
