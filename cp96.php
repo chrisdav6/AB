@@ -120,35 +120,53 @@
             without damaging the cells. Cell population is monitored as cells are grown in a normal CO<sub>2</sub>
             tissue culture incubator, and data are reported as real-time changes in percent of cell-substrate coverage.
           </p>
-          <h5 class="mt-4">Benefits</h5>
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- Automated cell population monitoring in 96 wells</li>
-            <li>- Data recorded and visualized in real time under incubator conditions</li>
-            <li>- Long-term data collection capabilities</li>
-            <li>- Non-invasive &amp; label free</li>
-            <li>- Highly reproducible</li>
-            <li>- User Friendly software</li>
-            <li>- Calculate EC50 values</li>
-            <li>- Data output in CSV or graphical (jpg, tif)</li>
-            <li>- Impedance data converted to percent of cell-substrate coverage</li>
-            <li>- Create figures and plots of data</li>
-          </ul>
+
+          <div class="row">
+            <div class="col-lg-8 col-md-6">
+              <h5 class="mt-4">Benefits</h5>
+              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+                <li>- Automated cell population monitoring in 96 wells</li>
+                <li>- Data recorded and visualized in real time under incubator conditions</li>
+                <li>- Long-term data collection capabilities</li>
+                <li>- Non-invasive &amp; label free</li>
+                <li>- Highly reproducible</li>
+                <li>- User Friendly software</li>
+                <li>- Calculate EC50 values</li>
+                <li>- Data output in CSV or graphical (jpg, tif)</li>
+                <li>- Impedance data converted to percent of cell-substrate coverage</li>
+                <li>- Create figures and plots of data</li>
+              </ul>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <img class="img-fluid pt-0 pt-md-5 my-3 my-md-0" src="public/img/CytotoxicityGraph.jpg" alt="CP96 Graph">
+            </div>
+          </div>
+
           <h5 class="mt-4">Features</h5>
           <ul class="list-unstyled mt-3 ml-0 ml-md-3">
             <li>- Follow dynamics of cell-substrate coverage</li>
             <li>- Study cytotoxic effects of compounds upon cell proliferation or loss of viability</li>
             <li>- Calculate EC50 values</li>
           </ul>
-          <h5 class="mt-4">System Includes:</h5>
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- 96 channel station</li>
-            <li>- External control module</li>
-            <li>- Laptop PC</li>
-            <li>- ECIS control, acquisition, and display software</li>
-            <li>- Validation test array</li>
-            <li>- Six 96W20idf consumable electrode arrays</li>
-          </ul>
-          <p class="mt-4">
+
+          <div class="row">
+            <div class="col-lg-8 col-md-6">
+              <h5 class="mt-4">System Includes:</h5>
+              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+                <li>- 96 channel station</li>
+                <li>- External control module</li>
+                <li>- Laptop PC</li>
+                <li>- ECIS control, acquisition, and display software</li>
+                <li>- Validation test array</li>
+                <li>- Six 96W20idf consumable electrode arrays</li>
+              </ul>
+            </div>
+            <div class="col-lg-4 col-md-6">
+              <img class="img-fluid pt-0 pt-md-4 my-3 my-md-0" src="public/img/CP96Includes.jpg" alt="CP96 Includes">
+            </div>
+          </div>
+
+          <p class="mt-5">
             These non-invasive measurements can be made for days and even weeks without the need to remove the station
             from the incubator, eliminating unwanted temperature and pH variations.
           </p>
