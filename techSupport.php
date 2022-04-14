@@ -62,7 +62,7 @@
       <div class="supportDocs">
         <p><a href="public/pdf/ECISApplicationsBrochure.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Applications Brochure</a></p>
         <p><a href="public/pdf/TEER24DataSheetR5.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS TEER24 Brochure</a></p>
-        <p><a href="public/pdf/CP96DataSheetR4.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS CP96 Brochure</a></p>
+        <p><a href="public/pdf/CP96DataSheetR6.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS CP96 Brochure</a></p>
         <p><a href="public/pdf/ECISCancer.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Cancer</a></p>
         <p><a href="public/pdf/ECISVirology.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Virology</a></p>
         <p><a href="public/pdf/ECISEndothelialCellResearch.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Endothelial Cell Research</a></p>

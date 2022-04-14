@@ -93,7 +93,7 @@
             Cell population is measured in real time, under incubator conditions, label-free and in 96 wells.
             Introducing the all new CP96 by Applied Biophysics, Inc. Data collection made easy.”
           </p>
-          <a href="public/pdf/CP96DataSheetR4.pdf" target="_blank" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
+          <a href="public/pdf/CP96DataSheetR6.pdf" target="_blank" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
             Sheet</a>
           <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a>
           <!-- <p class="text-danger mt-3"><small>***Please note CP96 is currently on backorder, please contact us for more information***</small></p> -->
@@ -228,7 +228,7 @@
           <hr class="mt-1">
           <div class="row mt-4">
             <div class="col-md-3 pb-4 pb-md-0">
-              <a href="public/pdf/CP96DataSheetR4.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download CP96 Data Sheet">
+              <a href="public/pdf/CP96DataSheetR6.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download CP96 Data Sheet">
                 <img class="img-fluid" src="public/img/cp96DataSheet.jpg" alt="Download CP96 Data Sheet">
               </a>
             </div>
