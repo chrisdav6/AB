@@ -49,10 +49,23 @@
           What better way to learn more about the power of ECIS than joining us at scientific events around the world!
         </p>
 
-        <p>Below are a list of upcoming shows that Applied BioPhysics will attend in 2021:</p>
+        <p>Below are a list of upcoming shows that Applied BioPhysics will attend in 2022:</p>
       </div>
 
-      <h5 class="mt-3 no-shows">No tradeshows currently scheduled. Please check back soon.</h5>
+      <!-- <h5 class="mt-3 no-shows">No tradeshows currently scheduled. Please check back soon.</h5> -->
+
+      <div class="tradeshow mb-5">
+        <h4 class="date">October 14-16, 2022</h4>
+        <div class="row">
+          <div class="col-lg-4">
+            <img class="img-fluid mb-3 mb-lg-0" src="public/img/ivbm2022.png" alt="IVBM Banner">
+          </div>
+          <div class="col-lg-8">
+            <a href="https://www.ivbm2022.org" class="tradeshow-link" target="_blank">22nd International Vascular Biology Meeting (IVBM) - Oakland, CA</a>
+            <p class="mb-0 mt-2">IVBM 2022 will feature an exciting scientific program with renowned speakers in the field, and will provide various opportunities for participants to build collaborative networks. The meeting will be composed of plenary and concurrent sessions reflecting diverse research topics in vascular biology from basic to translational level.</p>
+          </div>
+        </div>
+      </div>
 
       <!-- <div class="tradeshow mb-5">
         <h4 class="date">October 25-29, 2021</h4>

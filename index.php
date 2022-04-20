@@ -101,11 +101,11 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Tradeshows</h3>
-                <h4 class="mb-1">No Scheduled Shows</h4>
-                <p class="card-text mb-0">Please check back soon.</p>
-                <!-- <h4 class="mb-1">October 25-29, 2021</h4>
-                <p class="card-text mb-0">Vascular Biology 2021</p>
-                <p class="card-text mb-0">Virtual Event</p> -->
+                <!-- <h4 class="mb-1">No Scheduled Shows</h4>
+                <p class="card-text mb-0">Please check back soon.</p> -->
+                <h4 class="mb-1">October 14-16, 2022</h4>
+                <p class="card-text mb-0">International Vascular Biology 2022</p>
+                <p class="card-text mb-0">Oakland, CA</p>
               </div>
             </div>
           </a>
