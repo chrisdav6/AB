@@ -294,6 +294,39 @@
 
       </div><!-- /culturewareTables -->
 
+      <div class="row my-4">
+        <div class="col">
+          <h2>How Electrode Designs Reveal Aspects of Cell Behavior</h2>
+          <img class="img-fluid py-5 d-block mx-auto" src="public/img/1e v 10e+ web.jpg" alt=">How Electrode Designs Reveal Aspects of Cell Behavior">
+          <h2 class="my-4">Small Electrodes</h2>
+          <p>
+            Small electrodes (1E, 10E, 10E+ type arrays) and their layout within the wells ensure that all current
+            passes through the cell monolayer. This allows the ability to analyze data with the ECIS modeling software
+            to determine barrier function, cell membrane capacitance as well as the spacing between the cell basal
+            membrane and electrode.
+          </p>
+          <p>
+            Keeping the total surface area of the electrodes small also allows for a relatively low AC current to
+            generate the large electric field necessary to either electroporate or kill the cells in migration
+            experiments. Small electrodes also provide the ability to monitor the uncorrelated nano-scale morphological
+            changes of individual or small populations of cells (&lt;100), while larger or multiple electrodes provide
+            the averaged morphological response of many cells (1000+).
+          </p>
+          <h2 class="my-4">Large Electrodes</h2>
+          <p>
+            Some experimental protocols, such as cell proliferation, require sparse inoculations leading to a variance
+            of cell density at the bottom of the well. Large electrodes (CP Array) or a large collection of small
+            electrodes (10E+ Array) increases the sampling size resulting in less variability.
+          </p>
+          <h2 class="my-4">Specialized Designs</h2>
+          <p>
+            Applied Biophysics offers arrays optimized for observing cells under a variety of conditions such as high
+            shear stress and hypoxia/hyperoxia. Additionally, specialized arrays for correlated microscopy and ECIS are
+            available.
+          </p>
+        </div>
+      </div>
+
       <h4 class="mt-4 secondary-title">How to Order Arrays</h4>
 
       <div class="row my-5">
