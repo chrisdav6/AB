@@ -77,13 +77,11 @@
               <h2>CELL-SUBSTRATE COVERAGE</h2>
               <h3>High AC Frequency (&#62; 32,000 Hz)</h3>
               <img class="img-fluid py-5 d-block mx-auto" src="public/img/CGraph.png" alt="Capacitance Graph">
-              <img class="img-fluid mx-auto" src="public/img/High-Frequency-C-toon.png" alt="High Frequency">
             </div>
             <div class="col-md-6">
               <h2 class="mt-5 mt-md-0">CELL-CELL CONTACTS</h2>
               <h3>Low AC Frequency (&#8804; 4000 Hz)</h3>
               <img class="img-fluid py-5 d-block mx-auto" src="public/img/RGraph.png" alt="Resistance Graph">
-              <img class="img-fluid mx-auto" src="public/img/Low-Frequency-R-toon.png" alt="Low Frequency">
             </div>
           </div>
         </div>
