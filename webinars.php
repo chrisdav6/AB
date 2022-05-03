@@ -251,6 +251,15 @@
       <hr>
 
       <div class="webinar">
+        <h4 class="webinar-title">Cytotoxicity Assays with the ECIS<sup>&reg;</sup> CP96 Cell Population Monitor – 11:00 AM EDT</h4>
+        <p class="date">May 17, 2022</p>
+        <p>Electric Cell-substrate Impedance Sensing (ECIS) is a label-free, continuous method for monitoring multiple phenotypic cell behaviors in tissue culture. Join Dr. Charles Keese as he details measuring in vitro cytotoxicity using the ECIS<sup>&reg;</sup> CP96 Cell Population Monitoring system.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/appliedbiophysics/j.php?RGID=r10197dfc6996527230df3e6e66bec319" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
         <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EDT</h4>
         <p class="date">May 24, 2022</p>
         <p>The ECIS Wound Healing Assay replaces the traditional "scratch" or "scrape" assay. Instead of disrupting the cell layer mechanically with a needle or pipette tip and following the migration of cells to "heal" the wound with a microscope, we employ electric signals to both wound and monitor the healing process. We will also describe a novel and new approach to this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then present quantitative data regarding these automated assays.</p>
