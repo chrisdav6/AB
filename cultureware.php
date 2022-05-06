@@ -55,7 +55,7 @@
       <p>For help in chossing an ECIS array we offer a technical note for download - <a class="text-dark link" href="public/pdf/TN01ArrayChoices.pdf" target="_blank"><i class="far fa-file-pdf mx-2"></i>TN01 Array
           Choices</a></p>
 
-      <a href="public/pdf/ArrayPricingUpdate2021.pdf" class="link culturePrice" target="_blank"><i class="fas fa-exclamation-circle"></i> Change in Pricing and Availability of ECIS<sup>&reg;</sup> Arrays</a>
+      <a href="public/pdf/ArrayPricingUpdate2021.pdf" class="link culturePrice" target="_blank"><i class="fas fa-exclamation-circle"></i> Change in Pricing and Availability of ECIS<sup>&reg;</sup> Arrays, 6 – 8 week lead time for PC Arrays</a>
 
       <div class="culturewareTables my-5">
 
@@ -214,14 +214,14 @@
               <td>200-400</td>
               <td>600</td>
             </tr>
-            <tr class="even">
+            <!-- <tr class="even">
               <th scope="row"><a class="arrayLink" href="#8WU1EPlus">8Wµ1E+ PET or PC</a></th>
               <td>4</td>
               <td>0.196</td>
               <td>200-400</td>
               <td>600</td>
-            </tr>
-            <tr class="odd">
+            </tr> -->
+            <tr class="even">
               <th scope="row"><a class="arrayLink" href="#2W4x10E">2W4x10E PC</a></th>
               <td>4x10</td>
               <td>4 x 0.49</td>
@@ -683,7 +683,7 @@
       <hr>
 
       <!-- 8Wµ1E+ PET or PC -->
-      <div id="8WU1EPlus" class="array">
+      <!-- <div id="8WU1EPlus" class="array">
         <h4>8Wµ1E+ PET or PC</h4>
         <div class="row">
           <div class="col-md-8 mr-auto">
@@ -705,9 +705,8 @@
           <li>- Cell Migration / Wound Healing</li>
           <li>- Correlated Microscopy and ECIS Experiments</li>
         </ul>
-      </div><!-- /array -->
-
-      <hr>
+      </div> -->
+      <!-- /array -->
 
       <!-- 2W4x10E PC -->
       <div id="2W4x10E" class="array">
