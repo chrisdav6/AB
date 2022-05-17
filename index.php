@@ -88,8 +88,8 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Webinars</h3>
-                <h4 class="mb-1">May 17, 2022</h4>
-                <p class="card-text mb-0">Cytotoxicity Assays with the ECIS<sup>&reg;</sup> CP96 Cell Population Monitor</p>
+                <h4 class="mb-1">May 24, 2022</h4>
+                <p class="card-text mb-0">Automated Cell Migration</p>
                 <p class="card-text mb-0">11:00AM EDT</p>
 
                 <!-- <h4 class="mb-1 mt-3">May 17, 2022</h4>
