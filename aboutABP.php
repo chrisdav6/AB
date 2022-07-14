@@ -537,6 +537,10 @@
 
               <div class="row">
                 <div class="col-lg-10 mx-auto">
+                  <div class='mt-3'>
+                    <h3>Crypto Puzzle July 2022</h3>
+                    <iframe src='https://puzzel.org/en/cryptogram/embed?p=-N6x93KBTlKYeLuw3y0w' width='100%' height='800' frameborder='0'></iframe>
+                  </div>
                   <div class="mb-5">
                     <img class="img-fluid" src="public/img/ComicCrosswordMarch2022.png" alt="ECIS Comic Crossword March 2022">
                     <a href="https://puzzel.org/acrostic/play?p=-MxB6sb16xy_EBR9GwKM" class="link text-dark" target="_blank">Play Online</a> -
