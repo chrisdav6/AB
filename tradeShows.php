@@ -52,9 +52,9 @@
         <p>Below are a list of upcoming shows that Applied BioPhysics will attend in 2022:</p>
       </div>
 
-      <!-- <h5 class="mt-3 no-shows">No tradeshows currently scheduled. Please check back soon.</h5> -->
+      <h5 class="mt-3 no-shows">No tradeshows currently scheduled. Please check back soon.</h5>
 
-      <div class="tradeshow mb-5">
+      <!-- <div class="tradeshow mb-5">
         <h4 class="date">October 14-16, 2022</h4>
         <div class="row">
           <div class="col-lg-4">
@@ -65,7 +65,7 @@
             <p class="mb-0 mt-2">IVBM 2022 will feature an exciting scientific program with renowned speakers in the field, and will provide various opportunities for participants to build collaborative networks. The meeting will be composed of plenary and concurrent sessions reflecting diverse research topics in vascular biology from basic to translational level.</p>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <!-- <div class="tradeshow mb-5">
         <h4 class="date">October 25-29, 2021</h4>
