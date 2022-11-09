@@ -37,6 +37,11 @@
           <h1 class="display-2">ECIS<sup class="registered">®</sup> ZTheta</h1>
           <hr class="my-2">
           <h2>16 or 96 Well Array Station</h2>
+
+          <!-- Bioz -->
+          <div id='w-s-2050-ECIS-Z-Theta' style="width:240px;height:58px;position:relative;overflow-y: hidden"></div>
+          <div id="bioz-w-pb-ECIS-Z-Theta-div" style="width: 240px"><a id="bioz-w-pb-ECIS-Z-Theta" style="font-size: 12px;color:transparent" href="https://www.bioz.com/" target="_blank"> <img src="https://cdn.bioz.com/assets/favicon.png" style="width:11px;height:11px;vertical-align: baseline;padding-bottom:0px;margin-left:0px;margin-bottom:0px;float:none;display:none" /> Powered by Bioz</a></div>
+
         </div>
       </div>
     </div>
@@ -320,6 +325,34 @@
     var m = document.getElementsByTagName(s)[0];
     m.parentNode.insertBefore(sc, m);
   })(document, 'script', '//d2p078bqz5urf7.cloudfront.net/jsapi/ehform.js');
+  </script>
+
+  <!-- Bioz -->
+  <link rel="stylesheet" href="https://cdn.bioz.com/assets/font-awesome-reg.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.bioz.com/assets/tooltipster.css" />
+  <link rel="stylesheet" type="text/css" href="https://cdn.bioz.com/assets/tooltipster-theme2.css" />
+  <script src="https://cdn.bioz.com/assets/bioz-w-api-2.5.min.js"></script>
+  <link rel="stylesheet" href="https://cdn.bioz.com/assets/v_widget-2.5.css">
+  <script src="https://cdn.bioz.com/assets/v_widget-2.5.appbiophys.js"></script>
+  <script type="text/javascript" src="https://cdn.bioz.com/assets/tooltipster.js"></script>
+  <script>
+  var _type = "commercial";
+  var _company = "2050";
+  var _vendor = "Applied BioPhysics";
+  var _vendor_partner_color = "#476D85";
+  var _form_url = "//back-badge-8.bioz.com";
+  var _key = "";
+  var _form_mobile = false;
+  </script>
+
+  <script>
+  $(document).ready(function() {
+    var widget_micro_obj = new v_widget_obj("s", [Version Number i.e.
+      "1"
+      or "2"
+    ]);
+    widget_micro_obj.request_catalog_number_widget_data_internal("ECIS-Z-Theta", "ECIS-Z-Theta");
+  });
   </script>
 
 </body>
