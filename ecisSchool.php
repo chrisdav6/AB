@@ -54,7 +54,7 @@
           <img class="img-fluid mb-4 mb-lg-0 border" src="public/img/schoolKeese.jpg" alt="Dr. Keese Teaching">
         </div>
         <div class="col-lg-6">
-          <p class="nextClass">Next training class: November 3-4, 2022</p>
+          <p class="nextClass">Next training class: TBD</p>
           <p>
             The course, taught by Dr. Charles Keese, provides the students with the knowledge and tools on how to apply
             ECIS

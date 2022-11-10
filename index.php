@@ -120,7 +120,7 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">ECIS School</h3>
-                <h4 class="mb-1">November 3-4, 2022</h4>
+                <h4 class="mb-1">Date: TBD</h4>
                 <p class="card-text mb-0">2 Day Course</p>
                 <p class="card-text mb-0">Troy, NY</p>
               </div>
