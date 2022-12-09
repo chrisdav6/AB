@@ -14,10 +14,18 @@
               <li class="dropdown-item dropdown-submenu">
                 <a href="#" data-toggle="dropdown" class="submenu-link dropdown-toggle">Instruments</a>
                 <ul class="dropdown-menu">
-                  <a class="dropdown-item" href="teer24.php">TEER24 - Barrier Function Measurement System</a>
-                  <a class="dropdown-item" href="teer96.php">TEER96 - Barrier Function Measurement System</a>
-                  <a class="dropdown-item" href="cp96.php">CP96 - Cell Population Monitor</a>
-                  <a class="dropdown-item" href="ztheta.php">ZTheta - 16 or 96 Well Array Station</a>
+                  <a class="dropdown-item" href="ztheta.php">Z-Theta
+                    <!--- 16 or 96 Well Array Station-->
+                  </a>
+                  <a class="dropdown-item" href="teer24.php">TEER24
+                    <!--- Barrier Function Measurement System-->
+                  </a>
+                  <a class="dropdown-item" href="teer96.php">TEER96
+                    <!--- Barrier Function Measurement System-->
+                  </a>
+                  <a class="dropdown-item" href="cp96.php">CP96
+                    <!--- Cell Population Monitor-->
+                  </a>
                 </ul>
               </li>
               <li class="dropdown-item">
