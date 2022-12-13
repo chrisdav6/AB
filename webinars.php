@@ -130,7 +130,7 @@
           </div>
         </div>-->
 
-      <h4 class="mt-lg-0 mb-3 secondary-title">2022 - 2023 Webinar Schedule</h4>
+      <h4 class="mt-lg-0 mb-3 secondary-title">2023 Webinar Schedule</h4>
 
       <!--
       <div class="webinar">
@@ -274,7 +274,7 @@
         <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell morphological changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/7bf9849a164646778b3d0939eb99649e" target="_blank">Register</a>
       </div>
-      -->
+      
 
       <div class="webinar">
         <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EST</h4>
@@ -283,7 +283,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/webappng/sites/appliedbiophysics/meeting/info/2d6e0a032fbd4f7086a94c059e7e9039" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
