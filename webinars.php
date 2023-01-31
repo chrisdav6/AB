@@ -253,7 +253,7 @@
 
       <div class="webinar">
         <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EDT</h4>
-        <p class="date">June 10, 2023</p>
+        <p class="date">June 20, 2023</p>
         <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in real-time. This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r54eaa24f35678946da6030040d347966" target="_blank">Register</a>
       </div>
