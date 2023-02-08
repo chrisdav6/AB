@@ -1,6 +1,19 @@
 <?php
+    use PHPMailer\PHPMailer\PHPMailer;
+    use PHPMailer\PHPMailer\SMTP;
+    use PHPMailer\PHPMailer\Exception;
 
-    $to = "cdavis@transtechsys.com, info@biophysics.com, ctoniatti@biophysics.com, mdetweiler@biophysics.com, ladouceur@biophysics.com";
+    //Load Composer's autoloader
+    require 'vendor/autoload.php';
+
+    $mail = new PHPMailer(true);
+    $mail->isSMTP();
+    $mail->Host = 'localhost';
+    $mail->SMTPAuth = false;
+    $mail->Port = 25;
+
+    // $to = "info@biophysics.com, ctonatti@biophyscs.com, mdetweiler@biophysics.com, ladouceur@biophysics.com";
+    $to = "cdavis@transtechsys.com";
     $subject = "Applied Biophysics Contact Form";
     
     $name = trim(filter_input(INPUT_POST, "name", FILTER_SANITIZE_STRING));
@@ -17,10 +30,6 @@
     $techQuestions = trim(filter_input(INPUT_POST, "techQuestions", FILTER_SANITIZE_STRING));
     $message = trim(filter_input(INPUT_POST, "message", FILTER_SANITIZE_STRING));
     $fax = $_POST['fax']; //HoneyPot
-    $headers = 'MIME-Version: 1.0' . "\r\n";
-    $headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
-    $headers .= 'From: '.$email."\r\n" .
-        'Reply-To: '.$email."\r\n";
 
     $body = "<html><body>";
     $body .= "<h1>Applied Biophysics Contact Form</h1>";
@@ -39,11 +48,18 @@
     $body .= "<p>Message:<br/>" . $message . "</p>";
     $body .= "</body></html>";
 
+    $mail->addAddress($to); 
+    $mail->setFrom($email);
+    $mail->addReplyTo($email);
+    $mail->isHTML(true);
+    $mail->Subject = $subject;
+    $mail->Body = $body;   
+
     if ($fax != "") {
       echo "Invalid";
       exit;
     } else {
-      mail($to, $subject, $body, $headers);
+      $mail->send();
       echo "Success";
     }
 
