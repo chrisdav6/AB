@@ -10,7 +10,7 @@ function initMap() {
   });
 
   var markers = [
-    ['Austrailia, SDR Clinical Technology', -21.51727, 133.668094],
+    ['Austrailia, SDR Scientific Pty Ltd', -21.51727, 133.668094],
     ['Austria, ibidi GmbH', 47.874874, 14.165045],
     ['Belgium, ibidi GmbH', 50.743101, 4.630654],
     // ['Brazil, BIOProphecy', -9.931470, -50.785254],
@@ -32,6 +32,7 @@ function initMap() {
     ['Lithuania, ibidi GmbH', 55.202891, 24.025879],
     ['Malaysia, Precision Technologies', 4.187779, 102.043109],
     ['Netherlands, ibidi GmbH', 52.248033, 5.779013],
+    ['New Zealand, SDR Scientific Pty Ltd', -42.07673, 173.35596],
     ['Norway, ibidi GmbH', 61.378787, 9.180056],
     ['Poland, ibidi GmbH', 52.464317, 18.870001],
     ['Portugal, ibidi GmbH', 40.055457, -8.044187],
@@ -52,10 +53,10 @@ function initMap() {
     // Austrailia
     [
       '<div class="map-text">' +
-        '<span>SDR Clinical Technology</span><br>' +
+        '<span>SDR Scientific Pty Ltd</span><br>' +
         '<hr>' +
-        'Tel: 61-2-9882-2882<br>' +
-        'Attn: Dr. Peter Kenny<br>' +
+        'Tel: 02-9882-2882<br>' +
+        '<p><a class="map-link" href="mailto:info@sdr.com.au?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="http://www.sdr.com.au" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -304,6 +305,17 @@ function initMap() {
         'Attn: Dr. Christiane Thanisch<br>' +
         '<p><a class="map-link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="http://www.ibidi.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '</div>',
+    ],
+
+    //New Zealand
+    [
+      '<div class="map-text">' +
+        '<span>SDR Scientific Pty Ltd</span><br>' +
+        '<hr>' +
+        'Tel: 61-2-9882-2882<br>' +
+        '<p><a class="map-link" href="mailto:info@sdr.com.au?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="http://www.sdr.com.au" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 

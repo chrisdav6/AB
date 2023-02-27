@@ -52,15 +52,14 @@
         <div class="row">
 
           <div class="col-md-6 my-4">
-            <h3>Austrailia</h3>
+            <h3>Australia</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.sdr.com.au" target="_blank">SDR Clinical Technology</a></h5>
+            <h5><a class="text-dark link" href="http://www.sdr.com.au" target="_blank">SDR Scientific Pty Ltd</a></h5>
             <address>
               206 / 354 Eastern Valley Way<br>
               CHATSWOOD NSW 2067<br>
-              Tel: 61-2-9882-2882<br>
-              Fax: 61-2-9882-6468<br>
-              Attn: Sudha Vijay
+              Tel: 02-9882-2882<br>
+              <a class="text-dark link" href="mailto:info@sdr.com.au?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@sdr.com.au</a>
             </address>
           </div>
 
@@ -360,6 +359,19 @@
               Fax: +49 89 520 46 17-59<br>
               Attn: Dr. Christiane Thanisch<br>
               <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>New Zealand</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="http://www.sdr.com.au" target="_blank">SDR Scientific Pty Ltd</a></h5>
+            <address>
+              206 / 354 Eastern Valley Way<br>
+              CHATSWOOD NSW 2067<br>
+              Australia<br>
+              Tel: 61-2-9882-2882<br>
+              <a class="text-dark link" href="mailto:info@sdr.com.au?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@sdr.com.au</a>
             </address>
           </div>
 
