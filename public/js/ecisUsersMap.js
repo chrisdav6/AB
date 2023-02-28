@@ -1,13 +1,12 @@
 // Initialize and add the map
 function initMap() {
-
   // Get Locations
-  var centerMap = { lat: 31.979513, lng: 9.831410 };
-  var austrailia = { lat: -21.517270, lng: 133.668094 };
+  var centerMap = { lat: 31.979513, lng: 9.83141 };
+  var australia = { lat: -21.51727, lng: 133.668094 };
   var austria = { lat: 47.550256, lng: 14.678088 };
   var belgium = { lat: 50.808781, lng: 4.423986 };
-  var brazil = { lat: -9.931470, lng: -50.785254 };
-  var canada = { lat: 47.904670, lng: -80.524843 };
+  var brazil = { lat: -9.93147, lng: -50.785254 };
+  var canada = { lat: 47.90467, lng: -80.524843 };
   var china = { lat: 35.682732, lng: 103.662959 };
   var denmark = { lat: 55.730528, lng: 10.082161 };
   var estonia = { lat: 58.807149, lng: 25.779775 };
@@ -16,7 +15,7 @@ function initMap() {
   var germany = { lat: 51.475423, lng: 10.377814 };
   var hungary = { lat: 47.237869, lng: 19.543223 };
   var india = { lat: 23.647772, lng: 79.508199 };
-  var ireland = { lat: 53.547060, lng: -8.262205 };
+  var ireland = { lat: 53.54706, lng: -8.262205 };
   var israel = { lat: 31.261726, lng: 34.953094 };
   var italy = { lat: 43.560405, lng: 12.229838 };
   var japan = { lat: 36.987055, lng: 138.438764 };
@@ -27,58 +26,185 @@ function initMap() {
   var norway = { lat: 59.287412, lng: 6.258275 };
   var qatar = { lat: 25.397151, lng: 51.181651 };
   var russia = { lat: 54.967726, lng: 90.817416 };
-  var spain = { lat: 39.985576, lng: -3.340800 };
+  var spain = { lat: 39.985576, lng: -3.3408 };
   var sweden = { lat: 56.400385, lng: 14.074239 };
   var switzerland = { lat: 46.896614, lng: 7.924122 };
   var taiwan = { lat: 23.818453, lng: 121.142053 };
-  var unitedKingdom = { lat: 53.791790, lng: -2.178177 };
+  var unitedKingdom = { lat: 53.79179, lng: -2.178177 };
   var unitedStates = { lat: 40.616486, lng: -101.610774 };
 
   // Center Map
-  var map = new google.maps.Map(document.getElementById('ecisUsersMap'), { zoom: 3, center: centerMap, scrollwheel: false });
+  var map = new google.maps.Map(document.getElementById('ecisUsersMap'), {
+    zoom: 3,
+    center: centerMap,
+    scrollwheel: false,
+  });
 
   // Add Markers
-  var austrailiaMarker = new google.maps.Marker({ position: austrailia, map: map, title: "Austrailia" });
-  var austriaMarker = new google.maps.Marker({ position: austria, map: map, title: "Austria" });
-  var belgiumMarker = new google.maps.Marker({ position: belgium, map: map, title: "Belgium" });
-  var brazilMarker = new google.maps.Marker({ position: brazil, map: map, title: "Brazil" });
-  var canadaMarker = new google.maps.Marker({ position: canada, map: map, title: "Canada" });
-  var chinaMarker = new google.maps.Marker({ position: china, map: map, title: "China" });
-  var denmarkMarker = new google.maps.Marker({ position: denmark, map: map, title: "Denmark" });
-  var estoniaMarker = new google.maps.Marker({ position: estonia, map: map, title: "Estonia" });
-  var finlandMarker = new google.maps.Marker({ position: finland, map: map, title: "Finland" });
-  var franceMarker = new google.maps.Marker({ position: france, map: map, title: "France" });
-  var germanyMarker = new google.maps.Marker({ position: germany, map: map, title: "Germany" });
-  var hungaryMarker = new google.maps.Marker({ position: hungary, map: map, title: "Hungary" });
-  var indiaMarker = new google.maps.Marker({ position: india, map: map, title: "India" });
-  var irelandMarker = new google.maps.Marker({ position: ireland, map: map, title: "Ireland" });
-  var israelMarker = new google.maps.Marker({ position: israel, map: map, title: "Israel" });
-  var italyMarker = new google.maps.Marker({ position: italy, map: map, title: "Italy" });
-  var japanMarker = new google.maps.Marker({ position: japan, map: map, title: "Japan" });
-  var koreaMarker = new google.maps.Marker({ position: korea, map: map, title: "Korea" });
-  var malawiMarker = new google.maps.Marker({ position: malawi, map: map, title: "Malawi" });
-  var malaysiaMarker = new google.maps.Marker({ position: malaysia, map: map, title: "Malaysia" });
-  var netherlandsMarker = new google.maps.Marker({ position: netherlands, map: map, title: "Netherlands" });
-  var norwayMarker = new google.maps.Marker({ position: norway, map: map, title: "Norway" });
-  var qatarMarker = new google.maps.Marker({ position: qatar, map: map, title: "Qatar" });
-  var russiaMarker = new google.maps.Marker({ position: russia, map: map, title: "Russia" });
-  var spainMarker = new google.maps.Marker({ position: spain, map: map, title: "Spain" });
-  var swedenMarker = new google.maps.Marker({ position: sweden, map: map, title: "Sweden" });
-  var switzerlandMarker = new google.maps.Marker({ position: switzerland, map: map, title: "Switzerland" });
-  var taiwanMarker = new google.maps.Marker({ position: taiwan, map: map, title: "Taiwan" });
-  var unitedKingdomMarker = new google.maps.Marker({ position: unitedKingdom, map: map, title: "United Kingdom" });
-  var unitedStatesMarker = new google.maps.Marker({ position: unitedStates, map: map, title: "United States" });
+  var australiaMarker = new google.maps.Marker({
+    position: australia,
+    map: map,
+    title: 'Australia',
+  });
+  var austriaMarker = new google.maps.Marker({
+    position: austria,
+    map: map,
+    title: 'Austria',
+  });
+  var belgiumMarker = new google.maps.Marker({
+    position: belgium,
+    map: map,
+    title: 'Belgium',
+  });
+  var brazilMarker = new google.maps.Marker({
+    position: brazil,
+    map: map,
+    title: 'Brazil',
+  });
+  var canadaMarker = new google.maps.Marker({
+    position: canada,
+    map: map,
+    title: 'Canada',
+  });
+  var chinaMarker = new google.maps.Marker({
+    position: china,
+    map: map,
+    title: 'China',
+  });
+  var denmarkMarker = new google.maps.Marker({
+    position: denmark,
+    map: map,
+    title: 'Denmark',
+  });
+  var estoniaMarker = new google.maps.Marker({
+    position: estonia,
+    map: map,
+    title: 'Estonia',
+  });
+  var finlandMarker = new google.maps.Marker({
+    position: finland,
+    map: map,
+    title: 'Finland',
+  });
+  var franceMarker = new google.maps.Marker({
+    position: france,
+    map: map,
+    title: 'France',
+  });
+  var germanyMarker = new google.maps.Marker({
+    position: germany,
+    map: map,
+    title: 'Germany',
+  });
+  var hungaryMarker = new google.maps.Marker({
+    position: hungary,
+    map: map,
+    title: 'Hungary',
+  });
+  var indiaMarker = new google.maps.Marker({
+    position: india,
+    map: map,
+    title: 'India',
+  });
+  var irelandMarker = new google.maps.Marker({
+    position: ireland,
+    map: map,
+    title: 'Ireland',
+  });
+  var israelMarker = new google.maps.Marker({
+    position: israel,
+    map: map,
+    title: 'Israel',
+  });
+  var italyMarker = new google.maps.Marker({
+    position: italy,
+    map: map,
+    title: 'Italy',
+  });
+  var japanMarker = new google.maps.Marker({
+    position: japan,
+    map: map,
+    title: 'Japan',
+  });
+  var koreaMarker = new google.maps.Marker({
+    position: korea,
+    map: map,
+    title: 'Korea',
+  });
+  var malawiMarker = new google.maps.Marker({
+    position: malawi,
+    map: map,
+    title: 'Malawi',
+  });
+  var malaysiaMarker = new google.maps.Marker({
+    position: malaysia,
+    map: map,
+    title: 'Malaysia',
+  });
+  var netherlandsMarker = new google.maps.Marker({
+    position: netherlands,
+    map: map,
+    title: 'Netherlands',
+  });
+  var norwayMarker = new google.maps.Marker({
+    position: norway,
+    map: map,
+    title: 'Norway',
+  });
+  var qatarMarker = new google.maps.Marker({
+    position: qatar,
+    map: map,
+    title: 'Qatar',
+  });
+  var russiaMarker = new google.maps.Marker({
+    position: russia,
+    map: map,
+    title: 'Russia',
+  });
+  var spainMarker = new google.maps.Marker({
+    position: spain,
+    map: map,
+    title: 'Spain',
+  });
+  var swedenMarker = new google.maps.Marker({
+    position: sweden,
+    map: map,
+    title: 'Sweden',
+  });
+  var switzerlandMarker = new google.maps.Marker({
+    position: switzerland,
+    map: map,
+    title: 'Switzerland',
+  });
+  var taiwanMarker = new google.maps.Marker({
+    position: taiwan,
+    map: map,
+    title: 'Taiwan',
+  });
+  var unitedKingdomMarker = new google.maps.Marker({
+    position: unitedKingdom,
+    map: map,
+    title: 'United Kingdom',
+  });
+  var unitedStatesMarker = new google.maps.Marker({
+    position: unitedStates,
+    map: map,
+    title: 'United States',
+  });
 
   var navigationFn = {
     goToSection: function (id) {
-      $('html, body').animate({
-        scrollTop: $(id).offset().top
-      }, 500);
-    }
-  }
+      $('html, body').animate(
+        {
+          scrollTop: $(id).offset().top,
+        },
+        500
+      );
+    },
+  };
 
   // Scroll to Markers
-  austrailiaMarker.addListener('click', function () {
+  australiaMarker.addListener('click', function () {
     navigationFn.goToSection('#austrailia');
   });
 
