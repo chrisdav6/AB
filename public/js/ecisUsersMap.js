@@ -205,7 +205,7 @@ function initMap() {
 
   // Scroll to Markers
   australiaMarker.addListener('click', function () {
-    navigationFn.goToSection('#austrailia');
+    navigationFn.goToSection('#australia');
   });
 
   austriaMarker.addListener('click', function () {
