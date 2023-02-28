@@ -56,7 +56,7 @@
       </p>
 
       <div class="userLinksContainer d-flex justify-content-center justify-content-md-start flex-wrap d-md-none">
-        <a href="#austrailia" class="userLink">Austrailia</a>
+        <a href="#australia" class="userLink">Australia</a>
         <a href="#austria" class="userLink">Austria</a>
         <a href="#belgium" class="userLink">Belgium</a>
         <a href="#brazil" class="userLink">Brazil</a>
@@ -90,8 +90,8 @@
 
       <div class="userCountries">
 
-        <section id="austrailia" class="pt-5">
-          <h3>Austrailia</h3>
+        <section id="australia" class="pt-5">
+          <h3>Australia</h3>
           <hr class="mb-4">
           <div class="row">
             <div class="col-md-6">
