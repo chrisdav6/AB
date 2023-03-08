@@ -52,7 +52,20 @@
         <p>Below are a list of upcoming shows that Applied BioPhysics will attend in 2022:</p>
       </div>
 
-      <h5 class="mt-3 no-shows">No tradeshows currently scheduled. Please check back soon.</h5>
+      <!-- <h5 class="mt-3 no-shows">No tradeshows currently scheduled. Please check back soon.</h5> -->
+
+      <div class="tradeshow mb-5">
+        <h4 class="date">April 14-19, 2023</h4>
+        <div class="row">
+          <div class="col-lg-4">
+            <img class="img-fluid mb-3 mb-lg-0" src="public/img/aacrMeeting2023.png" alt="AACR Banner">
+          </div>
+          <div class="col-lg-8">
+            <a href="https://www.aacr.org/meeting/aacr-annual-meeting-2023/" class="tradeshow-link" target="_blank">AACR Annual Meeting 2023 - Orlando, FL</a>
+            <p class="mb-0 mt-2">The AACR Annual Meeting program covers the latest discoveries across the spectrum of cancer research—from population science and prevention; to cancer biology, translational, and clinical studies; to survivorship and advocacy—and highlights the work of the best minds in research and medicine from institutions all over the world.</p>
+          </div>
+        </div>
+      </div>
 
       <!-- <div class="tradeshow mb-5">
         <h4 class="date">October 14-16, 2022</h4>
@@ -112,19 +125,6 @@
       </div>
 
       <hr class="my-5">
-
-      <div class="tradeshow mb-5">
-        <h4 class="date">Dates to be Announced</h4>
-        <div class="row">
-          <div class="col-lg-4">
-            <img class="img-fluid mb-3 mb-lg-0" src="public/img/aacrMeeting2021.png" alt="AACR Banner">
-          </div>
-          <div class="col-lg-8">
-            <a href="https://www.aacr.org/meeting/aacr-annual-meeting-2021" class="tradeshow-link" target="_blank">AACR Annual Meeting 2021 - Virtual Meeting</a>
-            <p class="mb-0 mt-2">The AACR Annual Meeting program covers the latest discoveries across the spectrum of cancer research—from population science and prevention; to cancer biology, translational, and clinical studies; to survivorship and advocacy—and highlights the work of the best minds in research and medicine from institutions all over the world.</p>
-          </div>
-        </div>
-      </div>
 
       <div class="tradeshow mb-5">
         <h4 class="date">September 8-11, 2019</h4>
