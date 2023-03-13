@@ -51,7 +51,7 @@
     <div class="container py-3 text-center">
       <h5 class="mb-0">
         <i class="far fa-snowflake mr-2"></i>
-        Applied Biophyics will be closed due to the winter snowstorm - Tuesday, March 15th
+        Applied Biophyics will be closed due to the winter snowstorm - Tuesday, March 14th
         <i class="far fa-snowflake ml-2"></i>
       </h5>
     </div>
