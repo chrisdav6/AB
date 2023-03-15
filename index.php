@@ -47,7 +47,7 @@
     <!-- </a> -->
   </div>
 
-  <div class="holiday">
+  <!-- <div class="holiday">
     <div class="container py-3 text-center">
       <h5 class="mb-0">
         <i class="far fa-snowflake mr-2"></i>
@@ -55,7 +55,7 @@
         <i class="far fa-snowflake ml-2"></i>
       </h5>
     </div>
-  </div>
+  </div> -->
 
   <?php include_once "includes/navbar.php"; ?>
   <?php include_once "includes/logo.php"; ?>
