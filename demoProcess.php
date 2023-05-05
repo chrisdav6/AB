@@ -1,6 +1,7 @@
 <?php
 
-  $to = "info@biophysics.com, ctonatti@biophyscs.com, mdetweiler@biophysics.com, ladouceur@biophysics.com";
+  // $to = "info@biophysics.com, ctonatti@biophyscs.com, mdetweiler@biophysics.com, ladouceur@biophysics.com";
+  $to = "cdavis@transtechsys.com";
   $subject = "Applied Biophysics Demo Request Form";
 
   $name = trim(filter_input(INPUT_POST, "name", FILTER_SANITIZE_STRING));
