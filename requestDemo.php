@@ -63,9 +63,11 @@
         ABP requests at least one researcher be dedicated to the operation and maintenance of the instrument. As the dedicated operator we request to speak with this researcher on a weekly basis to review data and system operation.
       </p>
 
-      <h4 class="mt-5 mb-4 secondary-title">Request Demo Form</h4>
+      <h4 class="mt-5 mb-5 secondary-title">Request Demo Form</h4>
 
-      <form action="demoProcess.php" method="post" id="demoForm">
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScweWk3_5kejqKKxxnJ97zTbfv9pRpk0pO8ZKm8rdhvt9_EGA/viewform?embedded=true" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
+      <!--<form action="demoProcess.php" method="post" id="demoForm">
 
         <div class="row">
           <div class="col-md-4">
@@ -100,19 +102,20 @@
         <div class="row">
           <div class="col d-flex flex-column">
             <div class="form-group d-none">
-              <!--HoneyPot-->
+     
               <input type="text" class="form-control form-control-lg" name="fax" id="fax">
             </div>
 
             <button id="reqDemoBtn" class="btn ecisBtn btn-lg submit-btn mt-3 ml-auto">Submit</button>
             <i class="fas fa-spinner fa-2x fa-spin mt-4 ml-auto"></i>
-            <!--Initially hidden in the css-->
-            <span class="submitMessage text-center mt-4 mb-3 ml-auto">Thank you, your demo request has been sent</span>
-            <!--Initially hidden in the css-->
-          </div>
+-->
+      <!--Initially hidden in the css-->
+      <!-- <span class="submitMessage text-center mt-4 mb-3 ml-auto">Thank you, your demo request has been sent</span> -->
+      <!--Initially hidden in the css-->
+      <!-- </div>
         </div>
 
-      </form>
+      </form> -->
 
     </div>
   </section><!-- /requestDemoContent -->
