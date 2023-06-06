@@ -240,7 +240,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/re4b91bb33ed86169ed70f767b0b281f3" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EDT</h4>
@@ -249,7 +249,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r3ac72cb107030c6b011e94aefef421d8" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EDT</h4>
