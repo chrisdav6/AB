@@ -87,14 +87,14 @@
             </div>
           </div>
 
-          <h4 class="mt-5 mb-3 secondary-title">ECIS<sup>®</sup> TEER24</h4>
+          <!--<h4 class="mt-5 mb-3 secondary-title">ECIS<sup>®</sup> TEER24</h4>
           <h5 class="third-title mt-3"><a href="/teer24.php#dataSheets" class="text-dark link">ECIS TEER24
               Literature</a></h5>
           <hr>
           <p>
             We now offer a single purpose instrument designed to only work with membrane filter inserts. The ECIS TEER24 uses a 75 Hz AC frequency to determine TEER value. The measurement consists of three steps; a zero-set phase to flat-field the microplate array, setting a reference well to monitor any incubator changes which may occur during the measurement, and the data collection phase. The flat-fielding takes into account the resistance of the electrodes in the microplate, solution and filter. During data collection the resistance is measured, and the TEER is calculated by subtracting the flat field zero values and reference well changes and scaling for the surface area of the filter.
           </p>
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/teer24ApplicationData.jpg" alt="TEER Data">
+          <img class="img-fluid py-5 d-block mx-auto" src="public/img/teer24ApplicationData.jpg" alt="TEER Data">-->
 
 
           <!-- <div class="row mt-5">
