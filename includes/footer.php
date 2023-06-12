@@ -14,10 +14,10 @@
       <div class="col-md-3">
         <ul class="list-unstyled">
           <li><a href="ztheta.php">Z-Theta</a></li>
-          <li><a href="teer24.php">TEER24</a></li>
           <li><a href="teer96.php">TEER96</a></li>
-          <li><a href="cp96.php">CP96</a></li>
           <li><a href="cultureware.php">Cultureware</a></li>
+          <!-- <li><a href="teer24.php">TEER24 Discontinued</a></li> -->
+          <!-- <li><a href="cp96.php">CP96 Discontinued</a></li> -->
         </ul>
       </div>
 

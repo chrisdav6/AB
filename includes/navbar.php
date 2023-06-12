@@ -17,15 +17,11 @@
                   <a class="dropdown-item" href="ztheta.php">Z-Theta
                     <!--- 16 or 96 Well Array Station-->
                   </a>
-                  <a class="dropdown-item" href="teer24.php">TEER24
-                    <!--- Barrier Function Measurement System-->
-                  </a>
                   <a class="dropdown-item" href="teer96.php">TEER96
                     <!--- Barrier Function Measurement System-->
                   </a>
-                  <a class="dropdown-item" href="cp96.php">CP96
-                    <!--- Cell Population Monitor-->
-                  </a>
+                  <!-- <a class="dropdown-item" href="teer24.php">TEER24 Discontinued</a> -->
+                  <!-- <a class="dropdown-item" href="cp96.php">CP96 Discontinued</a> -->
                 </ul>
               </li>
               <li class="dropdown-item">
