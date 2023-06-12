@@ -88,7 +88,7 @@
             </div>
           </div>
 
-          <div class="row mt-5">
+          <div class="row mt-5 d-flex justify-content-center">
 
             <div class="col-md-4">
               <a class="text-dark link" href="ztheta.php">
@@ -102,7 +102,7 @@
               </a>
             </div>
 
-            <div class="col-md-4">
+            <!-- <div class="col-md-4">
               <a class="text-dark link" href="cp96.php">
                 <div class="card mb-3">
                   <img class="card-img-top px-3 pt-3" src="public/img/cp96Computer.jpg" alt="ECIS CP96">
@@ -112,9 +112,9 @@
                   </div>
                 </div>
               </a>
-            </div>
+            </div> -->
 
-            <div class="col-md-4">
+            <!-- <div class="col-md-4">
               <a class="text-dark link" href="teer24.php">
                 <div class="card mb-3">
                   <img class="card-img-top px-3 pt-3" src="public/img/teer24Station.jpg" alt="ECIS TEER24">
@@ -124,7 +124,7 @@
                   </div>
                 </div>
               </a>
-            </div>
+            </div> -->
 
           </div>
 

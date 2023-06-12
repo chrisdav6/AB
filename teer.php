@@ -97,7 +97,7 @@
           <img class="img-fluid py-5 d-block mx-auto" src="public/img/teer24ApplicationData.jpg" alt="TEER Data">
 
 
-          <div class="row mt-5">
+          <!-- <div class="row mt-5">
 
             <div class="col-md-4 mx-auto">
               <a class="text-dark link" href="teer24.php">
@@ -111,7 +111,7 @@
               </a>
             </div>
 
-          </div>
+          </div> -->
 
         </div><!-- /col -->
       </div><!-- /row -->
