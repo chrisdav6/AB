@@ -58,7 +58,7 @@
               </p>
             </div>
             <div class="col-lg-5 col-md-6">
-              <img class="img-fluid my-3 my-md-0" src="public/img/teer24Application.jpg" alt="TEER">
+              <img class="img-fluid my-3 my-md-0" src="public/img/teerApplication.jpg" alt="TEER">
             </div>
           </div>
 
@@ -67,7 +67,7 @@
             TEER measurements are conducted by sending weak AC signals from the base of a special ECIS well, through a cell monolayer on a transwell filters insert, to a dipping electrode above the filter to complete the circuit. From this, the electrical resistance of the barriers is measured and, when multiplied by the filter area, gives the intrinsic TEER value of the monolayer in ohm-cm<sup>2</sup>.
           </p>
           <p>
-            TEER filter measurements are especially relevant due to the in vivo-like nature that is produced by culturing cells on porous supports. This allows the cells to be fed by culture medium from both the apical and basal side often resulting in polarized cell layer. Since the AC signal that is used to detect the barrier resistance of the cell monolayers is very weak, the cells experience no invasive effects from the electrical current.
+            TEER filter measurements are especially relevant due to the in vivo-like nature that is produced by culturing cells on porous supports. This allows the cells to be fed by culture medium from both the apical and basal side often resulting in a polarized cell layer. Since the AC signal that is used to detect the barrier resistance of the cell monolayers is very weak, the cells experience no invasive effects from the electrical current.
           </p>
 
           <h4 class="mt-4 mb-3 secondary-title">TEER on Filter Membranes</h4>
@@ -76,8 +76,8 @@
             <div class="col-lg-8 col-md-7 pr-5">
               <p>Monitoring cell barriers upon membrane filter inserts with ECIS<sup>®</sup> Electrode arrays</p>
               <ul class="application-list list-unstyled mt-5">
-                <li>- Available with ECIS<sup>®</sup> TEER24 systems</li>
-                <li>- Cells are cultured on standard transwell filter inserts that fit 24-well ECIS<sup>®</sup> arrays</li>
+                <li>- Available with ECIS<sup>®</sup> 8wTFA systems</li>
+                <li>- Cells are cultured on standard transwell filter inserts that fit 8-well transfilter ECIS<sup>®</sup> arrays</li>
                 <li>- Measurements are continuous, in real-time, under incubated conditions</li>
                 <li>- Easy to use software presents TEER values (ohm-cm<sup>2</sup>) in graphical format</li>
               </ul>
@@ -86,6 +86,13 @@
               <img class="img-fluid w-100 my-3 my-md-0" src="public/img/Cell-Dish-Small.jpg" alt="Cell Dish">
             </div>
           </div>
+
+          <h4 class="mt-5 mb-3 secondary-title">Continuous TEER</h4>
+          <p>
+            When measuring TEER with ECIS instrumentation, data is collected continuously in real-time while the cells remain incubated. The following graph shows the progression of TEER of MDCK I cells being monitored from the point of seeding to a fully confluent monolayer.
+          </p>
+
+          <img class="img-fluid py-5 d-block mx-auto" src="public/img/teerApplicationData.jpg" alt="TEER Data">
 
           <!--<h4 class="mt-5 mb-3 secondary-title">ECIS<sup>®</sup> TEER24</h4>
           <h5 class="third-title mt-3"><a href="/teer24.php#dataSheets" class="text-dark link">ECIS TEER24
