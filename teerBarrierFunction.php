@@ -62,8 +62,8 @@
           <div class="row mt-5 mb-4">
             <div class="col-lg-6 col-md-8 mx-auto">
               <figure class="figure w-100">
-                <img class="img-fluid w-100" src="public/img/brainEndothelium.jpg" alt="Brain Endothelium">
-                <figcaption class="figure-caption text-center">Brain endothelium grown in Enriched Media containing either 10%, 5%, or 2% FBS (Robilliard et al., 2018)
+                <img class="img-fluid w-100" src="public/img/MDCK1.png" alt="MDCK 1 cells">
+                <figcaption class="figure-caption text-center">MDCK 1 cells treated with varying concentrations of Cytochalasin D following establishment of mature barrier formation indicated by plateauing resistance.
                 </figcaption>
               </figure>
             </div>
@@ -87,7 +87,7 @@
           <p class="mt-4"><strong>Monitoring cell barriers upon membrane filter supports with ECIS<sup>®</sup> Instrumentation</strong></p>
 
           <ul class="list-unstyled ml-3">
-            <li>- Uses the ECIS<sup>®</sup> <a class="link text-dark" href="teer24.php">TEER24</a></li>
+            <li>- Uses the ECIS<sup>®</sup> 8-well Transfilter Array (8wTFA)</li>
             <li>- Cells are cultured in standard membrane filter inserts, allowing cells to be fed both on apical and basal sides for more in vivo-like conditions</li>
             <li>- Measurements are taken continuously and in real-time under incubated conditions</li>
             <li>- User friendly software converts impedance data into TEER values (ohm-cm<sup>2</sup>)</li>
