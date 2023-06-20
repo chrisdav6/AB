@@ -20,6 +20,7 @@
                   <a class="dropdown-item" href="teer96.php">TEER96
                     <!--- Barrier Function Measurement System-->
                   </a>
+                  <a class="dropdown-item" href="8wTFA.php">8wTFA</a>
                   <!-- <a class="dropdown-item" href="teer24.php">TEER24 Discontinued</a> -->
                   <!-- <a class="dropdown-item" href="cp96.php">CP96 Discontinued</a> -->
                 </ul>
