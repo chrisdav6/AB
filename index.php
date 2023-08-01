@@ -115,11 +115,11 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Tradeshows</h3>
-                <h4 class="mb-1">No Scheduled Shows</h4>
-                <p class="card-text mb-0">Please check back soon.</p>
-                <!-- <h4 class="mb-1">April 14-19, 2023</h4>
-                <p class="card-text mb-0">AACR Annual Meeting 2023</p>
-                <p class="card-text mb-0">Orlando, FL</p> -->
+                <!-- <h4 class="mb-1">No Scheduled Shows</h4>
+                <p class="card-text mb-0">Please check back soon.</p> -->
+                <h4 class="mb-1">February 3-7, 2024</h4>
+                <p class="card-text mb-0">SLAS 2024</p>
+                <p class="card-text mb-0">Boston, MA</p>
               </div>
             </div>
           </a>
