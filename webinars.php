@@ -130,7 +130,7 @@
           </div>
         </div>-->
 
-      <h4 class="mt-lg-0 mb-3 secondary-title">2023 - 2024 Webinar Schedule</h4>
+      <h4 class="mt-lg-0 mb-3 secondary-title">2024 Webinar Schedule</h4>
 
       <!-- <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
@@ -139,7 +139,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r790656a6c4482d38ab75a2cbccf8789a" target="_blank">Register</a>
       </div>
 
-      <hr> -->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EST</h4>
@@ -148,7 +148,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r2172c477c361347b1bff40fbe719334b" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
