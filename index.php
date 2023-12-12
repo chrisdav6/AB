@@ -27,15 +27,15 @@
 
 <body class="d-flex flex-column">
 
-  <!-- <div class="holiday">
+  <div class="holiday">
     <div class="container py-3 text-center">
       <h5 class="mb-0">
         <i class="fas fa-holly-berry mr-3"></i>
-        Applied Biophyics will be closed for the holidays - December 23rd, 24th, 25th, 31st and January 1st
+        Applied Biophyics will be closed for the holidays December 21st at 2PM and will reopen on January 2, 2024
         <i class="fas fa-holly-berry ml-3"></i>
       </h5>
     </div>
-  </div> -->
+  </div>
 
   <div class="anniversary">
     <!-- <a href="aboutABP.php" class="anniversary_link"> -->
