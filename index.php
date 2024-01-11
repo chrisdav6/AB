@@ -47,6 +47,14 @@
     <!-- </a> -->
   </div>
 
+  <div class="holiday">
+    <div class="container py-3 text-center">
+      <h5 class="mb-0">
+        Applied Biophysics will be closed on January 15, 2024, for Martin Luther King Jr. Day
+      </h5>
+    </div>
+  </div>
+
   <!-- <div class="holiday">
     <div class="container py-3 text-center">
       <h5 class="mb-0">
