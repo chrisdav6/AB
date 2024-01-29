@@ -75,10 +75,10 @@
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Support</a>
             <div class="dropdown-menu">
+              <a class="dropdown-item" href="techSupport.php">Technical Support</a>
               <a class="dropdown-item" href="webinars.php">Webinars</a>
               <a class="dropdown-item" href="ecisSchool.php">ECIS School</a>
               <a class="dropdown-item" href="tradeShows.php">Tradeshows</a>
-              <a class="dropdown-item" href="techSupport.php">Technical Support</a>
               <a class="dropdown-item" href="software.php">Software</a>
               <a class="dropdown-item" href="ibcaMeeting.php">IBCA Meeting</a>
             </div>
