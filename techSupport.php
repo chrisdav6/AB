@@ -84,6 +84,15 @@
         <p><a href="public/pdf/AN12_Avoiding_evaporation.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Avoiding Evaporation (ibidi)</a></p>
       </div>
 
+      <h4 class="mt-5 mb-4 secondary-title">Manuals</h4>
+
+      <div class="supportDocs">
+        <p><a href="public/pdf/ECISHandbook.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Handbook</a></p>
+        <p><a href="public/pdf/ECISZThetaInstallationOperationManual.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Installation and Operation Manual ECIS Z-Theta</a></p>
+        <p><a href="public/pdf/P-FlowPumpManual.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> P-Flow Pump Manual</a></p>
+        <p><a class="link text-dark" href="public/pdf/FlowNotesECISFlowSlides.pdf" target="_blank"><i class="far fa-file-pdf mr-2"></i> Flow Notes for ECIS Flow Slides</a></p>
+        <p><a href="public/pdf/IncubatorPortSheldonInstructions.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Incubator Port Sheldon Instructions</a></p>
+      </div>
 
       <h4 class="mt-5 mb-4 secondary-title">Brochures</h4>
 
@@ -94,18 +103,6 @@
         <p><a href="public/pdf/ECISCancer.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Cancer</a></p>
         <p><a href="public/pdf/ECISVirology.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Virology</a></p>
         <p><a href="public/pdf/ECISEndothelialCellResearch.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Endothelial Cell Research</a></p>
-      </div>
-
-      <h4 class="mt-5 mb-4 secondary-title">Manuals</h4>
-
-      <div class="supportDocs">
-        <p><a href="public/pdf/ECISProductGuide.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Product Manual</a></p>
-        <p><a href="public/pdf/ECIS_Operation_Manual_v1_2_123.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Operation Manual</a></p>
-        <p><a href="public/pdf/ECISHandbook.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Handbook</a></p>
-        <p><a href="public/pdf/P-FlowPumpManual.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> P-Flow Pump Manual</a></p>
-        <p><a class="link text-dark" href="public/pdf/FlowNotesECISFlowSlides.pdf" target="_blank"><i class="far fa-file-pdf mr-2"></i> Flow Notes for ECIS Flow Slides</a></p>
-        <p><a href="public/pdf/PerfusionIN-1090X_pump_system manual.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Perfusion IN-1090X Pump System Manual</a></p>
-        <p><a href="public/pdf/IncubatorPortSheldonInstructions.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Incubator Port Sheldon Instructions</a></p>
       </div>
 
 
