@@ -57,7 +57,19 @@
         </div>
       </div>
 
-      <h4 class="mt-5 mt-lg-0 mb-4 secondary-title">Brochures</h4>
+      <h4 class="mt-5 mt-lg-0 mb-4 secondary-title">Application Notes</h4>
+
+      <div class="supportDocs">
+        <p><a href="public/pdf/ElectricCellsubstrateImpedanceSensingALabelfreeMethodtoContinuouslyMonitorCellBehaviorsInVitro101723.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Electric Cell-substrate Impedance Sensing: A Label-free Method to Continuously Monitor Cell Behaviors In Vitro</a></p>
+        <p><a href="public/pdf/ContinuousQuantificationofCellMonolayerBarrierFunctionwithECIS.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Continuous Quantification of Cell Monolayer Barrier Function with ECIS</a></p>
+        <p><a href="public/pdf/ProliferationandCytotoxicityMonitoringwithECIS.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Proliferation and Cytotoxicity Monitoring with ECIS</a></p>
+        <p><a href="public/pdf/AutomatedWoundhealingCellMigrationAssaywithECIS.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Automated Wound-healing Cell Migration Assay with ECIS</a></p>
+        <p><a href="public/pdf/UsingtheECISModeltoIsolateCellularBarrierFunction.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Using the ECIS Model to Isolate Cellular Barrier Function</a></p>
+        <p><a href="public/pdf/ECISElectroporationandMonitoring.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Electroporation and Monitoring</a></p>
+        <p><a href="public/pdf/MeasuringTEERwiththeECIS8wellTransfilterArray.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Measuring TEER with the ECIS 8-well Transfilter Array</a></p>
+      </div>
+
+      <h4 class="mt-5 mb-4 secondary-title">Brochures</h4>
 
       <div class="supportDocs">
         <p><a href="public/pdf/ECISApplicationsBrochure.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Applications Brochure</a></p>
