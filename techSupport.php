@@ -72,9 +72,9 @@
       <h4 class="mt-5 mb-4 secondary-title">ECIS Tips</h4>
 
       <div class="supportDocs">
-        <p><a href="public/pdf/AddingCompoundsToStudyTheirEffectonECISMeasurements.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Adding Compounds to Study Their Effect on ECIS Measurements</a></p>
+        <p><a href="public/pdf/AddingcompoundstostudytheireffectonECISmeasurements.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Adding Compounds to Study Their Effect on ECIS Measurements</a></p>
         <p><a href="public/pdf/AnAlternativeWaytoObtainGoodCellDistributiononECISArrays.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> An Alternative Way to Obtain Good Cell Distribution on ECIS Arrays</a></p>
-        <p><a href="public/pdf/ChoiceOfProgramForECISTimeCourseDataAcquisition.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Choice of Program for ECIS Time Course Data Acquisition</a></p>
+        <p><a href="public/pdf/ChoiceofProgramforECISTimeCourseDataAcquisition.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Choice of Program for ECIS Time Course Data Acquisition</a></p>
         <p><a href="public/pdf/DontForgetCapacitance.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Don't Forget Capacitance</a></p>
         <p><a href="public/pdf/DontOverlookMicromotion.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Don't Overlook Micromotion</a></p>
         <p><a href="public/pdf/ImprovingExperimentRepeatabilitywithCysteine.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Improving Experiment Repeatability with Cysteine</a></p>
