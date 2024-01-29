@@ -69,6 +69,22 @@
         <p><a href="public/pdf/MeasuringTEERwiththeECIS8wellTransfilterArray.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Measuring TEER with the ECIS 8-well Transfilter Array</a></p>
       </div>
 
+      <h4 class="mt-5 mb-4 secondary-title">ECIS Tips</h4>
+
+      <div class="supportDocs">
+        <p><a href="public/pdf/AddingCompoundsToStudyTheirEffectonECISMeasurements.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Adding Compounds to Study Their Effect on ECIS Measurements</a></p>
+        <p><a href="public/pdf/AnAlternativeWaytoObtainGoodCellDistributiononECISArrays.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> An Alternative Way to Obtain Good Cell Distribution on ECIS Arrays</a></p>
+        <p><a href="public/pdf/ChoiceOfProgramForECISTimeCourseDataAcquisition.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Choice of Program for ECIS Time Course Data Acquisition</a></p>
+        <p><a href="public/pdf/DontForgetCapacitance.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Don't Forget Capacitance</a></p>
+        <p><a href="public/pdf/DontOverlookMicromotion.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Don't Overlook Micromotion</a></p>
+        <p><a href="public/pdf/ImprovingExperimentRepeatabilitywithCysteine.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Improving Experiment Repeatability with Cysteine</a></p>
+        <p><a href="public/pdf/InoculationofECISArrays.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Inoculation of ECIS Arrays</a></p>
+        <p><a href="public/pdf/PreCoatingElectrodeswithDefinedProteinCoats.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Pre-Coating Electrodes with Defined Protein Coats</a></p>
+        <p><a href="public/pdf/ECIS_Microscopy_V2_DINA4.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Phase-Contrast & Fluorescence Microscopy Tutorial</a></p>
+        <p><a href="public/pdf/AN12_Avoiding_evaporation.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Avoiding Evaporation (ibidi)</a></p>
+      </div>
+
+
       <h4 class="mt-5 mb-4 secondary-title">Brochures</h4>
 
       <div class="supportDocs">
@@ -115,27 +131,6 @@
         <p><a href="https://www.jove.com/video/3840/measurement-of-cellular-chemotaxis-with-ecistaxis" class="link text-dark" target="_blank"><i class="fas fa-video mr-2"></i> Measurement of Cellular Chemotaxis
             with ECIS/Taxis (11min)</a></p>
       </div>
-
-      <h4 class="mt-5 mb-4 secondary-title">Tutorial Notes</h4>
-
-      <div class="supportDocs">
-        <p><a href="public/pdf/ImprovingExperimentRepeatabilitywithCysteine.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Improving Experiment Repeatability with Cysteine</a>
-        </p>
-        <p><a href="public/pdf/InoculationOfArrays.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Inoculation of Arrays</a></p>
-        <p><a href="public/pdf/Pre-CoatingElectrodeswithDefinedProteinCoats.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Pre-Coating Electrodes with Defined Protein Coats</a>
-        </p>
-        <p><a href="public/pdf/AnAlternativeWaytoObtainGoodCellDistributiononECISArrays.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> An Alternative Way to Obtain Good Cell Distribution on
-            ECIS Arrays</a></p>
-        <p><a href="public/pdf/AddingCompoundsToStudyTheirEffectonECISMeasurements.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Adding Compounds to Study their Effect on ECIS
-            Measurements</a></p>
-        <p><a href="public/pdf/ECIS_Microscopy_V2_DINA4.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Phase-Contrast & Fluorescence Microscopy Tutorial</a></p>
-        <p><a href="public/pdf/ChoiceOfProgramForECISTimeCourseDataAcquisition.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Choice of Program for ECIS Time Course Data
-            Acquisition</a></p>
-        <p><a href="public/pdf/ChoiceOfProgramForECISTimeCourseDataAcquisition.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Don't Forget Capacitance</a></p>
-        <p><a href="public/pdf/DontOverlookMicromotion.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Don't Overlook Micromotion</a></p>
-        <p><a href="public/pdf/AN12_Avoiding_evaporation.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Avoiding Evaporation (ibidi)</a></p>
-      </div>
-
     </div>
   </section><!-- /techSupportContent -->
 
