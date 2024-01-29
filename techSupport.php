@@ -97,21 +97,20 @@
       <h4 class="mt-5 mb-4 secondary-title">Brochures</h4>
 
       <div class="supportDocs">
-        <p><a href="public/pdf/ECISApplicationsBrochure.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Applications Brochure</a></p>
-        <p><a href="public/pdf/TEER24DataSheetR5.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS TEER24 Brochure</a></p>
-        <p><a href="public/pdf/CP96DataSheetR6.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS CP96 Brochure</a></p>
+        <p><a href="public/pdf/ECISProductGuide.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Product Guide</a></p>
+        <p><a href="public/pdf/HowECISworks.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> How ECIS Works</a></p>
         <p><a href="public/pdf/ECISCancer.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Cancer</a></p>
         <p><a href="public/pdf/ECISVirology.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Virology</a></p>
         <p><a href="public/pdf/ECISEndothelialCellResearch.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS &amp; Endothelial Cell Research</a></p>
       </div>
 
 
-      <h4 class="mt-5 mb-4 secondary-title">Journal Articles</h4>
+      <!-- <h4 class="mt-5 mb-4 secondary-title">Journal Articles</h4>
 
       <div class="supportDocs">
         <p><a href="https://link.springer.com/article/10.1007/s00424-014-1674-0?view=classic" class="link text-dark" target="_blank">Impedance analysis of GPCR-mediated changes in endothelial barrier function: Overview, and
             fundamental considerations for stable and reproducible measurements</a></p>
-      </div>
+      </div> -->
 
       <h4 class="mt-5 mb-4 secondary-title">Books</h4>
 
