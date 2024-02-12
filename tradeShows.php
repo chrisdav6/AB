@@ -52,9 +52,9 @@
         <p>Below are a list of upcoming shows that Applied BioPhysics will attend in 2022:</p>
       </div>
 
-      <!-- <h5 class="mt-3 no-shows">No tradeshows currently scheduled. Please check back soon.</h5> -->
+      <h5 class="mt-3 no-shows">No tradeshows currently scheduled. Please check back soon.</h5>
 
-      <div class="tradeshow mb-5">
+      <!-- <div class="tradeshow mb-5">
         <h4 class="date">February 3-7, 2024</h4>
         <div class="row">
           <div class="col-lg-4">
@@ -65,7 +65,7 @@
             <p class="mb-0 mt-2">Join the global life sciences and technology community for scientific sessions in nine tracks delivered by a diverse group of scientists, academic researchers and industry professionals from around the world. </p>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <!-- <div class="tradeshow mb-5">
         <h4 class="date">April 14-19, 2023</h4>
