@@ -17,7 +17,7 @@
                   <a class="dropdown-item" href="ztheta.php">Z-Theta
                     <!--- 16 or 96 Well Array Station-->
                   </a>
-                  <a class="dropdown-item" href="teer96.php">TEER96
+                  <a class="dropdown-item" href="teerZ.php">TEERZ
                     <!--- Barrier Function Measurement System-->
                   </a>
                   <a class="dropdown-item" href="8wTFA.php">8wTFA</a>

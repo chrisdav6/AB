@@ -1,6 +1,6 @@
 <?php
-  $title = "TEER96 - Barrier Function Measurements - Applied BioPhysics";
-  $metaDesc = "The ECIS TEER96 is designed to carry out traditional trans-epithelial/endothelial electrical resistance
+  $title = "TEERZ - 24/96 Well TEER Measurement System - Applied BioPhysics";
+  $metaDesc = "The ECIS TEERZ is designed to carry out traditional trans-epithelial/endothelial electrical resistance
   measurements using ECIS";
 ?>
 
@@ -34,15 +34,15 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <h1 class="display-2">ECIS<sup class="registered">®</sup> TEER96</h1>
+          <h1 class="display-2">ECIS<sup class="registered">®</sup> TEERZ</h1>
           <hr class="my-2">
-          <h2>96 Well TEER Measurement System</h2>
+          <h2>24/96 Well TEER Measurement System</h2>
         </div>
       </div>
     </div>
   </section><!-- /productHeading -->
 
-  <section id="productCarousel" class="py-4">
+  <section id="productCarousel" class="py-4 mb-5">
     <div class="container">
       <div class="row">
 
@@ -50,47 +50,22 @@
 
           <div id="carouselExampleIndicators" class="carousel slide border" data-ride="carousel">
             <div class="carousel-inner">
-              <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-              </ol>
-
               <div class="carousel-item active">
-                <img class="d-block w-100" src="public/img/teer96Front.jpg" alt="TEER96 Barrier Function Measurement System">
+                <img class="d-block w-100" src="public/img/teerZFront.jpg" alt="TEER96 Barrier Function Measurement System">
               </div>
-
-              <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/teer96Front-2.jpg" alt="TEER96 Barrier Function Measurement System">
-              </div>
-
-              <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/teer96Front-3.jpg" alt="TEER96 Barrier Function Measurement System Data">
-              </div>
-
             </div>
-            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-            </a>
           </div>
-
         </div>
 
         <div class="col-lg-7 text-center text-md-left mt-4">
           <h2>Description</h2>
           <hr class="mt-1">
           <p>
-            How can TEER assays for barrier function be made easier and more accurate? By making them automated and
-            reporting measurements in real time. The all new TEER96 by Applied Biophysics, Inc. A more effective
-            approach to a traditionally complicated assay.
+            How can TEER assays for barrier function be made easier and more accurate? By making them continuous and reporting measurements in real time. The all new TEERZ by Applied Biophysics, Inc. A more effective approach to a traditionally complicated assay.
           </p>
           <p><strong>21 CFR Part 11</strong> capable option now available - <small><strong>Powered by TotalLab</strong></small></p>
           <h2 class='coming-soon'>Coming Soon!</h2>
+          <a href="public/pdf/ABPBrochure2018.pdf" target="_blank" class="btn btn-outline-success productBtn mt-3" role="button">Download Brochure</a>
           <!-- <a href="public/pdf/TEER96DataSheetR3.pdf" target="_blank" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
             Sheet</a>
           <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a> -->
@@ -100,7 +75,7 @@
     </div>
   </section> <!-- /productCarousel -->
 
-  <section id="productInfo" class="py-5 mb-5 text-center text-md-left">
+  <!-- <section id="productInfo" class="py-5 mb-5 text-center text-md-left">
     <div class="container">
 
       <div class="row">
@@ -133,16 +108,6 @@
             <li>- Non-invasive &amp; label free</li>
           </ul>
 
-          <!-- <h5 class="mt-4">System Includes:</h5>
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- 96 well channel station located in or outside the CO<sub>2</sub> incubator</li>
-            <li>- External control module</li>
-            <li>- Laptop PC</li>
-            <li>- ECIS control, acquisition, and display software</li>
-            <li>- Validation test array</li>
-            <li>- Two 96 well gold coated dipping pin assemblies</li>
-          </ul> -->
-
           <div class="row my-5">
             <div class="col-lg-8 mx-auto">
               <img class="img-fluid" src="public/img/teer96-3.jpg" alt="TEER96 Station">
@@ -169,68 +134,8 @@
         </div>
       </div>
 
-      <!-- <div class="row mt-5">
-        <div class="col">
-
-          <ul class="nav nav-tabs" id="myTab" role="tablist">
-            <li class="nav-item">
-              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab" aria-controls="video" aria-selected="false">Video</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark" id="options-tab" data-scroll-ignore data-toggle="tab" href="#options" role="tab" aria-controls="options" aria-selected="false">Options</a>
-            </li>
-          </ul>
-
-          <div class="tab-content" id="myTabContent">
-            <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
-              <p class="mt-4">
-              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                <li>- Stainless Steel electrode dipping pins</li>
-                <li>- 75 Hz sinusoidal signal</li>
-                <li>- Connects to laptop via USB</li>
-                <li>- Windows 10 OS</li>
-              </ul>
-              </p>
-            </div>
-            <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
-              <p class="mt-4">
-              <div class="youtubeEmbed" id="H4AU9D-dKhk"></div>
-              </p>
-              <p class="mt-4">
-              <div class="youtubeEmbed" id="YNWNDkTsMxs"></div>
-              </p>
-            </div>
-            <div class="tab-pane fade" id="options" role="tabpanel" aria-labelledby="options-tab">
-              <p class="mt-4">Descriptions and links of optional add-on products and/or training</p>
-            </div>
-          </div>
-        </div>
-      </div> -->
-
-      <!-- <div id="dataSheets" class="row mt-5">
-        <div class="col">
-          <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
-          <hr class="mt-1">
-          <div class="row mt-4">
-            <div class="col-md-3 pb-4 pb-md-0">
-              <a href="public/pdf/TEER96DataSheetR3.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER96 Data Sheet">
-                <img class="img-fluid" src="public/img/teer96DataSheet.jpg" alt="Download TEER96 Data Sheet">
-              </a>
-            </div>
-            <div class="col-md-3">
-              <a href="public/pdf/TEER96ManualR2.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER96 Manual">
-                <img class="img-fluid" src="public/img/teer96Manual.jpg" alt="Download TEER96 Manual">
-              </a>
-            </div>
-          </div>
-        </div>
-      </div> -->
-
     </div>
-  </section>
+  </section> -->
 
   <?php include_once "includes/footer.php";?>
 
