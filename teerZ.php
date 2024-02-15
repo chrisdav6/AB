@@ -65,7 +65,7 @@
           </p>
           <p><strong>21 CFR Part 11</strong> capable option now available - <small><strong>Powered by TotalLab</strong></small></p>
           <h2 class='coming-soon'>Coming Soon!</h2>
-          <a href="public/pdf/ABPBrochure2018.pdf" target="_blank" class="btn btn-outline-success productBtn mt-3" role="button">Download Brochure</a>
+          <a href="public/pdf/TEERZBrochure.pdf" target="_blank" class="btn btn-outline-success productBtn mt-3" role="button">Download Brochure</a>
           <!-- <a href="public/pdf/TEER96DataSheetR3.pdf" target="_blank" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
             Sheet</a>
           <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a> -->
