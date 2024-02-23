@@ -54,40 +54,36 @@
           <div class="col-md-6 my-4">
             <h3>Australia</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.sdr.com.au" target="_blank">SDR Scientific Pty Ltd</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              206 / 354 Eastern Valley Way<br>
-              CHATSWOOD NSW 2067<br>
-              Tel: 02-9882-2882<br>
-              <a class="text-dark link" href="mailto:info@sdr.com.au?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@sdr.com.au</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Austria</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Belgium</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
@@ -121,14 +117,12 @@
           <div class="col-md-6 my-4">
             <h3>Croatia</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
@@ -151,70 +145,60 @@
           <div class="col-md-6 my-4">
             <h3>Denmark</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Estonia</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Finland</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>France</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Germany</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
@@ -237,14 +221,12 @@
           <div class="col-md-6 my-4">
             <h3>Ireland</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
@@ -267,14 +249,12 @@
           <div class="col-md-6 my-4">
             <h3>Italy</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
@@ -308,28 +288,24 @@
           <div class="col-md-6 my-4">
             <h3>Latvia</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Lithuania</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
@@ -351,14 +327,12 @@
           <div class="col-md-6 my-4">
             <h3>Netherlands</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
@@ -378,42 +352,36 @@
           <div class="col-md-6 my-4">
             <h3>Norway</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Poland</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Portugal</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
@@ -467,56 +435,48 @@
           <div class="col-md-6 my-4">
             <h3>Slovenia</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Spain</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Sweden</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Switzerland</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
@@ -553,14 +513,12 @@
           <div class="col-md-6 my-4">
             <h3>United Kingdom</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.ibidi.de" target="_blank">ibidi GmbH</a></h5>
+            <h5 class="text-dark link">Applied Biophysics</h5>
             <address>
-              Lochhamer Schlag 11 | 82166 Gräfelfing<br>
-              Germany<br>
-              Tel: +49 89 520 46 17-0<br>
-              Fax: +49 89 520 46 17-59<br>
-              Attn: Dr. Christiane Thanisch<br>
-              <a class="text-dark link" href="mailto:cthanisch@ibidi.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> cthanisch@ibidi.de</a>
+              185 Jordan Road<br>
+              Troy, NY 12180<br>
+              Tel: 1-866-301-ECIS (3247)<br>
+              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
             </address>
           </div>
 
