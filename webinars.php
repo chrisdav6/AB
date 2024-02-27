@@ -184,7 +184,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rf4b7ea337f1f5b6c550a5370d6b9fa8d" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
@@ -194,7 +194,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r851c17050ca97607653386e9fbb04274" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">Cell Attachment and Spreading Measurements – 11:00 AM EDT</h4>
