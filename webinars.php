@@ -203,7 +203,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r7b28fa1a8bffd2c8a38270a145af20c2" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Signal Transduction Assays – 11:00 AM EDT</h4>
@@ -212,7 +212,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r93d85356d0215981b23921bc57255573" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">Toxicology with ECIS – 11:00 AM EDT</h4>
