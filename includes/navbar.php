@@ -91,6 +91,7 @@
               <a class="dropdown-item" href="ecisReferralProgram.php">ECIS Referral Program</a>
               <!-- <a class="dropdown-item" href="earlyCareerGrants.php">Early Career Grants</a> -->
               <a class="dropdown-item" href="partnerCompanies.php">Partner Companies</a>
+              <a class="dropdown-item" href="public/pdf/FCIO2024.pdf" target="_blank">FCOI</a>
             </div>
           </li>
           <li class="nav-item dropdown">
