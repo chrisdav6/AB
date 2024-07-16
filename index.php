@@ -106,8 +106,8 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Webinars</h3>
-                <h4 class="mb-1">July 16, 2024</h4>
-                <p class="card-text mb-0">Signal Transduction Assays</p>
+                <h4 class="mb-1">July 30, 2024</h4>
+                <p class="card-text mb-0">Toxicology with ECIS</p>
                 <p class="card-text mb-0">11:00AM EDT</p>
                 <!-- Extra Event -->
                 <!-- <h4 class="mb-1 mt-3">May 17, 2022</h4>
