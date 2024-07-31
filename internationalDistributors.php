@@ -66,24 +66,26 @@
           <div class="col-md-6 my-4">
             <h3>Austria</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://www.dunnlab.de" target="_blank">Dunn Labortechnik GmbH</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Thelenberg 6,<br>
+              53567 Asbach, Germany<br>
+              Tel: +49-2683-43094<br>
+              Attn: Kevin Denkmann<br>
+              <a class="text-dark link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@dunnlab.de</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Belgium</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://www.dunnlab.de" target="_blank">Dunn Labortechnik GmbH</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Thelenberg 6,<br>
+              53567 Asbach, Germany<br>
+              Tel: +49-2683-43094<br>
+              Attn: Kevin Denkmann<br>
+              <a class="text-dark link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@dunnlab.de</a>
             </address>
           </div>
 
@@ -193,12 +195,13 @@
           <div class="col-md-6 my-4">
             <h3>Germany</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://www.dunnlab.de" target="_blank">Dunn Labortechnik GmbH</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Thelenberg 6,<br>
+              53567 Asbach, Germany<br>
+              Tel: +49-2683-43094<br>
+              Attn: Kevin Denkmann<br>
+              <a class="text-dark link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@dunnlab.de</a>
             </address>
           </div>
 
@@ -221,12 +224,13 @@
           <div class="col-md-6 my-4">
             <h3>Ireland</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://www.thistlescientific.co.uk" target="_blank">Thistle Scientific, Ltd</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              41 Somers Rd,<br>
+              Rugby CV22 7DH, United Kingdom<br>
+              Tel: +44 (0) 1698338844<br>
+              Attn: Richard Darby<br>
+              <a class="text-dark link" href="mailto:enquiries@thistlescientific.co.uk?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> enquiries@thistlescientific.co.uk</a>
             </address>
           </div>
 
@@ -327,12 +331,13 @@
           <div class="col-md-6 my-4">
             <h3>Netherlands</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://www.dunnlab.de" target="_blank">Dunn Labortechnik GmbH</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Thelenberg 6,<br>
+              53567 Asbach, Germany<br>
+              Tel: +49-2683-43094<br>
+              Attn: Kevin Denkmann<br>
+              <a class="text-dark link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@dunnlab.de</a>
             </address>
           </div>
 
@@ -471,12 +476,13 @@
           <div class="col-md-6 my-4">
             <h3>Switzerland</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://www.dunnlab.de" target="_blank">Dunn Labortechnik GmbH</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Thelenberg 6,<br>
+              53567 Asbach, Germany<br>
+              Tel: +49-2683-43094<br>
+              Attn: Kevin Denkmann<br>
+              <a class="text-dark link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@dunnlab.de</a>
             </address>
           </div>
 
@@ -513,12 +519,13 @@
           <div class="col-md-6 my-4">
             <h3>United Kingdom</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://www.thistlescientific.co.uk" target="_blank">Thistle Scientific, Ltd</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              41 Somers Rd,<br>
+              Rugby CV22 7DH, United Kingdom<br>
+              Tel: +44 (0) 1698338844<br>
+              Attn: Richard Darby<br>
+              <a class="text-dark link" href="mailto:enquiries@thistlescientific.co.uk?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> enquiries@thistlescientific.co.uk</a>
             </address>
           </div>
 

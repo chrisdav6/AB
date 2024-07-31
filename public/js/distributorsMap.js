@@ -64,20 +64,24 @@ function initMap() {
     //Austria
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>Dunn Labortechnik GmbH</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: +49-2683-43094<br>' +
+        'Attn: Kevin Denkmann<br>' +
+        '<p><a class="map-link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="https://www.dunnlab.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
     //Belgium
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>Dunn Labortechnik GmbH</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: +49-2683-43094<br>' +
+        'Attn: Kevin Denkmann<br>' +
+        '<p><a class="map-link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="https://www.dunnlab.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -169,10 +173,12 @@ function initMap() {
     //Germany
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>Dunn Labortechnik GmbH</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: +49-2683-43094<br>' +
+        'Attn: Kevin Denkmann<br>' +
+        '<p><a class="map-link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="https://www.dunnlab.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -191,10 +197,12 @@ function initMap() {
     //Ireland
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>Thistle Scientific, Ltd</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: +44 (0) 1698338844<br>' +
+        'Attn: Richard Darby<br>' +
+        '<p><a class="map-link" href="mailto:enquiries@thistlescientific.co.uk?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="https://www.thistlescientific.co.uk" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -275,10 +283,12 @@ function initMap() {
     //Netherlands
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>Dunn Labortechnik GmbH</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: +49-2683-43094<br>' +
+        'Attn: Kevin Denkmann<br>' +
+        '<p><a class="map-link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="https://www.dunnlab.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -391,10 +401,12 @@ function initMap() {
     //Switzerland
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>Dunn Labortechnik GmbH</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: +49-2683-43094<br>' +
+        'Attn: Kevin Denkmann<br>' +
+        '<p><a class="map-link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="https://www.dunnlab.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -425,10 +437,12 @@ function initMap() {
     //United Kingdom
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>Thistle Scientific, Ltd</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: +44 (0) 1698338844<br>' +
+        'Attn: Richard Darby<br>' +
+        '<p><a class="map-link" href="mailto:enquiries@thistlescientific.co.uk?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="https://www.thistlescientific.co.uk" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
   ];
