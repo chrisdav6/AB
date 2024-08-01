@@ -11,8 +11,8 @@ function initMap() {
 
   var markers = [
     ['Austrailia, SDR Scientific Pty Ltd', -21.51727, 133.668094],
-    ['Austria, Applied Biophysics', 47.874874, 14.165045],
-    ['Belgium, Applied Biophysics', 50.743101, 4.630654],
+    ['Austria, Dunn Labortechnik GmbH', 47.874874, 14.165045],
+    ['Belgium, Dunn Labortechnik GmbH', 50.743101, 4.630654],
     // ['Brazil, BIOProphecy', -9.931470, -50.785254],
     ['China, Dakewe Biotech Co', 35.682732, 103.662959],
     ['Croatia, Applied Biophysics', 44.731775, 15.355882],
@@ -21,9 +21,9 @@ function initMap() {
     ['Estonia, Applied Biophysics', 58.968993, 25.798235],
     ['Finland, Applied Biophysics', 61.056643, 25.226935],
     ['France, Applied Biophysics', 47.022127, 2.532289],
-    ['Germany, Applied Biophysics', 51.475423, 10.377814],
+    ['Germany, Dunn Labortechnik GmbH', 51.475423, 10.377814],
     ['India, Labmate', 23.647772, 79.508199],
-    ['Ireland, Applied Biophysics', 53.295854, -7.973595],
+    ['Ireland, Thistle Scientific, Ltd', 53.295854, -7.973595],
     ['Israel, Almog Diagnostic', 31.261726, 34.953094],
     ['Italy, Applied Biophysics', 43.560405, 12.229838],
     ['Japan, Nepa Gene Company, Ltd.', 36.987055, 138.438764],
@@ -31,7 +31,7 @@ function initMap() {
     ['Latvia, Applied Biophysics', 56.793994, 25.97753],
     ['Lithuania, Applied Biophysics', 55.202891, 24.025879],
     ['Malaysia, Precision Technologies', 4.187779, 102.043109],
-    ['Netherlands, Applied Biophysics', 52.248033, 5.779013],
+    ['Netherlands, Dunn Labortechnik GmbH', 52.248033, 5.779013],
     ['New Zealand, SDR Scientific Pty Ltd', -42.07673, 173.35596],
     ['Norway, Applied Biophysics', 61.378787, 9.180056],
     ['Poland, Applied Biophysics', 52.464317, 18.870001],
@@ -42,10 +42,10 @@ function initMap() {
     ['Slovenia, Applied Biophysics', 46.182112, 14.718282],
     ['Spain, Applied Biophysics', 40.171765, -3.102586],
     ['Sweden, Applied Biophysics', 57.31371, 14.512524],
-    ['Switzerland, Applied Biophysics', 46.948425, 8.043165],
+    ['Switzerland, Dunn Labortechnik GmbH', 46.948425, 8.043165],
     ['Taiwan, Sunpoint Scientific Instrument Co., Ltd.', 23.818453, 121.142053],
     ['Turkey, aka Biyoteknoloji', 39.523393, 35.371999],
-    ['United Kingdom, Applied Biophysics', 53.79179, -2.178177],
+    ['United Kingdom, Thistle Scientific, Ltd', 53.79179, -2.178177],
   ];
 
   // Info Window Content
