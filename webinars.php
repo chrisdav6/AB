@@ -132,14 +132,14 @@
 
       <h4 class="mt-lg-0 mb-3 secondary-title">2024 Webinar Schedule</h4>
 
-      <div class="webinar">
+      <!-- <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EDT</h4>
         <p class="date">September 3, 2024</p>
         <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell morphological changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r5fa1b9b887d4a46b2fb0b563c3077456" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr> -->
 
       <div class="webinar">
         <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EDT</h4>
