@@ -39,17 +39,17 @@
           <h2>16 or 96 Well Array Station</h2>
 
           <!-- Bioz -->
-          <div class='d-flex flex-column justify-content-center align-items-center align-items-md-start'>
+          <!-- <div class='d-flex flex-column justify-content-center align-items-center align-items-md-start'>
             <div id='w-s-2050-ECIS-Z-Theta' style="width:240px;height:58px;position:relative;overflow-y: hidden"></div>
             <div id="bioz-w-pb-ECIS-Z-Theta-div" style="width: 240px"><a id="bioz-w-pb-ECIS-Z-Theta" style="font-size: 12px;color:transparent" href="https://www.bioz.com/" target="_blank"> <img src="https://cdn.bioz.com/assets/favicon.png" style="width:11px;height:11px;vertical-align: baseline;padding-bottom:0px;margin-left:0px;margin-bottom:0px;float:none;display:none" /> Powered by Bioz</a></div>
-          </div>
+          </div> -->
 
         </div>
       </div>
     </div>
   </section><!-- /productHeading -->
 
-  <section id="productCarousel" class="pt-0 pb-4">
+  <section id="productCarousel" class="py-4">
     <div class="container">
       <div class="row">
 
@@ -105,19 +105,19 @@
 
   <section id="productInfo" class="py-5 mb-5 text-center text-md-left">
     <div class="container">
-      <div class="row">
+      <!-- <div class="row">
         <div class="col">
           <h2>Publications</h2>
           <hr class="mt-1">
 
-          <!-- Bioz -->
+          
           <object id="wobj-2050-ECIS-Z-Theta-q" type="text/html" data="https://www.bioz.com/v_widget_6_0/2050/ECIS-Z-Theta/" style="width:100%; height: 193px"></object>
           <div id="bioz-w-pb-2050-ECIS-Z-Theta-q-div" style="width: 100%"><a id="bioz-w-pb-2050-ECIS-Z-Theta-q" style="font-size: 12px;text-decoration:none;color:#476D85" href="https://www.bioz.com/" target="_blank"><img src="https://cdn.bioz.com/assets/favicon.png" style="width:11px;height:11px;vertical-align: baseline;padding-bottom:0px;margin-left:0px;margin-bottom:0px;float:none"> Powered by Bioz</a> <a style="font-size: 12px;text-decoration:none;float: right;color:transparent" href="https://www.bioz.com/result/ECIS-Z-Theta/product/Applied BioPhysics/?cn=ECIS-Z-Theta" target="_blank"> See more details on Bioz</a></div>
-          <!-- /Bioz -->
+          
         </div>
-      </div>
+      </div> -->
 
-      <div class="row mt-5">
+      <div class="row">
         <div class="col">
           <h2>Overview</h2>
           <hr class="mt-1">
@@ -342,7 +342,7 @@
   </script>
 
   <!-- Bioz -->
-  <script src="https://cdn.bioz.com/assets/bioz-w-api-6.0.min.js"></script>
+  <!-- <script src="https://cdn.bioz.com/assets/bioz-w-api-6.0.min.js"></script>
   <link rel="stylesheet" href="https://cdn.bioz.com/assets/font-awesome-reg.css">
   <link rel="stylesheet" type="text/css" href="https://cdn.bioz.com/assets/tooltipster.css" />
   <link rel="stylesheet" type="text/css" href="https://cdn.bioz.com/assets/tooltipster-theme2.css" />
@@ -358,7 +358,7 @@
   var _form_url = "//back-badge-8.bioz.com";
   var _key = "";
   var _form_mobile = false;
-  </script>
+  </script> -->
 
   <script>
   $(document).ready(function() {
