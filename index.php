@@ -47,13 +47,13 @@
     <!-- </a> -->
   </div>
 
-  <div class="holiday">
+  <!-- <div class="holiday">
     <div class="container py-3 text-center">
       <h5 class="mb-0">
         Applied Biophysics will be closed on October 14, 2024, for Columbus Day
       </h5>
     </div>
-  </div>
+  </div> -->
 
   <!-- <div class="holiday">
     <div class="container py-3 text-center">
@@ -106,8 +106,8 @@
             <div class="card text-center">
               <div class="card-body">
                 <h3 class="card-title">Webinars</h3>
-                <h4 class="mb-1">October 15, 2024</h4>
-                <p class="card-text mb-0">Barrier Function Assays</p>
+                <h4 class="mb-1">October 29, 2024</h4>
+                <p class="card-text mb-0">Real-time Electroporation and Monitoring</p>
                 <p class="card-text mb-0">11:00AM EDT</p>
                 <!-- Extra Event -->
                 <!-- <h4 class="mb-1 mt-3">May 17, 2022</h4>
