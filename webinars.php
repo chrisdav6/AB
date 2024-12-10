@@ -130,7 +130,7 @@
           </div>
         </div>-->
 
-      <h4 class="mt-lg-0 mb-3 secondary-title">2024 Webinar Schedule</h4>
+      <!-- <h4 class="mt-lg-0 mb-3 secondary-title">2026 Webinar Schedule</h4> -->
 
       <!-- <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EDT</h4>
@@ -193,14 +193,14 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rce101dfc32e6872db34215db52438cef" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EST</h4>
         <p class="date">December 10, 2024</p>
         <p>The ECIS Wound Healing Assay replaces the traditional "scratch" or "scrape" assay. Instead of disrupting the cell layer mechanically with a needle or pipette tip and following the migration of cells to "heal" the wound with a microscope, we employ electric signals to both wound and monitor the healing process. We will also describe a novel and new approach to this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then present quantitative data regarding these automated assays.</p>
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r2e45f733451ea3bc7091c2529997691c" target="_blank">Register</a>
-      </div>
+      </div>-->
 
 
       <h4 class="mt-4 mb-3 secondary-title">2025 Webinar Schedule</h4>
