@@ -240,8 +240,8 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r56dddfd3659fbc72d7a97a233e1c51c7" target="_blank">Register</a>
       </div>
 
-      <hr>-->
-
+      <hr>
+      
       <div class="webinar">
         <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
         <p class="date">March 4, 2025</p>
@@ -250,7 +250,8 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/ra6211ec8b1c5f1ef5930d681f8638d5d" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
+
 
       <div class="webinar">
         <h4 class="webinar-title">Cell Attachment and Spreading Measurements – 11:00 AM EDT</h4>
