@@ -15,17 +15,18 @@ function initMap() {
     ['Belgium, Dunn Labortechnik GmbH', 50.743101, 4.630654],
     // ['Brazil, BIOProphecy', -9.931470, -50.785254],
     ['China, Dakewe Biotech Co', 35.682732, 103.662959],
-    ['Croatia, Applied Biophysics', 44.731775, 15.355882],
+    ['Croatia, KF Technology', 44.731775, 15.355882],
     ['Czech Republic, Sven Bio Labs', 49.802342, 15.038014],
     ['Denmark, Applied Biophysics', 56.185261, 9.201947],
     ['Estonia, Applied Biophysics', 58.968993, 25.798235],
     ['Finland, Applied Biophysics', 61.056643, 25.226935],
-    ['France, Applied Biophysics', 47.022127, 2.532289],
+    ['France, KF Technology', 47.022127, 2.532289],
     ['Germany, Dunn Labortechnik GmbH', 51.475423, 10.377814],
+    ['Greece, KF Technology', 39.410339, 21.795173],
     ['India, Labmate', 23.647772, 79.508199],
     ['Ireland, Thistle Scientific, Ltd', 53.295854, -7.973595],
     ['Israel, Almog Diagnostic', 31.261726, 34.953094],
-    ['Italy, Applied Biophysics', 43.560405, 12.229838],
+    ['Italy, KF Technology', 43.560405, 12.229838],
     ['Japan, Nepa Gene Company, Ltd.', 36.987055, 138.438764],
     ['Korea, LeeBaeg Science Co., Ltd.', 36.858338, 127.988415],
     ['Latvia, Applied Biophysics', 56.793994, 25.97753],
@@ -35,12 +36,13 @@ function initMap() {
     ['New Zealand, SDR Scientific Pty Ltd', -42.07673, 173.35596],
     ['Norway, Applied Biophysics', 61.378787, 9.180056],
     ['Poland, Applied Biophysics', 52.464317, 18.870001],
-    ['Portugal, Applied Biophysics', 40.055457, -8.044187],
+    ['Portugal, KF Technology', 40.055457, -8.044187],
     ['Puerto Rico, Audio & Video Pro Caribe', 18.229927, -66.459357],
+    ['Romania, KF Technology', 45.995959, 25.014615],
     ['Singapore, Precision Technologies', 1.363426, 103.867258],
     ['Slovakia, Sven Bio Labs', 48.942438, 19.254374],
-    ['Slovenia, Applied Biophysics', 46.182112, 14.718282],
-    ['Spain, Applied Biophysics', 40.171765, -3.102586],
+    ['Slovenia, KF Technology', 46.182112, 14.718282],
+    ['Spain, KF Technology', 40.171765, -3.102586],
     ['Sweden, Applied Biophysics', 57.31371, 14.512524],
     ['Switzerland, Dunn Labortechnik GmbH', 46.948425, 8.043165],
     ['Taiwan, Sunpoint Scientific Instrument Co., Ltd.', 23.818453, 121.142053],
@@ -111,10 +113,11 @@ function initMap() {
     //Croatia
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>KF Technology</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: (+39) 339 533 03 22<br>' +
+        'Attn: Fabrizio Barbieri<br>' +
+        '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -163,10 +166,11 @@ function initMap() {
     //France
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>KF Technology</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: (+39) 339 533 03 22<br>' +
+        'Attn: Fabrizio Barbieri<br>' +
+        '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -179,6 +183,17 @@ function initMap() {
         'Attn: Kevin Denkmann<br>' +
         '<p><a class="map-link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://www.dunnlab.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '</div>',
+    ],
+
+    //Greece
+    [
+      '<div class="map-text">' +
+        '<span>KF Technology</span><br>' +
+        '<hr>' +
+        'Tel: (+39) 339 533 03 22<br>' +
+        'Attn: Fabrizio Barbieri<br>' +
+        '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -221,10 +236,11 @@ function initMap() {
     //Italy
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>KF Technology</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: (+39) 339 533 03 22<br>' +
+        'Attn: Fabrizio Barbieri<br>' +
+        '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -326,10 +342,11 @@ function initMap() {
     //Portugal
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>KF Technology</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: (+39) 339 533 03 22<br>' +
+        'Attn: Fabrizio Barbieri<br>' +
+        '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -342,6 +359,17 @@ function initMap() {
         'Attn: Julio C. Gonzalez<br>' +
         '<p><a class="map-link" href="mailto:jcgonzalez@avpcaribe.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="http://www.avpcaribe.com" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '</div>',
+    ],
+
+    //Romania
+    [
+      '<div class="map-text">' +
+        '<span>KF Technology</span><br>' +
+        '<hr>' +
+        'Tel: (+39) 339 533 03 22<br>' +
+        'Attn: Fabrizio Barbieri<br>' +
+        '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -371,20 +399,22 @@ function initMap() {
     //Slovenia
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>KF Technology</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: (+39) 339 533 03 22<br>' +
+        'Attn: Fabrizio Barbieri<br>' +
+        '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
     //Spain
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>KF Technology</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: (+39) 339 533 03 22<br>' +
+        'Attn: Fabrizio Barbieri<br>' +
+        '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
