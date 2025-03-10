@@ -54,12 +54,12 @@
           <div class="col-md-6 my-4">
             <h3>Australia</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://sdr.com.au" target="_blank">SDR Scientific</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              206 / 354 Eastern Valley Way<br>
+              CHATSWOOD NSW 2067, Australia<br>
+              Tel: 61-2-9882-2882<br>
+              <a class="text-dark link" href="mailto:info@sdr.com.au?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@sdr.com.au</a>
             </address>
           </div>
 
@@ -150,24 +150,27 @@
           <div class="col-md-6 my-4">
             <h3>Denmark</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://www.dunnlab.de" target="_blank">Dunn Labortechnik GmbH</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Thelenberg 6,<br>
+              53567 Asbach, Germany<br>
+              Tel: +49-2683-43094<br>
+              Attn: Kevin Denkmann<br>
+              <a class="text-dark link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@dunnlab.de</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Estonia</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://animalab.pl" target="_blank">Animalab</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Ul. Dąbrowskiego 343<br>
+              60-419 Poznań, Poland<br>
+              Tel: +48 61 861 60 04<br>
+              Attn: Wiktoria Grzelachowska<br>
+              <a class="text-dark link" href="mailto:wg@animalab.pl?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                wg@animalab.pl</a>
             </address>
           </div>
 
@@ -223,6 +226,19 @@
               Attn: Fabrizio Barbieri<br>
               <a class="text-dark link" href="mailto:fabrizio@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
                 fabrizio@kftechnology.it</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Hungary</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="https://www.dunnlab.de" target="_blank">Dunn Labortechnik GmbH</a></h5>
+            <address>
+              Thelenberg 6,<br>
+              53567 Asbach, Germany<br>
+              Tel: +49-2683-43094<br>
+              Attn: Kevin Denkmann<br>
+              <a class="text-dark link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@dunnlab.de</a>
             </address>
           </div>
 
@@ -316,24 +332,28 @@
           <div class="col-md-6 my-4">
             <h3>Latvia</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://animalab.pl" target="_blank">Animalab</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Ul. Dąbrowskiego 343<br>
+              60-419 Poznań, Poland<br>
+              Tel: +48 61 861 60 04<br>
+              Attn: Wiktoria Grzelachowska<br>
+              <a class="text-dark link" href="mailto:wg@animalab.pl?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                wg@animalab.pl</a>
             </address>
           </div>
 
           <div class="col-md-6 my-4">
             <h3>Lithuania</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://animalab.pl" target="_blank">Animalab</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Ul. Dąbrowskiego 343<br>
+              60-419 Poznań, Poland<br>
+              Tel: +48 61 861 60 04<br>
+              Attn: Wiktoria Grzelachowska<br>
+              <a class="text-dark link" href="mailto:wg@animalab.pl?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                wg@animalab.pl</a>
             </address>
           </div>
 
@@ -368,11 +388,10 @@
           <div class="col-md-6 my-4">
             <h3>New Zealand</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.sdr.com.au" target="_blank">SDR Scientific Pty Ltd</a></h5>
+            <h5><a class="text-dark link" href="https://sdr.com.au" target="_blank">SDR Scientific</a></h5>
             <address>
               206 / 354 Eastern Valley Way<br>
-              CHATSWOOD NSW 2067<br>
-              Australia<br>
+              CHATSWOOD NSW 2067, Australia<br>
               Tel: 61-2-9882-2882<br>
               <a class="text-dark link" href="mailto:info@sdr.com.au?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@sdr.com.au</a>
             </address>
@@ -393,12 +412,14 @@
           <div class="col-md-6 my-4">
             <h3>Poland</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://animalab.pl" target="_blank">Animalab</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Ul. Dąbrowskiego 343<br>
+              60-419 Poznań, Poland<br>
+              Tel: +48 61 861 60 04<br>
+              Attn: Wiktoria Grzelachowska<br>
+              <a class="text-dark link" href="mailto:wg@animalab.pl?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                wg@animalab.pl</a>
             </address>
           </div>
 
