@@ -281,14 +281,14 @@
               <td>45/60</td>
               <td>0.66 x 5</td>
             </tr>
-            <tr class="odd">
+            <!-- <tr class="odd">
               <th scope="row"><a class="arrayLink" href="#1F2Y8x10E">1F2Y8x10E PC</a></th>
               <td>8x4x2 (30&45 degree sides**)</td>
               <td>0.49</td>
               <td>500-1000</td>
               <td>165/60</td>
               <td>0.66 x 5</td>
-            </tr>
+            </tr> -->
           </tbody>
         </table>
 
@@ -864,10 +864,8 @@
         </ul>
       </div><!-- /array -->
 
-      <hr>
-
       <!-- 1F2Y8x10E PC -->
-      <div id="1F2Y8x10E" class="array">
+      <!-- <div id="1F2Y8x10E" class="array">
         <h4>1F2Y8x10E PC</h4>
         <div class="row">
           <div class="col-md-8 mr-auto">
@@ -894,7 +892,7 @@
           <li>- Rolling and adhesion of leukocytes on endothelial cells cultured under flow</li>
           <li>- Cell-cell interaction studies and cell-drug interaction screenings under flow conditions</li>
         </ul>
-      </div><!-- /array -->
+      </div> -->
 
     </div>
   </section><!-- /culturewareContent -->
