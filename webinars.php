@@ -250,7 +250,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/ra6211ec8b1c5f1ef5930d681f8638d5d" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
 
       <div class="webinar">
@@ -260,7 +260,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r4b27f33e5531f591dda09c33a7d3d1f3" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">Signal Transduction Assays – 11:00 AM EDT</h4>
