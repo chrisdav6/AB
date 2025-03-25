@@ -126,8 +126,8 @@
               Tel: (+39) 339 533 03 22<br>
               Fax: (+39) 06 9725.3131 <br>
               Attn: Fabrizio Barbieri<br>
-              <a class="text-dark link" href="mailto:fabrizio@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
-                fabrizio@kftechnology.it</a>
+              <a class="text-dark link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                info@kftechnology.it</a>
             </address>
           </div>
 
@@ -196,8 +196,8 @@
               Tel: (+39) 339 533 03 22<br>
               Fax: (+39) 06 9725.3131 <br>
               Attn: Fabrizio Barbieri<br>
-              <a class="text-dark link" href="mailto:fabrizio@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
-                fabrizio@kftechnology.it</a>
+              <a class="text-dark link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                info@kftechnology.it</a>
             </address>
           </div>
 
@@ -224,8 +224,8 @@
               Tel: (+39) 339 533 03 22<br>
               Fax: (+39) 06 9725.3131 <br>
               Attn: Fabrizio Barbieri<br>
-              <a class="text-dark link" href="mailto:fabrizio@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
-                fabrizio@kftechnology.it</a>
+              <a class="text-dark link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                info@kftechnology.it</a>
             </address>
           </div>
 
@@ -297,8 +297,8 @@
               Tel: (+39) 339 533 03 22<br>
               Fax: (+39) 06 9725.3131 <br>
               Attn: Fabrizio Barbieri<br>
-              <a class="text-dark link" href="mailto:fabrizio@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
-                fabrizio@kftechnology.it</a>
+              <a class="text-dark link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                info@kftechnology.it</a>
             </address>
           </div>
 
@@ -433,8 +433,8 @@
               Tel: (+39) 339 533 03 22<br>
               Fax: (+39) 06 9725.3131 <br>
               Attn: Fabrizio Barbieri<br>
-              <a class="text-dark link" href="mailto:fabrizio@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
-                fabrizio@kftechnology.it</a>
+              <a class="text-dark link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                info@kftechnology.it</a>
             </address>
           </div>
 
@@ -464,8 +464,8 @@
               Tel: (+39) 339 533 03 22<br>
               Fax: (+39) 06 9725.3131 <br>
               Attn: Fabrizio Barbieri<br>
-              <a class="text-dark link" href="mailto:fabrizio@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
-                fabrizio@kftechnology.it</a>
+              <a class="text-dark link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                info@kftechnology.it</a>
             </address>
           </div>
 
@@ -510,8 +510,8 @@
               Tel: (+39) 339 533 03 22<br>
               Fax: (+39) 06 9725.3131 <br>
               Attn: Fabrizio Barbieri<br>
-              <a class="text-dark link" href="mailto:fabrizio@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
-                fabrizio@kftechnology.it</a>
+              <a class="text-dark link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                info@kftechnology.it</a>
             </address>
           </div>
 
@@ -525,8 +525,8 @@
               Tel: (+39) 339 533 03 22<br>
               Fax: (+39) 06 9725.3131 <br>
               Attn: Fabrizio Barbieri<br>
-              <a class="text-dark link" href="mailto:fabrizio@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
-                fabrizio@kftechnology.it</a>
+              <a class="text-dark link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i>
+                info@kftechnology.it</a>
             </address>
           </div>
 
