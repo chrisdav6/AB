@@ -1,50 +1,51 @@
-@import "base";
-@import "header";
-@import "footer";
+@import 'base';
+@import 'header';
+@import 'footer';
 
 //Index Page
-@import "index/anninversary_banner";
-@import "index/holiday_banner";
-@import "index/notification";
-@import "index/logo";
-@import "index/hero";
-@import "index/carousel";
-@import "index/events";
+@import 'index/anninversary_banner';
+@import 'index/holiday_banner';
+@import 'index/notification';
+@import 'index/logo';
+@import 'index/hero';
+@import 'index/carousel';
+@import 'index/events';
 
 //Products Page
-@import "products/productHeading";
-@import "products/productCarousel";
-@import "products/productInfo";
-@import "products/cultureware";
-@import "products/flowSystems";
-@import "products/CO2Incubator";
-@import "products/hypoxia";
-@import "products/stageAdapter";
+@import 'products/productHeading';
+@import 'products/productCarousel';
+@import 'products/productInfo';
+@import 'products/cultureware';
+@import 'products/flowSystems';
+@import 'products/CO2Incubator';
+@import 'products/hypoxia';
+@import 'products/stageAdapter';
 
 //Applications Pages
-@import "applications/applicationHeading";
-@import "applications/applicationContent";
-@import "applications/applicationReferences";
-@import "applications/publications";
+@import 'applications/applicationHeading';
+@import 'applications/applicationContent';
+@import 'applications/applicationReferences';
+@import 'applications/publications';
 
 //Technology Pages
-@import "technology/technology";
+@import 'technology/technology';
 
 //Support Pages
-@import "support/webinars";
-@import "support/school";
-@import "support/tradeshows";
-@import "support/techSupport";
-@import "support/software";
-@import "support/ibca";
+@import 'support/webinars';
+@import 'support/school';
+@import 'support/tradeshows';
+@import 'support/techSupport';
+@import 'support/software';
+@import 'support/ibca';
+@import 'support/privacy';
 
 //Company Pages
-@import "company/company";
-@import "company/ecisUsers";
-@import "company/ecisReferral";
-@import "company/earlyCareer";
-@import "company/partnerCompanies";
+@import 'company/company';
+@import 'company/ecisUsers';
+@import 'company/ecisReferral';
+@import 'company/earlyCareer';
+@import 'company/partnerCompanies';
 
 //Contact Page
-@import "contact/contact";
-@import "contact/requestDemo";
+@import 'contact/contact';
+@import 'contact/requestDemo';

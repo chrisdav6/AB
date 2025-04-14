@@ -1,0 +1,39 @@
+#privacyHeading {
+  margin-top: 3em;
+
+  h1 {
+    font-size: 2rem;
+    padding: 0.5em 1em;
+    background: $orange;
+    font-weight: 600;
+    display: inline-block;
+  }
+}
+
+#privacyContent {
+  .item {
+    margin-bottom: 2.5em;
+  }
+
+  h4 {
+    font-size: 1.35rem;
+    font-weight: 600;
+  }
+
+  .list-unstyled {
+    font-size: 1.15rem;
+  }
+
+  .cells {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+    @include mq {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  .cells p {
+    font-weight: 600;
+  }
+}
