@@ -59,7 +59,7 @@
           </p>
         </div>
         <div class="col-md-5">
-          <img class="img-fluid mt-4 mt-md-0" src="public/img/ECIS-Ztheta-pic.jpg" alt="ECIS ZTheta">
+          <img class="img-fluid mt-4 mt-md-0" src="public/img/webinars.jpg" alt="ECIS ZTheta">
         </div>
       </div>
 
