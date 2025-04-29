@@ -278,7 +278,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r98ce1248b72d471e48af56529bfd3573" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EDT</h4>
@@ -287,7 +287,7 @@
         <a class="register" href=" https://appliedbiophysics.webex.com/weblink/register/r9a611855cc9561c5a252b9118d6d415e" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EDT</h4>
