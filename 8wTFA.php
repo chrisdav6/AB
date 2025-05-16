@@ -139,23 +139,23 @@
         </div>
       </div>
 
-      <!-- <div class="row mt-5">
+      <div class="row mt-5">
         <div class="col">
 
           <ul class="nav nav-tabs" id="myTab" role="tablist">
-            <li class="nav-item">
+            <!-- <li class="nav-item">
               <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
             </li>
             <li class="nav-item">
               <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab" aria-controls="video" aria-selected="false">Video</a>
-            </li>
+            </li> -->
             <li class="nav-item">
-              <a class="nav-link text-dark" id="options-tab" data-scroll-ignore data-toggle="tab" href="#options" role="tab" aria-controls="options" aria-selected="false">Options</a>
+              <a class="nav-link active text-dark" id="application-notes-tab" data-scroll-ignore data-toggle="tab" href="#applicationNotes" role="tab" aria-controls="applicationNotes" aria-selected="false">Application Notes</a>
             </li>
           </ul>
 
           <div class="tab-content" id="myTabContent">
-            <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
+            <!-- <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
               <p class="mt-4">
               <ul class="list-unstyled mt-3 ml-0 ml-md-3">
                 <li>- Stainless Steel electrode dipping pins</li>
@@ -172,13 +172,15 @@
               <p class="mt-4">
               <div class="youtubeEmbed" id="YNWNDkTsMxs"></div>
               </p>
-            </div>
-            <div class="tab-pane fade" id="options" role="tabpanel" aria-labelledby="options-tab">
-              <p class="mt-4">Descriptions and links of optional add-on products and/or training</p>
+            </div> -->
+            <div class="tab-pane show active" id="applicationNotes" role="tabpanel" aria-labelledby="application-notes-tab">
+              <div class="applicationNotes mt-4">
+                <p><a href="public/pdf/MeasuringTEERwiththeECIS8wellTransfilterArray.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Measuring TEER with the ECIS 8-well Transfilter Array</a></p>
+              </div>
             </div>
           </div>
         </div>
-      </div> -->
+      </div>
 
       <!-- <div id="dataSheets" class="row mt-5">
         <div class="col">

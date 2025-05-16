@@ -12,6 +12,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <meta name="description" content="<?php echo $metaDesc; ?>">
+  <!-- JQuery Min -->
+  <script src="https://code.jquery.com/jquery-3.7.1.min.js" integrity="sha256-/JqT3SQfawRcv/BIHPThkBvs0OEvtFFmqPF/lYI/Cxo=" crossorigin="anonymous"></script>
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Lato:300,400,600,700,900" rel="stylesheet">
   <!-- Font Awesome -->
@@ -175,10 +177,9 @@
             <li class="nav-item">
               <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab" aria-controls="video" aria-selected="false">Video</a>
             </li>
-            <!--<li class="nav-item">
-              <a class="nav-link text-dark" id="options-tab" data-scroll-ignore data-toggle="tab" href="#options"
-                role="tab" aria-controls="options" aria-selected="false">Options</a>
-            </li> -->
+            <li class="nav-item">
+              <a class="nav-link text-dark" id="application-notes-tab" data-scroll-ignore data-toggle="tab" href="#applicationNotes" role="tab" aria-controls="applicationNotes" aria-selected="false">Application Notes</a>
+            </li>
           </ul>
 
           <div class="tab-content" id="myTabContent">
@@ -203,9 +204,16 @@
                 </iframe>
               </p>
             </div>
-            <!--<div class="tab-pane fade" id="options" role="tabpanel" aria-labelledby="options-tab">
-              <p class="mt-4">Descriptions and links of optional add-on products and/or training</p>
-            </div> -->
+            <div class="tab-pane fade" id="applicationNotes" role="tabpanel" aria-labelledby="application-notes-tab">
+              <div class="applicationNotes mt-4">
+                <p><a href="public/pdf/ElectricCellsubstrateImpedanceSensingALabelfreeMethodtoContinuouslyMonitorCellBehaviorsInVitro101723.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Electric Cell-substrate Impedance Sensing: A Label-free Method to Continuously Monitor Cell Behaviors In Vitro</a></p>
+                <p><a href="public/pdf/ContinuousQuantificationofCellMonolayerBarrierFunctionwithECIS.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Continuous Quantification of Cell Monolayer Barrier Function with ECIS</a></p>
+                <p><a href="public/pdf/ProliferationandCytotoxicityMonitoringwithECIS.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Proliferation and Cytotoxicity Monitoring with ECIS</a></p>
+                <p><a href="public/pdf/AutomatedWoundhealingCellMigrationAssaywithECIS.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Automated Wound-healing Cell Migration Assay with ECIS</a></p>
+                <p><a href="public/pdf/UsingtheECISModeltoIsolateCellularBarrierFunction.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Using the ECIS Model to Isolate Cellular Barrier Function</a></p>
+                <p><a href="public/pdf/ECISElectroporationandMonitoring.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Electroporation and Monitoring</a></p>
+              </div>
+            </div>
           </div>
         </div>
       </div>
@@ -339,32 +347,6 @@
     var m = document.getElementsByTagName(s)[0];
     m.parentNode.insertBefore(sc, m);
   })(document, 'script', '//d2p078bqz5urf7.cloudfront.net/jsapi/ehform.js');
-  </script>
-
-  <!-- Bioz -->
-  <!-- <script src="https://cdn.bioz.com/assets/bioz-w-api-6.0.min.js"></script>
-  <link rel="stylesheet" href="https://cdn.bioz.com/assets/font-awesome-reg.css">
-  <link rel="stylesheet" type="text/css" href="https://cdn.bioz.com/assets/tooltipster.css" />
-  <link rel="stylesheet" type="text/css" href="https://cdn.bioz.com/assets/tooltipster-theme2.css" />
-  <script src="https://cdn.bioz.com/assets/bioz-w-api-2.5.min.js"></script>
-  <link rel="stylesheet" href="https://cdn.bioz.com/assets/v_widget-2.5.css">
-  <script src="https://cdn.bioz.com/assets/v_widget-2.5.appbiophys.js"></script>
-  <script type="text/javascript" src="https://cdn.bioz.com/assets/tooltipster.js"></script>
-  <script>
-  var _type = "commercial";
-  var _company = "2050";
-  var _vendor = "Applied BioPhysics";
-  var _vendor_partner_color = "#476D85";
-  var _form_url = "//back-badge-8.bioz.com";
-  var _key = "";
-  var _form_mobile = false;
-  </script> -->
-
-  <script>
-  $(document).ready(function() {
-    var widget_micro_obj = new v_widget_obj("s", "1");
-    widget_micro_obj.request_catalog_number_widget_data_internal("ECIS-Z-Theta", "ECIS-Z-Theta");
-  });
   </script>
 
 </body>
