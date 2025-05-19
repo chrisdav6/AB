@@ -153,8 +153,7 @@
 
       <div class="row mt-5">
         <div class="col">
-          <h2>Cell Culture Monitoring
-          </h2>
+          <h2>Cell Culture Monitoring</h2>
           <hr class="mt-1 mb-5">
 
           <div class="row">
@@ -177,6 +176,33 @@
 
         </div>
       </div>
+
+      <div class="row mt-5">
+        <div class="col">
+          <h2>Wound Healing/Scratch Assays</h2>
+          <hr class="mt-1 mb-5">
+
+          <div class="row">
+            <div class="col-md-6">
+              <img class='img-fluid d-block mx-auto' src='public/img/cellOwlGap.jpg' alt='Cell Owl Relative Gap' />
+            </div>
+            <div class="col-md-6 mt-4 md-mt-0">
+              <video autoplay muted controls loop class='my-3 my-md-0' width='100%'>
+                <source src="public/img/ScratchAssay.mp4" type="video/mp4" />
+              </video>
+            </div>
+          </div>
+
+          <div class='mt-3 md-mt-5'>
+            <p>- Time-Lapse Recording</p>
+            <p>- Confluency and Cell Count</p>
+            <p>- 24 Experiments In Parallel</p>
+            <p>- Cell Migration and Gap Closure Time</p>
+          </div>
+
+        </div>
+      </div>
+
 
       <div class="row mt-5">
         <div class="col">
