@@ -106,7 +106,7 @@
       <div class="row">
         <div class="col">
           <h2>Overview</h2>
-          <hr class="mt-1">
+          <hr class="mt-1 mb-5">
 
           <div class="row">
             <div class="col-md-6">
@@ -146,6 +146,33 @@
               </video>
 
             </div>
+          </div>
+
+        </div>
+      </div>
+
+      <div class="row mt-5">
+        <div class="col">
+          <h2>Cell Culture Monitoring
+          </h2>
+          <hr class="mt-1 mb-5">
+
+          <div class="row">
+            <div class="col-md-6">
+              <img class='img-fluid d-block mx-auto' src='public/img/cellOwlCellCoverage.jpg' alt='Cell Owl Cell Coverage' />
+            </div>
+            <div class="col-md-6 mt-4 md-mt-0">
+              <video autoplay muted controls loop class='my-3 my-md-0' width='100%'>
+                <source src="public/img/Filmowl.mp4" type="video/mp4" />
+              </video>
+            </div>
+          </div>
+
+          <div class='mt-3 md-mt-5'>
+            <p>- Long-Term Experiments</p>
+            <p>- Customizable Intervals and Duration</p>
+            <p>- Confluency and Cell Count</p>
+            <p>- Automatically Generated Plots and Curves</p>
           </div>
 
         </div>
