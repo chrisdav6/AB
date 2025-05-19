@@ -107,47 +107,47 @@
         <div class="col">
           <h2>Overview</h2>
           <hr class="mt-1">
-          <p>
-            The ECIS<sup>®</sup> ZƟ (Z Theta) is capable of noninvasively monitoring cell behavior in real-time using
-            electric cell-substrate impedance sensing (ECIS). By applying an alternating current across patterned gold
-            electrodes, a voltage potential is created which is then measured by the system. When cells cover these
-            electrodes, the current is then impeded in different manners depending upon the overall cell morphology.
-          </p>
-          <p>
-            Upon stimulation of cell function, resulting responses in cell morphology will alter the impedance,
-            revealing quantifiable differences. The ECIS Z-Theta can then convert the complex impedance into series
-            resistance and capacitance, allowing for more accurate data of the cell behavior, making it an advanced form
-            of cellular impedance-based assays.
-          </p>
-          <h5 class="mt-4">Benefits</h5>
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- Automated measurements of cell proliferation, morphology, barrier function, attachment, etc.</li>
-            <li>- 16 or 96 wells</li>
-            <li>- Choice of a wide range of AC frequencies*</li>
-            <li>- Data recorded and visualized in real time under incubator conditions</li>
-            <li>- Long-term data collection capabilities</li>
-            <li>- Non-invasive &amp; label free</li>
-            <li>- Highly reproducible</li>
-            <li>- User Friendly software</li>
-            <li>- Data output in CSV, excel or graphical (jpg, tif)</li>
-            <li>- Multiple array selection</li>
-          </ul>
-          <h5 class="mt-4">System Includes:</h5>
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- 16 and/or 96 well station</li>
-            <li>- External control module</li>
-            <li>- Laptop PC</li>
-            <li>- ECIS control, acquisition, and display software</li>
-            <li>- Elevated field module (EFM) for automated cell migration and electroporation</li>
-            <li>- Twelve 8-well and/or six 96-well consumable electrode arrays</li>
-          </ul>
-          <p class="mt-4">
-            *The ECIS Z-Theta uses a range of AC frequencies from 100 – 64,000 Hz to calculate time course changes in
-            cell behavior including measurements of permeability of the cell layer, constricted flow underneath the
-            cells, and the membrane capacitance. And with multiple options in size of electrodes and patterns of the
-            available arrays, the ECIS Z-Theta is able to detect morphological changes from subtle variations in small
-            populations of cells to widespread population changes such as cell proliferation.
-          </p>
+
+          <div class="row">
+            <div class="col-md-6">
+              <p>
+                <strong>Monitor Remotely</strong><br />
+                Monitor cell cultures online from outside the lab in your preferred frequency
+              </p>
+
+              <p>
+                <strong>Analyze 24 Wells In Parallel</strong><br />
+                Check cell confluence and morphology and compare different wells
+              </p>
+
+              <p>
+                <strong>Automate Routine Applications</strong><br />
+                Let zenCELL owl record & analyze your cells: set up the experiment & walk away
+              </p>
+
+              <p>
+                <strong>Increase Data Quality &amp; Quantity</strong><br />
+                Real-time data capturing, time-lapse videos and automated evaluation of confluence
+              </p>
+
+              <p>
+                <strong>Save Space &amp; Stay Flexible</strong><br />
+                Small and light-weighted device leaves enough space for other vessels
+              </p>
+
+              <p>
+                <strong>Non-Invasive</strong><br />
+                No user-intervention for microscopy and disruption of environmental incubator conditions
+              </p>
+            </div>
+            <div class="col-md-6">
+              <video autoplay muted controls loop class='my-3 my-md-0' width='100%'>
+                <source src="public/img/zenCELLRotation.mp4" type="video/mp4" />
+              </video>
+
+            </div>
+          </div>
+
         </div>
       </div>
 
@@ -307,8 +307,7 @@
   function gtag() {
     dataLayer.push(arguments);
   }
-  gtag('js', new Date());
-
+  gtag(' js', new Date());
   gtag('config', 'UA-108411540-1');
   </script>
 
