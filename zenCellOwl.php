@@ -226,6 +226,40 @@
         </div>
       </div>
 
+      <div class="row mt-5">
+        <div class="col">
+          <h2>Spheroids and Organoids</h2>
+          <hr class="mt-1 mb-4">
+
+          <div class="row">
+            <div class='col-md-6 col-xl-3 mt-4 md-mt-0'>
+              <p>Formation</p>
+              <img class='img-fluid d-block mx-auto' src='public/img/Formation.jpg' alt='Cell Owl Formation' />
+            </div>
+            <div class="col-md-6 col-xl-3 mt-4 md-mt-0">
+              <p>Proliferation</p>
+              <img class='img-fluid d-block mx-auto' src='public/img/Proliferation.jpg' alt='Cell Owl Proliferation' />
+            </div>
+            <div class='col-md-6 col-xl-3 mt-4'>
+              <p>Adhesion</p>
+              <img class='img-fluid d-block mx-auto' src='public/img/Adhesion.jpg' alt='Cell Owl Adhesion' />
+            </div>
+            <div class="col-md-6 col-xl-3 mt-4">
+              <p>Permeabilization</p>
+              <img class='img-fluid d-block mx-auto' src='public/img/Permeabilization.jpg' alt='Cell Owl Permeabilization' />
+            </div>
+          </div>
+
+          <div class='mt-5'>
+            <p>- Placeable On A Shaker</p>
+            <p>- Label-Free Imaging</p>
+            <p>- No Disturbance of Cells</p>
+            <p>- Keeping Cell Culture Environment Stable</p>
+          </div>
+
+        </div>
+      </div>
+
 
       <div class="row mt-5">
         <div class="col">
