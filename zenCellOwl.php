@@ -203,6 +203,29 @@
         </div>
       </div>
 
+      <div class="row mt-5">
+        <div class="col">
+          <h2>Cytotoxicity Assays</h2>
+          <hr class="mt-1 mb-5">
+
+          <div class="row">
+            <div class='col-12 col-md-8'>
+              <img class='img-fluid d-block mx-auto' src='public/img/CAA-Effects-on-Cell-Morphology.jpg' alt='Cell Owl Effects on Cell Morphology' />
+            </div>
+            <div class="col-12 col-md-8 md-mt-0">
+              <img class='img-fluid d-block mx-auto' src='public/img/DOX-Mikroskopie-versch-Zeitpunkte.jpg' alt='Cell Owl Effects on Cell Morphology' />
+            </div>
+          </div>
+
+          <div class='mt-5'>
+            <p>- Automated Quantification</p>
+            <p>- Label-Free</p>
+            <p>- Parallelization of Doses, Concentrations and Compounds</p>
+          </div>
+
+        </div>
+      </div>
+
 
       <div class="row mt-5">
         <div class="col">
