@@ -63,6 +63,14 @@
     </div>
   </div> -->
 
+  <div class="pcArrays">
+    <div class="container py-3 text-center">
+      <h5 class="mb-0">
+        Due to an equipment issue, PC arrays are currently temporarily unavailable.<br />We apologize for the inconvenience and are working to restock as soon as possible. Thank you for your patience!
+      </h5>
+    </div>
+  </div>
+
   <?php include_once "includes/navbar.php"; ?>
   <?php include_once "includes/logo.php"; ?>
 
