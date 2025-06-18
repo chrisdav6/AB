@@ -19,11 +19,12 @@ function initMap() {
     ['Czech Republic, Sven Bio Labs', 49.802342, 15.038014],
     ['Denmark, Dunn Labortechnik GmbH', 56.185261, 9.201947],
     ['Estonia, Animalab', 58.968993, 25.798235],
-    ['Finland, Applied Biophysics', 61.056643, 25.226935],
+    ['Finland, MicroMedic', 61.056643, 25.226935],
     ['France, KF Technology', 47.022127, 2.532289],
     ['Germany, Dunn Labortechnik GmbH', 51.475423, 10.377814],
     ['Greece, KF Technology', 39.410339, 21.795173],
     ['Hungary, Dunn Labortechnik GmbH', 47.060085, 19.295946],
+    ['Iceland, MicroMedic', 64.770756, -18.70972],
     ['India, Labmate', 23.647772, 79.508199],
     ['Ireland, Thistle Scientific, Ltd', 53.295854, -7.973595],
     ['Israel, Almog Diagnostic', 31.261726, 34.953094],
@@ -35,7 +36,7 @@ function initMap() {
     ['Malaysia, Precision Technologies', 4.187779, 102.043109],
     ['Netherlands, Dunn Labortechnik GmbH', 52.248033, 5.779013],
     ['New Zealand, SDR Scientific', -42.07673, 173.35596],
-    ['Norway, Applied Biophysics', 61.378787, 9.180056],
+    ['Norway, MicroMedic', 61.378787, 9.180056],
     ['Poland, Animalab', 52.464317, 18.870001],
     ['Portugal, KF Technology', 40.055457, -8.044187],
     ['Puerto Rico, Audio & Video Pro Caribe', 18.229927, -66.459357],
@@ -44,7 +45,7 @@ function initMap() {
     ['Slovakia, Sven Bio Labs', 48.942438, 19.254374],
     ['Slovenia, KF Technology', 46.182112, 14.718282],
     ['Spain, KF Technology', 40.171765, -3.102586],
-    ['Sweden, Applied Biophysics', 57.31371, 14.512524],
+    ['Sweden, MicroMedic', 57.31371, 14.512524],
     ['Switzerland, Dunn Labortechnik GmbH', 46.948425, 8.043165],
     ['Taiwan, Sunpoint Scientific Instrument Co., Ltd.', 23.818453, 121.142053],
     ['Turkey, aka Biyoteknoloji', 39.523393, 35.371999],
@@ -107,7 +108,8 @@ function initMap() {
         '<hr>' +
         'Tel: (86) 755-2641 0427<br>' +
         'Attn: Aling Xiao<br>' +
-        '<p class="mt-0"><a class="map-link" href="http://www.dakewe.net" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '<p><a class="map-link" href="mailto:equipment@dakewe.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="https://www.dakewe.com" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -118,6 +120,7 @@ function initMap() {
         '<hr>' +
         'Tel: (+39) 339 533 03 22<br>' +
         'Attn: Fabrizio Barbieri<br>' +
+        '<p><a class="map-link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -153,6 +156,7 @@ function initMap() {
         '<hr>' +
         'Tel: +48 61 861 60 04<br>' +
         'Attn: Wiktoria Grzelachowska<br>' +
+        '<p><a class="map-link" href="mailto:wg@animalab.pl?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://animalab.pl" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -160,10 +164,11 @@ function initMap() {
     //Finland
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>MicroMedic</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: 08 22 40 20<br>' +
+        '<p><a class="map-link" href="mailto:micromedic@micromedic.se?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="https://www.micromedic.se" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -174,6 +179,7 @@ function initMap() {
         '<hr>' +
         'Tel: (+39) 339 533 03 22<br>' +
         'Attn: Fabrizio Barbieri<br>' +
+        '<p><a class="map-link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -197,6 +203,7 @@ function initMap() {
         '<hr>' +
         'Tel: (+39) 339 533 03 22<br>' +
         'Attn: Fabrizio Barbieri<br>' +
+        '<p><a class="map-link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -210,6 +217,17 @@ function initMap() {
         'Attn: Kevin Denkmann<br>' +
         '<p><a class="map-link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://www.dunnlab.de" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
+        '</div>',
+    ],
+
+    //Iceland
+    [
+      '<div class="map-text">' +
+        '<span>MicroMedic</span><br>' +
+        '<hr>' +
+        'Tel: 08 22 40 20<br>' +
+        '<p><a class="map-link" href="mailto:micromedic@micromedic.se?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="https://www.micromedic.se" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -256,6 +274,7 @@ function initMap() {
         '<hr>' +
         'Tel: (+39) 339 533 03 22<br>' +
         'Attn: Fabrizio Barbieri<br>' +
+        '<p><a class="map-link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -288,6 +307,7 @@ function initMap() {
         '<hr>' +
         'Tel: +48 61 861 60 04<br>' +
         'Attn: Wiktoria Grzelachowska<br>' +
+        '<p><a class="map-link" href="mailto:wg@animalab.pl?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://animalab.pl" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -299,6 +319,7 @@ function initMap() {
         '<hr>' +
         'Tel: +48 61 861 60 04<br>' +
         'Attn: Wiktoria Grzelachowska<br>' +
+        '<p><a class="map-link" href="mailto:wg@animalab.pl?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://animalab.pl" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -340,10 +361,11 @@ function initMap() {
     //Norway
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>MicroMedic</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: 08 22 40 20<br>' +
+        '<p><a class="map-link" href="mailto:micromedic@micromedic.se?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="https://www.micromedic.se" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 
@@ -354,6 +376,7 @@ function initMap() {
         '<hr>' +
         'Tel: +48 61 861 60 04<br>' +
         'Attn: Wiktoria Grzelachowska<br>' +
+        '<p><a class="map-link" href="mailto:wg@animalab.pl?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://animalab.pl" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -365,6 +388,7 @@ function initMap() {
         '<hr>' +
         'Tel: (+39) 339 533 03 22<br>' +
         'Attn: Fabrizio Barbieri<br>' +
+        '<p><a class="map-link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -388,6 +412,7 @@ function initMap() {
         '<hr>' +
         'Tel: (+39) 339 533 03 22<br>' +
         'Attn: Fabrizio Barbieri<br>' +
+        '<p><a class="map-link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -422,6 +447,7 @@ function initMap() {
         '<hr>' +
         'Tel: (+39) 339 533 03 22<br>' +
         'Attn: Fabrizio Barbieri<br>' +
+        '<p><a class="map-link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -433,6 +459,7 @@ function initMap() {
         '<hr>' +
         'Tel: (+39) 339 533 03 22<br>' +
         'Attn: Fabrizio Barbieri<br>' +
+        '<p><a class="map-link" href="mailto:info@kftechnology.it?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
         '<p class="mt-0"><a class="map-link" href="https://kftechnology.it" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
@@ -440,10 +467,11 @@ function initMap() {
     //Sweden
     [
       '<div class="map-text">' +
-        '<span>Applied Biophysics</span><br>' +
+        '<span>MicroMedic</span><br>' +
         '<hr>' +
-        'Tel: 1-866-301-ECIS (3247)<br>' +
-        '<p><a class="map-link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        'Tel: 08 22 40 20<br>' +
+        '<p><a class="map-link" href="mailto:micromedic@micromedic.se?subject=Inquiry from Applied Biophysics Website"><i class="fas fa-envelope"></i> Email</a></p>' +
+        '<p class="mt-0"><a class="map-link" href="https://www.micromedic.se" target="_blank"><i class="fab fa-chrome"></i> Visit Website</a></p>' +
         '</div>',
     ],
 

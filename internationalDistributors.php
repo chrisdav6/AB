@@ -105,7 +105,7 @@
           <div class="col-md-6 my-4">
             <h3>China</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="http://www.dakewe.net" target="_blank">Dakewe Biotech Co., Ltd</a></h5>
+            <h5><a class="text-dark link" href="https://www.dakewe.com" target="_blank">Dakewe Biotech Co., Ltd</a></h5>
             <address>
               Rm#203 Unit A, No.1 Chuangye Bldg.,<br>
               #43 Yanshan Rd., Shekou Area, NanShan dist.,<br>
@@ -177,12 +177,12 @@
           <div class="col-md-6 my-4">
             <h3>Finland</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://www.micromedic.se" target="_blank">MicroMedic</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Ekbacksvägen 28<br>
+              168 69 Bromma, Sweden<br>
+              Tel: 08 22 40 20<br>
+              <a class="text-dark link" href="mailto:micromedic@micromedic.se?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> micromedic@micromedic.se</a>
             </address>
           </div>
 
@@ -239,6 +239,18 @@
               Tel: +49-2683-43094<br>
               Attn: Kevin Denkmann<br>
               <a class="text-dark link" href="mailto:info@dunnlab.de?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@dunnlab.de</a>
+            </address>
+          </div>
+
+          <div class="col-md-6 my-4">
+            <h3>Iceland</h3>
+            <hr class="mb-4">
+            <h5><a class="text-dark link" href="https://www.micromedic.se" target="_blank">MicroMedic</a></h5>
+            <address>
+              Ekbacksvägen 28<br>
+              168 69 Bromma, Sweden<br>
+              Tel: 08 22 40 20<br>
+              <a class="text-dark link" href="mailto:micromedic@micromedic.se?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> micromedic@micromedic.se</a>
             </address>
           </div>
 
@@ -400,12 +412,12 @@
           <div class="col-md-6 my-4">
             <h3>Norway</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://www.micromedic.se" target="_blank">MicroMedic</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Ekbacksvägen 28<br>
+              168 69 Bromma, Sweden<br>
+              Tel: 08 22 40 20<br>
+              <a class="text-dark link" href="mailto:micromedic@micromedic.se?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> micromedic@micromedic.se</a>
             </address>
           </div>
 
@@ -533,12 +545,12 @@
           <div class="col-md-6 my-4">
             <h3>Sweden</h3>
             <hr class="mb-4">
-            <h5 class="text-dark link">Applied Biophysics</h5>
+            <h5><a class="text-dark link" href="https://www.micromedic.se" target="_blank">MicroMedic</a></h5>
             <address>
-              185 Jordan Road<br>
-              Troy, NY 12180<br>
-              Tel: 1-866-301-ECIS (3247)<br>
-              <a class="text-dark link" href="mailto:info@biophysics.com?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> info@biophysics.com</a>
+              Ekbacksvägen 28<br>
+              168 69 Bromma, Sweden<br>
+              Tel: 08 22 40 20<br>
+              <a class="text-dark link" href="mailto:micromedic@micromedic.se?subject=Inquiry from Applied Biophysics Website"><i class="far fa-envelope"></i> micromedic@micromedic.se</a>
             </address>
           </div>
 
