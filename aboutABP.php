@@ -147,7 +147,7 @@
                 </div>
               </div>
 
-              <div class="row mb-5">
+              <!-- <div class="row mb-5">
                 <div class="col-md-3 col-lg-2 mb-4 mb-md-0">
                   <img class="img-fluid memberPhoto" src="public/img/ivar.jpg" alt="Ivar Giaever Photo">
                 </div>
@@ -161,7 +161,7 @@
                     biophysics, in particular, the behavior of macromolecules and cells on metal films.
                   </p>
                 </div>
-              </div>
+              </div> -->
 
               <div class="row mb-5">
                 <div class="col-md-3 col-lg-2 mb-4 mb-md-0">
