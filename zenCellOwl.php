@@ -302,6 +302,7 @@
                 <p><a href="public/pdf/DocumentationOfCellCultureQuality.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Documentation of cell culture quality using the 24-channel microscope zenCELL owl</a></p>
                 <p><a href="public/pdf/ScratchAssay.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Cell migration analyzed
                     with the 24-channel microscope zenCELL owl</a></p>
+                <p><a href="public/pdf/timeLapseImagingOfSpheroids.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Time lapse Imaging of Spheroids</a></p>
               </div>
             </div>
           </div>
