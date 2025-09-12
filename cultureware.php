@@ -55,6 +55,14 @@
       <p>For help in chossing an ECIS array we offer a technical note for download - <a class="text-dark link" href="public/pdf/TN01ArrayChoices.pdf" target="_blank"><i class="far fa-file-pdf mx-2"></i>TN01 Array
           Choices</a></p>
 
+      <div class="pcArrays">
+        <div class="container py-3 mt-4">
+          <h5 class="mb-0">
+            <strong>PC arrays are temporarily unavailable.</strong><br />We apologize for the inconvenience and are working to restock as soon as possible. Thank you for your patience!
+          </h5>
+        </div>
+      </div>
+
       <!-- <a href="public/pdf/ArrayPricingUpdate2021.pdf" class="link culturePrice" target="_blank"><i class="fas fa-exclamation-circle"></i> Change in Pricing and Availability of ECIS<sup>&reg;</sup> Arrays, 6 – 8 week lead time for PC Arrays</a> -->
 
       <div class="culturewareTables my-5">
