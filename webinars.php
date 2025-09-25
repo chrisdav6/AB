@@ -130,236 +130,7 @@
           </div>
         </div>-->
 
-      <!-- <h4 class="mt-lg-0 mb-3 secondary-title">2026 Webinar Schedule</h4> -->
-
-      <!-- <div class="webinar">
-        <h4 class="webinar-title">ECIS Theory – 11:00 AM EDT</h4>
-        <p class="date">September 3, 2024</p>
-        <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell morphological changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r5fa1b9b887d4a46b2fb0b563c3077456" target="_blank">Register</a>
-      </div>
-
-      <hr> 
-
-      <div class="webinar">
-        <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EDT</h4>
-        <p class="date">September 17, 2024</p>
-        <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rad6528933f25f7daf88c3b71678ab0ea" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EDT</h4>
-        <p class="date">October 1, 2024</p>
-        <p>The ECIS Wound Healing Assay replaces the traditional "scratch" or "scrape" assay. Instead of disrupting the cell layer mechanically with a needle or pipette tip and following the migration of cells to "heal" the wound with a microscope, we employ electric signals to both wound and monitor the healing process. We will also describe a novel and new approach to this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then present quantitative data regarding these automated assays.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r3fb5555ab196bd9b63fc75604dc873b1" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EDT</h4>
-        <p class="date">October 15, 2024</p>
-        <p>This webinar will review ECIS and then show how complex impedance measurements can be used to evaluate the barrier function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically modeled will be briefly introduced.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r0075051bfe68806bcb6967c4a18fb48c" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
-        <p class="date">October 29, 2024</p>
-        <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in real-time. This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r634c036be457668b01ec560f273f3ce0" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
-        <p class="date">November 12, 2024</p>
-        <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell morphological changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r01f4c30d4a99727f0d8ccfb256e4a756" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EST</h4>
-        <p class="date">November 26, 2024</p>
-        <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rce101dfc32e6872db34215db52438cef" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EST</h4>
-        <p class="date">December 10, 2024</p>
-        <p>The ECIS Wound Healing Assay replaces the traditional "scratch" or "scrape" assay. Instead of disrupting the cell layer mechanically with a needle or pipette tip and following the migration of cells to "heal" the wound with a microscope, we employ electric signals to both wound and monitor the healing process. We will also describe a novel and new approach to this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then present quantitative data regarding these automated assays.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r2e45f733451ea3bc7091c2529997691c" target="_blank">Register</a>
-      </div>-->
-
-
       <h4 class="mt-4 mb-3 secondary-title">2025 Webinar Schedule</h4>
-
-
-      <!-- <div class="webinar">
-        <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
-        <p class="date">January 7, 2025</p>
-        <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell morphological changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rf8c2ed12b3ccfdc943afd2be23ed6ae8" target="_blank">Register</a>
-      </div>
-
-      <hr> 
-
-      <div class="webinar">
-        <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EST</h4>
-        <p class="date">January 21, 2025</p>
-        <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r32fb867e36a6e3b9715ff62991b065c7" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EST</h4>
-        <p class="date">February 4, 2025</p>
-        <p>The ECIS Wound Healing Assay replaces the traditional "scratch" or "scrape" assay. Instead of disrupting the cell layer mechanically with a needle or pipette tip and following the migration of cells to "heal" the wound with a microscope, we employ electric signals to both wound and monitor the healing process. We will also describe a novel and new approach to this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then present quantitative data regarding these automated assays.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r94644ee44bbc1bf7db4d67b125151050" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EST</h4>
-        <p class="date">February 18, 2025</p>
-        <p>This webinar will review ECIS and then show how complex impedance measurements can be used to evaluate the barrier function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically modeled will be briefly introduced.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r56dddfd3659fbc72d7a97a233e1c51c7" target="_blank">Register</a>
-      </div>
-
-      <hr>
-      
-      <div class="webinar">
-        <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
-        <p class="date">March 4, 2025</p>
-        <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in
-          real-time. This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/ra6211ec8b1c5f1ef5930d681f8638d5d" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-
-      <div class="webinar">
-        <h4 class="webinar-title">Cell Attachment and Spreading Measurements – 11:00 AM EDT</h4>
-        <p class="date">March 18, 2025</p>
-        <p>The webinar will review ECIS and then present quantitative data gathered in real time regarding the attachment and spreading behavior of cells upon extracellular matrix proteins.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r4b27f33e5531f591dda09c33a7d3d1f3" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Signal Transduction Assays – 11:00 AM EDT</h4>
-        <p class="date">April 1, 2025</p>
-        <p>Data will be presented showing the ability of ECIS to monitor signal transduction in label-free, whole-cell assays. The morphological changes responsible for the impedance changes will be further evaluated by modeling the complex impedance data.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/ra37974a5ae3f9191075f7d19e1a181a5" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Toxicology with ECIS – 11:00 AM EDT</h4>
-        <p class="date">April 15, 2025</p>
-        <p>This webinar will review ECIS and then present data showing how ECIS impedance measurements respond to varying concentrations of toxic compounds.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r98ce1248b72d471e48af56529bfd3573" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">ECIS Theory – 11:00 AM EDT</h4>
-        <p class="date">April 29, 2025</p>
-        <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell morphological changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
-        <a class="register" href=" https://appliedbiophysics.webex.com/weblink/register/r9a611855cc9561c5a252b9118d6d415e" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EDT</h4>
-        <p class="date">May 13, 2025</p>
-        <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r17b8d9caeb2da30f0ce631abfbf26ebe" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EDT</h4>
-        <p class="date">May 27, 2025</p>
-        <p>The ECIS Wound Healing Assay replaces the traditional "scratch" or "scrape" assay. Instead of disrupting the cell layer mechanically with a needle or pipette tip and following the migration of cells to "heal" the wound with a microscope, we employ electric signals to both wound and monitor the healing process. We will also describe a novel and new approach to this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then present quantitative data regarding these automated assays.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r182dbc7aac3276856378816c0905c172" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EDT</h4>
-        <p class="date">June 12, 2025</p>
-        <p>This webinar will review ECIS and then show how complex impedance measurements can be used to evaluate the barrier function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically modeled will be briefly introduced.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r89a94bfaffa49cef932fd69b49b1d6ab" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EDT</h4>
-        <p class="date">June 24, 2025</p>
-        <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in real-time. This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r79bd74e3693b0011b765f66157eaf760" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Cell Attachment and Spreading Measurements – 11:00 AM EDT</h4>
-        <p class="date">July 8, 2025</p>
-        <p>The webinar will review ECIS and then present quantitative data gathered in real time regarding the attachment and spreading behavior of cells upon extracellular matrix proteins.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rc3103d1c279a5be8272e6ae5aaaa8d55" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Signal Transduction Assays – 11:00 AM EDT</h4>
-        <p class="date">July 22, 2025</p>
-        <p>Data will be presented showing the ability of ECIS to monitor signal transduction in label-free, whole-cell assays. The morphological changes responsible for the impedance changes will be further evaluated by modeling the complex impedance data.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rf621879b2d4abbdf24316a6ff6b93784" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Toxicology with ECIS – 11:00 AM EDT</h4>
-        <p class="date">September 2, 2025</p>
-        <p>This webinar will review ECIS and then present data showing how ECIS impedance measurements respond to varying concentrations of toxic compounds.</p>
-        <a class="register" href=" https://appliedbiophysics.webex.com/weblink/register/rd587a527003eb26ffe3a68b71033b811" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">ECIS Theory – 11:00 AM EDT</h4>
-        <p class="date">September 16, 2025</p>
-        <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell morphological changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rcdc886b250c5e8157ebab7a5e4b14911" target="_blank">Register</a>
-      </div>
-
-      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EDT</h4>
@@ -411,6 +182,214 @@
         <p class="date">December 9, 2025</p>
         <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r3e5343f233aa8438a6fc53ee57a5f95c" target="_blank">Register</a>
+      </div>
+
+      <h4 class="mt-5 mb-3 secondary-title">2026 Webinar Schedule</h4>
+
+      <div class="webinar">
+        <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
+        <p class="date">January 6, 2026</p>
+        <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell morphological changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r7068a19f2b1783f4b63cff3ab5e1fda0" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EST</h4>
+        <p class="date">January 20, 2026</p>
+        <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r145eed399d8c43ce37c91fff713536cb" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EST</h4>
+        <p class="date">February 3, 2026</p>
+        <p>The ECIS Wound Healing Assay replaces the traditional "scratch" or "scrape" assay. Instead of disrupting the cell layer mechanically with a needle or pipette tip and following the migration of cells to "heal" the wound with a microscope, we employ electric signals to both wound and monitor the healing process. We will also describe a novel and new approach to this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then present quantitative data regarding these automated assays.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/ra91d13ee4ccb692e959634eba4eece6d" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EST</h4>
+        <p class="date">February 17, 2026</p>
+        <p>This webinar will review ECIS and then show how complex impedance measurements can be used to evaluate the barrier function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically modeled will be briefly introduced.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r0b8e34c4a7264960174f7be317b108c3" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
+        <p class="date">March 3, 2026</p>
+        <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in
+          real-time. This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/re87f52cfd83ea755197e3ebab5704918" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Cell Attachment and Spreading Measurements – 11:00 AM EDT</h4>
+        <p class="date">March 17, 2026</p>
+        <p>The webinar will review ECIS and then present quantitative data gathered in real time regarding the attachment and spreading behavior of cells upon extracellular matrix proteins.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rd173bedac6f82c5b6f0aa5221254e486" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Signal Transduction Assays – 11:00 AM EDT</h4>
+        <p class="date">March 31, 2026</p>
+        <p>Data will be presented showing the ability of ECIS to monitor signal transduction in label-free, whole-cell assays. The morphological changes responsible for the impedance changes will be further evaluated by modeling the complex impedance data.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r2ecac8c1c65e370a4e8c93437f28db04" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Toxicology with ECIS – 11:00 AM EDT</h4>
+        <p class="date">April 14, 2026</p>
+        <p>This webinar will review ECIS and then present data showing how ECIS impedance measurements respond to varying concentrations of toxic compounds.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r3ffd0f65e8a900afdbad40d7c83a91dd" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">ECIS Theory – 11:00 AM EDT</h4>
+        <p class="date">April 28, 2026</p>
+        <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell morphological changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rbdd899412b8a948b567d93d22d656d01" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EDT</h4>
+        <p class="date">May 12, 2026</p>
+        <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r302f0ccc156f0587b9d396d6f4595cfb" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EDT</h4>
+        <p class="date">May 26, 2026</p>
+        <p>The ECIS Wound Healing Assay replaces the traditional "scratch" or "scrape" assay. Instead of disrupting the cell layer mechanically with a needle or pipette tip and following the migration of cells to "heal" the wound with a microscope, we employ electric signals to both wound and monitor the healing process. We will also describe a novel and new approach to this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then present quantitative data regarding these automated assays.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r627e6b6c3943eb164c23d9d47c24e5a3" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EDT</h4>
+        <p class="date">June 9, 2026</p>
+        <p>This webinar will review ECIS and then show how complex impedance measurements can be used to evaluate the barrier function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically modeled will be briefly introduced.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r505532923109e65e961070bd9589fb15" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EDT</h4>
+        <p class="date">June 23, 2026</p>
+        <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in real-time. This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rac084fd2b1bbf47d39e4f94702b2a6ce" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Cell Attachment and Spreading Measurements – 11:00 AM EDT</h4>
+        <p class="date">July 7, 2026</p>
+        <p>The webinar will review ECIS and then present quantitative data gathered in real time regarding the attachment and spreading behavior of cells upon extracellular matrix proteins.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rb1d60316447ccc0bb9ca42f10746522c" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Signal Transduction Assays – 11:00 AM EDT</h4>
+        <p class="date">July 21, 2026</p>
+        <p>Data will be presented showing the ability of ECIS to monitor signal transduction in label-free, whole-cell assays. The morphological changes responsible for the impedance changes will be further evaluated by modeling the complex impedance data.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rf9d74032fa767134c239e1c0b3a622fe" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Toxicology with ECIS – 11:00 AM EDT</h4>
+        <p class="date">September 1, 2026</p>
+        <p>This webinar will review ECIS and then present data showing how ECIS impedance measurements respond to varying concentrations of toxic compounds.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rb34aa6b9efdb269051a4f1a685d95a20" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">ECIS Theory – 11:00 AM EDT</h4>
+        <p class="date">September 15, 2026</p>
+        <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell morphological changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r272b760dbe5040e51107111509b58726" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EDT</h4>
+        <p class="date">September 29, 2026</p>
+        <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r5f6bd7eee508624370314e106c7d2a06" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EDT</h4>
+        <p class="date">October 13, 2026</p>
+        <p>The ECIS Wound Healing Assay replaces the traditional "scratch" or "scrape" assay. Instead of disrupting the cell layer mechanically with a needle or pipette tip and following the migration of cells to "heal" the wound with a microscope, we employ electric signals to both wound and monitor the healing process. We will also describe a novel and new approach to this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then present quantitative data regarding these automated assays.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r20a296b2d1c1921f768a25e4fa620c84" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EDT</h4>
+        <p class="date">October 27, 2026</p>
+        <p>This webinar will review ECIS and then show how complex impedance measurements can be used to evaluate the barrier function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically modeled will be briefly introduced.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r050145fdab8d5d13957db3931f5f955f" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
+        <p class="date">November 10, 2026</p>
+        <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in real-time. This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/re7372a8448d00b35e04aaa1a91928879" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
+        <p class="date">November 24, 2026</p>
+        <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell morphological changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rebde2d1c9d8507ac765078edf1f37500" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
+        <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EST</h4>
+        <p class="date">December 8, 2026</p>
+        <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r6809e63aa4ce5b564f4d422f00d47440" target="_blank">Register</a>
       </div>
 
     </div>
