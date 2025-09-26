@@ -51,7 +51,7 @@
           <div id="carouselExampleIndicators" class="carousel slide border" data-ride="carousel">
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img class="d-block w-100" src="public/img/teerZFront.jpg" alt="TEER96 Barrier Function Measurement System">
+                <img class="d-block w-100" src="public/img/teerZFront2.jpg" alt="TEER96 Barrier Function Measurement System">
               </div>
             </div>
           </div>
@@ -61,81 +61,156 @@
           <h2>Description</h2>
           <hr class="mt-1">
           <p>
-            How can TEER assays for barrier function be made easier and more accurate? By making them continuous and reporting measurements in real time. The all new TEERZ by Applied Biophysics, Inc. A more effective approach to a traditionally complicated assay.
+            How can TEER assays for barrier function be made easier and more accurate? By making them continuous and reporting measurements in real time. The all new TEERZ by Applied BioPhysics. A more effective approach to a traditionally complicated assay.
           </p>
           <p><strong>21 CFR Part 11</strong> capable option now available - <small><strong>Powered by TotalLab</strong></small></p>
-          <!-- <h2 class='coming-soon'>Coming Soon!</h2> -->
-          <a href="public/pdf/TEERZBrochure.pdf" target="_blank" class="btn btn-outline-success productBtn" role="button">Download Brochure</a>
-          <!-- <a href="public/pdf/TEER96DataSheetR3.pdf" target="_blank" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
-            Sheet</a>
-          <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a> -->
+          <a href="/contactABP.php" class="btn btn-warning productBtn" role="button">Learn More</a>
+          <!-- <a href="public/pdf/TEERZBrochure.pdf" target="_blank" class="btn btn-warning productBtn" role="button">Learn More</a> -->
+
         </div>
 
       </div>
     </div>
   </section> <!-- /productCarousel -->
 
-  <!-- <section id="productInfo" class="py-5 mb-5 text-center text-md-left">
+  <section id="productInfo" class="py-5 mb-5 text-center text-md-left">
     <div class="container">
-
       <div class="row">
         <div class="col">
           <h2>Overview</h2>
-          <hr class="mt-1">
-          <p class="mb-5">
-            The ECIS TEER96 is designed to carry out traditional trans-epithelial/endothelial electrical resistance
-            measurements using ECIS (electric cell-substrate impedance sensing) technology to monitor the barrier
-            function of cell layers grown on membrane insert filters. Data is collected continuously from up to 96
-            independent wells and reported as real-time barrier function changes in ohm-cm<sup>2</sup>.
-          </p>
+          <hr class="mt-1 mb-5">
 
-          <div class="row pt-3">
-            <div class="col-lg-6">
-              <img class="img-fluid" src="public/img/teer96graphLg.jpg" alt="TEER96 Graph">
-              <p class='figText'>Figure 1: Continuous TEER measurements taken on MDCK II cells that were already confluent (turquoise) and freshly inoculated (magenta) at time 0 in the ECIS<sup>®</sup> TEER96. The cells were inoculated in a 96-well cell-culture insert plate.</p>
+          <div class="row">
+            <div class="col-md-6">
+              <p>
+                <strong>Continuous Data</strong><br />
+                Transepithelial Electrical Resistance (TEER) is collected continuously in real-time
+              </p>
+
+              <p>
+                <strong>Cells Remain Incubated</strong><br />
+                While TEER data is being collected, the cells remain inside of the incubator
+              </p>
+
+              <p>
+                <strong>Fixed Dipping Pin Electrodes</strong><br />
+                The ECIS<sup>&reg;</sup> TEERZ Cartridges hold fixed dipping pin electrodes that can be used with commercially available transwell filter inserts in 24 or 96-well formats
+              </p>
+
+              <p>
+                <strong>ECIS<sup>&reg;</sup> Technology</strong><br />
+                Small and light-weighted device leaves enough space for other vessels
+              </p>
+
+              <p>
+                <strong>Easy-to-use Software</strong><br />
+                ECIS<sup>&reg;</sup> TEERZ Software is user-friendly and reports data in TEER vs time
+              </p>
             </div>
-            <div class="col-lg-6">
-              <img class="img-fluid" src="public/img/teer96-2.jpg" alt="TEER96 Station">
+            <div class="col-md-6">
+              <!-- <iframe src="https://drive.google.com/file/d/1fgdUS_tp6sBA_p7SjptjLRnzBVUKkmXg/preview" width=" 100%" height="315" allow="autoplay"></iframe> -->
+              <!-- <iframe width="100%" height="315" src="https://www.youtube.com/embed/IsVJahHu3dE?si=Yy6fWYcVjn6_sVWO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+              <video autoplay muted controls loop class='my-3 my-md-0 border' width='100%'>
+                <source src="public/img/TEERZPromoII.mp4" type="video/mp4" />
+              </video>
+
             </div>
           </div>
+        </div>
+      </div>
 
-          <h5 class='mt-5'>Benefits</h5>
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- Automated TEER measurements in 96 wells under incubated conditions</li>
-            <li>- Single point measurement or continuous mode</li>
-            <li>- Uses Corning<sup>&reg;</sup> and Millipore<sup>&reg;</sup> 96-well filter plates</li>
-            <li>- Fast barrier function dynamics monitoring</li>
-            <li>- Non-invasive &amp; label free</li>
-          </ul>
+      <div class="row mt-5">
+        <div class="col">
+          <h2>Continuous Data</h2>
+          <hr class="mt-1 mb-5">
 
-          <div class="row my-5">
-            <div class="col-lg-8 mx-auto">
-              <img class="img-fluid" src="public/img/teer96-3.jpg" alt="TEER96 Station">
+          <div class="row align-items-center">
+            <div class="col-md-6">
+              <p>
+                With the all new ECIS<sup>&reg;</sup> TEERZ, transepithelial electrical resistance (TEER) can be collected for hours, days, or even weeks at a time. With continuous data collection, the dynamics of cell monolayer permeability can be witnessed in real time.
+              </p>
+            </div>
+            <div class="col-md-6">
+              <img class='img-fluid d-block mx-auto' src='public/img/TEERGraph.gif' alt='TEER Graph' />
             </div>
           </div>
+        </div>
+      </div>
 
-          <p class="mt-4">
-            Non-invasive measurements may be made continuously for days with TEER96. The fixed position
-            of electrodes throughout the measurements eliminates operator variability allowing precise and repeatable
-            measurements of cell layers.
-          </p>
-          <p class="mt-4">
-            The TEER96 accepts standard Millipore<sup>&reg;</sup> and Corning<sup>&reg;</sup> 96-well filter plates.
-            These are placed on the platen of the TEER96. An optical switch senses the array is in place and
-            automatically moves the array into the station and precisely moves the plate up to the dipping pins. Each
-            well has two stainless steel coated dipping pins, one for the counter electrode and one over the filter to take the
-            measurement.
-          </p>
-          <p>
-            The system can take just one reading of each well per plate or take continuous data on a plate over days or
-            weeks. The system can be programmed to include a wash cycle after a certain number of arrays are run. The
-            system includes a bar code reader, the bar code data is integrated with the data file.
-          </p>
+      <div class="row mt-5">
+        <div class="col">
+          <h2>Cells Remain Incubated</h2>
+          <hr class="mt-1 mb-5">
+
+          <div class="row align-items-center">
+            <div class="col-md-6">
+              <p>
+                Those with experience measuring TEER know that values drastically change when cells are removed from the incubator. With the ECIS<sup>&reg;</sup> TEERZ, data is collected on TEER while the cells remain inside of the incubator, keeping the environment canonical to cells grown in vitro.
+              </p>
+            </div>
+            <div class="col-md-6">
+              <img class='img-fluid d-block mx-auto' src='public/img/teerZFront3.jpg' alt='TEER Front Image' />
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row mt-5">
+        <div class="col">
+          <h2>Fixed Dipping Pin Electrodes</h2>
+          <hr class="mt-1 mb-5">
+
+          <div class="row align-items-center">
+            <div class="col-md-6">
+              <p>
+                With the ECIS<sup>&reg;</sup> TEERZ Cartridge, researchers can ensure that values will be consistent by having dipping pin electrodes that are stationary and will remain in the same position each and every time. The TEERZ cartridge can measure commercially available transwell filter insert plates in 24 or 96-well formats.
+              </p>
+            </div>
+            <div class="col-md-6">
+              <img class='img-fluid d-block mx-auto' src='public/img/tray-pins-2.jpg' alt='Fixed Dipping Pin Electrodes' />
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row mt-5">
+        <div class="col">
+          <h2>ECIS<sup>&reg;</sup> Technology</h2>
+          <hr class="mt-1 mb-5">
+
+          <div class="row align-items-center">
+            <div class="col-md-6">
+              <p>
+                The ECIS<sup>&reg;</sup> TEERZ uses Electric Cell-substrate Impedance Sensing (ECIS) technology to gather TEER information. With ECIS, complex impedance is recorded that allows the separation of whole impedance into its components of resistance and capacitance. Since resistance is used for barrier measurements, ECIS isolates and parallels the resistance, giving the <i>true</i> value of TEER.
+              </p>
+            </div>
+            <div class="col-md-6">
+              <img class='img-fluid d-block mx-auto' src='public/img/TEERZ-Product-Page.jpg' alt='ECIS Technology' />
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="row mt-5">
+        <div class="col">
+          <h2>Easy-to-use Software</h2>
+          <hr class="mt-1 mb-5">
+
+          <div class="row align-items-center">
+            <div class="col-md-6">
+              <p>
+                The ECIS<sup>&reg;</sup> TEERZ intuitive software design makes experimental setup, data collection, and analysis efficient and easily accessible. The Real-Time monitoring capabilities tracks barrier function/TEER, cell growth, morphology, attachment, and much more continuously over time, making data collection smooth and seamless.
+              </p>
+            </div>
+            <div class="col-md-6">
+              <img class='img-fluid d-block mx-auto' src='public/img/laptopTEERZ.jpg' alt='Easy-to-use Software' />
+            </div>
+          </div>
         </div>
       </div>
 
     </div>
-  </section> -->
+  </section>
 
   <?php include_once "includes/footer.php";?>
 
