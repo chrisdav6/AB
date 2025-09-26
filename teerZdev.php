@@ -108,7 +108,8 @@
               </p>
             </div>
             <div class="col-md-6">
-              <iframe width="100%" height="315" src="https://www.youtube.com/embed/IsVJahHu3dE?si=Yy6fWYcVjn6_sVWO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+              <iframe src="https://drive.google.com/file/d/1fgdUS_tp6sBA_p7SjptjLRnzBVUKkmXg/preview" width=" 100%" height="315" title="ECIS TEERZ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+              <!-- <iframe width="100%" height="315" src="https://www.youtube.com/embed/IsVJahHu3dE?si=Yy6fWYcVjn6_sVWO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
             </div>
           </div>
         </div>
@@ -119,7 +120,7 @@
           <h2>Continuous Data</h2>
           <hr class="mt-1 mb-5">
 
-          <div class="row">
+          <div class="row align-items-center">
             <div class="col-md-6">
               <p>
                 With the all new ECIS<sup>&reg;</sup> TEERZ, transepithelial electrical resistance (TEER) can be collected for hours, days, or even weeks at a time. With continuous data collection, the dynamics of cell monolayer permeability can be witnessed in real time.
@@ -137,7 +138,7 @@
           <h2>Cells Remain Incubated</h2>
           <hr class="mt-1 mb-5">
 
-          <div class="row">
+          <div class="row align-items-center">
             <div class="col-md-6">
               <p>
                 Those with experience measuring TEER know that values drastically change when cells are removed from the incubator. With the ECIS<sup>&reg;</sup> TEERZ, data is collected on TEER while the cells remain inside of the incubator, keeping the environment canonical to cells grown in vitro.
@@ -155,7 +156,7 @@
           <h2>Fixed Dipping Pin Electrodes</h2>
           <hr class="mt-1 mb-5">
 
-          <div class="row">
+          <div class="row align-items-center">
             <div class="col-md-6">
               <p>
                 With the ECIS<sup>&reg;</sup> TEERZ Cartridge, researchers can ensure that values will be consistent by having dipping pin electrodes that are stationary and will remain in the same position each and every time. The TEERZ cartridge can measure commercially available transwell filter insert plates in 24 or 96-well formats.
@@ -173,7 +174,7 @@
           <h2>ECIS<sup>&reg;</sup> Technology</h2>
           <hr class="mt-1 mb-5">
 
-          <div class="row">
+          <div class="row align-items-center">
             <div class="col-md-6">
               <p>
                 The ECIS<sup>&reg;</sup> TEERZ uses Electric Cell-substrate Impedance Sensing (ECIS) technology to gather TEER information. With ECIS, complex impedance is recorded that allows the separation of whole impedance into its components of resistance and capacitance. Since resistance is used for barrier measurements, ECIS isolates and parallels the resistance, giving the <i>true</i> value of TEER.
@@ -191,7 +192,7 @@
           <h2>Easy-to-use Software</h2>
           <hr class="mt-1 mb-5">
 
-          <div class="row">
+          <div class="row align-items-center">
             <div class="col-md-6">
               <p>
                 The ECIS<sup>&reg;</sup> TEERZ intuitive software design makes experimental setup, data collection, and analysis efficient and easily accessible. The Real-Time monitoring capabilities tracks barrier function/TEER, cell growth, morphology, attachment, and much more continuously over time, making data collection smooth and seamless.
