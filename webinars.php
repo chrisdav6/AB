@@ -132,14 +132,14 @@
 
       <h4 class="mt-4 mb-3 secondary-title">2025 Webinar Schedule</h4>
 
-      <div class="webinar">
+      <!-- <div class="webinar">
         <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EDT</h4>
         <p class="date">September 30, 2025</p>
         <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rabe3f9f10c77ab04d532764484318713" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr> -->
 
       <div class="webinar">
         <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EDT</h4>
