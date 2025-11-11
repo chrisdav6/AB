@@ -157,7 +157,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r863d8254af37bacab14038a6bc531b1e" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
@@ -166,7 +166,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r1917353f2c2e15ae3b8f76c02697ec67" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
