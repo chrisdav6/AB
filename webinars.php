@@ -130,59 +130,7 @@
           </div>
         </div>-->
 
-      <h4 class="mt-4 mb-3 secondary-title">2025 Webinar Schedule</h4>
-
-      <!-- <div class="webinar">
-        <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EDT</h4>
-        <p class="date">September 30, 2025</p>
-        <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rabe3f9f10c77ab04d532764484318713" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EDT</h4>
-        <p class="date">October 14, 2025</p>
-        <p>The ECIS Wound Healing Assay replaces the traditional "scratch" or "scrape" assay. Instead of disrupting the cell layer mechanically with a needle or pipette tip and following the migration of cells to "heal" the wound with a microscope, we employ electric signals to both wound and monitor the healing process. We will also describe a novel and new approach to this measurement called the “electric fence”. This webinar will review the basic principles of ECIS and then present quantitative data regarding these automated assays.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rfb9f547f17869ba9902f73b9d47f8d6d" target="_blank">Register</a>
-      </div>
-
-      <hr> 
-
-      <div class="webinar">
-        <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EDT</h4>
-        <p class="date">October 28, 2025</p>
-        <p>This webinar will review ECIS and then show how complex impedance measurements can be used to evaluate the barrier function (permeability) of confluent endothelial monolayers. The ability of ECIS data to be mathematically modeled will be briefly introduced.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r863d8254af37bacab14038a6bc531b1e" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Real-time Electroporation and Monitoring – 11:00 AM EST</h4>
-        <p class="date">November 11, 2025</p>
-        <p>ECIS can be used to electroporate cells and then to immediately follow the results of the electroporation in real-time. This unique feature of the ECIS technology will be described in this webinar and sample data presented.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r1917353f2c2e15ae3b8f76c02697ec67" target="_blank">Register</a>
-      </div>
-
-      <hr>-->
-
-      <div class="webinar">
-        <h4 class="webinar-title">ECIS Theory – 11:00 AM EST</h4>
-        <p class="date">November 25, 2025</p>
-        <p>This webinar will provide an overview of the use of impedance (both simple and complex) to detect cell morphological changes. Emphasis will be placed on the use of different AC frequencies to distinguish cell parameters.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r62284372edf454a6667e631f15d3f282" target="_blank">Register</a>
-      </div>
-
-      <hr>
-
-      <div class="webinar">
-        <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EST</h4>
-        <p class="date">December 9, 2025</p>
-        <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
-        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r3e5343f233aa8438a6fc53ee57a5f95c" target="_blank">Register</a>
-      </div>
+      <!-- <h4 class="mt-4 mb-3 secondary-title">2025 Webinar Schedule</h4> -->
 
       <h4 class="mt-5 mb-3 secondary-title">2026 Webinar Schedule</h4>
 
