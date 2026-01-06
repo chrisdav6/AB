@@ -229,13 +229,13 @@
               <td>200-400</td>
               <td>600</td>
             </tr> -->
-            <tr class="even">
+            <!-- <tr class="even">
               <th scope="row"><a class="arrayLink" href="#2W4x10E">2W4x10E PC</a></th>
               <td>4x10</td>
               <td>4 x 0.49</td>
               <td>2000-4000</td>
               <td>600</td>
-            </tr>
+            </tr> -->
           </tbody>
         </table>
 
@@ -717,7 +717,7 @@
       <!-- /array -->
 
       <!-- 2W4x10E PC -->
-      <div id="2W4x10E" class="array">
+      <!-- <div id="2W4x10E" class="array">
         <h4>2W4x10E PC</h4>
         <div class="row">
           <div class="col-md-8 mr-auto">
@@ -741,7 +741,8 @@
           <li>- Cytotoxicity</li>
           <li>- Correlated Microscopy and ECIS Experiments</li>
         </ul>
-      </div><!-- /array -->
+      </div> -->
+      <!-- /array -->
 
       <div class="array-title d-flex flex-column flex-md-row align-items-center">
         <h4 class="mb-0 secondary-title">Flow Array Specifications</h4>
