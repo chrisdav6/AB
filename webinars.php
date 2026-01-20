@@ -141,7 +141,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r7068a19f2b1783f4b63cff3ab5e1fda0" target="_blank">Register</a>
       </div>
 
-      <hr> -->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EST</h4>
@@ -150,7 +150,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r145eed399d8c43ce37c91fff713536cb" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr> -->
 
       <div class="webinar">
         <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EST</h4>
