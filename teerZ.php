@@ -64,9 +64,9 @@
             How can TEER assays for barrier function be made easier and more accurate? By making them continuous and reporting measurements in real time. The all new TEERZ by Applied BioPhysics. A more effective approach to a traditionally complicated assay.
           </p>
           <p><strong>21 CFR Part 11</strong> capable option now available - <small><strong>Powered by TotalLab</strong></small></p>
-          <a href="/contactABP.php" class="btn btn-warning productBtn" role="button">Learn More</a>
-          <!-- <a href="public/pdf/TEERZBrochure.pdf" target="_blank" class="btn btn-warning productBtn" role="button">Learn More</a> -->
 
+          <a href="/contactABP.php" class="btn btn-warning productBtn mr-0 mr-md-1" role="button">Learn More</a>
+          <a href="public/pdf/TEERZAplicationNote.pdf" target="_blank" class="btn btn-outline-success productBtn" role="button">Application Note</a>
         </div>
 
       </div>
