@@ -60,6 +60,7 @@
       <h4 class="mt-5 mt-lg-0 mb-4 secondary-title">Application Notes</h4>
 
       <div class="supportDocs">
+        <p><a href="public/pdf/TEERZAplicationNote.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Real-time Monitoring of Transepithelial Electrical Resistance (TEER) of Epithelial Cells Following the Inhibition...</a></p>
         <p><a href="public/pdf/ElectricCellsubstrateImpedanceSensingALabelfreeMethodtoContinuouslyMonitorCellBehaviorsInVitro101723.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Electric Cell-substrate Impedance Sensing: A Label-free Method to Continuously Monitor Cell Behaviors In Vitro</a></p>
         <p><a href="public/pdf/ContinuousQuantificationofCellMonolayerBarrierFunctionwithECIS.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Continuous Quantification of Cell Monolayer Barrier Function with ECIS</a></p>
         <p><a href="public/pdf/ProliferationandCytotoxicityMonitoringwithECIS.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Proliferation and Cytotoxicity Monitoring with ECIS</a></p>
