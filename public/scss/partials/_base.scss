@@ -2,7 +2,7 @@ html,
 body {
   min-height: 100vh;
   box-sizing: border-box;
-  font-family: "Lato";
+  font-family: 'Lato';
 }
 
 hr {
@@ -23,9 +23,14 @@ p {
   font-weight: 600;
 }
 
+.orangelink {
+  color: $orange;
+  font-weight: 600;
+}
+
 a.social-head {
   color: $dark-gray;
-  transition: .3s;
+  transition: 0.3s;
   font-size: 2.25rem;
 
   @include mq1200 {
@@ -35,7 +40,7 @@ a.social-head {
 
 a.social {
   color: $light-gray;
-  transition: .3s;
+  transition: 0.3s;
   font-size: 2.25rem;
 
   @include mq1200 {
@@ -48,7 +53,7 @@ a.facebook:hover {
 }
 
 a.twitter:hover {
-  color: #38A1F3;
+  color: #38a1f3;
 }
 
 a.youtube:hover {
@@ -60,7 +65,7 @@ a.instagram:hover {
 }
 
 a.linkedin:hover {
-  color: #0077B5;
+  color: #0077b5;
 }
 
 .ecisBtn {
@@ -74,8 +79,30 @@ a.linkedin:hover {
   }
 }
 
+.ecisDarkBtn {
+  border: 1px solid $orange;
+  color: #000000;
+  background: $orange;
+
+  &:hover {
+    background: #fff;
+    color: $orange;
+  }
+}
+
+.blueBtn {
+  border: 1px solid $logo-blue;
+  color: #fff;
+  background: $logo-blue;
+
+  &:hover {
+    background: #fff;
+    color: $logo-blue;
+  }
+}
+
 .secondary-title {
-  padding: .5em;
+  padding: 0.5em;
   background: $logo-blue;
   display: inline-block;
   color: white;
