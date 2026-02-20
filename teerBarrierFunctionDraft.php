@@ -158,7 +158,7 @@
           </p>
 
           <a href="https://applied-biophysics-inc.myshopify.com" target="_blank" class="btn blueBtn mr-2 mb-2" role="button">Order Arrays</a>
-          <a href="public/pdf/ContinuousQuantificationofCellMonolayerBarrierFunctionwithECIS.pdf" target="_blank" class="btn ecisDarkBtn mb-2" role="button">Download Application Note</a>
+          <a href="/contactABP.php" class="btn ecisDarkBtn mb-2" role="button">Talk to an Expert</a>
         </div>
         <div class="col-md-6">
           <img class='img-fluid d-block mx-auto' src='public/img/arraysLoop.gif' alt='Barrier Function Arrays' />
