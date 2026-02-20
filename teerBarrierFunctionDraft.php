@@ -100,7 +100,7 @@
       <h3 class="font-weight-bold mb-4 mt-5">Using Resistance for Barrier Function Measurements</h3>
 
       <div class="d-flex align-items-start row">
-        <div class="col-lg-6">
+        <div class="col-lg-8">
           <p>
             ECIS<sup>®</sup> Z-theta measures complex impedance across multiple AC frequencies and separates impedance into resistance (R) and capacitance (C). For barrier function studies, isolating low-frequency resistance provides a practical way to monitor cell-cell junctional barrier formation over time.
           </p>
@@ -122,7 +122,7 @@
             </li>
           </ul>
         </div>
-        <div class="col-lg-6 mt-4 mt-md-0">
+        <div class="col-lg-4 mt-4 mt-md-0">
           <img class='img-fluid d-block mx-auto' src='public/img/resistanceBarrierFunction.png' alt='Barrier Function Resistance' />
         </div>
       </div>
@@ -137,12 +137,12 @@
         With the ECIS<sup>®</sup> Giaever-Keese mathematical modeling, time-course changes in barrier function resistance (Rb) and under-cell resistance (alpha) can be separated and presented independently.
       </p>
 
-      <div class="row mt-4 md-mt-5">
-        <div class="col-lg-6">
-          <img class='img-fluid d-block mx-auto' src='public/img/ECISTheoryModeling1.png' alt='ECIS Theory Modeling' />
-        </div>
-        <div class="col-lg-6 mt-5 mt-md-0">
+      <div class="d-flex justify-content-center row mt-4 md-mt-5">
+        <div class="col-md-5 mt-5 mt-md-0">
           <img class='img-fluid d-block mx-auto' src='public/img/ECISTheoryModeling2.png' alt='ECIS Theory Modeling' />
+        </div>
+        <div class="col-md-5">
+          <img class='img-fluid d-block mx-auto' src='public/img/ECISTheoryModeling1.png' alt='ECIS Theory Modeling' />
         </div>
       </div>
 
