@@ -74,21 +74,21 @@
       <div class="mt-5">
         <div class="row d-flex align-items-center">
           <div class="col-lg-4">
-            <div class="p-3 border border-dark my-0 mx-0 rounded-lg">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl">
               <h5 class="font-weight-bold">Junction dynamics over time</h5>
               <p class="m-0">Monitor the formation, strengthening, and disruption of cell-cell junctions continuously.
               </p>
             </div>
           </div>
           <div class="col-lg-4">
-            <div class="p-3 border border-dark my-0 mx-0 rounded-lg mt-3 mt-lg-0">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl mt-3 mt-lg-0">
               <h5 class="font-weight-bold">Sensitive barrier resistance</h5>
               <p class="m-0">Use low-frequency resistance to track monolayer tightness as conditions change.
               </p>
             </div>
           </div>
           <div class="col-lg-4">
-            <div class="p-3 border border-dark my-0 mx-0 rounded-lg mt-3 mt-lg-0">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl mt-3 mt-lg-0">
               <h5 class="font-weight-bold">Designed for in vitro permeability</h5>
               <p class="m-0">Quantify barrier behavior in epithelial and endothelial cultures without the need for labels.
               </p>
