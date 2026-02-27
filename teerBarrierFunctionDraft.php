@@ -122,7 +122,7 @@
             </li>
           </ul>
 
-          <a href="/whatIsECIS.php" class="btn ecisDarkBtn mt-4" role="button">What Is ECIS?</a>
+          <a href="/whatIsECIS.php" class="btn ecisDarkBtn mt-4 mb-5 mb-lg-0" role="button">What Is ECIS?</a>
 
         </div>
         <div class="col-lg-4 mt-4 mt-md-0">
