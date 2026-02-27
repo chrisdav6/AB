@@ -102,7 +102,7 @@
       <div class="d-flex align-items-start row">
         <div class="col-lg-8">
           <p>
-            ECIS<sup>®</sup> Z-theta measures complex impedance across multiple AC frequencies and separates impedance into resistance (R) and capacitance (C). For barrier function studies, isolating low-frequency resistance provides a practical way to monitor cell-cell junctional barrier formation over time.
+            ECIS<sup>®</sup> Z-theta measures complex impedance across multiple AC frequencies and separates impedance into series resistance (R) and capacitance (C). For barrier function studies, isolating low-frequency resistance provides a practical way to monitor cell-cell junctional barrier formation over time.
           </p>
 
           <h5 class="font-weight-bold">Key Idea</h5>
