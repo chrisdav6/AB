@@ -121,6 +121,9 @@
               • <span class="font-weight-bold">Same experiment: </span>Use multi-frequency measurements to interpret time of confluence, and barrier tightening together.
             </li>
           </ul>
+
+          <a href="/whatIsECIS.php" class="btn ecisDarkBtn mt-4" role="button">What Is ECIS?</a>
+
         </div>
         <div class="col-lg-4 mt-4 mt-md-0">
           <img class='img-fluid d-block mx-auto' src='public/img/resistanceBarrierFunction.png' alt='Barrier Function Resistance' />
