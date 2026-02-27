@@ -133,11 +133,11 @@
       <h3 class="font-weight-bold mb-4 mt-5">Giaever-Keese Modeling</h3>
 
       <p>
-        In many epithelial layers, current resistance under cells is small relative to the paracellular path. For weaker barriers (e.g., some endothelial layers), under-cell resistance can complicate interpretation.
+        In many epithelial layers, current resistance under cells (attachment) is small relative to the paracellular path. For weaker barriers (e.g., some endothelial layers), under-cell resistance can complicate interpretation.
       </p>
 
       <p class="mb-0 mb-md-5">
-        With the ECIS<sup>®</sup> Giaever-Keese mathematical modeling, time-course changes in barrier function resistance (Rb) and under-cell resistance (alpha) can be separated and presented independently.
+        With the ECIS<sup>®</sup> Giaever-Keese mathematical modeling, time-course changes in barrier function resistance (Rb) and attachment under-cell resistance (alpha) can be separated and presented independently.
       </p>
 
       <div class="d-flex justify-content-center row mt-4 md-mt-5">
