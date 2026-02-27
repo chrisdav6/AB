@@ -168,6 +168,32 @@
         </div>
       </div>
 
+      <h3 class="font-weight-bold mt-5 mb-3">Products Related to Barrier Function</h3>
+
+      <div class="row mt-5 d-flex justify-content-center">
+        <div class="col-md-6">
+          <a class="text-dark link text-decoration-none" href="ztheta.php">
+            <div class="card product-card mb-3 rounded-xxl border-dark">
+              <div class="card-body text-center">
+                <h4>ECIS<sup>®</sup> Z-Theta w/16-well Array Station</h4>
+              </div>
+              <img class="card-img-top img-fluid w-50 mx-auto d-block px-3 pt-3" src="public/img/zTheta16.jpg" alt="ECIS zTheta">
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-6">
+          <a class="text-dark link text-decoration-none" href="ztheta.php">
+            <div class="card product-card mb-3 rounded-xxl border-dark">
+              <div class="card-body text-center">
+                <h4>ECIS<sup>®</sup> Z-Theta w/96-well Array Station</h4>
+              </div>
+              <img class="card-img-top img-fluid w-50 mx-auto d-block px-3 pt-3" src="public/img/zTheta96.jpg" alt="ECIS zTheta">
+            </div>
+          </a>
+        </div>
+      </div>
+
       <h3 class="font-weight-bold mt-5 mb-3">Key Publications</h3>
 
       <div class="mb-5">
