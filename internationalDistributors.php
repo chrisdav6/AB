@@ -177,7 +177,7 @@
           <div class="col-md-6 my-4">
             <h3>Finland</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="https://www.micromedic.se" target="_blank">MicroMedic</a></h5>
+            <h5><a class="text-dark link" href="https://www.micromedic.se" target="_blank">Micromedic</a></h5>
             <address>
               Ekbacksvägen 28<br>
               168 69 Bromma, Sweden<br>
@@ -245,7 +245,7 @@
           <div class="col-md-6 my-4">
             <h3>Iceland</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="https://www.micromedic.se" target="_blank">MicroMedic</a></h5>
+            <h5><a class="text-dark link" href="https://www.micromedic.se" target="_blank">Micromedic</a></h5>
             <address>
               Ekbacksvägen 28<br>
               168 69 Bromma, Sweden<br>
@@ -412,7 +412,7 @@
           <div class="col-md-6 my-4">
             <h3>Norway</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="https://www.micromedic.se" target="_blank">MicroMedic</a></h5>
+            <h5><a class="text-dark link" href="https://www.micromedic.se" target="_blank">Micromedic</a></h5>
             <address>
               Ekbacksvägen 28<br>
               168 69 Bromma, Sweden<br>
@@ -545,7 +545,7 @@
           <div class="col-md-6 my-4">
             <h3>Sweden</h3>
             <hr class="mb-4">
-            <h5><a class="text-dark link" href="https://www.micromedic.se" target="_blank">MicroMedic</a></h5>
+            <h5><a class="text-dark link" href="https://www.micromedic.se" target="_blank">Micromedic</a></h5>
             <address>
               Ekbacksvägen 28<br>
               168 69 Bromma, Sweden<br>
