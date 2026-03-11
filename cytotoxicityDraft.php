@@ -119,7 +119,7 @@
       <p>Capacitance decreases in an approximately linear manner with electrode coverage—0% coverage for cell-free electrodes, falling to a plateau at 100% coverage or confluence—then increasing again as cells detach during cytotoxicity.
       </p>
 
-      <a href="/whatIsECIS.php" class="btn ecisDarkBtn mt-4 mb-5 mb-lg-0" role="button">What Is ECIS?</a>
+      <a href="/whatIsECIS.php" class="btn ecisDarkBtn mt-4 mb-5" role="button">What Is ECIS?</a>
 
       <h3 class="font-weight-bold mt-5 mb-3">ECIS<sup>®</sup> Cytotoxicity Arrays</h3>
 
