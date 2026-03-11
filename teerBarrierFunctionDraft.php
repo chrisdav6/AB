@@ -45,7 +45,7 @@
 
       <h3 class="font-weight-bold mb-3">Monitoring the Barrier Function of Cell Monolayers using ECIS<sup>®</sup></h3>
 
-      <div class="row align-items-center">
+      <div class="row align-items-center mb-4 mb-xl-0">
         <div class="col-md-6">
           <p>
             Epithelial and endothelial monolayers regulate molecular passage across tissues. ECIS<sup>®</sup> provides highly sensitive, real-time, continuous measurements of barrier resistance to support in vitro permeability and junction dynamics studies.
