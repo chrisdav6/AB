@@ -168,7 +168,7 @@
         </div>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Products Related to Barrier Function</h3>
+      <h3 class="font-weight-bold mt-5 mt-lg-2 mb-3">Products Related to Barrier Function</h3>
 
       <div class="row mt-5 d-flex justify-content-center">
         <div class="col-md-6">
