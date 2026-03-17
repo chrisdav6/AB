@@ -133,7 +133,7 @@
           <a href="/contactABP.php" class="btn ecisDarkBtn mb-2" role="button">Talk to an Expert</a>
         </div>
         <div class="col-md-6">
-          <img class='img-fluid d-block mx-auto' src='public/img/arraysLoop.gif' alt='Barrier Function Arrays' />
+          <img class='img-fluid d-block mx-auto' src='public/img/arraysLoop.gif' alt='Cytotoxicity Arrays' />
         </div>
       </div>
 
@@ -181,7 +181,7 @@
       <h3 class="font-weight-bold mt-5 mb-3">Other Related Topics</h3>
 
       <div class="mb-5">
-        <a href="/cellProliferation.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Proliferation</a>
+        <a href="/cellProliferation.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Proliferation</a>
         <a href="/teer.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">TEER</a>
         <a href="/teerBarrierFunction.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Barrier Function</a>
         <a href="/cellMigration.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Migration</a>

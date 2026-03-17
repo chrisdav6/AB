@@ -140,11 +140,11 @@
         With the ECIS<sup>®</sup> Giaever-Keese mathematical modeling, time-course changes in barrier function resistance (Rb) and attachment under-cell resistance (alpha) can be separated and presented independently.
       </p>
 
-      <div class="d-flex justify-content-center row mt-4 md-mt-5">
+      <div class="d-flex justify-content-center row mt-lg-5 mb-lg-5">
         <div class="col-md-5 mt-5 mt-md-0">
           <img class='img-fluid d-block mx-auto' src='public/img/ECISTheoryModeling2.png' alt='ECIS Theory Modeling' />
         </div>
-        <div class="col-md-5">
+        <div class="col-md-5 mt-5 mt-md-0">
           <img class='img-fluid d-block mx-auto' src='public/img/ECISTheoryModeling1.png' alt='ECIS Theory Modeling' />
         </div>
       </div>
@@ -212,7 +212,7 @@
       <h3 class="font-weight-bold mt-5 mb-3">Other Related Topics</h3>
 
       <div class="mb-5">
-        <a href="/cellProliferation.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Proliferation</a>
+        <a href="/cellProliferation.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Proliferation</a>
         <a href="/teer.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">TEER</a>
         <a href="/cytotoxicity.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cytotoxicity</a>
         <a href="/cellMigration.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Migration</a>
