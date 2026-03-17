@@ -178,7 +178,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/re87f52cfd83ea755197e3ebab5704918" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Cell Attachment and Spreading Measurements – 11:00 AM EDT</h4>
@@ -187,7 +187,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/rd173bedac6f82c5b6f0aa5221254e486" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">Signal Transduction Assays – 11:00 AM EDT</h4>
