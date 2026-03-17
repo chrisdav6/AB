@@ -46,7 +46,7 @@
   <section id="applicationContent" class="py-4 text-center text-md-left">
     <div class="container">
 
-      <h3 class="font-weight-bold mb-3">Automated Wounding and Migration Quantification with ECIS<sup>®</sup></h3>
+      <h3 class="font-weight-bold mb-2">Automated Wounding and Migration Quantification with ECIS<sup>®</sup></h3>
 
       <div class="row align-items-center mb-4 mb-xl-0">
         <div class="col-md-6">
@@ -68,7 +68,7 @@
       <a href="/requestDemo.php" class="btn blueBtn mr-2 mb-2" role="button">Request a Demo</a>
       <a href="public/pdf/AutomatedWoundhealingCellMigrationAssaywithECIS.pdf" target="_blank" class="btn ecisDarkBtn mb-2" role="button">Download Application Note</a>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Still starting from “scratch”?</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Still starting from “scratch”?</h3>
 
       <p>
         Conventional wound healing assays typically begin with a confluent monolayer that is mechanically scraped with a pipette tip or needle to create a gap — often disrupting adsorbed proteins and extracellular matrix. The gap is then inspected microscopically over hours to days as cells migrate to fill the wound.
@@ -116,7 +116,7 @@
         </tbody>
       </table>
 
-      <h3 class="font-weight-bold mt-5 mb-3">ECIS<sup>®</sup> Wound-Healing Assay</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">ECIS<sup>®</sup> Wound-Healing Assay</h3>
 
       <p>
         The ECIS<sup>®</sup> Wound Healing Assay replaces the traditional "scratch" assay. Instead of disrupting the cell layer mechanically to form a gap and following the migration of cells to "heal" the wound with a microscope, we employ electric signals to both wound and monitor the healing process. ECIS<sup>®</sup> electrical wounding is only directed at the small population of cells in contact with the active 250 micrometer diameter ECIS<sup>®</sup> electrode, producing a precise 250 micrometer wound that can be verified both with the ECIS<sup>®</sup> measurement and vital staining. Unlike the traditional scratch method, the ECIS<sup>®</sup> Wound Healing Assay will not affect the extracellular matrix and protein coating.
@@ -131,7 +131,7 @@
         </div>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Resistance vs. Capacitance: Capture Three Recovery Phases</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Resistance vs. Capacitance: Capture Three Recovery Phases</h3>
 
       <p>
         After lethal electroporation, ECIS<sup>®</sup> migration assays typically show three recovery phases: lag, fast recovery, and slow recovery. These correspond to cell transition, cell migration, and reestablishment (annealing) of cell-cell interactions.
@@ -169,13 +169,13 @@
             <img class='img-fluid d-block mx-auto w-75' src='public/img/WoundingTransitionMigrationAnnealing.jpg' alt='Wounding Transition Migration Annealing' />
           </div>
         </div>
-
-        <a href="/whatIsECIS.php" class="btn ecisDarkBtn mb-5" role="button">What Is ECIS?</a>
-
       </div>
 
+      <a href="/whatIsECIS.php" class="btn ecisDarkBtn mb-5 mt-5 mt-md-0" role="button">What Is ECIS?</a>
 
-      <h3 class="font-weight-bold mt-5 mb-5">ECIS<sup>®</sup> Electric Fence</h3>
+
+
+      <h3 class="font-weight-bold mt-5 mb-4">ECIS<sup>®</sup> Electric Fence</h3>
 
       <div class="row align-items-start mb-4 mb-xl-0">
         <div class="col-md-6">
@@ -189,7 +189,7 @@
         </div>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-5">ECIS<sup>®</sup> Wound-Healing/Migration Arrays</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">ECIS<sup>®</sup> Wound-Healing/Migration Arrays</h3>
 
       <div class="row align-items-start">
         <div class="col-lg-6">
@@ -205,7 +205,7 @@
         </div>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Products related to Wound Healing/Migration</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Products related to Wound Healing/Migration</h3>
 
       <div class="row mt-5 d-flex justify-content-center">
         <div class="col-md-6">
@@ -231,7 +231,7 @@
         </div>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Key Publications</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Key Publications</h3>
 
       <div class="mb-5">
         <h6><span class="font-weight-bold">Stabilizing milk-derived extracellular vesicles (mEVs) through lyophilization : a novel trehalose and tryptophan formulation for maintaining structure and Bioactivity during long-term storage.,</span> Dogan, Alan B,Marsh, Spencer R,Tschetter, Rachel J,Beard, Claire E,Amin, R,Jourdan, L Jane,Gourdie, Robert G (2025). Journal of Biological Engineering 19 (4) : <a class="link" href="https://link.springer.com/article/10.1186/s13036-024-00470-z" target="_blank"> doi:10.1186/s13036-024-00470-z</a>
@@ -246,7 +246,7 @@
         <p class="font-weight-bold mt-4">*See our <a class="orangelink" href="/publications.php">publications</a> page to explore more publications with ECIS<sup>®</sup></p>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Other Related Topics</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Other Related Topics</h3>
 
       <div class="mb-5">
         <a href="/teerBarrierFunction.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Barrier Function</a>

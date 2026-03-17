@@ -43,7 +43,7 @@
   <section id="applicationContent" class="py-4 text-center text-md-left">
     <div class="container">
 
-      <h3 class="font-weight-bold mb-3">Monitoring the Barrier Function of Cell Monolayers using ECIS<sup>®</sup></h3>
+      <h3 class="font-weight-bold mb-2">Monitoring the Barrier Function of Cell Monolayers using ECIS<sup>®</sup></h3>
 
       <div class="row align-items-center mb-4 mb-xl-0">
         <div class="col-md-6">
@@ -65,7 +65,7 @@
       <a href="/requestDemo.php" class="btn blueBtn mr-2 mb-2" role="button">Request a Demo</a>
       <a href="public/pdf/ContinuousQuantificationofCellMonolayerBarrierFunctionwithECIS.pdf" target="_blank" class="btn ecisDarkBtn mb-2" role="button">Download Application Note</a>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Why Barrier Function Matters</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Why Barrier Function Matters</h3>
 
       <p>
         In vivo, barriers are provided by monolayers of epithelial or endothelial cells. These cell layers play a key role regulating the free movement of molecules between different tissues and/or interstitial compartments. In many diseases, as well as in inflammation, these barriers become compromised, and hence, measuring their permeability is of considerable interest to cell biologists and the health community in general.
@@ -149,10 +149,10 @@
         </div>
       </div>
 
-      <a href="public/pdf/UsingtheECISModeltoIsolateCellularBarrierFunction.pdf" target="_blank" class="btn ecisDarkBtn mt-5 mb-5" role="button">Learn About Modeling</a>
+      <a href="public/pdf/UsingtheECISModeltoIsolateCellularBarrierFunction.pdf" target="_blank" class="btn ecisDarkBtn mt-5 mt-lg-0 mb-5" role="button">Learn About Modeling</a>
 
 
-      <h3 class="font-weight-bold mt-5 mb-3">Recommended Arrays for Barrier Function Studies</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Recommended Arrays for Barrier Function Studies</h3>
 
       <div class="row">
         <div class="col-md-6">
@@ -168,7 +168,7 @@
         </div>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mt-lg-2 mb-3">Products Related to Barrier Function</h3>
+      <h3 class="font-weight-bold mt-5 mt-lg-2 mb-4">Products Related to Barrier Function</h3>
 
       <div class="row mt-5 d-flex justify-content-center">
         <div class="col-md-6">
@@ -194,7 +194,7 @@
         </div>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Key Publications</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Key Publications</h3>
 
       <div class="mb-5">
         <h6><span class="font-weight-bold">Glyceraldehyde-3-phosphate dehydrogenase/1,3-bisphosphoglycerate-NADH as key determinants in controlling human retinal endothelial cellular functions: Insights from glycolytic screening.,</span> Oska, Nicole,Awad, Ahmed M.,Eltanani, Shaimaa,Shawky, Mohamed,Naghdi, Armaan,Yumnamcha, Thangal,Singh, Lalit Pukhrambam,Ibrahim, Ahmed S. (2025). Journal of Biological Chemistry 301 (5) : 108472<a class="link" href="https://www.jbc.org/article/S0021-9258(25)00321-7/fulltext" target="_blank"> doi:10.1016/j.jbc.2025.108472</a>
@@ -209,7 +209,7 @@
         <p class="font-weight-bold mt-4">*See our <a class="orangelink" href="/publications.php">publications</a> page to explore more publications with ECIS<sup>®</sup></p>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Other Related Topics</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Other Related Topics</h3>
 
       <div class="mb-5">
         <a href="/cellProliferation.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Proliferation</a>

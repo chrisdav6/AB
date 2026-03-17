@@ -43,7 +43,7 @@
   <section id="applicationContent" class="py-4 text-center text-md-left">
     <div class="container">
 
-      <h3 class="font-weight-bold mb-3">Quantitative Analysis of Cytotoxicity using ECIS<sup>®</sup></h3>
+      <h3 class="font-weight-bold mb-2">Quantitative Analysis of Cytotoxicity using ECIS<sup>®</sup></h3>
 
       <div class="row align-items-center mb-4 mb-xl-0">
         <div class="col-md-6">
@@ -65,7 +65,7 @@
       <a href="/requestDemo.php" class="btn blueBtn mr-2 mb-2" role="button">Request a Demo</a>
       <a href="public/pdf/ProliferationandCytotoxicityMonitoringwithECIS.pdf" target="_blank" class="btn ecisDarkBtn mb-2" role="button">Download Application Note</a>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Quantitative Cytotoxicity Analysis with ECIS<sup>®</sup></h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Quantitative Cytotoxicity Analysis with ECIS<sup>®</sup></h3>
 
       <p>
         ECIS<sup>®</sup> technology measures electrical impedance changes as cells attach and spread over gold film electrodes. As cultures grow toward confluence, impedance typically rises (and capacitance falls) and plateaus. When a cytotoxic substance is introduced—such as a compound or pathogen—cells lose adhesion and detach, producing a measurable drop in impedance that tracks the cytotoxic response over time.
@@ -97,7 +97,7 @@
         </div>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Using Capacitance for Viability</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Using Capacitance for Viability</h3>
 
       <div class="row align-items-center mb-4 mb-xl-0">
         <div class="col-md-6">
@@ -121,7 +121,7 @@
 
       <a href="/whatIsECIS.php" class="btn ecisDarkBtn mt-4 mb-5" role="button">What Is ECIS?</a>
 
-      <h3 class="font-weight-bold mt-5 mb-3">ECIS<sup>®</sup> Cytotoxicity Arrays</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">ECIS<sup>®</sup> Cytotoxicity Arrays</h3>
 
       <div class="row">
         <div class="col-md-6">
@@ -137,7 +137,7 @@
         </div>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mt-lg-2 mb-3">Products Related to Cytotoxicity</h3>
+      <h3 class="font-weight-bold mt-5 mt-lg-2 mb-4">Products Related to Cytotoxicity</h3>
 
       <div class="row mt-5 d-flex justify-content-center">
         <div class="col-md-6">
@@ -163,7 +163,7 @@
         </div>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Key Publications</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Key Publications</h3>
 
       <div class="mb-5">
         <h6><span class="font-weight-bold">Real-Time Monitoring of the Cytotoxic Effect of Oxygen-Sensitive Fluorescent Poly ( styrene-maleic anhydride ) Nanoparticles Using Electrical-Substrate Impedance Sensing.,</span> Torres, Fernando Pesantez,Feret, Elijah C,Xie, Yubing,Sharfstein, Susan T (2025). ACS Applied Biomaterials October <a class="link" href="https://pubs.acs.org/doi/10.1021/acsabm.5c01443" target="_blank"> doi:10.1021/acsabm.5c01443</a>
@@ -178,7 +178,7 @@
         <p class="font-weight-bold mt-4">*See our <a class="orangelink" href="/publications.php">publications</a> page to explore more publications with ECIS<sup>®</sup></p>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-3">Other Related Topics</h3>
+      <h3 class="font-weight-bold mt-5 mb-4">Other Related Topics</h3>
 
       <div class="mb-5">
         <a href="/cellProliferation.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Proliferation</a>
