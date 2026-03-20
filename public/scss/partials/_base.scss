@@ -101,6 +101,21 @@ a.linkedin:hover {
   }
 }
 
+.teer-divider {
+  position: absolute;
+  left: -20px;
+  top: 0;
+  width: 3px;
+  height: 100%;
+  background-color: #f4b400;
+}
+
+.teer-divider-mobile {
+  border: none;
+  height: 3px;
+  background-color: #f4b400;
+}
+
 .rounded-xxl {
   border-radius: 0.8rem;
 }
