@@ -249,7 +249,7 @@
               <div class="card-body text-center pb-1">
                 <h4>ECIS<sup>®</sup> Z-Theta w/TEERZ Array Station</h4>
               </div>
-              <img class="card-img-top img-fluid w-50 mx-auto d-block" src="public/img/zThetaTEERZ.png" alt="ECIS zTheta TEERZ">
+              <img class="card-img-top img-fluid w-50 mx-auto d-block" src="public/img/zThetaTEERZ.jpg" alt="ECIS zTheta TEERZ">
             </div>
           </a>
         </div>
