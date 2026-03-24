@@ -130,7 +130,7 @@
       <p>Cellular impedance contains two components-resistance and capacitance which are largely dictated by AC frequency. ECIS<sup>®</sup> measures complex impedance which isolates these two pathways so they can be viewed separately without the interfering contribution of the other pathway.
       </p>
 
-      <h3 class="font-weight-bold mt-5 mb-4">Low AC Frequency (&lt; 4,000 Hz): Cell Attachment & Barrier</h3>
+      <h4 class="font-weight-bold mt-5 mb-4">Low AC Frequency (&lt; 4,000 Hz): Cell Attachment & Barrier</h4>
 
       <p>At lower frequencies, most current flows under and between adjacent cells. This makes measurements highly sensitive to cell-cell junction dynamics and attachment-related changes.
       </p>
@@ -173,7 +173,7 @@
         </div>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-4">High AC Frequency (&gt; 32,000 Hz): Cell-Substrate Coverage</h3>
+      <h4 class="font-weight-bold mt-5 mb-4">High AC Frequency (&gt; 32,000 Hz): Cell-Substrate Coverage</h4>
 
       <p>At higher frequencies, more current couples capacitively through cell membranes, making measurements more sensitive to how much the electrode is covered (useful for growth rate, viability, and migration).
       </p>
@@ -218,7 +218,7 @@
 
       <a href="/contactABP.php" class="btn ecisDarkBtn mb-5" role="button">Talk to an Expert</a>
 
-      <h3 class="font-weight-bold mt-5 mt-lg-2 mb-3">ECIS Instruments</h3>
+      <h3 class="font-weight-bold mt-3 mt-lg-2 mb-3">ECIS Instruments</h3>
 
       <div class="row mt-5 d-flex justify-content-center">
         <div class="col-md-4">
