@@ -44,119 +44,145 @@
   <section id="applicationContent" class="py-4 text-center text-md-left">
     <div class="container">
 
-      <p>
-        As cells proliferate two factors act to change the impedance: cell number and cell morphology. In most instances
-        the cells grow asynchronously and the impedance gradually increases until a maximum when cells become confluent.
-        The impedance change is approximately linear with cell number while the cells are sub-confluent.
-      </p>
+      <h3 class="font-weight-bold mb-2">Real-Time, Label-Free Cell Proliferation Monitoring</h3>
 
-      <div class="row">
-        <div class="col">
-          <h4 class="mt-4 mb-3 secondary-title">Overview</h4>
+      <div class="row align-items-center mb-4 mb-xl-0">
+        <div class="col-md-6">
           <p>
-            ECIS measurements can be used to monitor cell proliferation, and experiments can be designed to determine
-            how various changes in cell and culture conditions affect the rates at which the cell monolayer approaches
-            confluence. To accomplish these studies, arrays are inoculated with a low cell density providing room for
-            the dividing cell population. As the cell number increases, the amount of electrode area covered with the
-            spread cells grows accordingly, causing the electrode impedance to rise. These impedance changes can be
-            related to the relative cell proliferation rates or, more accurately, the rate at which the substrate
-            becomes occupied with spread cells. More quantitative measurements can be obtained by observing the changes
-            in capacitance measured at high AC frequencies.
+            Quantitatively track cell growth from seeding to confluence using ECIS<sup>®</sup> Z-theta. Multi-frequency impedance and high-frequency capacitance provide a clearer, more direct readout of proliferation.
           </p>
-          <p>
-            Dr. Joachim Wegener has modeled how ECIS impedance measurements repond to different degrees of fractional
-            substrate coverage by spread cells. These calculations were carried out using the properties of MDCK type II
-            cells and demonstrate that the capacitance measured at 40K Hz varies in a linear fashion with the fractional
-            cell coverage (Wegener, et al 2000). Although this calculation was only carried out for the MDCK line, in
-            general this correlation is valid for most lines and primary cell cultures. With this relationship, the
-            percentage of the electrode area covered as a function of time can be easily followed.
-          </p>
-        </div><!-- /col -->
-      </div><!-- /row -->
 
-      <div class="row mt-3">
-        <div class="col-lg-8 col-md-6">
-          <p>
-            Calculated resistance (A) and capacitance (B) values of ECIS electrodes as a function of fractional coverage
-            of the surface with adherent cells. Electrode parameters were modeled for three different frequencies: (...)
-            400 Hz, (- - -) 4 kHz, (___) 40 kHz. For a better comparison both quantities are normalized to the
-            corresponding values of a cell-free electrode.
-          </p>
-          <p>
-            It is important to note that the ECIS approach measures the area blocked by the spread cells and not the
-            number of cells directly. Nevertheless, this approach can yield useful proliferation-related data that, if
-            required, can later be validated by experiments employing direct cell counting procedures. The appeal of the
-            ECIS measurement is that it is fully automated and requires minimal manipulations. Once cells are added to
-            the electrode arrays the incubator door remain closed, and data may be gathered for up to days if required.
-            For these assays, we recommend the use of the 8W10E arrays, since theses follow the substratum coverage of
-            ten individual electrodes. These are located at different sires on the well bottom and provide a more
-            statistically relevant measurement of the overall condition of the culture.
-          </p>
+          <ul class="list-inline">
+            <li class="ml-3">• Continuous, real-time measurements</li>
+            <li class="ml-3 mt-2">• Label-free and non-invasive</li>
+            <li class="ml-3 mt-2">• Capacitance-based quantification of electrode coverage</li>
+          </ul>
         </div>
-        <div class="col-lg-4 col-md-6">
-          <img class="img-fluid my-5 my-md-0" src="public/img/highfreq.jpg" alt="High frequency">
-        </div>
-      </div><!-- /row -->
-
-      <div class="row">
-        <div class="col">
-          <h4 class="mt-4 mb-3 secondary-title">Chondrocyte Proliferation Data Measured Via ECIS</h4>
-          <p>
-            Chondrocytes were harvested from actively growing flasks and inoculated into ECIS wells to give an initial
-            surface concentration of approximately 1 x 104 cells per cm2. A total of seven individual ECIS wells were
-            inoculated and the impedance measured every 10 minutes for over 150 hours. The arrays used from this work
-            were 8W10Ewith 10 small electrodes connected in parallel in each
-            well. The plot below shows the resistive portion of the impedance at 4000 Hz as a function of time. One
-            medium change took place at 100 hours post inoculation.
-          </p>
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/chonprolif2.jpg" alt="Chondrocyte Proliferation">
-          <p>
-            The same data is summarized below, showing the time course change in the average resistance of the seven
-            wells minus the starting resistance due to the cell-free electrode. Note that the medium change at 100 hours
-            causes a temporary departure from the otherwise exponential appearance of the graph until confluence is
-            achieved. The subsequent change in impedance presumably comes about as cells crowd into the layer resulting
-            in more regions of cell-cell contact and a slight drop in resistance. Using capacitance measurements at high
-            frequency, this factor can be essentially eliminated.
-          </p>
-          <img class="img-fluid py-5 d-block mx-auto" src="public/img/chonprolif2a.jpg" alt="Average Minus Starting Value">
-        </div><!-- /col -->
-      </div><!-- /row -->
-
-    </div><!-- /container -->
-  </section><!-- /applicationContent -->
-
-  <section id="applicationReferences" class="py-4 text-center text-md-left mb-5">
-    <div class="container">
-
-      <div class="row">
-        <div class="col">
-          <h4 class="mt-4 mb-0">Related Cell Proliferation ECIS Publications</h4>
-
-          <hr class="mt-0 mb-4">
-
-          <p>To view publications in cell proliferation please visit our <a class="link text-dark" href="publications.php">publications page</a></p>
-
-          <!--<p>Zudaire, E., Cuesta, N., Murty, V., Woodson, K., Gonzalez, N., Martinez, A, Narayan, G., Kirsch, I.,
-            Hirsch, F., Birrer, M., Cuttitta, F., <strong>"The aryl hydrocarbon receptor repressor is a putative tumor
-              gene in multiple human cancers."</strong> J. of Clinical Investigation, 118 (2):640-650 (2008).</p>
-
-          <p>Lundien, M.C., Mohammed, K.A., Nasreen, N., Tepper, R.S., Hardwick, J.A., Sanders, K.L., Van Horn, R.D.,
-            Antony, V.B., <strong>"Induction of MCP-1 expression in airway epithelial cells: Role of CCR2 receptor in
-              airway epithelial injury"</strong>, Journal of Clinical Immunology, 22 (3): 144-152 (2002).</p>
-
-          <h4 class="my-4">Example Publication</h4>
-          <p>
-            <a href="http://mct.aacrjournals.org/content/12/7/1266" class="text-dark link" target="_blank"> MacKenzie et
-              al., (2013) "Triptolide Induces the Expres-sion of miR-142-3p: A Negative Regulator of Heat Shock Protein
-              70 and Pancreatic Cancer Cell Proliferation." Molecular Cancer Therapeutics 12(7):1266
-              doi:10.1158/1535-7163.MCT-12-1231</a>
-          </p>-->
-
+        <div class="col-md-6">
+          <img class='img-fluid d-block mx-auto' src='public/img/cellProliferationGraph.gif' alt='Cell Proliferation Graph' />
         </div>
       </div>
 
-    </div>
-  </section><!-- /applicationReferences -->
+      <a href="/requestDemo.php" class="btn blueBtn mr-2 mb-2" role="button">Request a Demo</a>
+      <a href="public/pdf/ProliferationandCytotoxicityMonitoringwithECIS.pdf" target="_blank" class="btn ecisDarkBtn mb-2" role="button">Download Application Note</a>
+
+      <h3 class="font-weight-bold mt-5 mb-4">Why Use ECIS<sup>®</sup> for Proliferation?</h3>
+
+      <p>
+        As cells proliferate, changes in cell number and morphology alter the electrical properties at the electrode surface. ECIS<sup>®</sup> captures these changes continuously, revealing growth dynamics that are difficult to observe with endpoint assays.
+      </p>
+
+      <div class="mt-5">
+        <div class="row d-flex align-items-center">
+          <div class="col-lg-4">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl">
+              <h5 class="font-weight-bold">Real-time growth curves</h5>
+              <p class="m-0">Observe proliferation continuously instead of relying on single time points.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl mt-3 mt-lg-0">
+              <h5 class="font-weight-bold">Sub-confluent to confluent</h5>
+              <p class="m-0">Track the full progression of cell coverage across the electrode.
+              </p>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl mt-3 mt-lg-0">
+              <h5 class="font-weight-bold">Condition comparisons</h5>
+              <p class="m-0">Quantitatively compare growth rates across treatments and environments.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <h3 class="font-weight-bold mt-5 mb-2">The Advantage of Capacitance</h3>
+
+      <div class="row align-items-center mb-4 mb-xl-0">
+        <div class="col-md-6">
+          <p>
+            Total or simple impedance measurements can be ambiguous, as multiple cellular behaviors may produce similar responses. ECIS<sup>®</sup> Z-theta resolves this by using complex impedance and separates impedance into resistance and capacitance across multiple frequencies.
+          </p>
+
+          <p>At higher AC frequencies, capacitance decreases in proportion to the fraction of the electrode covered by cells, making it a highly sensitive and quantitative indicator of proliferation.</p>
+        </div>
+        <div class="col-md-6">
+          <img class='img-fluid d-block mx-auto' src='public/img/AISimulatedProliferationGraph.jpg' alt='AI Simulated Proliferation Graph' />
+        </div>
+      </div>
+
+      <a href="/whatIsECIS.php" class="btn ecisDarkBtn mt-2 mb-5" role="button">What Is ECIS?</a>
+
+      <h3 class="font-weight-bold mt-5 mb-4">Recommended Arrays for Proliferation Studies</h3>
+
+      <div class="row">
+        <div class="col-md-6">
+          <p class="mb-4">
+            Some experimental protocols, such as cell proliferation, require sparse inoculations leading to a variance of cell density at the bottom of the well. Large electrodes (20idf Array) or a large collection of small electrodes (10E+ Array) increases the sampling size resulting in less variability.
+          </p>
+
+          <a href="https://applied-biophysics-inc.myshopify.com" target="_blank" class="btn blueBtn mr-2 mb-2" role="button">Order Arrays</a>
+          <a href="/contactABP.php" class="btn ecisDarkBtn mb-2" role="button">Talk to an Expert</a>
+        </div>
+        <div class="col-md-6">
+          <img class='img-fluid d-block mx-auto' src='public/img/arraysLoopProliferation.gif' alt='Proliferation Arrays' />
+        </div>
+      </div>
+
+      <h3 class="font-weight-bold mt-5 mt-lg-2 mb-4">Products Related to Proliferation</h3>
+
+      <div class="row mt-5 d-flex justify-content-center">
+        <div class="col-md-6">
+          <a class="text-dark link text-decoration-none" href="ztheta.php">
+            <div class="card product-card mb-3 rounded-xxl border-dark">
+              <div class="card-body text-center pb-1">
+                <h4>ECIS<sup>®</sup> Z-Theta w/16-well Array Station</h4>
+              </div>
+              <img class="card-img-top img-fluid w-50 mx-auto d-block" src="public/img/zTheta16.jpg" alt="ECIS zTheta">
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-6">
+          <a class="text-dark link text-decoration-none" href="ztheta.php">
+            <div class="card product-card mb-3 rounded-xxl border-dark">
+              <div class="card-body text-center pb-1">
+                <h4>ECIS<sup>®</sup> Z-Theta w/96-well Array Station</h4>
+              </div>
+              <img class="card-img-top img-fluid w-50 mx-auto d-block" src="public/img/zTheta96.jpg" alt="ECIS zTheta">
+            </div>
+          </a>
+        </div>
+      </div>
+
+      <h3 class="font-weight-bold mt-5 mb-4">Key Publications</h3>
+
+      <div class="mb-5">
+        <h6><span class="font-weight-bold">N6-methyladenosine-modified GPX2 impacts cancer cell stemness and TKI resistance through regulating of redox metabolism.,</span> Yang, Xu,Yu, Long,Shao, Miaomiao,Yang, Huiling,Qi, Kangwei,He, Gaofei,Wang, Lanxin,Kong, Di,Gu, Jianxin,Xu, Xiaolin,Wang, Lan (2025). Cell Death and Disease 16 (1) :<a class="link" href="https://www.nature.com/articles/s41419-025-07764-0" target="_blank"> doi:10.1038/s41419-025-07764-0</a>
+        </h6>
+
+        <h6><span class="font-weight-bold">Aurintricarboxylic acid inhibits the malignant phenotypes of drug-resistant cells via translation regulation.,</span> Shang, Keke,Chen, Yang,Jin, Jingjie,Wang, Tong,Zhang, Gong (2025). Frontiers in Oncology 15 (May) : 1-10 <a class="link" href="https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2025.1576685/full" target="_blank">doi:10.3389/fonc.2025.1576685</a>
+        </h6>
+
+        <h6><span class="font-weight-bold">EPLIN, a prospective oncogenic molecule with contribution to growth, migration and drug resistance in pancreatic cancer.,</span> Zeng, Jianyuan,Wang, Cai,Ruge, Fiona,Ji, Edison Ke,Martin, Tracey A.,Sanders, Andrew J.,Jia, Shuqin,Hao, Chunyi,Jiang, Wen G. (2024). Scientific Reports 14 (1) : 1-21 <a class="link" href="https://www.nature.com/articles/s41598-024-81485-w" target="_blank">doi:10.1038/s41598-024-81485-w</a>
+        </h6>
+
+        <p class="font-weight-bold mt-4">*See our <a class="orangelink" href="/publications.php">publications</a> page to explore more publications with ECIS<sup>®</sup></p>
+      </div>
+
+      <h3 class="font-weight-bold mt-5 mb-4">Other Related Topics</h3>
+
+      <div class="mb-5">
+        <a href="/teerBarrierFunction.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Barrier Function</a>
+        <a href="/teer.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">TEER</a>
+        <a href="/cytotoxicity.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cytotoxicity</a>
+        <a href="/cellMigration.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Migration</a>
+      </div>
+
+    </div><!-- /container -->
+  </section><!-- /applicationContent -->
 
 
   <?php include_once "includes/footer.php";?>

@@ -43,99 +43,153 @@
   <section id="applicationContent" class="py-4 text-center text-md-left">
     <div class="container">
 
+      <h3 class="font-weight-bold mb-2">Quantitative Analysis of Cytotoxicity using ECIS<sup>®</sup></h3>
+
+      <div class="row align-items-center mb-4 mb-xl-0">
+        <div class="col-md-6">
+          <p>
+            Cytotoxicity and viability can be challenging to measure with traditional qualitative assays. ECIS<sup>®</sup> enables <strong>quantitative, real-time, continuous, label-free </strong>monitoring of cytotoxic responses, while cells remain under incubated conditions.
+          </p>
+
+          <ul class="list-inline">
+            <li class="ml-3">• Continuous, real-time measurements</li>
+            <li class="ml-3 mt-2">• Label-free and non-invasive</li>
+            <li class="ml-3 mt-2">• Capacitance-based quantification of electrode coverage</li>
+          </ul>
+        </div>
+        <div class="col-md-6">
+          <img class='img-fluid d-block mx-auto' src='public/img/cytotoxicityGraph.gif' alt='Cytotoxicity Graph' />
+        </div>
+      </div>
+
+      <a href="/requestDemo.php" class="btn blueBtn mr-2 mb-2" role="button">Request a Demo</a>
+      <a href="public/pdf/ProliferationandCytotoxicityMonitoringwithECIS.pdf" target="_blank" class="btn ecisDarkBtn mb-2" role="button">Download Application Note</a>
+
+      <h3 class="font-weight-bold mt-5 mb-4">Quantitative Cytotoxicity Analysis with ECIS<sup>®</sup></h3>
+
       <p>
-        Cytotoxicity effects on cells have been notoriously difficult to measure simply because the methods have been qualitative in nature rather than quantitative. With ECIS<sup>®</sup> technology, cell toxicology and viability can be quantitatively measured in real-time, continuously and label free, all while under incubated conditions.
+        ECIS<sup>®</sup> technology measures electrical impedance changes as cells attach and spread over gold film electrodes. As cultures grow toward confluence, impedance typically rises (and capacitance falls) and plateaus. When a cytotoxic substance is introduced—such as a compound or pathogen—cells lose adhesion and detach, producing a measurable drop in impedance that tracks the cytotoxic response over time.
       </p>
 
-      <div class="row">
-        <div class="col">
-          <h4 class="mt-4 mb-3 secondary-title">Overview</h4>
-
-          <div class="row">
-            <div class="col-md-6">
-              <p>
-                ECIS<sup>®</sup> technology has long been used to detect proliferation and viability of cells by measuring electrical impedance changes as cells grow over gold electrodes at the bottom of culture dishes. Since cell proliferation can be detected through electrical impedance as these cells attach spread over the electrodes, so can cell death be detected as the cells detach from the electrodes. Through ECIS<sup>®</sup> software, as cells attach and spread, the impedance levels will rise and reach a plateau representing confluency, and when a cytotoxic substance is introduced such as a pathogen, the impedance levels will drop as the cells die and detach from the gold electrode substrate as shown in the A & B diagrams. The graph to the right shows an example of this where A549 adenocarcinomic lung epithelial cells were treated with MRSA. As you can see in the graph, when the cells were treated with the pathogen the cytotoxic effects take place and the impedance reduces down to cell-free levels indicating a cleared electrode from cell death.
+      <div class="mt-5">
+        <div class="row d-flex align-items-top">
+          <div class="col-lg-4">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl">
+              <h5 class="font-weight-bold">See onset & kinetics</h5>
+              <p class="m-0">Capture when toxicity begins and how rapidly the response progresses.
               </p>
             </div>
-            <div class="col-md-6">
-              <figure class="figure w-100">
-                <img class="img-fluid w-100 my-3 my-md-0" src="public/img/cytotoxicity.jpg" alt="Cytotoxicity">
-                <figcaption class="figure-caption text-center">(Nahid, Campbell, Fong, Barnhill, & Washington, 2020)</figcaption>
-              </figure>
+          </div>
+          <div class="col-lg-4">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl mt-3 mt-lg-0">
+              <h5 class="font-weight-bold">Compare Conditions</h5>
+              <p class="m-0">Quantitatively compare dose, exposure time, and recovery across experimental groups.
+              </p>
             </div>
           </div>
-
-          <div class="row mt-5 d-flex justify-content-center">
-
-            <div class="col-md-4">
-              <a class="text-dark link" href="ztheta.php">
-                <div class="card mb-3">
-                  <img class="card-img-top px-3 pt-3" src="public/img/zThetaLarge1.jpg" alt="ECIS zTheta">
-                  <div class="card-body text-center">
-                    <h3>ECIS Z-theta</h3>
-                    <p class="card-text">All-in-One Cell Monitor</p>
-                  </div>
-                </div>
-              </a>
+          <div class="col-lg-4">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl mt-3 mt-lg-0">
+              <h5 class="font-weight-bold">No labels required</h5>
+              <p class="m-0">Monitor continuously without fluorescent or colorimetric endpoints.
+              </p>
             </div>
-
-            <!-- <div class="col-md-4">
-              <a class="text-dark link" href="cp96.php">
-                <div class="card mb-3">
-                  <img class="card-img-top px-3 pt-3" src="public/img/cp96Computer.jpg" alt="ECIS CP96">
-                  <div class="card-body text-center">
-                    <h3>ECIS CP96</h3>
-                    <p class="card-text">Cell Population Monitor</p>
-                  </div>
-                </div>
-              </a>
-            </div> -->
-
-            <!-- <div class="col-md-4">
-              <a class="text-dark link" href="teer24.php">
-                <div class="card mb-3">
-                  <img class="card-img-top px-3 pt-3" src="public/img/teer24Station.jpg" alt="ECIS TEER24">
-                  <div class="card-body text-center">
-                    <h3>ECIS TEER24</h3>
-                    <p class="card-text">Barrier Function Monitor</p>
-                  </div>
-                </div>
-              </a>
-            </div> -->
-
           </div>
+        </div>
+      </div>
 
-        </div><!-- /col -->
-      </div><!-- /row -->
+      <h3 class="font-weight-bold mt-5 mb-4">Using Capacitance for Viability</h3>
+
+      <div class="row align-items-center mb-4 mb-xl-0">
+        <div class="col-md-6">
+          <p>
+            Standard impedance works well for many cytotoxicity assays, but the impedance subcomponent <strong>capacitance</strong> can be especially useful for measuring cell death.
+          </p>
+
+          <p>At higher AC frequencies (e.g., >32,000 Hz), most current capacitively couples through cell membranes rather than taking resistive pathways around cells. This makes high-frequency capacitance ideal for cell coverage and viability assays.</p>
+        </div>
+        <div class="col-md-6">
+          <img class='img-fluid d-block mx-auto' src='public/img/cytotoxicityGraphWithDoseResponseModel.jpg' alt='Cytotoxicity Graph With Dose Response Model' />
+        </div>
+      </div>
+
+      <p class="font-weight-bold mb-2">
+        Practical interpretation:
+      </p>
+
+      <p>Capacitance decreases in an approximately linear manner with electrode coverage—0% coverage for cell-free electrodes, falling to a plateau at 100% coverage or confluence—then increasing again as cells detach during cytotoxicity.
+      </p>
+
+      <a href="/whatIsECIS.php" class="btn ecisDarkBtn mt-4 mb-5" role="button">What Is ECIS?</a>
+
+      <h3 class="font-weight-bold mt-5 mb-4">ECIS<sup>®</sup> Cytotoxicity Arrays</h3>
+
+      <div class="row">
+        <div class="col-md-6">
+          <p class="mb-4">
+            Cytotoxicity measurements often benefit from increased sampling size to reduce variability, especially with uneven cell distribution across the well.
+          </p>
+
+          <a href="https://applied-biophysics-inc.myshopify.com" target="_blank" class="btn blueBtn mr-2 mb-2" role="button">Order Arrays</a>
+          <a href="/contactABP.php" class="btn ecisDarkBtn mb-2" role="button">Talk to an Expert</a>
+        </div>
+        <div class="col-md-6">
+          <img class='img-fluid d-block mx-auto' src='public/img/arraysLoop.gif' alt='Cytotoxicity Arrays' />
+        </div>
+      </div>
+
+      <h3 class="font-weight-bold mt-5 mt-lg-2 mb-4">Products Related to Cytotoxicity</h3>
+
+      <div class="row mt-5 d-flex justify-content-center">
+        <div class="col-md-6">
+          <a class="text-dark link text-decoration-none" href="ztheta.php">
+            <div class="card product-card mb-3 rounded-xxl border-dark">
+              <div class="card-body text-center pb-1">
+                <h4>ECIS<sup>®</sup> Z-Theta w/16-well Array Station</h4>
+              </div>
+              <img class="card-img-top img-fluid w-50 mx-auto d-block" src="public/img/zTheta16.jpg" alt="ECIS zTheta">
+            </div>
+          </a>
+        </div>
+
+        <div class="col-md-6">
+          <a class="text-dark link text-decoration-none" href="ztheta.php">
+            <div class="card product-card mb-3 rounded-xxl border-dark">
+              <div class="card-body text-center pb-1">
+                <h4>ECIS<sup>®</sup> Z-Theta w/96-well Array Station</h4>
+              </div>
+              <img class="card-img-top img-fluid w-50 mx-auto d-block" src="public/img/zTheta96.jpg" alt="ECIS zTheta">
+            </div>
+          </a>
+        </div>
+      </div>
+
+      <h3 class="font-weight-bold mt-5 mb-4">Key Publications</h3>
+
+      <div class="mb-5">
+        <h6><span class="font-weight-bold">Real-Time Monitoring of the Cytotoxic Effect of Oxygen-Sensitive Fluorescent Poly ( styrene-maleic anhydride ) Nanoparticles Using Electrical-Substrate Impedance Sensing.,</span> Torres, Fernando Pesantez,Feret, Elijah C,Xie, Yubing,Sharfstein, Susan T (2025). ACS Applied Biomaterials October <a class="link" href="https://pubs.acs.org/doi/10.1021/acsabm.5c01443" target="_blank"> doi:10.1021/acsabm.5c01443</a>
+        </h6>
+
+        <h6><span class="font-weight-bold">Isoform-specific vs. pan-histone deacetylase inhibition as approaches for countering glioblastoma: an in vitro study.,</span> Joshi, Ameya,Ratnapradipa, Natasha,Hughes, Jayce,Moore, Erik,Ekpenyong, Andrew,Shukla, Surabhi (2025). Frontiers in Oncology 15 (November) : 1-14 <a class="link" href="https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2025.1695552/full" target="_blank">doi:10.3389/fonc.2025.1695552</a>
+        </h6>
+
+        <h6><span class="font-weight-bold">Mitochondrial damage drives T-cell immunometabolic paralysis after major surgery.,</span> Hirschberger, Simon,Müller, Martin B.,Mascolo, Hannah,Seitz, Melissa,Nibler, Stefan,Effinger, David,Lu, Kun,Büch, Joscha,Bender, Martin,Kammerer, Tobias,Peterß, Sven,Kleigrewe, Karin,Abele, Miriam,Barth, Teresa,Kushnir, Olga,Imhof, Axel,Dietzel, Steffen,Wegener, Bernd,Sowa, Ralf,Vogel, Frank,Lamm, Peter,Tomasi, Roland,Unger, Kristian,Sperandio, Markus,Kilger, Erich,Kreth, Simone,Hübner, Max (2025). EMBO Molecular Medicine 17 (December) : 3329-3354 <a class="link" href="https://link.springer.com/article/10.1038/s44321-025-00324-1" target="_blank">doi:10.1038/s44321-025-00324-1</a>
+        </h6>
+
+        <p class="font-weight-bold mt-4">*See our <a class="orangelink" href="/publications.php">publications</a> page to explore more publications with ECIS<sup>®</sup></p>
+      </div>
+
+      <h3 class="font-weight-bold mt-5 mb-4">Other Related Topics</h3>
+
+      <div class="mb-5">
+        <a href="/cellProliferation.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Proliferation</a>
+        <a href="/teer.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">TEER</a>
+        <a href="/teerBarrierFunction.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Barrier Function</a>
+        <a href="/cellMigration.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Migration</a>
+      </div>
+
 
     </div><!-- /container -->
   </section><!-- /applicationContent -->
-
-  <section id="applicationReferences" class="py-4 text-center text-md-left mb-5">
-    <div class="container">
-
-      <div class="row">
-        <div class="col mb-4">
-          <h4 class="mt-4 mb-0">Key References</h4>
-          <hr class="mt-0 mb-4">
-          <p>
-            <strong>An evaluation of the impact of clinical bacterial isolates on epithelial cell monolayer integrity by the electric Cell-Substrate Impedance Sensing (ECIS) method.</strong>, Nahid, Md A.,Campbell, Carmen E.,Fong, Keith S.K.,Barnhill, Jason C.,Washington, Michael A. (2020). Journal of Microbiological Methods 169 105833 doi:10.1016/j.mimet.2020.105833 [Abstract]
-          </p>
-        </div>
-      </div>
-
-      <div class="row">
-        <div class="col">
-          <h4 class="mt-4 mb-0">Related Cytotoxicity ECIS Publications</h4>
-
-          <hr class="mt-0 mb-4">
-
-          <p>To view publications in cytotoxicity please visit our <a class="link text-dark" href="publications.php">publications page</a></p>
-        </div>
-      </div>
-
-    </div>
-  </section><!-- /applicationReferences -->
 
   <?php include_once "includes/footer.php";?>
 
