@@ -92,7 +92,7 @@
         </div>
       </div>
 
-      <div class="company mt-5">
+      <!-- <div class="company mt-5">
         <div class="row mb-3">
           <div class="col-lg-4 col-md-6">
             <img class="img-fluid" src="public/img/ibidiLogo.png" alt="ibidi Logo">
@@ -111,7 +111,7 @@
             </p>
           </div>
         </div>
-      </div>
+      </div> -->
 
     </div>
   </section>
