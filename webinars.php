@@ -217,6 +217,15 @@
       <hr>
 
       <div class="webinar">
+        <h4 class="webinar-title">Introduction to the ECIS TEERZ – 11:00 AM EDT</h4>
+        <p class="date">May 5, 2026</p>
+        <p>With the all new ECIS<sup>®</sup> TEERZ, transepithelial electrical resistance (TEER) can be collected for hours, days, or even weeks at a time. With continuous data collection, the dynamics of cell monolayer permeability can be witnessed in real time.</p>
+        <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r58ac720bed6c12fd6a190be8ccdd7631" target="_blank">Register</a>
+      </div>
+
+      <hr>
+
+      <div class="webinar">
         <h4 class="webinar-title">Cell Invasion / Extravasation Assays – 11:00 AM EDT</h4>
         <p class="date">May 12, 2026</p>
         <p>This webinar will review ECIS as it is used to monitor endothelial monolayers as they are challenged with metastatic cell lines. Extravasation of these layers can be followed in real time to provide quantitative data regarding the metastatic potential of the cancer cells.</p>
