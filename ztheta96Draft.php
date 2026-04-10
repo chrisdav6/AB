@@ -50,14 +50,14 @@
       <div class="row align-items-center mb-4 mb-xl-0">
         <div class="col-md-7">
           <p>
-            The ECIS<sup>®</sup> Z-Theta is our most advanced all-in-one instrument with a distinct method of accurately measuring cellular behaviors including proliferation, migration, barrier function/TEER, attachment, and much more. Not only is the ECIS Z-Theta capable of a multitude of assays, it&apos;s all done in real time, giving it the edge among in vitro-based assays.
+            The ECIS<sup>®</sup> Z-Theta is our most advanced all-in-one instrument with a distinct method of accurately measuring cellular behaviors including proliferation, migration, barrier function, attachment, and much more. Not only is the ECIS Z-Theta capable of a multitude of assays, it’s all done in real time, giving it the edge among in vitro-based assays
           </p>
           <p>
-            With the 16-well array station, researchers can explore multiple areas of research including the standard cell behaviors mentioned above, endothelial cells under flow, and TEER assays on permeable cell-culture inserts. The 16-well Array Station holds two 8-well arrays.
+            The 96-well station is built for screening and scale: run more conditions per experiment, accelerate dose-response studies, and capture real-time kinetics across a full plate. The ECIS<sup>®</sup> Z-Theta adds multi-frequency acquisition and separates impedance into resistance and capacitance for more specific interpretation.
           </p>
         </div>
         <div class="col-md-5">
-          <img class='img-fluid d-block mx-auto' src='public/img/ZT16WellGif.gif' alt='Z-Theta 16 Well' />
+          <img class='img-fluid d-block mx-auto' src='public/img/ZT96WellGif.gif' alt='Z-Theta 96 Well' />
         </div>
       </div>
 
@@ -67,70 +67,61 @@
         <a href="/whatIsECIS.php" class="btn ecisDarkBtn mb-2" role="button">What Is ECIS?</a>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-5">Why Choose the 16‑well Station?</h3>
+      <h3 class="font-weight-bold mt-5 mb-5">Why Choose the 96‑well Station?</h3>
 
       <div class='pb-5'>
         <div class="row d-flex align-items-start">
           <div class="col-lg-4">
             <div class="p-3 border border-dark my-0 mx-0 rounded-xxl">
-              <h5 class="font-weight-bold">More signal per condition</h5>
-              <p class="m-0">Use electrode designs optimized for high sensitivity in barrier, migration, cytotoxicity, and morphology assays.
+              <h5 class="font-weight-bold">Run more conditions</h5>
+              <p class="m-0">Increase experimental density: more doses, more replicates, more conditions per run.
               </p>
             </div>
           </div>
           <div class="col-lg-4">
             <div class="p-3 border border-dark my-0 mx-0 rounded-xxl mt-3 mt-lg-0">
-              <h5 class="font-weight-bold">Faster iteration</h5>
-              <p class="m-0">Perfect for method development, parameter tuning, and detailed time-course comparisons.
+              <h5 class="font-weight-bold">Faster decision-making</h5>
+              <p class="m-0">Screen kinetics and rank-order effects early—before committing to deeper follow-up studies.
               </p>
             </div>
           </div>
           <div class="col-lg-4">
             <div class="p-3 border border-dark my-0 mx-0 rounded-xxl mt-3 mt-lg-0">
-              <h5 class="font-weight-bold">Flexible array options</h5>
-              <p class="m-0">Select from multiple electrode geometries and array types to match your biology and assay needs.
+              <h5 class="font-weight-bold">Kinetics across the plate</h5>
+              <p class="m-0">Capture onset, slope, and recovery for each well instead of relying on endpoint snapshots.
               </p>
             </div>
           </div>
         </div>
       </div>
 
-      <h3 class="font-weight-bold mt-5 mb-5">Arrays That Shine In the 16‑well Station</h3>
+      <h3 class="font-weight-bold mt-5 mb-5">96-well Arrays When Throughput Is Necessary</h3>
 
       <div class='pb-5'>
         <div class="row d-flex align-items-start">
-          <div class="col-6 col-lg-3">
-            <a href='/cultureware.php' class='text-decoration-none'>
+          <div class="col-6 col-lg-4">
+            <a href='/cultureware.php#96W20idf' class='text-decoration-none'>
               <div class="p-3 border border-dark my-0 mx-0 rounded-xxl array-link-hover mt-3 mt-lg-0">
-                <img class='img-fluid d-block mx-auto' src='public/img/8wellStandardArrays.jpg' alt='8 Well Standard Arrays' />
-                <p class="m-0 text-center text-dark">8-well Standard Arrays
+                <img class='img-fluid d-block mx-auto' src='public/img/96W20idf.jpg' alt='96W20idf Array' />
+                <p class="m-0 mt-2 text-center text-dark">96w20idf
                 </p>
               </div>
             </a>
           </div>
-          <div class="col-6 col-lg-3">
-            <a href='/cultureware.php' class='text-decoration-none'>
+          <div class="col-6 col-lg-4">
+            <a href='/cultureware.php#96W10idf' class='text-decoration-none'>
               <div class="p-3 border border-dark my-0 mx-0 rounded-xxl array-link-hover mt-3 mt-lg-0">
-                <img class='img-fluid d-block mx-auto' src='public/img/flowArrays.jpg' alt='Flow Arrays' />
-                <p class="m-0 text-center text-dark">Flow Arrays
+                <img class='img-fluid d-block mx-auto' src='public/img/96W10idf.jpg' alt='96W10idf Array' />
+                <p class="m-0 mt-2 text-center text-dark">96w10idf
                 </p>
               </div>
             </a>
           </div>
-          <div class="col-6 col-lg-3">
-            <a href='/cultureware.php' class='text-decoration-none'>
+          <div class="col-6 col-lg-4">
+            <a href='/cultureware.php#96W1E' class='text-decoration-none'>
               <div class="p-3 border border-dark my-0 mx-0 rounded-xxl array-link-hover mt-3 mt-lg-0">
-                <img class='img-fluid d-block mx-auto' src='public/img/specialtyArrays.jpg' alt='Specialty Arrays' />
-                <p class="m-0 text-center text-dark">Specialty Arrays
-                </p>
-              </div>
-            </a>
-          </div>
-          <div class="col-6 col-lg-3">
-            <a href='' class='text-decoration-none'>
-              <div class="p-3 border border-dark my-0 mx-0 rounded-xxl array-link-hover mt-3 mt-lg-0">
-                <img class='img-fluid d-block mx-auto' src='public/img/8wTFARBG.jpg' alt='8wTFA' />
-                <p class="m-0 text-center text-dark">8-well Transfilter Array
+                <img class='img-fluid d-block mx-auto' src='public/img/96W1E+.jpg' alt='96w1E+ Array' />
+                <p class="m-0 mt-2 text-center text-dark">96w1E+
                 </p>
               </div>
             </a>
@@ -139,12 +130,12 @@
       </div>
 
       <div class='pb-3'>
-        <a href="public/pdf/ECIS16-WellStationArrayDataSheet.pdf" target='_blank' class="btn blueBtn mr-2 mb-2" role="button">Array Specifications</a>
+        <a href="public/pdf/ECIS96-wellArrayDataSheet.pdf" target='_blank' class="btn blueBtn mr-2 mb-2" role="button">Array Specifications</a>
         <a href="https://applied-biophysics-inc.myshopify.com" target='_blank' class="btn ecisDarkBtn mr-2 mb-2" role="button">Order Arrays</a>
       </div>
 
 
-      <h3 class="font-weight-bold mt-5 mb-5">16‑well Array Station Specs</h3>
+      <h3 class="font-weight-bold mt-5 mb-5">Z-Theta with 96‑well Array Station Specs</h3>
 
       <div class="row align-items-center mt-4 mb-5">
         <div class="col-lg-7">
@@ -155,7 +146,7 @@
                 Array Station
               </div>
               <div class="info-value">
-                16 Well
+                96 Well
               </div>
             </div>
 
@@ -164,7 +155,7 @@
                 Arrays
               </div>
               <div class="info-value">
-                ECIS<sup>®</sup> 8-well Std. Arrays, 8-well Flow Arrays, 8-well Transfilter Adapter
+                ECIS<sup>®</sup> 96-well Arrays
               </div>
             </div>
 
@@ -209,14 +200,14 @@
                 Includes
               </div>
               <div class="info-value">
-                Z-Theta impedance analyzer, 16-well array station, laptop PC with ECIS<sup>®</sup> software
+                Z-Theta impedance analyzer, 96-well array station, laptop PC with ECIS<sup>®</sup> software
               </div>
             </div>
 
           </div>
         </div>
         <div class="col-lg-5 mt-5 mt-md-0">
-          <img class='img-fluid d-block mx-auto' src='public/img/16-well-station.jpg' alt='16-Well Array Station' />
+          <img class='img-fluid d-block mx-auto' src='public/img/96-well-Station.jpg' alt='96-Well Array Station' />
         </div>
       </div>
 
@@ -228,12 +219,12 @@
 
       <div class="row mt-5 d-flex justify-content-center">
         <div class="col-md-6">
-          <a class="text-dark link text-decoration-none" href="ztheta.php">
+          <a class="text-dark link text-decoration-none" href="zthetaDraft.php">
             <div class="card product-card mb-3 rounded-xxl border-dark">
               <div class="card-body text-center pb-1">
-                <h4>ECIS<sup>®</sup> Z-Theta w/16-well Array Station</h4>
+                <h4>16-well Array Station</h4>
               </div>
-              <img class="card-img-top img-fluid w-50 mx-auto d-block" src="public/img/zTheta16.jpg" alt="ECIS zTheta">
+              <img class="card-img-top img-fluid w-50 mx-auto d-block" src="public/img/16-well-station.jpg" alt="96-well Array Station">
             </div>
           </a>
         </div>
@@ -253,7 +244,11 @@
       <h3 class="font-weight-bold mt-5 mb-4">Related Applications</h3>
 
       <div class="mb-5">
+        <a href="/cellProliferation.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Barrier Function</a>
         <a href="/teer.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">TEER</a>
+        <a href="/cytotoxicity.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cytotoxicity</a>
+        <a href="/cellMigration.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Migration</a>
+        <a href="/cellProliferation.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Proliferation</a>
       </div>
   </section>
 
