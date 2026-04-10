@@ -105,19 +105,19 @@
       <h3 class="font-weight-bold mt-5 mb-5">Using Resistance <i>and</i> Capacitance with the 8wTFA</h3>
 
       <div class="row align-items-start mb-4 mb-xl-0">
-        <div class="col-lg-6 col-md-7">
-          <p>
+        <div class="col-lg-7">
+          <p class='mt-lg-4'>
             ECIS<sup>®</sup> Z-theta measures complex impedance across multiple AC frequencies and separates impedance into series resistance (R) and capacitance (C). For TEER, low frequency series resistance and capacitive reactance are isolated and then converted to an RC parallel circuit providing the real resistance for TEER calculations. High frequency capacitance can also be used with the 8wTFA to determine the point of confluence.
           </p>
         </div>
-        <div class="col-lg-6 col-md-5 px-lg-5 mt-4 mt-md-0">
+        <div class="col-lg-5 px-lg-5 mt-4 mt-md-0">
           <img class='img-fluid d-block mx-auto' src='public/img/8wTFA-D.jpg' alt='8wtfa TEER' />
         </div>
       </div>
 
       <div class="row align-items-start mb-4 mb-xl-0">
-        <div class="col-lg-6 col-md-7">
-          <ul class="list-inline">
+        <div class="col-lg-7">
+          <ul class="list-inline mt-lg-4">
             <li class="ml-3">
               • <span class="font-weight-bold">Low frequency: </span>Series resistance and capacitive reactance are converted to an RC parallel circuit for correct TEER calculations.
             </li>
@@ -129,7 +129,7 @@
             </li>
           </ul>
         </div>
-        <div class="col-lg-6 col-md-5 px-lg-5 mt-4 mt-md-0">
+        <div class="col-lg-5 px-lg-5 mt-4 mt-md-0">
           <img class='img-fluid d-block mx-auto' src='public/img/8wTFA-C.jpg' alt='8wtfa Capacitance' />
         </div>
       </div>
