@@ -487,7 +487,7 @@
         </ul>
       </div><!-- /array -->
 
-      <div class="array-title d-flex flex-column flex-md-row align-items-center">
+      <div id="8WellArrays" class="array-title d-flex flex-column flex-md-row align-items-center">
         <h4 class="mb-0 secondary-title">Standard 8 Well Array Specifications</h4><a class="arrayTitleLink" href="public/pdf/8WellArrays.pdf" target="_blank">Standard 8 Well Array List</a>
       </div>
 
@@ -604,7 +604,7 @@
         </ul>
       </div><!-- /array -->
 
-      <div class="array-title d-flex flex-column flex-md-row align-items-center">
+      <div id="SpecialtyArrays" class="array-title d-flex flex-column flex-md-row align-items-center">
         <h4 class="mb-0 secondary-title">Specialty Array Specifications</h4>
         <!--<a class="arrayTitleLink" href="public/pdf/8WellArrays.pdf" target="_blank">Specialty Array List</a>-->
       </div>
@@ -744,7 +744,7 @@
       </div> -->
       <!-- /array -->
 
-      <div class="array-title d-flex flex-column flex-md-row align-items-center">
+      <div id="FlowArrays" class="array-title d-flex flex-column flex-md-row align-items-center">
         <h4 class="mb-0 secondary-title">Flow Array Specifications</h4>
         <!--<a class="arrayTitleLink" href="public/pdf/8WellArrays.pdf" target="_blank">Specialty Array List</a>-->
       </div>

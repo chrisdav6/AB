@@ -100,7 +100,7 @@
       <div class='pb-5'>
         <div class="row d-flex align-items-start">
           <div class="col-6 col-lg-3">
-            <a href='/cultureware.php' class='text-decoration-none'>
+            <a href='/cultureware.php#8WellArrays' class='text-decoration-none'>
               <div class="p-3 border border-dark my-0 mx-0 rounded-xxl array-link-hover mt-3 mt-lg-0">
                 <img class='img-fluid d-block mx-auto' src='public/img/8wellStandardArrays.jpg' alt='8 Well Standard Arrays' />
                 <p class="m-0 text-center text-dark">8-well Standard Arrays
@@ -109,7 +109,7 @@
             </a>
           </div>
           <div class="col-6 col-lg-3">
-            <a href='/cultureware.php' class='text-decoration-none'>
+            <a href='/cultureware.php#FlowArrays' class='text-decoration-none'>
               <div class="p-3 border border-dark my-0 mx-0 rounded-xxl array-link-hover mt-3 mt-lg-0">
                 <img class='img-fluid d-block mx-auto' src='public/img/flowArrays.jpg' alt='Flow Arrays' />
                 <p class="m-0 text-center text-dark">Flow Arrays
@@ -118,7 +118,7 @@
             </a>
           </div>
           <div class="col-6 col-lg-3">
-            <a href='/cultureware.php' class='text-decoration-none'>
+            <a href='/cultureware.php#SpecialtyArrays' class='text-decoration-none'>
               <div class="p-3 border border-dark my-0 mx-0 rounded-xxl array-link-hover mt-3 mt-lg-0">
                 <img class='img-fluid d-block mx-auto' src='public/img/specialtyArrays.jpg' alt='Specialty Arrays' />
                 <p class="m-0 text-center text-dark">Specialty Arrays
@@ -127,7 +127,7 @@
             </a>
           </div>
           <div class="col-6 col-lg-3">
-            <a href='' class='text-decoration-none'>
+            <a href='/8wTFA.php' class='text-decoration-none'>
               <div class="p-3 border border-dark my-0 mx-0 rounded-xxl array-link-hover mt-3 mt-lg-0">
                 <img class='img-fluid d-block mx-auto' src='public/img/8wTFARBG.jpg' alt='8wTFA' />
                 <p class="m-0 text-center text-dark">8-well Transfilter Array
