@@ -33,9 +33,9 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <h1 class="display-3">ECIS<sup class="registered">®</sup> 8wTFA</h1>
+          <h1 class="display-3">8-well Transfilter Adapter</h1>
           <hr class="my-2">
-          <h2>8-well Transfilter Adapter</h2>
+          <h2>ECIS<sup class="registered">®</sup> 8wTFA</h2>
         </div>
       </div>
     </div>

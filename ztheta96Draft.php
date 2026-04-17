@@ -36,9 +36,9 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <h1 class="display-3">ECIS<sup class="registered">®</sup> Z-Theta</h1>
+          <h1 class="display-3">96-well Array Station</h1>
           <hr class="my-2">
-          <h2>96-well Array Station</h2>
+          <h2>ECIS<sup class="registered">®</sup> Z-Theta</h2>
         </div>
       </div>
     </div>
