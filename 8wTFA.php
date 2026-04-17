@@ -33,175 +33,129 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <h1 class="display-3">ECIS<sup class="registered">®</sup> 8-well Transfilter Array</h1>
+          <h1 class="display-4">8-Well Transfilter Adapter</h1>
           <hr class="my-2">
-          <h2>TEER</h2>
+          <h2>ECIS<sup class="registered">®</sup> 8wTFA</h2>
         </div>
       </div>
     </div>
   </section><!-- /productHeading -->
 
-  <section id="productCarousel" class="py-4">
+  <section id="productInfo" class="pb-5 text-center text-md-left">
     <div class="container">
-      <div class="row">
 
-        <div class="col-lg-5">
-
-          <div id="carouselExampleIndicators" class="carousel slide border" data-ride="carousel">
-            <div class="carousel-inner">
-              <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-              </ol>
-
-              <div class="carousel-item active">
-                <img class="d-block w-100" src="public/img/8wtfa-1.jpg" alt="8-well Transfilter Array">
-              </div>
-
-              <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/8wtfa-2.jpg" alt="8-well Transfilter Array">
-              </div>
-
-              <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/8wtfa-3.jpg" alt="8-well Transfilter Array">
-              </div>
-
-            </div>
-            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-            </a>
-          </div>
-
-        </div>
-
-        <div class="col-lg-7 text-center text-md-left mt-4">
-          <h2>Description</h2>
-          <hr class="mt-1">
+      <div class="row align-items-center mb-4 mb-xl-0">
+        <div class="col-md-7">
           <p>
-            Traditional methods for measuring transepithelial electrical resistance (TEER) have been limited to single timepoint measurements and require removal of the cells from incuabted conditons. With the ECIS 8-well Transfilter Array (8wTFA), TEER is collected continously in real-time while the cells remain incubated, making this an essential tool for accurate barrier function quantification.
+            Traditional methods for measuring transepithelial electrical resistance (TEER) have been limited to single timepoint measurements and require removal of the cells from incubated conditions. With the ECIS 8-well Transfilter Array (8wTFA) that connects to the 16-well array station, TEER is collected continously in real-time while the cells remain incubated, making this an essential tool for accurate TEER quantification.
           </p>
         </div>
-
-      </div>
-    </div>
-  </section> <!-- /productCarousel -->
-
-  <section id="productInfo" class="py-5 mb-5 text-center text-md-left">
-    <div class="container">
-
-      <div class="row">
-        <div class="col">
-          <h2>Overview</h2>
-          <hr class="mt-1">
-          <p class="mb-5">
-            The ECIS<sup>&reg;</sup> 8-well Transfilter Array (8wTFA) allows researchers to measure transepithelial electrical resistance (TEER) on standard cell culture 24-well inserts using Electric Cell-substrate Impedance Sensing (ECIS<sup>&reg;</sup>). The 8wTFA connects with the ECIS<sup>&reg;</sup> Z-Theta 16-well station and can monitor TEER continuously in real-time without having to remove the cells from the incuabtor. Since ECIS technology is being used with the 8wTFA, users can also monitor cell coverage alongside TEER measurements, allowing verification of confluence of the cell monolayer.
-          </p>
-
-          <div class="row pt-3">
-            <div class="col-lg-6 mb-4 mb-md-0">
-              <img class="img-fluid" src="public/img/8wtfaData-1.jpg" alt="8wtfa Graph">
-            </div>
-            <div class="col-lg-6">
-              <img class="img-fluid" src="public/img/8wtfaData-2.jpg" alt="8wtfa Graph">
-            </div>
-          </div>
-
-          <h5 class='mt-5'>Benefits</h5>
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- Automated TEER measurements under incuabated conditions</li>
-            <li>- Continuously monitored</li>
-            <li>- Uses standard 24-well cell culture inserts</li>
-            <li>- Non-invasive &amp; label-free</li>
-          </ul>
-
-          <!-- <h5 class="mt-4">System Includes:</h5>
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- 96 well channel station located in or outside the CO<sub>2</sub> incubator</li>
-            <li>- External control module</li>
-            <li>- Laptop PC</li>
-            <li>- ECIS control, acquisition, and display software</li>
-            <li>- Validation test array</li>
-            <li>- Two 96 well gold coated dipping pin assemblies</li>
-          </ul> -->
-
-          <div class="row my-5">
-            <div class="col-lg-8 mx-auto">
-              <img class="img-fluid" src="public/img/8wtfa-4.jpg" alt="8-well Transfilter Array">
-            </div>
-          </div>
-
+        <div class="col-md-5 px-lg-5">
+          <img class='img-fluid d-block mx-auto' src='public/img/8wtfa-1.jpg' alt='8-well Transfilter Array' />
         </div>
       </div>
 
-      <div class="row mt-5">
-        <div class="col">
+      <div class='pb-3'>
+        <a href="/contactABP.php" class="btn blueBtn mr-2 mb-2" role="button">Request a Quote</a>
+        <a href="/contactABP.php" class="btn ecisDarkBtn mr-2 mb-2" role="button">Talk Applications</a>
+        <a href="/whatIsECIS.php" class="btn ecisDarkBtn mb-2" role="button">What Is ECIS?</a>
+      </div>
 
-          <ul class="nav nav-tabs" id="myTab" role="tablist">
-            <!-- <li class="nav-item">
-              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab" aria-controls="video" aria-selected="false">Video</a>
-            </li> -->
-            <li class="nav-item">
-              <a class="nav-link active text-dark" id="application-notes-tab" data-scroll-ignore data-toggle="tab" href="#applicationNotes" role="tab" aria-controls="applicationNotes" aria-selected="false">Application Notes</a>
-            </li>
-          </ul>
+      <h3 class="font-weight-bold mt-5 mb-5">Why choose the ECIS<sup>®</sup> 8wTFA?</h3>
 
-          <div class="tab-content" id="myTabContent">
-            <!-- <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
-              <p class="mt-4">
-              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                <li>- Stainless Steel electrode dipping pins</li>
-                <li>- 75 Hz sinusoidal signal</li>
-                <li>- Connects to laptop via USB</li>
-                <li>- Windows 10 OS</li>
-              </ul>
+      <div class='pb-5'>
+        <div class="row d-flex align-items-start">
+          <div class="col-lg-4">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl">
+              <h5 class="font-weight-bold">Run TEER Continuously</h5>
+              <p class="m-0">Measure the dynamics of barrier formation to maturity in real-time.
               </p>
             </div>
-            <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
-              <p class="mt-4">
-              <div class="youtubeEmbed" id="H4AU9D-dKhk"></div>
+          </div>
+          <div class="col-lg-4">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl mt-3 mt-lg-0">
+              <h5 class="font-weight-bold">Incubated Measurements</h5>
+              <p class="m-0">The 8wTFA conducts TEER measurements while the cells remain inside of the incubator.
               </p>
-              <p class="mt-4">
-              <div class="youtubeEmbed" id="YNWNDkTsMxs"></div>
+            </div>
+          </div>
+          <div class="col-lg-4">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl mt-3 mt-lg-0">
+              <h5 class="font-weight-bold">Fixed Electrodes</h5>
+              <p class="m-0">No need to worry about variability of measurements from moving electrodes, these are fixed!
               </p>
-            </div> -->
-            <div class="tab-pane show active" id="applicationNotes" role="tabpanel" aria-labelledby="application-notes-tab">
-              <div class="applicationNotes mt-4">
-                <p><a href="public/pdf/MeasuringTEERwiththeECIS8wellTransfilterArray.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Measuring TEER with the ECIS 8-well Transfilter Array</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <h3 class="font-weight-bold mt-5 mb-5">Applying ECIS<sup>®</sup> Technology to TEER Assays</h3>
+
+      <div class="row align-items-start mb-4 mb-xl-0">
+        <div class="col-md-7">
+          <p>
+            The ECIS<sup>®</sup> 8-well Transfilter Array (8wTFA) allows researchers to measure transepithelial electrical resistance (TEER) on standard cell culture 24-well inserts using Electric Cell-substrate Impedance Sensing (ECIS<sup>®</sup>). The 8wTFA connects with the ECIS<sup>®</sup> Z-Theta 16-well array station and can monitor TEER continuously in real-time without having to remove the cells from the incubator.
+          </p>
+        </div>
+        <div class="col-md-5 px-lg-5 mt-4 mt-md-0">
+          <img class='img-fluid d-block mx-auto' src='public/img/8wtfaDiagramLabeled.jpg' alt='8wtfa Diagram Labeled' />
+        </div>
+      </div>
+
+      <h3 class="font-weight-bold mt-5 mb-5">Using Resistance <i>and</i> Capacitance with the 8wTFA</h3>
+
+      <div class="row align-items-start mb-4 mb-xl-0">
+        <div class="col-lg-7">
+          <p class='mt-lg-4'>
+            ECIS<sup>®</sup> Z-theta measures complex impedance across multiple AC frequencies and separates impedance into series resistance (R) and capacitance (C). For TEER, low frequency series resistance and capacitive reactance are isolated and then converted to an RC parallel circuit providing the real resistance for TEER calculations. High frequency capacitance can also be used with the 8wTFA to determine the point of confluence.
+          </p>
+        </div>
+        <div class="col-lg-5 px-lg-5 mt-4 mt-md-0">
+          <img class='img-fluid d-block mx-auto' src='public/img/8wTFA-D.jpg' alt='8wtfa TEER' />
+        </div>
+      </div>
+
+      <div class="row align-items-start mb-4 mb-xl-0">
+        <div class="col-lg-7">
+          <ul class="list-inline mt-lg-4">
+            <li class="ml-3">
+              • <span class="font-weight-bold">Low frequency: </span>Series resistance and capacitive reactance are converted to an RC parallel circuit for correct TEER calculations.
+            </li>
+            <li class="ml-3 my-3">
+              • <span class="font-weight-bold">High frequency: </span>Capacitance is used to determine confluence of cell monolayer.
+            </li>
+            <li class="ml-3">
+              • <span class="font-weight-bold">Same experiment: </span>Use multi-frequency measurements to interpret time of confluence and TEER together.
+            </li>
+          </ul>
+        </div>
+        <div class="col-lg-5 px-lg-5 mt-4 mt-md-0">
+          <img class='img-fluid d-block mx-auto' src='public/img/8wTFA-C.jpg' alt='8wtfa Capacitance' />
+        </div>
+      </div>
+
+      <a href="public/pdf/MeasuringTEERwiththeECIS8wellTransfilterArray.pdf" target="_blank" class="btn ecisDarkBtn mb-5" role="button">Download Application Note</a>
+
+      <h3 class="font-weight-bold mt-5 mt-lg-2 mb-4">Products Related to the 8wTFA</h3>
+
+      <div class="row mt-5 d-flex justify-content-start">
+        <div class="col-md-6">
+          <a class="text-dark link text-decoration-none" href="ztheta.php">
+            <div class="card product-card mb-3 rounded-xxl border-dark">
+              <div class="card-body text-center pb-1">
+                <h4>ECIS<sup>®</sup> Z-Theta w/16-well Array Station</h4>
               </div>
+              <img class="card-img-top img-fluid w-50 mx-auto d-block" src="public/img/zTheta16.jpg" alt="ECIS zTheta">
             </div>
-          </div>
+          </a>
         </div>
       </div>
 
-      <!-- <div id="dataSheets" class="row mt-5">
-        <div class="col">
-          <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
-          <hr class="mt-1">
-          <div class="row mt-4">
-            <div class="col-md-3 pb-4 pb-md-0">
-              <a href="public/pdf/TEER96DataSheetR3.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER96 Data Sheet">
-                <img class="img-fluid" src="public/img/teer96DataSheet.jpg" alt="Download TEER96 Data Sheet">
-              </a>
-            </div>
-            <div class="col-md-3">
-              <a href="public/pdf/TEER96ManualR2.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER96 Manual">
-                <img class="img-fluid" src="public/img/teer96Manual.jpg" alt="Download TEER96 Manual">
-              </a>
-            </div>
-          </div>
-        </div>
-      </div> -->
+      <h3 class="font-weight-bold mt-5 mb-4">Related Applications</h3>
 
-    </div>
+      <div class="mb-5">
+        <a href="/teer.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">TEER</a>
+      </div>
   </section>
 
   <?php include_once "includes/footer.php";?>

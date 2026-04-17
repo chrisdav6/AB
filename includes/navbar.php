@@ -14,12 +14,9 @@
               <li class="dropdown-item dropdown-submenu">
                 <a href="#" data-toggle="dropdown" class="submenu-link dropdown-toggle">Instruments</a>
                 <ul class="dropdown-menu">
-                  <a class="dropdown-item" href="ztheta.php">Z-Theta
-                    <!--- 16 or 96 Well Array Station-->
-                  </a>
-                  <a class="dropdown-item" href="teerZ.php">Z-Theta TEERZ
-                    <!--- Barrier Function Measurement System-->
-                  </a>
+                  <a class="dropdown-item" href="ztheta.php">Z-theta - 16-Well</a>
+                  <a class="dropdown-item" href="ztheta96.php">Z-theta - 96-Well</a>
+                  <a class="dropdown-item" href="teerZ.php">Z-Theta - TEERZ</a>
                   <a class="dropdown-item" href="8wTFA.php">8wTFA</a>
                   <a class="dropdown-item" href="zenCellOwl.php">Zen Cell Owl</a>
                   <!-- <a class="dropdown-item" href="teer24.php">TEER24 Discontinued</a> -->

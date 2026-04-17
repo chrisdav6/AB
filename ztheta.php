@@ -1,6 +1,6 @@
 <?php
-  $title = "ECIS Z-Theta - Applied BioPhysics";
-  $metaDesc = "The ECIS Z-Theta is Applied BioPhysics’ all-in-one instrument that uses ECIS technology and measures
+  $title = "ECIS Z-Theta 16-well Array Station - Applied BioPhysics";
+  $metaDesc = "The ECIS Z-Theta 16-well Array Station is Applied BioPhysics’ all-in-one instrument that uses ECIS technology and measures
   proliferation, migration via wound-healing, barrier function, and other morphological changes.";
 ?>
 
@@ -36,208 +36,229 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <h1 class="display-2">ECIS<sup class="registered">®</sup> Z-Theta</h1>
+          <h1 class="display-4">16-Well Array Station</h1>
           <hr class="my-2">
-          <h2>16 or 96 Well Array Station</h2>
-
-          <!-- Bioz -->
-          <!-- <div class='d-flex flex-column justify-content-center align-items-center align-items-md-start'>
-            <div id='w-s-2050-ECIS-Z-Theta' style="width:240px;height:58px;position:relative;overflow-y: hidden"></div>
-            <div id="bioz-w-pb-ECIS-Z-Theta-div" style="width: 240px"><a id="bioz-w-pb-ECIS-Z-Theta" style="font-size: 12px;color:transparent" href="https://www.bioz.com/" target="_blank"> <img src="https://cdn.bioz.com/assets/favicon.png" style="width:11px;height:11px;vertical-align: baseline;padding-bottom:0px;margin-left:0px;margin-bottom:0px;float:none;display:none" /> Powered by Bioz</a></div>
-          </div> -->
-
+          <h2>ECIS<sup class="registered">®</sup> Z-Theta</h2>
         </div>
       </div>
     </div>
   </section><!-- /productHeading -->
 
-  <section id="productCarousel" class="py-4">
+  <section id="productInfo" class="pb-5 text-center text-md-left">
     <div class="container">
-      <div class="row">
 
-        <div class="col-lg-5">
-
-          <div id="carouselExampleIndicators" class="carousel slide border" data-ride="carousel">
-            <div class="carousel-inner">
-              <ol class="carousel-indicators">
-                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-              </ol>
-
-              <div class="carousel-item active">
-                <img class="d-block w-100" src="public/img/zThetaFullSystem.jpg" alt="ZTheta Full System">
-              </div>
-
-              <div class="carousel-item">
-                <img class="d-block w-100" src="public/img/zThetaStageAdapter.jpg" alt="ZTheta Stage Adapter">
-              </div>
-
-
-            </div>
-            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
-              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="next">
-              <span class="carousel-control-next-icon" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-            </a>
-          </div>
-
-        </div>
-
-        <div class="col-lg-7 text-center text-md-left mt-4">
-          <h2>Description</h2>
-          <hr class="mt-1">
+      <div class="row align-items-center mb-4 mb-xl-0">
+        <div class="col-md-7">
           <p>
-            The ECIS<sup>®</sup> Z-Theta is our most advanced all-in-one instrument with a distinct method of accurately
-            measuring cellular behaviors including proliferation, migration, barrier function, attachment, and much
-            more. Not only is the ECIS Z-Theta capable of a multitude of assays, it’s all done in real time, giving it
-            the edge in impedance-based assays.
-          </p>
-          <p><strong>21 CFR Part 11</strong> capable option now available - <small><strong>Powered by TotalLab</strong></small></p>
-          <a href="public/pdf/ABPBrochure2018.pdf" target="_blank" class="btn btn-outline-success productBtn mr-0 mr-md-1" role="button">Download Data
-            Sheet</a>
-          <a href="#" class="btn btn-success productBtn" role="button" data-id="Order Info Form" data-toggle="modal" data-target="#orderInfo">Order Info</a>
-          <!-- <div class="engage-hub-form-embed mt-5" id="eh_form_6395499704745984" data-id="6395499704745984"></div> -->
-        </div>
-      </div>
-    </div>
-  </section> <!-- /productCarousel -->
-
-  <section id="productInfo" class="py-5 mb-5 text-center text-md-left">
-    <div class="container">
-      <!-- <div class="row">
-        <div class="col">
-          <h2>Publications</h2>
-          <hr class="mt-1">
-
-          
-          <object id="wobj-2050-ECIS-Z-Theta-q" type="text/html" data="https://www.bioz.com/v_widget_6_0/2050/ECIS-Z-Theta/" style="width:100%; height: 193px"></object>
-          <div id="bioz-w-pb-2050-ECIS-Z-Theta-q-div" style="width: 100%"><a id="bioz-w-pb-2050-ECIS-Z-Theta-q" style="font-size: 12px;text-decoration:none;color:#476D85" href="https://www.bioz.com/" target="_blank"><img src="https://cdn.bioz.com/assets/favicon.png" style="width:11px;height:11px;vertical-align: baseline;padding-bottom:0px;margin-left:0px;margin-bottom:0px;float:none"> Powered by Bioz</a> <a style="font-size: 12px;text-decoration:none;float: right;color:transparent" href="https://www.bioz.com/result/ECIS-Z-Theta/product/Applied BioPhysics/?cn=ECIS-Z-Theta" target="_blank"> See more details on Bioz</a></div>
-          
-        </div>
-      </div> -->
-
-      <div class="row">
-        <div class="col">
-          <h2>Overview</h2>
-          <hr class="mt-1">
-          <p>
-            The ECIS<sup>®</sup> ZƟ (Z Theta) is capable of noninvasively monitoring cell behavior in real-time using
-            electric cell-substrate impedance sensing (ECIS). By applying an alternating current across patterned gold
-            electrodes, a voltage potential is created which is then measured by the system. When cells cover these
-            electrodes, the current is then impeded in different manners depending upon the overall cell morphology.
+            The ECIS<sup>®</sup> Z-Theta is our most advanced all-in-one instrument with a distinct method of accurately measuring cellular behaviors including proliferation, migration, barrier function/TEER, attachment, and much more. Not only is the ECIS Z-Theta capable of a multitude of assays, it&apos;s all done in real time, giving it the edge among in vitro-based assays.
           </p>
           <p>
-            Upon stimulation of cell function, resulting responses in cell morphology will alter the impedance,
-            revealing quantifiable differences. The ECIS Z-Theta can then convert the complex impedance into series
-            resistance and capacitance, allowing for more accurate data of the cell behavior, making it an advanced form
-            of cellular impedance-based assays.
+            With the 16-well array station, researchers can explore multiple areas of research including the standard cell behaviors mentioned above, endothelial cells under flow, and TEER assays on permeable cell-culture inserts. The 16-well Array Station holds two 8-well arrays.
           </p>
-          <h5 class="mt-4">Benefits</h5>
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- Automated measurements of cell proliferation, morphology, barrier function, attachment, etc.</li>
-            <li>- 16 or 96 wells</li>
-            <li>- Choice of a wide range of AC frequencies*</li>
-            <li>- Data recorded and visualized in real time under incubator conditions</li>
-            <li>- Long-term data collection capabilities</li>
-            <li>- Non-invasive &amp; label free</li>
-            <li>- Highly reproducible</li>
-            <li>- User Friendly software</li>
-            <li>- Data output in CSV, excel or graphical (jpg, tif)</li>
-            <li>- Multiple array selection</li>
-          </ul>
-          <h5 class="mt-4">System Includes:</h5>
-          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-            <li>- 16 and/or 96 well station</li>
-            <li>- External control module</li>
-            <li>- Laptop PC</li>
-            <li>- ECIS control, acquisition, and display software</li>
-            <li>- Elevated field module (EFM) for automated cell migration and electroporation</li>
-            <li>- Twelve 8-well and/or six 96-well consumable electrode arrays</li>
-          </ul>
-          <p class="mt-4">
-            *The ECIS Z-Theta uses a range of AC frequencies from 100 – 64,000 Hz to calculate time course changes in
-            cell behavior including measurements of permeability of the cell layer, constricted flow underneath the
-            cells, and the membrane capacitance. And with multiple options in size of electrodes and patterns of the
-            available arrays, the ECIS Z-Theta is able to detect morphological changes from subtle variations in small
-            populations of cells to widespread population changes such as cell proliferation.
-          </p>
+        </div>
+        <div class="col-md-5">
+          <img class='img-fluid d-block mx-auto' src='public/img/ZT16WellGif.gif' alt='Z-Theta 16 Well' />
         </div>
       </div>
 
-      <div class="row mt-5">
-        <div class="col">
+      <div class='pb-3'>
+        <a href="/requestDemo.php" class="btn blueBtn mr-2 mb-2" role="button">Request a Demo</a>
+        <a href="/contactABP.php" class="btn ecisDarkBtn mr-2 mb-2" role="button">Talk Applications</a>
+        <a href="/whatIsECIS.php" class="btn ecisDarkBtn mb-2" role="button">What Is ECIS?</a>
+      </div>
 
-          <ul class="nav nav-tabs" id="myTab" role="tablist">
-            <li class="nav-item">
-              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab" aria-controls="video" aria-selected="false">Video</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link text-dark" id="application-notes-tab" data-scroll-ignore data-toggle="tab" href="#applicationNotes" role="tab" aria-controls="applicationNotes" aria-selected="false">Application Notes</a>
-            </li>
-          </ul>
+      <h3 class="font-weight-bold mt-5 mb-5">Why Choose the 16‑well Station?</h3>
 
-          <div class="tab-content" id="myTabContent">
-            <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
-              <p class="mt-4">
-              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
-                <li>- Array plates are barcoded with serial numbers for tracking</li>
-                <li>- Gold electrodes</li>
-                <li>- 100-64,000 Hz sinusoidal signal</li>
-                <li>- Power: ~100watts, 120/240 V AC</li>
-                <li>- 16-well station: 15.2 x 12.7 x 7.6 cm</li>
-                <li>- 96-well station: 25.1 x 17.5 x 6 cm</li>
-                <li>- Controller: 43.8 x 49.5 x 20.3 cm</li>
-                <li>- Connects to laptop via USB</li>
-                <li>- Windows 10</li>
-              </ul>
+      <div class='pb-5'>
+        <div class="row d-flex align-items-start">
+          <div class="col-lg-4">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl">
+              <h5 class="font-weight-bold">More signal per condition</h5>
+              <p class="m-0">Use electrode designs optimized for high sensitivity in barrier, migration, cytotoxicity, and morphology assays.
               </p>
             </div>
-            <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
-              <p class="mt-4">
-                <iframe allowTransparency="true" allowfullscreen height="600px" width="100%" border="0" scrolling="no" frameborder="0" marginwheight="0" marginwidth="0" src="https://www.jove.com/embed/player?id=51300&s=1">
-                </iframe>
+          </div>
+          <div class="col-lg-4">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl mt-3 mt-lg-0">
+              <h5 class="font-weight-bold">Faster iteration</h5>
+              <p class="m-0">Perfect for method development, parameter tuning, and detailed time-course comparisons.
               </p>
             </div>
-            <div class="tab-pane fade" id="applicationNotes" role="tabpanel" aria-labelledby="application-notes-tab">
-              <div class="applicationNotes mt-4">
-                <p><a href="public/pdf/ElectricCellsubstrateImpedanceSensingALabelfreeMethodtoContinuouslyMonitorCellBehaviorsInVitro101723.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Electric Cell-substrate Impedance Sensing: A Label-free Method to Continuously Monitor Cell Behaviors In Vitro</a></p>
-                <p><a href="public/pdf/ContinuousQuantificationofCellMonolayerBarrierFunctionwithECIS.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Continuous Quantification of Cell Monolayer Barrier Function with ECIS</a></p>
-                <p><a href="public/pdf/ProliferationandCytotoxicityMonitoringwithECIS.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Proliferation and Cytotoxicity Monitoring with ECIS</a></p>
-                <p><a href="public/pdf/AutomatedWoundhealingCellMigrationAssaywithECIS.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Automated Wound-healing Cell Migration Assay with ECIS</a></p>
-                <p><a href="public/pdf/UsingtheECISModeltoIsolateCellularBarrierFunction.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Using the ECIS Model to Isolate Cellular Barrier Function</a></p>
-                <p><a href="public/pdf/ECISElectroporationandMonitoring.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> ECIS Electroporation and Monitoring</a></p>
+          </div>
+          <div class="col-lg-4">
+            <div class="p-3 border border-dark my-0 mx-0 rounded-xxl mt-3 mt-lg-0">
+              <h5 class="font-weight-bold">Flexible array options</h5>
+              <p class="m-0">Select from multiple electrode geometries and array types to match your biology and assay needs.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <h3 class="font-weight-bold mt-5 mb-5">Arrays That Shine In the 16‑well Station</h3>
+
+      <div class='pb-5'>
+        <div class="row d-flex align-items-start">
+          <div class="col-6 col-lg-3">
+            <a href='/cultureware.php#8WellArrays' class='text-decoration-none'>
+              <div class="p-3 border border-dark my-0 mx-0 rounded-xxl array-link-hover mt-3 mt-lg-0">
+                <img class='img-fluid d-block mx-auto' src='public/img/8wellStandardArrays.jpg' alt='8 Well Standard Arrays' />
+                <p class="m-0 text-center text-dark">8-well Standard Arrays
+                </p>
+              </div>
+            </a>
+          </div>
+          <div class="col-6 col-lg-3">
+            <a href='/cultureware.php#FlowArrays' class='text-decoration-none'>
+              <div class="p-3 border border-dark my-0 mx-0 rounded-xxl array-link-hover mt-3 mt-lg-0">
+                <img class='img-fluid d-block mx-auto' src='public/img/flowArrays.jpg' alt='Flow Arrays' />
+                <p class="m-0 text-center text-dark">Flow Arrays
+                </p>
+              </div>
+            </a>
+          </div>
+          <div class="col-6 col-lg-3">
+            <a href='/cultureware.php#SpecialtyArrays' class='text-decoration-none'>
+              <div class="p-3 border border-dark my-0 mx-0 rounded-xxl array-link-hover mt-3 mt-lg-0">
+                <img class='img-fluid d-block mx-auto' src='public/img/specialtyArrays.jpg' alt='Specialty Arrays' />
+                <p class="m-0 text-center text-dark">Specialty Arrays
+                </p>
+              </div>
+            </a>
+          </div>
+          <div class="col-6 col-lg-3">
+            <a href='/8wTFA.php' class='text-decoration-none'>
+              <div class="p-3 border border-dark my-0 mx-0 rounded-xxl array-link-hover mt-3 mt-lg-0">
+                <img class='img-fluid d-block mx-auto' src='public/img/8wTFARBG.jpg' alt='8wTFA' />
+                <p class="m-0 text-center text-dark">8-well Transfilter Array
+                </p>
+              </div>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div class='pb-3'>
+        <a href="public/pdf/ECIS16-WellStationArrayDataSheet.pdf" target='_blank' class="btn blueBtn mr-2 mb-2" role="button">Array Specifications</a>
+        <a href="https://applied-biophysics-inc.myshopify.com" target='_blank' class="btn ecisDarkBtn mr-2 mb-2" role="button">Order Arrays</a>
+      </div>
+
+
+      <h3 class="font-weight-bold mt-5 mb-5">16‑well Array Station Specs</h3>
+
+      <div class="row align-items-center mt-4 mb-5">
+        <div class="col-lg-7">
+          <div class="info-box">
+
+            <div class="info-row d-flex">
+              <div class="info-label font-weight-bold">
+                Array Station
+              </div>
+              <div class="info-value">
+                16 Well
               </div>
             </div>
+
+            <div class="info-row d-flex">
+              <div class="info-label font-weight-bold">
+                Arrays
+              </div>
+              <div class="info-value">
+                ECIS<sup>®</sup> 8-well Std. Arrays, 8-well Flow Arrays, 8-well Transfilter Adapter
+              </div>
+            </div>
+
+            <div class="info-row d-flex">
+              <div class="info-label font-weight-bold">
+                Signal
+              </div>
+              <div class="info-value">
+                75 - 64,000 Hz sinusodial AC
+              </div>
+            </div>
+
+            <div class="info-row d-flex">
+              <div class="info-label font-weight-bold">
+                Data Output
+              </div>
+              <div class="info-value">
+                Impedance, resistance, capacitance (export as CSV, Excel, or graphical JPG/TIF)
+              </div>
+            </div>
+
+            <div class="info-row d-flex">
+              <div class="info-label font-weight-bold">
+                Connectivity
+              </div>
+              <div class="info-value">
+                USB to laptop
+              </div>
+            </div>
+
+            <div class="info-row d-flex">
+              <div class="info-label font-weight-bold">
+                Software
+              </div>
+              <div class="info-value">
+                ECIS<sup>®</sup> Cytospace
+              </div>
+            </div>
+
+            <div class="info-row d-flex">
+              <div class="info-label font-weight-bold">
+                Includes
+              </div>
+              <div class="info-value">
+                Z-Theta impedance analyzer, 16-well array station, laptop PC with ECIS<sup>®</sup> software
+              </div>
+            </div>
+
           </div>
+        </div>
+        <div class="col-lg-5 mt-5 mt-md-0">
+          <img class='img-fluid d-block mx-auto' src='public/img/16-well-station.jpg' alt='16-Well Array Station' />
         </div>
       </div>
 
-      <div id="dataSheets" class="row mt-5">
-        <div class="col">
-          <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
-          <hr class="mt-1">
-          <div class="row mt-4">
-            <div class="col-md-3 pb-4 pb-md-0">
-              <a href="public/pdf/ABPBrochure2018.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ZTheta Data Sheet">
-                <img class="img-fluid" src="public/img/zThetaDataSheet.jpg" alt="Download ZTheta Data Sheet">
-              </a>
+      <div class='mt-n5 mt-md-0 mb-5'>
+        <a href="public/pdf/ECISInstrumentSpecifications.pdf" target='_blank' class="btn blueBtn mr-2 mb-2" role="button">Download Data Sheet</a>
+      </div>
+
+      <h3 class="font-weight-bold mt-5 mt-lg-2 mb-4">Other Z-Theta Array Stations</h3>
+
+      <div class="row mt-5 d-flex justify-content-center">
+        <div class="col-md-6">
+          <a class="text-dark link text-decoration-none" href="ztheta96.php">
+            <div class="card product-card mb-3 rounded-xxl border-dark">
+              <div class="card-body text-center pb-1">
+                <h4>96-well Array Station</h4>
+              </div>
+              <img class="card-img-top img-fluid w-50 mx-auto d-block" src="public/img/96-well-Station.jpg" alt="96-well Array Station">
             </div>
-            <div class="col-md-3">
-              <a href="public/pdf/ECISProductGuide.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download ECIS Product Guide">
-                <img class="img-fluid" src="public/img/ECISProductGuide.jpg" alt="Download ECIS Product Guide">
-              </a>
+          </a>
+        </div>
+
+        <div class="col-md-6">
+          <a class="text-dark link text-decoration-none" href="teerZ.php">
+            <div class="card product-card mb-3 rounded-xxl border-dark">
+              <div class="card-body text-center pb-1">
+                <h4>TEERZ Array Station</h4>
+              </div>
+              <img class="card-img-top img-fluid w-50 mx-auto d-block" src="public/img/TEERZunit-with-tray.png" alt="TEERZ Unit with Tray">
             </div>
-          </div>
+          </a>
         </div>
       </div>
 
-    </div>
+      <h3 class="font-weight-bold mt-5 mb-4">Related Applications</h3>
+
+      <div class="mb-5">
+        <a href="/cellProliferation.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Barrier Function</a>
+        <a href="/teer.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">TEER</a>
+        <a href="/cytotoxicity.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cytotoxicity</a>
+        <a href="/cellMigration.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Migration</a>
+        <a href="/cellProliferation.php" class="btn ecisDarkBtn mb-2 mr-1" role="button">Cell Proliferation</a>
+      </div>
   </section>
 
   <?php include_once "includes/footer.php"; ?>

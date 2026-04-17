@@ -1,7 +1,6 @@
 <?php
-  $title = "TEERZ - 24/96 Well TEER Measurement System - Applied BioPhysics";
-  $metaDesc = "The ECIS TEERZ is designed to carry out traditional trans-epithelial/endothelial electrical resistance
-  measurements using ECIS";
+  $title = "8WTFA - 8-well Transfilter Array - Applied BioPhysics";
+  $metaDesc = "The ECIS 8-well Transfilter Array (8wTFA), TEER is collected continously in real-time while the cells remain incubated, making this an essential tool for accurate barrier function quantification.";
 ?>
 
 <!DOCTYPE html>
@@ -34,15 +33,15 @@
     <div class="container">
       <div class="row">
         <div class="col">
-          <h1 class="display-2">ECIS<sup class="registered">®</sup> TEERZ</h1>
+          <h1 class="display-3">ECIS<sup class="registered">®</sup> 8-well Transfilter Array</h1>
           <hr class="my-2">
-          <h2>24/96 Well TEER Measurement System</h2>
+          <h2>TEER</h2>
         </div>
       </div>
     </div>
   </section><!-- /productHeading -->
 
-  <section id="productCarousel" class="py-4 mb-5">
+  <section id="productCarousel" class="py-4">
     <div class="container">
       <div class="row">
 
@@ -50,23 +49,43 @@
 
           <div id="carouselExampleIndicators" class="carousel slide border" data-ride="carousel">
             <div class="carousel-inner">
+              <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+              </ol>
+
               <div class="carousel-item active">
-                <img class="d-block w-100" src="public/img/teerZFront2.jpg" alt="TEER96 Barrier Function Measurement System">
+                <img class="d-block w-100" src="public/img/8wtfa-1.jpg" alt="8-well Transfilter Array">
               </div>
+
+              <div class="carousel-item">
+                <img class="d-block w-100" src="public/img/8wtfa-2.jpg" alt="8-well Transfilter Array">
+              </div>
+
+              <div class="carousel-item">
+                <img class="d-block w-100" src="public/img/8wtfa-3.jpg" alt="8-well Transfilter Array">
+              </div>
+
             </div>
+            <a class="carousel-control-prev" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" data-scroll-ignore data-toggle="tab" href="#carouselExampleIndicators" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
           </div>
+
         </div>
 
         <div class="col-lg-7 text-center text-md-left mt-4">
           <h2>Description</h2>
           <hr class="mt-1">
           <p>
-            How can TEER assays for barrier function be made easier and more accurate? By making them continuous and reporting measurements in real time. The all new TEERZ by Applied BioPhysics. A more effective approach to a traditionally complicated assay.
+            Traditional methods for measuring transepithelial electrical resistance (TEER) have been limited to single timepoint measurements and require removal of the cells from incuabted conditons. With the ECIS 8-well Transfilter Array (8wTFA), TEER is collected continously in real-time while the cells remain incubated, making this an essential tool for accurate barrier function quantification.
           </p>
-          <p><strong>21 CFR Part 11</strong> capable option now available - <small><strong>Powered by TotalLab</strong></small></p>
-
-          <a href="/contactABP.php" class="btn btn-warning productBtn mr-0 mr-md-1" role="button">Learn More</a>
-          <a href="public/pdf/TEERZAplicationNote.pdf" target="_blank" class="btn btn-outline-success productBtn" role="button">Application Note</a>
         </div>
 
       </div>
@@ -75,139 +94,112 @@
 
   <section id="productInfo" class="py-5 mb-5 text-center text-md-left">
     <div class="container">
+
       <div class="row">
         <div class="col">
           <h2>Overview</h2>
-          <hr class="mt-1 mb-5">
+          <hr class="mt-1">
+          <p class="mb-5">
+            The ECIS<sup>&reg;</sup> 8-well Transfilter Array (8wTFA) allows researchers to measure transepithelial electrical resistance (TEER) on standard cell culture 24-well inserts using Electric Cell-substrate Impedance Sensing (ECIS<sup>&reg;</sup>). The 8wTFA connects with the ECIS<sup>&reg;</sup> Z-Theta 16-well station and can monitor TEER continuously in real-time without having to remove the cells from the incuabtor. Since ECIS technology is being used with the 8wTFA, users can also monitor cell coverage alongside TEER measurements, allowing verification of confluence of the cell monolayer.
+          </p>
 
-          <div class="row">
-            <div class="col-md-6">
-              <p>
-                <strong>Continuous Data</strong><br />
-                Transepithelial Electrical Resistance (TEER) is collected continuously in real-time
-              </p>
-
-              <p>
-                <strong>Cells Remain Incubated</strong><br />
-                While TEER data is being collected, the cells remain inside of the incubator
-              </p>
-
-              <p>
-                <strong>Fixed Dipping Pin Electrodes</strong><br />
-                The ECIS<sup>&reg;</sup> TEERZ Cartridges hold fixed dipping pin electrodes that can be used with commercially available transwell filter inserts in 24 or 96-well formats
-              </p>
-
-              <p>
-                <strong>ECIS<sup>&reg;</sup> Technology</strong><br />
-                Small and light-weighted device leaves enough space for other vessels
-              </p>
-
-              <p>
-                <strong>Easy-to-use Software</strong><br />
-                ECIS<sup>&reg;</sup> TEERZ Software is user-friendly and reports data in TEER vs time
-              </p>
+          <div class="row pt-3">
+            <div class="col-lg-6 mb-4 mb-md-0">
+              <img class="img-fluid" src="public/img/8wtfaData-1.jpg" alt="8wtfa Graph">
             </div>
-            <div class="col-md-6">
-              <!-- <iframe src="https://drive.google.com/file/d/1fgdUS_tp6sBA_p7SjptjLRnzBVUKkmXg/preview" width=" 100%" height="315" allow="autoplay"></iframe> -->
-              <!-- <iframe width="100%" height="315" src="https://www.youtube.com/embed/IsVJahHu3dE?si=Yy6fWYcVjn6_sVWO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
-              <video autoplay muted controls loop class='my-3 my-md-0 border' width='100%'>
-                <source src="public/img/TEERZPromoII.mp4" type="video/mp4" />
-              </video>
-
+            <div class="col-lg-6">
+              <img class="img-fluid" src="public/img/8wtfaData-2.jpg" alt="8wtfa Graph">
             </div>
           </div>
+
+          <h5 class='mt-5'>Benefits</h5>
+          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+            <li>- Automated TEER measurements under incuabated conditions</li>
+            <li>- Continuously monitored</li>
+            <li>- Uses standard 24-well cell culture inserts</li>
+            <li>- Non-invasive &amp; label-free</li>
+          </ul>
+
+          <!-- <h5 class="mt-4">System Includes:</h5>
+          <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+            <li>- 96 well channel station located in or outside the CO<sub>2</sub> incubator</li>
+            <li>- External control module</li>
+            <li>- Laptop PC</li>
+            <li>- ECIS control, acquisition, and display software</li>
+            <li>- Validation test array</li>
+            <li>- Two 96 well gold coated dipping pin assemblies</li>
+          </ul> -->
+
+          <div class="row my-5">
+            <div class="col-lg-8 mx-auto">
+              <img class="img-fluid" src="public/img/8wtfa-4.jpg" alt="8-well Transfilter Array">
+            </div>
+          </div>
+
         </div>
       </div>
 
       <div class="row mt-5">
         <div class="col">
-          <h2>Continuous Data</h2>
-          <hr class="mt-1 mb-5">
 
-          <div class="row align-items-center">
-            <div class="col-md-6">
-              <p>
-                With the all new ECIS<sup>&reg;</sup> TEERZ, transepithelial electrical resistance (TEER) can be collected for hours, days, or even weeks at a time. With continuous data collection, the dynamics of cell monolayer permeability can be witnessed in real time.
+          <ul class="nav nav-tabs" id="myTab" role="tablist">
+            <!-- <li class="nav-item">
+              <a class="nav-link active text-dark" id="specs-tab" data-scroll-ignore data-toggle="tab" href="#specs" role="tab" aria-controls="specs" aria-selected="false">Specifications</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link text-dark" id="video-tab" data-scroll-ignore data-toggle="tab" href="#video" role="tab" aria-controls="video" aria-selected="false">Video</a>
+            </li> -->
+            <li class="nav-item">
+              <a class="nav-link active text-dark" id="application-notes-tab" data-scroll-ignore data-toggle="tab" href="#applicationNotes" role="tab" aria-controls="applicationNotes" aria-selected="false">Application Notes</a>
+            </li>
+          </ul>
+
+          <div class="tab-content" id="myTabContent">
+            <!-- <div class="tab-pane fade show active" id="specs" role="tabpanel" aria-labelledby="specs-tab">
+              <p class="mt-4">
+              <ul class="list-unstyled mt-3 ml-0 ml-md-3">
+                <li>- Stainless Steel electrode dipping pins</li>
+                <li>- 75 Hz sinusoidal signal</li>
+                <li>- Connects to laptop via USB</li>
+                <li>- Windows 10 OS</li>
+              </ul>
               </p>
             </div>
-            <div class="col-md-6">
-              <img class='img-fluid d-block mx-auto' src='public/img/TEERGraph.gif' alt='TEER Graph' />
+            <div class="tab-pane fade" id="video" role="tabpanel" aria-labelledby="video-tab">
+              <p class="mt-4">
+              <div class="youtubeEmbed" id="H4AU9D-dKhk"></div>
+              </p>
+              <p class="mt-4">
+              <div class="youtubeEmbed" id="YNWNDkTsMxs"></div>
+              </p>
+            </div> -->
+            <div class="tab-pane show active" id="applicationNotes" role="tabpanel" aria-labelledby="application-notes-tab">
+              <div class="applicationNotes mt-4">
+                <p><a href="public/pdf/MeasuringTEERwiththeECIS8wellTransfilterArray.pdf" class="link text-dark" target="_blank"><i class="far fa-file-pdf mr-2"></i> Measuring TEER with the ECIS 8-well Transfilter Array</a></p>
+              </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div class="row mt-5">
+      <!-- <div id="dataSheets" class="row mt-5">
         <div class="col">
-          <h2>Cells Remain Incubated</h2>
-          <hr class="mt-1 mb-5">
-
-          <div class="row align-items-center">
-            <div class="col-md-6">
-              <p>
-                Those with experience measuring TEER know that values drastically change when cells are removed from the incubator. With the ECIS<sup>&reg;</sup> TEERZ, data is collected on TEER while the cells remain inside of the incubator, keeping the environment canonical to cells grown in vitro.
-              </p>
+          <h2>Data Sheets <i class="far fa-file-pdf ml-1"></i></h2>
+          <hr class="mt-1">
+          <div class="row mt-4">
+            <div class="col-md-3 pb-4 pb-md-0">
+              <a href="public/pdf/TEER96DataSheetR3.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER96 Data Sheet">
+                <img class="img-fluid" src="public/img/teer96DataSheet.jpg" alt="Download TEER96 Data Sheet">
+              </a>
             </div>
-            <div class="col-md-6">
-              <img class='img-fluid d-block mx-auto' src='public/img/teerZFront3.jpg' alt='TEER Front Image' />
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="row mt-5">
-        <div class="col">
-          <h2>Fixed Dipping Pin Electrodes</h2>
-          <hr class="mt-1 mb-5">
-
-          <div class="row align-items-center">
-            <div class="col-md-6">
-              <p>
-                With the ECIS<sup>&reg;</sup> TEERZ Cartridge, researchers can ensure that values will be consistent by having dipping pin electrodes that are stationary and will remain in the same position each and every time. The TEERZ cartridge can measure commercially available transwell filter insert plates in 24 or 96-well formats.
-              </p>
-            </div>
-            <div class="col-md-6">
-              <img class='img-fluid d-block mx-auto' src='public/img/tray-pins-2.jpg' alt='Fixed Dipping Pin Electrodes' />
+            <div class="col-md-3">
+              <a href="public/pdf/TEER96ManualR2.pdf" target="_blank" data-toggle="tooltip" data-placement="right" title="Download TEER96 Manual">
+                <img class="img-fluid" src="public/img/teer96Manual.jpg" alt="Download TEER96 Manual">
+              </a>
             </div>
           </div>
         </div>
-      </div>
-
-      <div class="row mt-5">
-        <div class="col">
-          <h2>ECIS<sup>&reg;</sup> Technology</h2>
-          <hr class="mt-1 mb-5">
-
-          <div class="row align-items-center">
-            <div class="col-md-6">
-              <p>
-                The ECIS<sup>&reg;</sup> TEERZ uses Electric Cell-substrate Impedance Sensing (ECIS) technology to gather TEER information. With ECIS, complex impedance is recorded that allows the separation of whole impedance into its components of resistance and capacitance. Since resistance is used for barrier measurements, ECIS isolates and parallels the resistance, giving the <i>true</i> value of TEER.
-              </p>
-            </div>
-            <div class="col-md-6">
-              <img class='img-fluid d-block mx-auto' src='public/img/TEERZ-Product-Page.jpg' alt='ECIS Technology' />
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div class="row mt-5">
-        <div class="col">
-          <h2>Easy-to-use Software</h2>
-          <hr class="mt-1 mb-5">
-
-          <div class="row align-items-center">
-            <div class="col-md-6">
-              <p>
-                The ECIS<sup>&reg;</sup> TEERZ intuitive software design makes experimental setup, data collection, and analysis efficient and easily accessible. The Real-Time monitoring capabilities tracks barrier function/TEER, cell growth, morphology, attachment, and much more continuously over time, making data collection smooth and seamless.
-              </p>
-            </div>
-            <div class="col-md-6">
-              <img class='img-fluid d-block mx-auto' src='public/img/laptopTEERZ.jpg' alt='Easy-to-use Software' />
-            </div>
-          </div>
-        </div>
-      </div>
+      </div> -->
 
     </div>
   </section>

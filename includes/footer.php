@@ -13,8 +13,9 @@
 
       <div class="col-md-3">
         <ul class="list-unstyled">
-          <li><a href="ztheta.php">Z-Theta</a></li>
-          <li><a href="teerZ.php">Z-Theta TEERZ</a></li>
+          <li><a href="ztheta.php">Z-theta - 16-Well</a></li>
+          <li><a href="ztheta96.php">Z-theta - 96-Well</a></li>
+          <li><a href="teerZ.php">Z-Theta - TEERZ</a></li>
           <li><a href="8wTFA.php">8wTFA</a></li>
           <li><a href="zenCellOwl.php">Zen Cell Owl</a></li>
           <li><a href="cultureware.php">Cultureware</a></li>
