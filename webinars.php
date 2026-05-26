@@ -232,7 +232,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r302f0ccc156f0587b9d396d6f4595cfb" target="_blank">Register</a>
       </div>
 
-      <hr>-->
+      <hr>
 
       <div class="webinar">
         <h4 class="webinar-title">Automated Cell Migration – 11:00 AM EDT</h4>
@@ -241,7 +241,7 @@
         <a class="register" href="https://appliedbiophysics.webex.com/weblink/register/r627e6b6c3943eb164c23d9d47c24e5a3" target="_blank">Register</a>
       </div>
 
-      <hr>
+      <hr>-->
 
       <div class="webinar">
         <h4 class="webinar-title">Barrier Function Assays – 11:00 AM EDT</h4>
