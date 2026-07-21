@@ -71,6 +71,16 @@
     </div>
   </div> -->
 
+  <div class="summer">
+    <div class="container py-3 text-center">
+      <h5 class="mb-0">
+        <i class="fas fa-umbrella-beach mr-2"></i>
+        <strong>Please note our summer schedule:</strong> we will close on August 7th, August 21st and September 4th
+        <i class="fas fa-sun ml-2"></i>
+      </h5>
+    </div>
+  </div>
+
   <?php include_once "includes/navbar.php"; ?>
   <?php include_once "includes/logo.php"; ?>
 
