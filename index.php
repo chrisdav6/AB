@@ -45,13 +45,13 @@
     </div>
   </div> -->
 
-  <div class="holiday">
+  <!-- <div class="holiday">
     <div class="container py-3 text-center">
       <h5 class="mb-0">
         Applied Biophysics will be closed on October 12, 2026, for Columbus Day
       </h5>
     </div>
-  </div>
+  </div> -->
 
   <!-- <div class="holiday">
     <div class="container py-3 text-center">
